@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000031", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000031", 
+  "Control Name": "REMOTE ACCESS | PROTECTION OF CONFIDENTIALITY / INTEGRITY USING ENCRYPTION", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.Supplemental Guidance:  The encryption strength of mechanism is selected based on the security categorization of the information. Related controls: SC-8, SC-12, SC-13.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.Supplemental Guidance:  The encryption strength of mechanism is selected based on the security categorization of the information. Related controls: SC-8, SC-12, SC-13.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-17 (02)", 
+    "CNTL NO": "AC-17 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "REMOTE ACCESS | PROTECTION OF CONFIDENTIALITY / INTEGRITY USING ENCRYPTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

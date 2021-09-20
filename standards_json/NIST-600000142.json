@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000142", 
+  "control_attributes": {
+    "Control": "AC-3 (9) CONTROLLED RELEASE", 
+    "control_description": "The information system does not release information outside of the established system boundary unless:", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system, when transferring information between different security domains, uses [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions."
+  }, 
+  "Control Statement": "The information system does not release information outside of the established system boundary unless:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-3 (9) CONTROLLED RELEASE", 
+  "compliance_control_number": "600000142"
+}

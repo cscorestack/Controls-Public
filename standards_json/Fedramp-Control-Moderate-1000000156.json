@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000156", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000156", 
+  "Control Name": "IDENTIFICATION AND AUTHENTICATION | ACCEPTANCE OF PIV CREDENTIALS FROM OTHER AGENCIES", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system accepts and electronically verifies Personal Identity Verification (PIV) credentials from other federal agencies.Supplemental Guidance:  This control enhancement applies to logical access control systems (LACS) and physical access control systems (PACS). Personal Identity Verification (PIV) credentials are those credentials issued by federal agencies that conform to FIPS Publication 201 and supporting guidance documents. OMB Memorandum 11-11 requires federal agencies to continue implementing the requirements specified in HSPD-12 to enable agency-wide use of PIV credentials. Related controls: AU-2, PE-3, SA-4.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system accepts and electronically verifies Personal Identity Verification (PIV) credentials from other federal agencies.Supplemental Guidance:  This control enhancement applies to logical access control systems (LACS) and physical access control systems (PACS). Personal Identity Verification (PIV) credentials are those credentials issued by federal agencies that conform to FIPS Publication 201 and supporting guidance documents. OMB Memorandum 11-11 requires federal agencies to continue implementing the requirements specified in HSPD-12 to enable agency-wide use of PIV credentials. Related controls: AU-2, PE-3, SA-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-08 (01)", 
+    "CNTL NO": "IA-8 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "IDENTIFICATION AND AUTHENTICATION | ACCEPTANCE OF PIV CREDENTIALS FROM OTHER AGENCIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

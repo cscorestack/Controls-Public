@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000660", 
+  "control_attributes": {
+    "Control": "SC-5 (1) RESTRICT INTERNAL USERS", 
+    "control_description": "The information system restricts the ability of individuals to launch [Assignment: organization-defined denial of service attacks] against other information systems.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system routes [Assignment: organization-defined internal communications traffic] to [Assignment: organization-defined external networks] through authenticated proxy servers at managed interfaces."
+  }, 
+  "Control Statement": "The information system restricts the ability of individuals to launch [Assignment: organization-defined denial of service attacks] against other information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-5 (1) RESTRICT INTERNAL USERS", 
+  "compliance_control_number": "600000660"
+}

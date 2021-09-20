@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000257",
+  "compliance_control_uri": "AWS-WAF/0016/160000257",
+  "Control Name": "COST 2.6 Track project lifecycle",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Track, measure, and audit the lifecycle of projects, teams, and environments to avoid using and paying for unnecessary resources.",
+  "control_attributes": {
+    "Control": "COST 2.6 Track project lifecycle",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_track_lifecycle"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

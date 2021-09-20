@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000013", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000013", 
+  "Control Name": "ACCOUNT MANAGEMENT | DISABLE ACCOUNTS FOR HIGH-RISK INDIVIDUALS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization disables accounts of users posing a significant risk within [Assignment: organization-defined time period] of discovery of the risk.Supplemental Guidance: Users posing a significant risk to organizations include individuals for whom reliable evidence or intelligence indicates either the intention to use authorized access to information systems to cause harm or through whom adversaries will cause harm. Harm includes potential adverse impacts to organizational operations and assets, individuals, other organizations, or the Nation. Close coordination between authorizing officials, information system administrators, and human resource managers is essential in order for timely execution of this control enhancement. Related control: PS-4.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization disables accounts of users posing a significant risk within [Assignment: organization-defined time period] of discovery of the risk.Supplemental Guidance: Users posing a significant risk to organizations include individuals for whom reliable evidence or intelligence indicates either the intention to use authorized access to information systems to cause harm or through whom adversaries will cause harm. Harm includes potential adverse impacts to organizational operations and assets, individuals, other organizations, or the Nation. Close coordination between authorizing officials, information system administrators, and human resource managers is essential in order for timely execution of this control enhancement. Related control: PS-4.", 
+    "SelectionParam": "AC-2 (13) [one (1) hour]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (13)", 
+    "CNTL NO": "AC-2 (13)", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCOUNT MANAGEMENT | DISABLE ACCOUNTS FOR HIGH-RISK INDIVIDUALS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

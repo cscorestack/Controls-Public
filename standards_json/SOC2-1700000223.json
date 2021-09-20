@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000223",
+  "compliance_control_uri": "SOC2/0017/1700000223",
+  "Control Name": "Implements Business Continuity Plan Testing—Business continuity plan testing is performed on a periodic basis. The testing includes (1) development of testing scenarios based on threat likelihood and magnitude; (2) consideration of system components from across the entity that can impair the availability; (3) scenarios that consider the potential for the lack of availability of key personnel; and (4) revision of continuity plans and systems based on test results.",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Implements Business Continuity Plan Testing—Business continuity plan testing is performed on a periodic basis. The testing includes (1) development of testing scenarios based on threat likelihood and magnitude; (2) consideration of system components from across the entity that can impair the availability; (3) scenarios that consider the potential for the lack of availability of key personnel; and (4) revision of continuity plans and systems based on test results.",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.3 The entity tests recovery plan procedures supporting system recovery to meet its objectives.",
+    "ControlNo": "A1.3.1",
+    "TrustID": "A1.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000097", 
+  "control_attributes": {
+    "Control": "IR-7 INCIDENT RESPONSE ASSISTANCE", 
+    "control_description": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-7 INCIDENT RESPONSE ASSISTANCE", 
+  "compliance_control_number": "600000097"
+}

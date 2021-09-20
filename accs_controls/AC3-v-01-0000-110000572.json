@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000572",
+  "compliance_control_uri": "AC3-v-01/0000/110000572",
+  "Control Name": "SA-12 SUPPLY CHAIN PROTECTION",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization protects against supply chain threats to the information system, system component, or information system service by employing [Assignment: organization-defined security safeguards] as part of a comprehensive, defense-in-breadth information security strategy.",
+  "control_attributes": {
+    "Control Name": "SA-12 SUPPLY CHAIN PROTECTION",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization protects against supply chain threats to the information system, system component, or information system service by employing [Assignment: organization-defined security safeguards] as part of a comprehensive, defense-in-breadth information security strategy."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000604",
+      "Fedramp-Control-High/0009/900000339",
+      "CIS-Azure/0003/300000020",
+      "CIS-Azure/0003/300000076",
+      "CIS-Azure/0003/300000021",
+      "CIS-Azure/0003/300000023"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

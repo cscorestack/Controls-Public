@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000430",
+  "compliance_control_uri": "AC3-v-01/0000/110000430",
+  "Control Name": "MP-6 MEDIA SANITIZATION",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The organization: a. Sanitizes [Assignment: organization-defined information system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures] in accordance with applicable federal and organizational standards and policies; andb. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.",
+  "control_attributes": {
+    "Control Name": "MP-6 MEDIA SANITIZATION",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The organization: a. Sanitizes [Assignment: organization-defined information system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures] in accordance with applicable federal and organizational standards and policies; andb. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000469",
+      "ISO-27001/0011/1100000023",
+      "ISO-27001/0011/1100000024",
+      "ISO-27001/0011/1100000054",
+      "Fedramp-Control-Moderate/0010/1000000193",
+      "Fedramp-Control-High/0009/900000257",
+      "HIPAA/0002/200000063",
+      "HIPAA/0002/200000064",
+      "HIPAA/0002/200000065",
+      "ISO/0001/100000099",
+      "ISO/0001/100000100",
+      "ISO/0001/100000101",
+      "ISO/0001/100000115"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

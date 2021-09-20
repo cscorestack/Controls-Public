@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000016", 
+  "compliance_control_uri": "CIS-AWS/0007/700000016", 
+  "Control Name": "1.16 Ensure IAM policies that allow full *:* administrative privileges are not attached", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "It is recommended and considered a standard security advice to grant least privilegethat is, granting only the permissions required to perform a task. Determine what users need to do and then craft policies for them that let the users perform only those tasks, instead of allowing full administrative privileges.", 
+  "control_attributes": {
+    "Control": "1.16 Ensure IAM policies that allow full *:* administrative privileges are not attached", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "It is recommended and considered a standard security advice to grant least privilegethat is, granting only the permissions required to perform a task. Determine what users need to do and then craft policies for them that let the users perform only those tasks, instead of allowing full administrative privileges."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

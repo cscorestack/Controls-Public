@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000065", 
+  "compliance_control_uri": "ISO/0001/100000041", 
+  "Control Name": "12.4.3 Administrator and operator logs", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "System administrator and system operator activities shall be logged", 
+  "control_attributes": {
+    "Control_Objective": "12.4.3 Administrator and operator logs", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.4 Logging and monitoring", 
+    "description": "System administrator and system operator activities shall be logged"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000209", 
+  "compliance_control_uri": "Azure-WAF/0015/150000209", 
+  "Control Name": "2.17.9 There is an automated process to deploy application releases to production.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "The time it takes to perform a complete environment deployment should align with recovery targets. Automation and agility also lead to cost savings due to the reduction of manual actions and errors.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.9 There is an automated process to deploy application releases to production.", 
+    "Description": "The time it takes to perform a complete environment deployment should align with recovery targets. Automation and agility also lead to cost savings due to the reduction of manual actions and errors."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

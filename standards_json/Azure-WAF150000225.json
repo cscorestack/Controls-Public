@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000225", 
+  "compliance_control_uri": "Azure-WAF/0015/150000225", 
+  "Control Name": "3.1.9 You choose appropriate datastores for the workload during the application design.Your application will most likely require more than one type of datastore depending on business requirements. Choosing the right mix and correct implementation is extremely important for optimizing application performance.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Stateless, or non-affinity applications, allow the hosting platform (App Services, Kubernetes, Service Fabric, other) to dynamically add or remove compute instances based on service metrics.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.9 You choose appropriate datastores for the workload during the application design.Your application will most likely require more than one type of datastore depending on business requirements. Choosing the right mix and correct implementation is extremely important for optimizing application performance.", 
+    "Description": "Stateless, or non-affinity applications, allow the hosting platform (App Services, Kubernetes, Service Fabric, other) to dynamically add or remove compute instances based on service metrics."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

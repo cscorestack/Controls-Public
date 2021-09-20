@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000189", 
+  "control_attributes": {
+    "Control": "AC-16 (2) ATTRIBUTE VALUE CHANGES BY AUTHORIZED INDIVIDUALS", 
+    "control_description": "The information system provides authorized individuals (or processes acting on behalf of individuals) the capability to define or change the value of associated security attributes.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system provides authorized individuals (or processes acting on behalf of individuals) the capability to define or change the value of associated security attributes.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (2) ATTRIBUTE VALUE CHANGES BY AUTHORIZED INDIVIDUALS", 
+  "compliance_control_number": "600000189"
+}

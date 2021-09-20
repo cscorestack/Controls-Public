@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000151", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000151", 
+  "Control Name": "Maintain an up-to-date list of devices. The list should include the following:\\n- Make, model of device\\n- Location of device (for example, the address of the site or facility where the device is located)\\n- Device serial number or other method of unique identification.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Maintain an up-to-date list of devices. The list should include the following:\\n- Make, model of device\\n- Location of device (for example, the address of the site or facility where the device is located)\\n- Device serial number or other method of unique identification.", 
+    "Requirement": "9.9.1. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

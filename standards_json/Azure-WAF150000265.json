@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000265", 
+  "compliance_control_uri": "Azure-WAF/0015/150000265", 
+  "Control Name": "3.7.7 Some tests are performed in production.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "While the majority of testing should be performed within the testing and staging environments, it is often beneficial to also run a subset of tests against the production system.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.7 Some tests are performed in production.", 
+    "Description": "While the majority of testing should be performed within the testing and staging environments, it is often beneficial to also run a subset of tests against the production system."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000048", 
+  "compliance_control_uri": "Azure-WAF/0015/150000048", 
+  "Control Name": "1.7.1 Appropriate SKUs are used for workload servers.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "The performance required and infrastructure utilization are key factors which define the \"size\" of Azure resources to be used, but there can be hidden aspects that affect cost too. Watch for cost variations between different SKUs - for example App Service Plans S3 cost the same as P2v2, but have worse performance characteristics.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.1 Appropriate SKUs are used for workload servers.", 
+    "Description": "The performance required and infrastructure utilization are key factors which define the \"size\" of Azure resources to be used, but there can be hidden aspects that affect cost too. Watch for cost variations between different SKUs - for example App Service Plans S3 cost the same as P2v2, but have worse performance characteristics."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

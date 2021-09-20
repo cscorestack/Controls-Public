@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000133", 
+  "control_attributes": {
+    "Control": "AC-2 (11) USAGE CONDITIONS", 
+    "control_description": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces dynamic information flow control based on [Assignment: organization-defined policies]."
+  }, 
+  "Control Statement": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (11) USAGE CONDITIONS", 
+  "compliance_control_number": "600000133"
+}

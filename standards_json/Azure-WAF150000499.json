@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000499", 
+  "compliance_control_uri": "Azure-WAF/0015/150000499", 
+  "Control Name": "5.13.5 Authentication via identity services is prioritized for this workload vs. cryptographic keys.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Consideration should always be given to authenticating with identity services rather than cryptographic keys when available. Managing keys securely with application code is difficult and regularly leads to mistakes like accidentally publishing sensitive access keys to code repositories like GitHub. Identity systems (such as Azure Active Directory) offer secure and usable experience for access control with built-in sophisticated mechanisms for key rotation, monitoring for anomalies, and more.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.5 Authentication via identity services is prioritized for this workload vs. cryptographic keys.", 
+    "Description": "Consideration should always be given to authenticating with identity services rather than cryptographic keys when available. Managing keys securely with application code is difficult and regularly leads to mistakes like accidentally publishing sensitive access keys to code repositories like GitHub. Identity systems (such as Azure Active Directory) offer secure and usable experience for access control with built-in sophisticated mechanisms for key rotation, monitoring for anomalies, and more."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000193", 
+  "compliance_control_uri": "Azure-WAF/0015/150000193", 
+  "Control Name": "2.16.7 Validated required capacity is within Azure service scale limits and quotas.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the required capacity, both initial and future growth, within Azure service scale limits and quotas?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.7 Validated required capacity is within Azure service scale limits and quotas.", 
+    "Description": "Is the required capacity, both initial and future growth, within Azure service scale limits and quotas?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

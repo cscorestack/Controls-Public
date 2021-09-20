@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000149", 
+  "compliance_control_uri": "Azure-WAF/0015/150000149", 
+  "Control Name": "2.11.1 There is a systematic approach to the development and release process.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "The use of source code control systems, such as Azure Repos or GitHub, and build and release systems, such as Azure Pipelines or GitHub Actions, should be understood, including the corresponding processes to access, review and approve changes.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.1 There is a systematic approach to the development and release process.", 
+    "Description": "The use of source code control systems, such as Azure Repos or GitHub, and build and release systems, such as Azure Pipelines or GitHub Actions, should be understood, including the corresponding processes to access, review and approve changes."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000236", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000236", 
+  "Control Name": "Review and test the plan, including all elements listed in Requirement 12.10.1, at least annually.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Review and test the plan, including all elements listed in Requirement 12.10.1, at least annually.", 
+    "Requirement": "12.10.2.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

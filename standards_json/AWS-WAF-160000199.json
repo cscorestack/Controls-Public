@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000199",
+  "compliance_control_uri": "AWS-WAF/0016/160000199",
+  "Control Name": "REL 13.2 Use deﬁned recovery strategies to meet the recovery objectives",
+  "Control Family": "Reliability",
+  "Control Statement": "A disaster recovery (DR) strategy has been deﬁned to meet objectives.",
+  "control_attributes": {
+    "Control": "REL 13.2 Use deﬁned recovery strategies to meet the recovery objectives",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan for disaster recovery (DR)?",
+    "question_id": "planning-for-recovery",
+    "choice_id": "rel_planning_for_recovery_disaster_recovery"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

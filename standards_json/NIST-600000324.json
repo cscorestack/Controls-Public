@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000324", 
+  "control_attributes": {
+    "Control": "CP-3 CONTINGENCY TRAINING", 
+    "control_description": "The organization provides contingency training to information system users consistent with assigned roles and responsibilities:", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization configures the alternate storage site to facilitate recovery operations in accordance with recovery time and recovery point objectives."
+  }, 
+  "Control Statement": "The organization provides contingency training to information system users consistent with assigned roles and responsibilities:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-3 CONTINGENCY TRAINING", 
+  "compliance_control_number": "600000324"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000086", 
+  "compliance_control_uri": "CIS-Azure/0003/300000086", 
+  "Control Name": "4.17. Ensure server parameter 'connection_throttling' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling connection_throttling helps the PostgreSQL Database to Set the verbosity of logged messages which in turn generates query and error logs with respect to concurrent connections, that could lead to a successful Denial of Service (DoS) attack by exhausting connection resources.", 
+  "control_attributes": {
+    "Control": "4.17. Ensure server parameter 'connection_throttling' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling connection_throttling helps the PostgreSQL Database to Set the verbosity of logged messages which in turn generates query and error logs with respect to concurrent connections, that could lead to a successful Denial of Service (DoS) attack by exhausting connection resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

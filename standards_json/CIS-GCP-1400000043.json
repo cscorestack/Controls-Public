@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000043", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000043", 
+  "Control Name": "4.8 Ensure Compute instances are launched with Shielded VM enabled ", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "To defend against against advanced threats and ensure that the boot loader and firmware on your VMs are signed and untampered, it is recommended that Compute instances are launched with Shielded VM enabled.", 
+  "control_attributes": {
+    "Control": "4.8 Ensure Compute instances are launched with Shielded VM enabled ", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "To defend against against advanced threats and ensure that the boot loader and firmware on your VMs are signed and untampered, it is recommended that Compute instances are launched with Shielded VM enabled."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

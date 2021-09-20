@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000062",
+  "compliance_control_uri": "SOC2/0017/1700000062",
+  "Control Name": "Reflects Entity Activities—External reporting reflects the underlying transactions and events within a range of acceptable limits.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Reflects Entity Activities—External reporting reflects the underlying transactions and events within a range of acceptable limits.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.1 COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "ControlNo": "CC3.1.10",
+    "TrustID": "CC3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

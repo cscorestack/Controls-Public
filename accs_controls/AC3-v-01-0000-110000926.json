@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000926",
+  "compliance_control_uri": "AC3-v-01/0000/110000926",
+  "Control Name": "Ensure that Activity Log Alert exist for S3 bucket policy changes",
+  "Control Family": "Logging and Monitoring",
+  "Control Statement": "Ensure that Activity Log Alert exist for S3 bucket policy changes",
+  "control_attributes": {
+    "Control Name": "Ensure that Activity Log Alert exist for S3 bucket policy changes",
+    "Control Family": "Logging and Monitoring",
+    "Control Statement": "Ensure that Activity Log Alert exist for S3 bucket policy changes"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Databases",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-AWS/0007/700000044"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Alert_Configuration_For_S3_Bucket_Policy_Changes",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fhjsg",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

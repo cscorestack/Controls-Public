@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000812", 
+  "control_attributes": {
+    "Control": "PM-2 SENIOR INFORMATION SECURITY OFFICER", 
+    "control_description": "The organization appoints a senior information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization appoints a senior information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-2 SENIOR INFORMATION SECURITY OFFICER", 
+  "compliance_control_number": "600000812"
+}

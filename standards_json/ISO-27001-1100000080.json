@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000080", 
+  "compliance_control_uri": "ISO-27001/0011/1100000080", 
+  "Control Name": "14.1.3 Protecting applications services transactions", 
+  "Control Family": "14. System acquisition, development and maintenance", 
+  "Control Statement": "Check how transaction integrity, confidentiality, availability and prevention of mis-routing are achieved.  Are transactions performed and stored in a secure internal environment (not open to the Internet!)?  Do they meet all jurisdictional legal, regulatory and compliance requirements?", 
+  "control_attributes": {
+    "Clause_Category": "14.1 Security requirements of information systems", 
+    "description": "Check how transaction integrity, confidentiality, availability and prevention of mis-routing are achieved.  Are transactions performed and stored in a secure internal environment (not open to the Internet!)?  Do they meet all jurisdictional legal, regulatory and compliance requirements?", 
+    "Control_Title": "14.1.3 Protecting applications services transactions", 
+    "Control_Clause": "14. System acquisition, development and maintenance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

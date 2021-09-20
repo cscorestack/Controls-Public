@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000177",
+  "compliance_control_uri": "AWS-WAF/0016/160000177",
+  "Control Name": "REL 8.3 Integrate resiliency testing as part of your deployment",
+  "Control Family": "Reliability",
+  "Control Statement": "Resiliency tests (as part of chaos engineering) are run as part of the automated deployment pipeline in a pre-prod environment.",
+  "control_attributes": {
+    "Control": "REL 8.3 Integrate resiliency testing as part of your deployment",
+    "Category": "Reliability",
+    "Subcategory": "How do you implement change?",
+    "question_id": "tracking-change-management",
+    "choice_id": "rel_tracking_change_management_resiliency_testing"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

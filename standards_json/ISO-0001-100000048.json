@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000048", 
+  "compliance_control_uri": "ISO/0001/100000109", 
+  "Control Name": "11.2.1 Equipment siting and protection", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Equipment shall be sited and protected to reduce the risks from environmental threats and hazards, and opportunities for unauthorized access.", 
+  "control_attributes": {
+    "Control_Objective": "11.2.1 Equipment siting and protection", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.2 - Equipment", 
+    "description": "Equipment shall be sited and protected to reduce the risks from environmental threats and hazards, and opportunities for unauthorized access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

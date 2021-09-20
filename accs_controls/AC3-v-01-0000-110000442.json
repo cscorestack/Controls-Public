@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000442",
+  "compliance_control_uri": "AC3-v-01/0000/110000442",
+  "Control Name": "PE-11 (2) LONG-TERM ALTERNATE POWER SUPPLY - SELF-CONTAINED",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization provides a long-term alternate power supply for the information system that is:                                                                                                                                                                                          (a) Self-contained;(b) Not reliant on external power generation; and(c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source.",
+  "control_attributes": {
+    "Control Name": "PE-11 (2) LONG-TERM ALTERNATE POWER SUPPLY - SELF-CONTAINED",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization provides a long-term alternate power supply for the information system that is:                                                                                                                                                                                          (a) Self-contained;(b) Not reliant on external power generation; and(c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000513",
+      "ISO-27001/0011/1100000049",
+      "ISO/0001/100000110"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

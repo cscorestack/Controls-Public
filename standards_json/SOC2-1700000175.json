@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000175",
+  "compliance_control_uri": "SOC2/0017/1700000175",
+  "Control Name": "Restores the Affected Environment—The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, and changing configurations, as needed. ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Restores the Affected Environment—The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, and changing configurations, as needed. ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.5 The entity identifies, develops, and implements activities to recover from identified security incidents.",
+    "ControlNo": "CC7.5.1",
+    "TrustID": "CC7.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

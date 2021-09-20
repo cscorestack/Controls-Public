@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000056", 
+  "control_attributes": {
+    "Control": "SC-28 PROTECTION OF INFORMATION AT REST", 
+    "control_description": "The information system protects the [Selection (one or more): confidentiality; integrity] of [Assignment: organization-defined information at rest].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization centrally manages the flaw remediation process."
+  }, 
+  "Control Statement": "The information system protects the [Selection (one or more): confidentiality; integrity] of [Assignment: organization-defined information at rest].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-28 PROTECTION OF INFORMATION AT REST", 
+  "compliance_control_number": "600000056"
+}

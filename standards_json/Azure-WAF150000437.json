@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000437", 
+  "compliance_control_uri": "Azure-WAF/0015/150000437", 
+  "Control Name": "5.6.2 A central SecOps team monitors security related telemetry data for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Organization is monitoring the security posture across workloads and central SecOps team is monitoring security-related telemetry data and investigating security breaches.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.2 A central SecOps team monitors security related telemetry data for this workload.", 
+    "Description": "Organization is monitoring the security posture across workloads and central SecOps team is monitoring security-related telemetry data and investigating security breaches."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

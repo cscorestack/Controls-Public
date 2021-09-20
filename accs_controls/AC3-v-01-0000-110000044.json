@@ -1,0 +1,137 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000044",
+  "compliance_control_uri": "AC3-v-01/0000/110000044",
+  "Control Name": "AC-2 (7) ROLE-BASED SCHEMES",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization:  The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.",
+  "control_attributes": {
+    "Control Name": "AC-2 (7) ROLE-BASED SCHEMES",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization:  The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Identity/AzureActiveDirectory",
+      "service_resource": "Azure/Identity/AzureActiveDirectory/Objects"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000129",
+      "ISO-27001/0011/1100000004",
+      "Fedramp-Control-Moderate/0010/1000000008",
+      "Fedramp-Control-High/0009/900000008",
+      "ISO/0001/100000004",
+      "AWS-WAF/0016/160000096",
+      "AWS-WAF/0016/160000097",
+      "CIS-AWS/0007/700000015",
+      "Azure-WAF/0015/150000487",
+      "Azure-WAF/0015/150000488",
+      "Azure-WAF/0015/150000489",
+      "Azure-WAF/0015/150000492",
+      "PCI-DSS/0012/1200000099",
+      "PCI-DSS/0012/1200000101",
+      "PCI-DSS/0012/1200000103",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mceg7",
+        "policy_name": "Azure_Audit_Usage_Custom_RBAC_Rules",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/noRpO",
+        "policy_name": "AWS_IAM_Group_Has_Users_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/v1I2D",
+        "policy_name": "AWS_IAM_Policy_No_Statements_With_Admin_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/uFPlX",
+        "policy_name": "AWS_IAM_User_No_Policies_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ZRZmY",
+        "policy_name": "AWS_IAM_Policy_Blacklisted_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/t0mgp",
+        "policy_name": "AWS_IAM_Role_Managed_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/0a3ec",
+        "policy_name": "AWS_Audit_IAM_Group_With_Inline_Policies",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/b9b3c",
+        "policy_name": "AWS_Audit_IAM_Master_and_IAM_Manager_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f2235",
+        "policy_name": "AWS_Audit_Using_IAM_Role_More_Than_One_Lambda_Function",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/overv",
+        "policy_name": "GCP_Audit_Cluster_Over_Privileged_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/priv",
+        "policy_name": "GCP_Audit_Cluster_Private_Google_APIs_Access_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

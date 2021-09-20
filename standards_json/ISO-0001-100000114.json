@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000114", 
+  "compliance_control_uri": "ISO/0001/100000090", 
+  "Control Name": "18.2.3 Technical compliance review", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Information systems shall be regularly checked for compliance with security implementation standards", 
+  "control_attributes": {
+    "Control_Objective": "18.2.3 Technical compliance review", 
+    "Security_Control_Clause": "18. Compliance", 
+    "Security_Category": "18.2 Information security reviews", 
+    "description": "Information systems shall be regularly checked for compliance with security implementation standards"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000583",
+  "compliance_control_uri": "AC3-v-01/0000/110000583",
+  "Control Name": "SA-15 (7) AUTOMATED VULNERABILITY ANALYSIS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:",
+  "control_attributes": {
+    "Control Name": "SA-15 (7) AUTOMATED VULNERABILITY ANALYSIS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000625",
+      "AWS-WAF/0016/160000113",
+      "CIS-Azure/0003/300000003",
+      "CIS-Azure/0003/300000008",
+      "Azure-WAF/0015/150000423",
+      "CIS-Azure/0015/150000027"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

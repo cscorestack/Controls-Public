@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000239", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000239", 
+  "Control Name": "CONTROLLED MAINTENANCE | AUTOMATED MAINTENANCE ACTIVITIES", 
+  "Control Family": "MAINTENANCE", 
+  "Control Statement": "The organization: (a)   Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and (b)   Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed.Supplemental Guidance:  Related controls: CA-7, MA-3.References:  None.", 
+  "control_attributes": {
+    "Category": "MAINTENANCE", 
+    "description": "The organization: (a)   Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and (b)   Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed.Supplemental Guidance:  Related controls: CA-7, MA-3.References:  None.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "MA-02 (02)", 
+    "CNTL NO": "MA-2 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTROLLED MAINTENANCE | AUTOMATED MAINTENANCE ACTIVITIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

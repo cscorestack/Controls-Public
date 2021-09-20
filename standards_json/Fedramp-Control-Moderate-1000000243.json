@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000243", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000243", 
+  "Control Name": "VULNERABILITY SCANNING | REVIEW HISTORIC AUDIT LOGS", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The organization reviews historic audit logs to determine if a vulnerability identified in the information system has been previously exploited.Supplemental Guidance:  Related control: AU-6.", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The organization reviews historic audit logs to determine if a vulnerability identified in the information system has been previously exploited.Supplemental Guidance:  Related control: AU-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "RA-05 (08)", 
+    "CNTL NO": "RA-5 (8)", 
+    "AdditionalReq": "'RA-5 (8) Requirements: This enhancement is required for all high vulnerability scan findings. Guidance: While scanning tools may label findings as high or critical, the intent of the control is based around NIST''s definition of high vulnerability.'", 
+    "Control Name": "VULNERABILITY SCANNING | REVIEW HISTORIC AUDIT LOGS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

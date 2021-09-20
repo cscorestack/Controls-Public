@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000353", 
+  "control_attributes": {
+    "Control": "CP-10 INFORMATION SYSTEM RECOVERY AND RECONSTITUTION", 
+    "control_description": "The organization provides for the recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system implements multifactor authentication for local access to non-privileged accounts."
+  }, 
+  "Control Statement": "The organization provides for the recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-10 INFORMATION SYSTEM RECOVERY AND RECONSTITUTION", 
+  "compliance_control_number": "600000353"
+}

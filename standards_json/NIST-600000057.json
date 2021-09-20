@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000057", 
+  "control_attributes": {
+    "Control": "SI-2 (1) CENTRAL MANAGEMENT", 
+    "control_description": "The organization centrally manages the flaw remediation process.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]]."
+  }, 
+  "Control Statement": "The organization centrally manages the flaw remediation process.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-2 (1) CENTRAL MANAGEMENT", 
+  "compliance_control_number": "600000057"
+}

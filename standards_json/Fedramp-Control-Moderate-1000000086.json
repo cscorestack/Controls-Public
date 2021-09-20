@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000086", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000086", 
+  "Control Name": "BASELINE CONFIGURATION | AUTOMATION SUPPORT FOR ACCURACY / CURRENCY", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system.Supplemental Guidance:  Automated mechanisms that help organizations maintain consistent baseline configurations for information systems include, for example, hardware and software inventory tools, configuration management tools, and network management tools. Such tools can be deployed and/or allocated as common controls, at the information system level, or at the operating system or component level (e.g., on workstations, servers, notebook computers, network components, or mobile devices). Tools can be used, for example, to track version numbers on operating system applications, types of software installed, and current patch levels. This control enhancement can be satisfied by the implementation of CM-8 (2) for organizations that choose to combine information system component inventory and baseline configuration activities. Related controls: CM-7, RA-5.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system.Supplemental Guidance:  Automated mechanisms that help organizations maintain consistent baseline configurations for information systems include, for example, hardware and software inventory tools, configuration management tools, and network management tools. Such tools can be deployed and/or allocated as common controls, at the information system level, or at the operating system or component level (e.g., on workstations, servers, notebook computers, network components, or mobile devices). Tools can be used, for example, to track version numbers on operating system applications, types of software installed, and current patch levels. This control enhancement can be satisfied by the implementation of CM-8 (2) for organizations that choose to combine information system component inventory and baseline configuration activities. Related controls: CM-7, RA-5.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-02 (02)", 
+    "CNTL NO": "CM-2 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "BASELINE CONFIGURATION | AUTOMATION SUPPORT FOR ACCURACY / CURRENCY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

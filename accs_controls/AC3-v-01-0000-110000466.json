@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000466",
+  "compliance_control_uri": "AC3-v-01/0000/110000466",
+  "Control Name": "PE-20 ASSET MONITORING AND TRACKING",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization: a) Employs [Assignment: organization-defined asset location technologies] to track and monitor the location and movement of [Assignment: organization-defined assets] within [Assignment: organization-defined controlled areas]; andb. Ensures that asset location technologies are employed in accordance with applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance.",
+  "control_attributes": {
+    "Control Name": "PE-20 ASSET MONITORING AND TRACKING",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization: a) Employs [Assignment: organization-defined asset location technologies] to track and monitor the location and movement of [Assignment: organization-defined assets] within [Assignment: organization-defined controlled areas]; andb. Ensures that asset location technologies are employed in accordance with applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000532",
+      "ISO-27001/0011/1100000022",
+      "ISO-27001/0011/1100000055",
+      "ISO/0001/100000099",
+      "ISO/0001/100000116"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

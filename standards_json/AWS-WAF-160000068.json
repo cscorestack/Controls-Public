@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000068",
+  "compliance_control_uri": "AWS-WAF/0016/160000068",
+  "Control Name": "OPS 10.2 Have a process per alert",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Have a well-deﬁned response (runbook or playbook), with a speciﬁcally identiﬁed owner, for any event for which you raise an alert. This ensures eﬀective and prompt responses to operations events and prevents actionable events from being obscured by less valuable notiﬁcations.",
+  "control_attributes": {
+    "Control": "OPS 10.2 Have a process per alert",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_process_per_alert"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

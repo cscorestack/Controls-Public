@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000495", 
+  "control_attributes": {
+    "Control": "PE-4 ACCESS CONTROL FOR TRANSMISSION MEDIUM", 
+    "control_description": "The organization controls physical access to [Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [Assignment: organization-defined security safeguards].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to recognize [Assignment: organization-defined classes/types of intrusions] and initiate [Assignment: organization-defined response actions]."
+  }, 
+  "Control Statement": "The organization controls physical access to [Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [Assignment: organization-defined security safeguards].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-4 ACCESS CONTROL FOR TRANSMISSION MEDIUM", 
+  "compliance_control_number": "600000495"
+}

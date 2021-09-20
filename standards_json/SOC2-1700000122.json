@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000122",
+  "compliance_control_uri": "SOC2/0017/1700000122",
+  "Control Name": "Uses Encryption to Protect Data—The entity uses encryption to supplement other measures used to protect data-at-rest, when such protections are deemed appropriate based on assessed risk.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Uses Encryption to Protect Data—The entity uses encryption to supplement other measures used to protect data-at-rest, when such protections are deemed appropriate based on assessed risk.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.1 The entity implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the entity’s objectives",
+    "ControlNo": "CC6.1.9",
+    "TrustID": "CC6.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

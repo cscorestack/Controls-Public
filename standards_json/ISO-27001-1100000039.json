@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000039", 
+  "compliance_control_uri": "ISO-27001/0011/1100000039", 
+  "Control Name": "9.4.5 Access control to program\\nsource code", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Access to program source code shall be restricted.", 
+  "control_attributes": {
+    "Clause_Category": "9.4 - System and application access control", 
+    "description": "Access to program source code shall be restricted.", 
+    "Control_Title": "9.4.5 Access control to program\\nsource code", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

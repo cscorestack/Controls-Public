@@ -1,0 +1,57 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000212",
+  "compliance_control_uri": "AC3-v-01/0000/110000212",
+  "Control Name": "CM-2 (6) DEVELOPMENT AND TEST ENVIRONMENTS",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization maintains a baseline configuration for information system development and test environments that is managed separately from the operational baseline configuration.",
+  "control_attributes": {
+    "Control Name": "CM-2 (6) DEVELOPMENT AND TEST ENVIRONMENTS",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization maintains a baseline configuration for information system development and test environments that is managed separately from the operational baseline configuration."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000281",
+      "AWS-WAF/0005/500000018",
+      "Azure-WAF/0015/150000425"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

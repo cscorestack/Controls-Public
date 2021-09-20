@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000347", 
+  "compliance_control_uri": "Azure-WAF/0015/150000347", 
+  "Control Name": "4.6.11 Data restore processes have been validated and tested to ensure consistent application state when data is corrupted or deleted.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has a data restore process been validated and tested to ensure a consistent state for the application?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.11 Data restore processes have been validated and tested to ensure consistent application state when data is corrupted or deleted.", 
+    "Description": "Has a data restore process been validated and tested to ensure a consistent state for the application?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000179",
+  "compliance_control_uri": "SOC2/0017/1700000179",
+  "Control Name": "Improves Response and Recovery Procedures—Lessons learned are analyzed, and the incident response plan and recovery procedures are improved. ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Improves Response and Recovery Procedures—Lessons learned are analyzed, and the incident response plan and recovery procedures are improved. ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.5 The entity identifies, develops, and implements activities to recover from identified security incidents.",
+    "ControlNo": "CC7.5.5",
+    "TrustID": "CC7.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

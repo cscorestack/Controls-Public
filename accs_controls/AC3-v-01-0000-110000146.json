@@ -1,0 +1,651 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000146",
+  "compliance_control_uri": "AC3-v-01/0000/110000146",
+  "Control Name": "AU-2 AUDIT EVENTS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization:a. Determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events];b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; andd. Determines that the following events are to be audited within the information system: [Assignment: organization-defined audited events (the subset of the auditable events defined in AU-2 a.) along with the frequency of (or situation requiring) auditing for each identified event].",
+  "control_attributes": {
+    "Control Name": "AU-2 AUDIT EVENTS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization:a. Determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events];b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; andd. Determines that the following events are to be audited within the information system: [Assignment: organization-defined audited events (the subset of the auditable events defined in AU-2 a.) along with the frequency of (or situation requiring) auditing for each identified event]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Governance/AWS_Config",
+      "service_resource": "AWS/Governance/AWS_Config/AWS::WAF::Rule"
+    },
+    {
+      "service_resource_type": "AWS/Network/APIGateway",
+      "service_resource": "AWS/Network/APIGateway/ApiGatewayV2_Api"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MS-SQL_DB"
+    },
+    {
+      "service_resource_type": "Azure/Integration/API_Management",
+      "service_resource": "Azure/Integration/API_Management/Management_API"
+    },
+    {
+      "service_resource_type": "Azure/Network/Application_Gateway",
+      "service_resource": "Azure/Network/Application_Gateway/Application_Gateway_Waf_Rules"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Security_Rule"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Firewall_Rules"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Compute/Compute_Engine",
+      "service_resource": "GCP/Compute/Compute_Engine/VM_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000005",
+      "PCI-DSS/0012/1200000156",
+      "PCI-DSS/0012/1200000157",
+      "PCI-DSS/0012/1200000158",
+      "PCI-DSS/0012/1200000159",
+      "PCI-DSS/0012/1200000160",
+      "PCI-DSS/0012/1200000161",
+      "Fedramp-Control-Moderate/0010/1000000050",
+      "Fedramp-Control-High/0009/900000063",
+      "HIPAA/0002/200000016",
+      "HIPAA/0002/200000028",
+      "AWS-WAF/0016/160000004",
+      "AWS-WAF/0016/160000105",
+      "AWS-WAF/0016/160000106",
+      "CIS-Azure/0003/300000012",
+      "CIS-Azure/0003/300000069",
+      "CIS-Azure/0003/300000018",
+      "CIS-Azure/0003/300000019",
+      "CIS-Azure/0003/300000081",
+      "CIS-Azure/0003/300000083",
+      "CIS-Azure/0003/300000084",
+      "CIS-Azure/0003/300000085",
+      "CIS-Azure/0003/300000024",
+      "CIS-Azure/0003/300000088",
+      "CIS-Azure/0003/300000089",
+      "CIS-Azure/0003/300000026"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/voxq5",
+        "policy_name": "AWS_Audit_CloudWatch_Log_Exists",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fgdtf",
+        "policy_name": "AWS_Audit_Configuration_For_ECS_Container_Insights",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/12996",
+        "policy_name": "AWS_Audit_API_CloudWatch_Logs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/67653",
+        "policy_name": "AWS_Audit_API_Gateway_Tracing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e31b4",
+        "policy_name": "AWS_Audit_CloudWatch_Logs_Agent_for_App_Tier_ASG_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cf5bb",
+        "policy_name": "AWS_Audit_CloudWatch_Logs_Agent_for_Web_Tier_ASG_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/4003f",
+        "policy_name": "AWS_Audit_API_GW_Execution_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/gsfdk",
+        "policy_name": "AWS_Config_Enabled_Region",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9accc",
+        "policy_name": "AWS_Audit_IAM_Access_Analyzer_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/6aefb",
+        "policy_name": "AWS_Audit_Enable_All_Features",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/gWcWT",
+        "policy_name": "AWS_CLOUDFORMATION_Stack_Notification_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/x71GO",
+        "policy_name": "AWS_Cloudformation_Stack_Drift_Detection_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/2LlfS",
+        "policy_name": "AWS_CLOUDTRAIL_Log_File_Validation_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/7c725",
+        "policy_name": "AWS_Audit_CloudTrail_Data_Events",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/07949",
+        "policy_name": "AWS_Audit_CloudTrail_Global_Services_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/0646e",
+        "policy_name": "AWS_Audit_CloudTrail_Global_Services_Logging_Duplicated",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/12137",
+        "policy_name": "AWS_Audit_CloudTrail_Management_Events",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/03e75",
+        "policy_name": "AWS_Audit_CloudTrail_S3_Bucket",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/c8f04",
+        "policy_name": "AWS_Audit_CloudTrail_S3_Bucket_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/elb/fejwq",
+        "policy_name": "AWS_Audit_ELB_Access_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/7ScC5",
+        "policy_name": "AWS_EC2_Instance_Detailed_Monitoring_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/M6cPY",
+        "policy_name": "AWS_ELB_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/05kju",
+        "policy_name": "AWS_Check_Log_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/dfb6e",
+        "policy_name": "AWS_Audit_ELBv2_Access_Log",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/guest/compliance/server/hJVPx",
+        "policy_name": "EKS_LOGGING_CHECK",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/05932",
+        "policy_name": "AWS_Audit_Kubernetes_Cluster_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/bedd9",
+        "policy_name": "AWS_Audit_Lambda_Tracing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f470d",
+        "policy_name": "AWS_Audit_Enable_RDS_Log_Exports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/78020",
+        "policy_name": "AWS_Audit_Enable_Serverless_Log_Exports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f1e67",
+        "policy_name": "AWS_Audit_Instance_Level_Events_Subscriptions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/59938",
+        "policy_name": "AWS_Audit_RDS_Event_Notifications",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/6fd42",
+        "policy_name": "AWS_Audit_Security_Groups_Events_Subscriptions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22d8b",
+        "policy_name": "AWS_Audit_RDS_Enhanced_Monitoring_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5f800",
+        "policy_name": "AWS_Audit_Performance_Insights",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/ax2y5",
+        "policy_name": "AWS_Audit_S3_Access_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/nanny",
+        "policy_name": "AWS_S3_Bucket_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/udxse",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_App_Service",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mp@30",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Data_Lake_Analytics",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/kfod*",
+        "policy_name": "Azure_Audit_Metric_Alerts_Batch_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/aINGH",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_SearchServices_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/#hu%1",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Data_Lake_Store",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/MdbSi",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Log_CheckPoints",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jkWIY",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Log_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/qGqjR",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Log_Disconnections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lMQZH",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Log_Duration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/OooUI",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Eventhub_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/juff3",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_IOT_Hubs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/eexiW",
+        "policy_name": "Azure_Audit_DiagonisticLog_KeyValut",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jto23",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Logic_Apps",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zppwh",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Key_Vault",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ubqhz",
+        "policy_name": "Azure_SQL_Auditing_Settings_Actions_Groups_Actions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/f3a7q",
+        "policy_name": "Azure_Audit_SQL_server_Level_Auditing_Settings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/jrwtq",
+        "policy_name": "Azure_Monitor_Unaudited_SQL_Servers",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/oyj2b",
+        "policy_name": "Azure_Audit_Email_Alerts_SQL_Servers",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zg73w",
+        "policy_name": "Azure_Audit_Email_Alerts_SQLInstance",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/na5fb",
+        "policy_name": "Azure_Audit_DBLevel_AuditSetting",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/eiGhM",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_ServiceBus_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jHbgD",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_AzureStreamAnalytics_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/gejnk",
+        "policy_name": "Azure_Audit_Diagnostic_Logs_Batch_Accounts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mazt4",
+        "policy_name": "Azure_Audit_LogProfile",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lPSNi",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Policy_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hiCzu",
+        "policy_name": "Azure_Monitor_Collect_Activity_Logs_All_Regions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ovKPS",
+        "policy_name": "Azure_Monitor_LogProfile_Collect_All_Categories",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7f45d",
+        "policy_name": "Azure_Audit_Activitylog_CreateorUpdate_NSG_Event",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/c848f",
+        "policy_name": "Azure_Audit_Activitylog_CreateorUpdate_NSGrule_Event",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/2a4ae",
+        "policy_name": "Azure_Audit_Activitylog_Delete_NSG_Event",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/76d1e",
+        "policy_name": "Azure_Audit_Activitylog_Delete_NSGrule_Event",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dr5it",
+        "policy_name": "Azure_Audit_Diagonisticlogs_ServiceFabric_VMSS",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/3n3a3",
+        "policy_name": "Azure_Audit_VM_LogAnalyticsWorkSpace",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ScUND",
+        "policy_name": "Azure_Audit_Log_Analytics_Agent_Deployed_VM_Image_OS_Unlisted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dZuBi",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Agent_Installed_Windows",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/qTqPp",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Linux",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/bf813",
+        "policy_name": "Azure_Audit_LogAnalytics_Agent_Deployed_Unlisted_VMSS",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ced90",
+        "policy_name": "Azure_Audit_Diagonistic_Settings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ca508",
+        "policy_name": "Azure_Audit_LogAnalytics_Agent_Deployed_Unlisted_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/f482c",
+        "policy_name": "Azure_Audit_LogAnalytics_WorkSpace_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/disv",
+        "policy_name": "GCP_Audit_GKE_Cluster_Logging_Not_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/qasw",
+        "policy_name": "GCP_Audit_Cloud_SQL_Instances_Without_Log_Metrics_And_Alerts_Configuration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/xcvb",
+        "policy_name": "GCP_Audit_Log_Metrics_And_Alerts_For_Cloud_Storage",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/laiv",
+        "policy_name": "GCP_Audit_Log_Sink_Storage_Buckets_Public_Accessibility",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/hjkl",
+        "policy_name": "GCP_Audit_Resources_Without_Log_Sink_Configuration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/lkja",
+        "policy_name": "GCP_Audit_VPC_Subnetwork_With_Flow_Logs_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "delete_control_uri_policy"
+}

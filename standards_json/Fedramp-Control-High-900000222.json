@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000222", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000222", 
+  "Control Name": "INCIDENT HANDLING | INSIDER THREATS - SPECIFIC CAPABILITIES", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization implements incident handling capability for insider threats.Supplemental Guidance:  While many organizations address insider threat incidents as an inherent part of their organizational incident response capability, this control enhancement provides additional emphasis on this type of threat and the need for specific incident handling capabilities (as defined within organizations) to provide appropriate and timely responses.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization implements incident handling capability for insider threats.Supplemental Guidance:  While many organizations address insider threat incidents as an inherent part of their organizational incident response capability, this control enhancement provides additional emphasis on this type of threat and the need for specific incident handling capabilities (as defined within organizations) to provide appropriate and timely responses.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "IR-04 (06)", 
+    "CNTL NO": "IR-4 (6)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT HANDLING | INSIDER THREATS - SPECIFIC CAPABILITIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000863", 
+  "compliance_control_uri": "AC3-v-01/0000/110000863", 
+  "Control Name": "Ensure storage for critical data are encrypted with Customer Managed Key", 
+  "Control Family": "Storage Accounts", 
+  "Control Statement": "Enable sensitive data encryption at rest using Customer Managed Keys rather than Microsoft Managed keys", 
+  "control_attributes": {
+    "Control Name": "Ensure storage for critical data are encrypted with Customer Managed Key", 
+    "Control Family": "Storage Accounts", 
+    "Control Statement": "Enable sensitive data encryption at rest using Customer Managed Keys rather than Microsoft Managed keys"
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000047"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": []
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

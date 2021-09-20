@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000138",
+  "compliance_control_uri": "AWS-WAF/0016/160000138",
+  "Control Name": "SEC 10.7 Run game days",
+  "Control Family": "Security",
+  "Control Statement": "Practice incident response game days (simulations) regularly, incorporate lessons learned into your incident management plans, and continuously improve.",
+  "control_attributes": {
+    "Control": "SEC 10.7 Run game days",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_run_game_days"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

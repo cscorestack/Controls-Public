@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000221",
+  "compliance_control_uri": "AWS-WAF/0016/160000221",
+  "Control Name": "PERF 4.3 Collect and record database performance metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use tools, libraries, and systems that record performance measurements related to database performance. For example, measure transactions per second, slow queries, or system latency introduced when accessing the database. Use this data to understand the performance of your database systems.",
+  "control_attributes": {
+    "Control": "PERF 4.3 Collect and record database performance metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your database solution?",
+    "question_id": "right-database-solution",
+    "choice_id": "perf_right_database_solution_collect_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

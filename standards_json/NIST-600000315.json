@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000315", 
+  "control_attributes": {
+    "Control": "CP-2 CONTINGENCY PLAN", 
+    "control_description": "The organization: a. Develops a contingency plan for the information system that:1. Identifies essential missions and business functions and associated contingency requirements;2. Provides recovery objectives, restoration priorities, and metrics;3. Addresses contingency roles, responsibilities, assigned individuals with contact information;4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure; 5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and6. Is reviewed and approved by [Assignment: organization-defined personnel or roles];b. Distributes copies of the contingency plan to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements];c. Coordinates contingency planning activities with incident handling activities;d. Reviews the contingency plan for the information system [Assignment: organization-defined frequency];e. Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;f. Communicates contingency plan changes to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]; andg. Protects the contingency plan from unauthorized disclosure and modification.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization provides contingency training to information system users consistent with assigned roles and responsibilities:"
+  }, 
+  "Control Statement": "The organization: a. Develops a contingency plan for the information system that:1. Identifies essential missions and business functions and associated contingency requirements;2. Provides recovery objectives, restoration priorities, and metrics;3. Addresses contingency roles, responsibilities, assigned individuals with contact information;4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure; 5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and6. Is reviewed and approved by [Assignment: organization-defined personnel or roles];b. Distributes copies of the contingency plan to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements];c. Coordinates contingency planning activities with incident handling activities;d. Reviews the contingency plan for the information system [Assignment: organization-defined frequency];e. Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;f. Communicates contingency plan changes to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]; andg. Protects the contingency plan from unauthorized disclosure and modification.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 CONTINGENCY PLAN", 
+  "compliance_control_number": "600000315"
+}

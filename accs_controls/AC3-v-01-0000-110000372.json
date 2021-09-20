@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000372",
+  "compliance_control_uri": "AC3-v-01/0000/110000372",
+  "Control Name": "IR-4 (7) INSIDER THREATS - INTRA-ORGANIZATION COORDINATION",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization coordinates incident handling capability for insider threats across [Assignment: organization-defined components or elements of the organization].",
+  "control_attributes": {
+    "Control Name": "IR-4 (7) INSIDER THREATS - INTRA-ORGANIZATION COORDINATION",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization coordinates incident handling capability for insider threats across [Assignment: organization-defined components or elements of the organization]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000423"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

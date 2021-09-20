@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000096", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000096", 
+  "Control Name": "SECURITY ASSESSMENTS | SPECIALIZED ASSESSMENTS", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization includes as part of security control assessments, [Assignment: organization- defined frequency], [Selection: announced; unannounced], [Selection (one or more): in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; [Assignment: organization-defined other forms of security assessment]].Supplemental Guidance:  Organizations can employ information system monitoring, insider threat assessments, malicious user testing, and other forms of testing (e.g., verification and validation) to improve readiness by exercising organizational capabilities and indicating current performance levels as a means of focusing actions to improve security. Organizations conduct assessment activities in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, and standards. Authorizing officials approve the assessment methods in coordination with the organizational risk executive function. Organizations can incorporate vulnerabilities uncovered during assessments into vulnerability remediation processes. Related controls: PE-3, SI-2.", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization includes as part of security control assessments, [Assignment: organization- defined frequency], [Selection: announced; unannounced], [Selection (one or more): in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; [Assignment: organization-defined other forms of security assessment]].Supplemental Guidance:  Organizations can employ information system monitoring, insider threat assessments, malicious user testing, and other forms of testing (e.g., verification and validation) to improve readiness by exercising organizational capabilities and indicating current performance levels as a means of focusing actions to improve security. Organizations conduct assessment activities in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, and standards. Authorizing officials approve the assessment methods in coordination with the organizational risk executive function. Organizations can incorporate vulnerabilities uncovered during assessments into vulnerability remediation processes. Related controls: PE-3, SI-2.", 
+    "SelectionParam": "CA-2 (2) [at least annually]", 
+    "FedRampParam": "x", 
+    "SORTID": "CA-02 (02)", 
+    "CNTL NO": "CA-2 (2)", 
+    "AdditionalReq": "'CA-2 (2) Requirement: To include ''announced'', ''vulnerability scanning'''", 
+    "Control Name": "SECURITY ASSESSMENTS | SPECIALIZED ASSESSMENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

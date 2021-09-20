@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000170", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000170", 
+  "Control Name": "TELECOMMUNICATIONS SERVICES | SEPARATION OF PRIMARY / ALTERNATE PROVIDERS", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization obtains alternate telecommunications services from providers that are separated from primary service providers to reduce susceptibility to the same threats.Supplemental Guidance:  Threats that affect telecommunications services are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber/physical attacks, and errors of omission/commission. Organizations seek to reduce common susceptibilities by, for example, minimizing shared infrastructure among telecommunications service providers and achieving sufficient geographic separation between services. Organizations may consider using a single service provider in situations where the service provider can provide alternate telecommunications services meeting the separation needs addressed in the risk assessment.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization obtains alternate telecommunications services from providers that are separated from primary service providers to reduce susceptibility to the same threats.Supplemental Guidance:  Threats that affect telecommunications services are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber/physical attacks, and errors of omission/commission. Organizations seek to reduce common susceptibilities by, for example, minimizing shared infrastructure among telecommunications service providers and achieving sufficient geographic separation between services. Organizations may consider using a single service provider in situations where the service provider can provide alternate telecommunications services meeting the separation needs addressed in the risk assessment.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-08 (03)", 
+    "CNTL NO": "CP-8 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "TELECOMMUNICATIONS SERVICES | SEPARATION OF PRIMARY / ALTERNATE PROVIDERS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

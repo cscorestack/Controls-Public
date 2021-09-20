@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000182", 
+  "control_attributes": {
+    "Control": "AC-9 (4) ADDITIONAL LOGON INFORMATION", 
+    "control_description": "The information system notifies the user, upon successful logon (access), of the following additional information: [Assignment: organization-defined information to be included in addition to the date and time of the last logon (access)].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides a consistent interpretation of security attributes transmitted between distributed information system components."
+  }, 
+  "Control Statement": "The information system notifies the user, upon successful logon (access), of the following additional information: [Assignment: organization-defined information to be included in addition to the date and time of the last logon (access)].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-9 (4) ADDITIONAL LOGON INFORMATION", 
+  "compliance_control_number": "600000182"
+}

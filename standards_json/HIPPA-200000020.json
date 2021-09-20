@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000020", 
+  "compliance_control_uri": "HIPAA/0002/200000020", 
+  "Control Name": "Contingency Plan  Data Backup Plan - 164.308(a)(7)(ii)(A)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Establish and implement procedures to create and maintain retrievable exact copies of electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Contingency Plan  Data Backup Plan - 164.308(a)(7)(ii)(A)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Establish and implement procedures to create and maintain retrievable exact copies of electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

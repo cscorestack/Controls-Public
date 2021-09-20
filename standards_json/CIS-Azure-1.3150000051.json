@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000051", 
+  "compliance_control_uri": "CIS-Azure/0015/150000051", 
+  "Control Name": "4.1.2 Ensure that 'Data encryption' is set to 'On' on a SQL Database", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable Transparent Data Encryption on every SQL server.", 
+  "control_attributes": {
+    "Control": "4.1.2 Ensure that 'Data encryption' is set to 'On' on a SQL Database", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable Transparent Data Encryption on every SQL server."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

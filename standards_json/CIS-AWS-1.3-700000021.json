@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000021", 
+  "compliance_control_uri": "CIS-AWS/0007/700000021", 
+  "Control Name": "1.21 Ensure that IAM Access analyzer is enabled", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS IAM Access Analyzer helps you identify the resources in your organization and accounts, such as Amazon S3 buckets or IAM roles, that are shared with an external entity. This lets you identify unintended access to your resources and data.", 
+  "control_attributes": {
+    "Control": "1.21 Ensure that IAM Access analyzer is enabled", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS IAM Access Analyzer helps you identify the resources in your organization and accounts, such as Amazon S3 buckets or IAM roles, that are shared with an external entity. This lets you identify unintended access to your resources and data."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

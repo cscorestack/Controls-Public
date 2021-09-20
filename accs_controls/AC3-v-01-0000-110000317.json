@@ -1,0 +1,81 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000317",
+  "compliance_control_uri": "AC3-v-01/0000/110000317",
+  "Control Name": "IA-2 IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users).",
+  "control_attributes": {
+    "Control Name": "IA-2 IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users)."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000040",
+      "ISO-27001/0011/1100000028",
+      "Fedramp-Control-Moderate/0010/1000000133",
+      "Fedramp-Control-High/0009/900000181",
+      "HIPAA/0002/200000025",
+      "HIPAA/0002/200000068",
+      "ISO/0001/100000095",
+      "AWS-WAF/0016/160000094",
+      "Azure-WAF/0015/150000498",
+      "PCI-DSS/0012/1200000124"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/PcfgW",
+        "policy_name": "AWS_IAM_User_Group_Membership_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/uFPlX",
+        "policy_name": "AWS_IAM_User_No_Policies_Check",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

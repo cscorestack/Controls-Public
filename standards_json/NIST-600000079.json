@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000079", 
+  "control_attributes": {
+    "Control": "AC-2 ACCOUNT MANAGEMENT", 
+    "control_description": "The organization: a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [Assignment: organization-defined information system account types];b. Assigns account managers for information system accounts;c. Establishes conditions for group and role membership;d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;e. Requires approvals by [Assignment: organization-defined personnel or roles] for requests to create information system accounts;f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [Assignment: organization-defined procedures or conditions];g. Monitors the use of information system accounts;h. Notifies account managers:1. When accounts are no longer required;2. When users are terminated or transferred; and3. When individual information system usage or need-to-know changes;i. Authorizes access to the information system based on:1. A valid access authorization;2. Intended system usage; and3. Other attributes as required by the organization or associated missions/business functions;j. Reviews accounts for compliance with account management requirements [Assignment: organization-defined frequency]; andk. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization manages information system identifiers by:"
+  }, 
+  "Control Statement": "The organization: a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [Assignment: organization-defined information system account types];b. Assigns account managers for information system accounts;c. Establishes conditions for group and role membership;d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;e. Requires approvals by [Assignment: organization-defined personnel or roles] for requests to create information system accounts;f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [Assignment: organization-defined procedures or conditions];g. Monitors the use of information system accounts;h. Notifies account managers:1. When accounts are no longer required;2. When users are terminated or transferred; and3. When individual information system usage or need-to-know changes;i. Authorizes access to the information system based on:1. A valid access authorization;2. Intended system usage; and3. Other attributes as required by the organization or associated missions/business functions;j. Reviews accounts for compliance with account management requirements [Assignment: organization-defined frequency]; andk. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 ACCOUNT MANAGEMENT", 
+  "compliance_control_number": "600000079"
+}

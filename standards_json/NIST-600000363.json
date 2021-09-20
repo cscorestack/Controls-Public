@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000363", 
+  "control_attributes": {
+    "Control": "IA-2 (5) GROUP AUTHENTICATION", 
+    "control_description": "The organization requires individuals to be authenticated with an individual authenticator when a group authenticator is employed.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system authenticates [Assignment: organization-defined specific devices and/or types of devices] before establishing [Selection (one or more): local; remote; network] connection using bidirectional authentication that is cryptographically based."
+  }, 
+  "Control Statement": "The organization requires individuals to be authenticated with an individual authenticator when a group authenticator is employed.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (5) GROUP AUTHENTICATION", 
+  "compliance_control_number": "600000363"
+}

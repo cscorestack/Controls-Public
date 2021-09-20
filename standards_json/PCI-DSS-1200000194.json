@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000194", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000194", 
+  "Control Name": "Implement a methodology for penetration testing that includes the following:\\n- Is based on industry-accepted penetration testing approaches (for example, NIST SP800-115)\\n- Includes coverage for the entire CDE perimeter and critical systems\\n- Includes testing from both inside and outside the network\\n- Includes testing to validate any segmentation and scope-reduction controls\\n- Defines application-layer penetration tests to include, at a minimum, the vulnerabilities listed in Requirement 6.5\\n- Defines network-layer penetration tests to include components that support network functions as well as operating systems\\n- Includes review and consideration of threats and vulnerabilities experienced in the last 12 months\\n- Specifies retention of penetration testing results and remediation activities results. ", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Implement a methodology for penetration testing that includes the following:\\n- Is based on industry-accepted penetration testing approaches (for example, NIST SP800-115)\\n- Includes coverage for the entire CDE perimeter and critical systems\\n- Includes testing from both inside and outside the network\\n- Includes testing to validate any segmentation and scope-reduction controls\\n- Defines application-layer penetration tests to include, at a minimum, the vulnerabilities listed in Requirement 6.5\\n- Defines network-layer penetration tests to include components that support network functions as well as operating systems\\n- Includes review and consideration of threats and vulnerabilities experienced in the last 12 months\\n- Specifies retention of penetration testing results and remediation activities results. ", 
+    "Requirement": "11.3.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

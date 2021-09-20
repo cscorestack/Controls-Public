@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000007", 
+  "compliance_control_uri": "CIS-Azure/0003/300000007", 
+  "Control Name": "2.9. Ensure ASC Default policy setting 'Enable Next Generation Firewall(NGFW) Monitoring' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Enable next generation firewall recommendations for virtual machines.", 
+  "control_attributes": {
+    "Control": "2.9. Ensure ASC Default policy setting 'Enable Next Generation Firewall(NGFW) Monitoring' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Enable next generation firewall recommendations for virtual machines."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

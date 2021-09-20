@@ -1,0 +1,56 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000767",
+  "compliance_control_uri": "AC3-v-01/0000/110000767",
+  "Control Name": "SI-2 (5) AUTOMATIC SOFTWARE / FIRMWARE UPDATES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization installs [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined information system components].",
+  "control_attributes": {
+    "Control Name": "SI-2 (5) AUTOMATIC SOFTWARE / FIRMWARE UPDATES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization installs [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined information system components]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000749",
+      "ISO-27001/0011/1100000068",
+      "ISO-27001/0011/1100000082",
+      "ISO-27001/0011/1100000083",
+      "ISO-27001/0011/1100000098",
+      "ISO/0001/100000044",
+      "ISO/0001/100000057",
+      "ISO/0001/100000058",
+      "ISO/0001/100000073",
+      "CIS-Azure/0003/300000063"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

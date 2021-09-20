@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000007",
+  "compliance_control_uri": "AWS-WAF/0016/160000007",
+  "Control Name": "OPS 1.7 Manage beneﬁts and risks",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Manage beneﬁts and risks to make informed decisions when determining where to focus eﬀorts. For example, it may be beneﬁcial to deploy a workload with unresolved issues so that signiﬁcant new features can be made available to customers. It may be possible to mitigate associated risks, or it may become unacceptable to allow a risk to remain, in which case you will take action to address the risk.",
+  "control_attributes": {
+    "Control": "OPS 1.7 Manage beneﬁts and risks",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_manage_risk_benefit"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

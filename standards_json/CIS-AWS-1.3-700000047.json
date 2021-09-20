@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000047", 
+  "compliance_control_uri": "CIS-AWS/0007/700000047", 
+  "Control Name": "4.11 Ensure a log metric filter and alarm exist for changes to Network Access Control Lists (NACL)", 
+  "Control Family": "Monitoring", 
+  "Control Statement": "It is recommended that a metric filter and alarm be established for changes made to NACLs.", 
+  "control_attributes": {
+    "Control": "4.11 Ensure a log metric filter and alarm exist for changes to Network Access Control Lists (NACL)", 
+    "Category": "Monitoring", 
+    "Control_description": "It is recommended that a metric filter and alarm be established for changes made to NACLs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

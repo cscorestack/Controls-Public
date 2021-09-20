@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000713", 
+  "control_attributes": {
+    "Control": "SC-29 (1) VIRTUALIZATION TECHNIQUES", 
+    "control_description": "The organization employs virtualization techniques to support the deployment of a diversity of operating systems and applications that are changed [Assignment: organization-defined frequency].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs realistic, but misleading information in [Assignment: organization-defined information system components] with regard to its security state or posture."
+  }, 
+  "Control Statement": "The organization employs virtualization techniques to support the deployment of a diversity of operating systems and applications that are changed [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-29 (1) VIRTUALIZATION TECHNIQUES", 
+  "compliance_control_number": "600000713"
+}

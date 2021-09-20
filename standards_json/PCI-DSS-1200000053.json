@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000053", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000053", 
+  "Control Name": "3.6.5 Retirement or replacement (for example, archiving, destruction, and/or revocation) of keys as deemed necessary when the integrity of the key has been weakened (for example, departure of an employee with knowledge of a clear-text key component), or keys are suspected of being compromised. ", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.6.5 Retirement or replacement (for example, archiving, destruction, and/or revocation) of keys as deemed necessary when the integrity of the key has been weakened (for example, departure of an employee with knowledge of a clear-text key component), or keys are suspected of being compromised. ", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

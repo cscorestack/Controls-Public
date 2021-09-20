@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000387", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000387", 
+  "Control Name": "FLAW REMEDIATION | TIME TO REMEDIATE FLAWS / BENCHMARKS FOR CORRECTIVE ACTIONS", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization: (a)   Measures the time between flaw identification and flaw remediation; and (b)   Establishes [Assignment: organization-defined benchmarks] for taking corrective actions.Supplemental Guidance:  This control enhancement requires organizations to determine the current time it takes on the average to correct information system flaws after such flaws have been identified, and subsequently establish organizational benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be established by type of flaw and/or severity of the potential vulnerability if the flaw can be exploited.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization: (a)   Measures the time between flaw identification and flaw remediation; and (b)   Establishes [Assignment: organization-defined benchmarks] for taking corrective actions.Supplemental Guidance:  This control enhancement requires organizations to determine the current time it takes on the average to correct information system flaws after such flaws have been identified, and subsequently establish organizational benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be established by type of flaw and/or severity of the potential vulnerability if the flaw can be exploited.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-02 (03)", 
+    "CNTL NO": "SI-2 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "FLAW REMEDIATION | TIME TO REMEDIATE FLAWS / BENCHMARKS FOR CORRECTIVE ACTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

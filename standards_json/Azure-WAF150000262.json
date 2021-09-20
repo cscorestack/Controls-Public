@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000262", 
+  "compliance_control_uri": "Azure-WAF/0015/150000262", 
+  "Control Name": "3.7.4 You are using appropriate tools to conduct performance tests on your workload.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Some tools like JMeter only perform testing against endpoints and tests HTTP statuses. Other tools like K6 and Selenium can perform tests that also check data quality and variations. Application Insights, while not necessarily designed to test server load, can test the performance of an application within the user's browser.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.4 You are using appropriate tools to conduct performance tests on your workload.", 
+    "Description": "Some tools like JMeter only perform testing against endpoints and tests HTTP statuses. Other tools like K6 and Selenium can perform tests that also check data quality and variations. Application Insights, while not necessarily designed to test server load, can test the performance of an application within the user's browser."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000079",
+  "compliance_control_uri": "SOC2/0017/1700000079",
+  "Control Name": "Assesses Opportunities—The assessment of fraud risk considers opportunities for unauthorized acquisition, use, or disposal of assets, altering the entity’s reporting records, or committing other inappropriate acts.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Opportunities—The assessment of fraud risk considers opportunities for unauthorized acquisition, use, or disposal of assets, altering the entity’s reporting records, or committing other inappropriate acts.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.3 COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives",
+    "ControlNo": "CC3.3.3",
+    "TrustID": "CC3.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

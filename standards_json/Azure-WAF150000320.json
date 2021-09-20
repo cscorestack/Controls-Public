@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000320", 
+  "compliance_control_uri": "Azure-WAF/0015/150000320", 
+  "Control Name": "4.4.5 Defined a disaster recovery strategy to capture recovery steps for failover and failback.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is there a BCDR strategy for the application and/or its key workloads? and are operational runbooks defined for key failure scenarios?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.5 Defined a disaster recovery strategy to capture recovery steps for failover and failback.", 
+    "Description": "Is there a BCDR strategy for the application and/or its key workloads? and are operational runbooks defined for key failure scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000450", 
+  "control_attributes": {
+    "Control": "MA-4 (4) AUTHENTICATION / SEPARATION OF MAINTENANCE SESSIONS", 
+    "control_description": "The organization protects nonlocal maintenance sessions by:", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations."
+  }, 
+  "Control Statement": "The organization protects nonlocal maintenance sessions by:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 (4) AUTHENTICATION / SEPARATION OF MAINTENANCE SESSIONS", 
+  "compliance_control_number": "600000450"
+}

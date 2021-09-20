@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000119",
+  "compliance_control_uri": "AWS-WAF/0016/160000119",
+  "Control Name": "SEC 7.1 Identify the data within your workload",
+  "Control Family": "Security",
+  "Control Statement": "This includes the type and classiﬁcation of data, the associated business processes. data owner, applicable legal and compliance requirements, where it’s stored, and the resulting controls that are needed to be enforced. This may include classiﬁcations to indicate if the data is intended to be publicly available, if the data is internal use only such as customer personally identiﬁable information (PII), or if the data is for more restricted access such as intellectual property, legally privileged or marked sensitive, and more.",
+  "control_attributes": {
+    "Control": "SEC 7.1 Identify the data within your workload",
+    "Category": "Security",
+    "Subcategory": "How do you classify your data?",
+    "question_id": "data-classification",
+    "choice_id": "sec_data_classification_identify_data"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

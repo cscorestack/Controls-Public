@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000299", 
+  "compliance_control_uri": "Azure-WAF/0015/150000299", 
+  "Control Name": "4.1.3 Availability metrics to measure and monitor availability such as Mean Time To Recover (MTTR) and Mean Time Between Failure (MTBF).", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are availability targets measured and monitored? Mean time to recover (MTTR) - the average time it takes to restore a component after a failure. Mean time between failures (MTBF) - how long a component can reasonably expect to last between outages", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.3 Availability metrics to measure and monitor availability such as Mean Time To Recover (MTTR) and Mean Time Between Failure (MTBF).", 
+    "Description": "Are availability targets measured and monitored? Mean time to recover (MTTR) - the average time it takes to restore a component after a failure. Mean time between failures (MTBF) - how long a component can reasonably expect to last between outages"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

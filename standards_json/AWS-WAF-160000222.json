@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000222",
+  "compliance_control_uri": "AWS-WAF/0016/160000222",
+  "Control Name": "PERF 4.4 Choose data storage based on access patterns",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use the access patterns of the workload to decide which services and technologies to use. For example, utilize a relational database for workloads that require transactions, or a key-value store that provides higher throughput but is eventually consistent where applicable.",
+  "control_attributes": {
+    "Control": "PERF 4.4 Choose data storage based on access patterns",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your database solution?",
+    "question_id": "right-database-solution",
+    "choice_id": "perf_right_database_solution_access_patterns"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

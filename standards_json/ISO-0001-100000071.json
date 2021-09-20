@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000071", 
+  "compliance_control_uri": "ISO/0001/100000046", 
+  "Control Name": "13.1.1 Network controls", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Networks shall be adequately managed and controlled, in order to be protected from threats, and to maintain security for the systems and applications using the network, including information in transit", 
+  "control_attributes": {
+    "Control_Objective": "13.1.1 Network controls", 
+    "Security_Control_Clause": "13. Communications security", 
+    "Security_Category": "13.1 Network security management", 
+    "description": "Networks shall be adequately managed and controlled, in order to be protected from threats, and to maintain security for the systems and applications using the network, including information in transit"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

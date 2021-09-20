@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000804", 
+  "control_attributes": {
+    "Control": "SI-13 (1) TRANSFERRING COMPONENT RESPONSIBILITIES", 
+    "control_description": "The organization takes information system components out of service by transferring component responsibilities to substitute components no later than [Assignment: organization-defined fraction or percentage] of mean time to failure.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements."
+  }, 
+  "Control Statement": "The organization takes information system components out of service by transferring component responsibilities to substitute components no later than [Assignment: organization-defined fraction or percentage] of mean time to failure.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-13 (1) TRANSFERRING COMPONENT RESPONSIBILITIES", 
+  "compliance_control_number": "600000804"
+}

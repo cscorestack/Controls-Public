@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000078", 
+  "compliance_control_uri": "ISO/0001/100000053", 
+  "Control Name": "14.1.1 Information securtiy requirements analysis and specifications", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Are information risk analysis, functional and technical requirement specification, security architecture/design, security testing and certification etc. mandatory activities for all new developments and changes to existing systems.  Are information risks handled in a similar way for commercial systems and software including bespoke, custom and off-the-shelf products", 
+  "control_attributes": {
+    "Control_Objective": "14.1.1 Information securtiy requirements analysis and specifications", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.1 Security requirements of information systems", 
+    "description": "Are information risk analysis, functional and technical requirement specification, security architecture/design, security testing and certification etc. mandatory activities for all new developments and changes to existing systems.  Are information risks handled in a similar way for commercial systems and software including bespoke, custom and off-the-shelf products"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

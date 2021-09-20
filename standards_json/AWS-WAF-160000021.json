@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000021",
+  "compliance_control_uri": "AWS-WAF/0016/160000021",
+  "Control Name": "OPS 3.7 Resource teams appropriately",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Maintain team member capacity, and provide tools and resources, to support your workload needs. Overtasking team members increases the risk of incidents resulting from human error. Investments in tools and resources (for example, providing automation for frequently executed activities) can scale the eﬀectiveness of your team, enabling them to support additional activities.",
+  "control_attributes": {
+    "Control": "OPS 3.7 Resource teams appropriately",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_team_res_appro"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

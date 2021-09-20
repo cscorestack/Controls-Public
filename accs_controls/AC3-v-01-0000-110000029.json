@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000029",
+  "compliance_control_uri": "AC3-v-01/0000/110000029",
+  "Control Name": "AC-18 (5) ANTENNAS / TRANSMISSION POWER LEVELS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization selects radio antennas and calibrates transmission power levels to reduce the probability that usable signals can be received outside of organization-controlled boundaries.",
+  "control_attributes": {
+    "Control Name": "AC-18 (5) ANTENNAS / TRANSMISSION POWER LEVELS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization selects radio antennas and calibrates transmission power levels to reduce the probability that usable signals can be received outside of organization-controlled boundaries."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000008",
+      "NIST-SP800-53/0006/600000208",
+      "ISO-27001/0011/1100000008",
+      "PCI-DSS/0012/1200000024",
+      "PCI-DSS/0012/1200000059",
+      "PCI-DSS/0012/1200000188",
+      "Fedramp-Control-High/0009/900000047"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

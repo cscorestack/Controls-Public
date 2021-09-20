@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000862", 
+  "compliance_control_uri": "AC3-v-01/0000/110000862", 
+  "Control Name": "Ensure 'Trusted Microsoft Services' is enabled for Storage Account access", 
+  "Control Family": "Storage Accounts", 
+  "Control Statement": "Some Microsoft services that interact with storage accounts operate from networks that can't be granted access through network rules. To help this type of service work as intended, allow the set of trusted Microsoft services to bypass the network rules. These services will then use strong authentication to access the storage account.", 
+  "control_attributes": {
+    "Control Name": "Ensure 'Trusted Microsoft Services' is enabled for Storage Account access", 
+    "Control Family": "Storage Accounts", 
+    "Control Statement": "Some Microsoft services that interact with storage accounts operate from networks that can't be granted access through network rules. To help this type of service work as intended, allow the set of trusted Microsoft services to bypass the network rules. These services will then use strong authentication to access the storage account."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-Azure/0015/150000045"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "is_parameterized": true,
+        "is_deleted": false,
+        "policy_name": "Azure_Audit_Storage_Accounts_Allow_Access_Trusted_MS_Svcs",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xrfMG"
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

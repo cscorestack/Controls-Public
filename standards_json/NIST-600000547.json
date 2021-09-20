@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000547", 
+  "control_attributes": {
+    "Control": "PS-3 (3) INFORMATION WITH SPECIAL PROTECTION MEASURES", 
+    "control_description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection:", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-3 (3) INFORMATION WITH SPECIAL PROTECTION MEASURES", 
+  "compliance_control_number": "600000547"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000172",
+  "compliance_control_uri": "AWS-WAF/0016/160000172",
+  "Control Name": "REL 7.2 Obtain resources upon detection of impairment to a workload",
+  "Control Family": "Reliability",
+  "Control Statement": "Scale resources reactively when necessary if availability is impacted, to restore workload availability.",
+  "control_attributes": {
+    "Control": "REL 7.2 Obtain resources upon detection of impairment to a workload",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to adapt to changes in demand?",
+    "question_id": "adapt-to-changes",
+    "choice_id": "rel_adapt_to_changes_reactive_adapt_auto"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

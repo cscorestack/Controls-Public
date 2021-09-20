@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000064", 
+  "control_attributes": {
+    "Control": "SI-6 SECURITY FUNCTION VERIFICATION", 
+    "control_description": "Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-6 SECURITY FUNCTION VERIFICATION", 
+  "compliance_control_number": "600000064"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000261",
+  "compliance_control_uri": "AWS-WAF/0016/160000261",
+  "Control Name": "COST 3.4 Conﬁgure billing and cost management tools",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Conﬁgure AWS Cost Explorer and AWS Budgets inline with your organization policies.",
+  "control_attributes": {
+    "Control": "COST 3.4 Conﬁgure billing and cost management tools",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_config_tools"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

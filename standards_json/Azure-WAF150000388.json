@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000388", 
+  "compliance_control_uri": "Azure-WAF/0015/150000388", 
+  "Control Name": "4.13.4 Key metrics, thresholds, and indicators are defined and captured.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have key metrics, thresholds and indicators been defined and captured?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.4 Key metrics, thresholds, and indicators are defined and captured.", 
+    "Description": "Have key metrics, thresholds and indicators been defined and captured?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

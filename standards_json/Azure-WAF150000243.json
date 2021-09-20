@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000243", 
+  "compliance_control_uri": "Azure-WAF/0015/150000243", 
+  "Control Name": "3.4.6 You have validated the SKU and configuration choices are appropriate for your anticipated loads.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Understand which SKUs you have selected and ensure that they are the correct size. Additionally, ensure you understand the configuration of those SKUs (e.g. auto-scale settings for Application Gateways and App Services).", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.6 You have validated the SKU and configuration choices are appropriate for your anticipated loads.", 
+    "Description": "Understand which SKUs you have selected and ensure that they are the correct size. Additionally, ensure you understand the configuration of those SKUs (e.g. auto-scale settings for Application Gateways and App Services)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

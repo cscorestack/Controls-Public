@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000184", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000184", 
+  "Control Name": "Additional requirement for service providers only: Implement a process for the timely detection and reporting of failures of critical security control systems, including but not limited to failure of:\\n- Firewalls\\n- IDS/IPS\\n- FIM\\n- Anti-virus\\n- Physical access controls\\n- Logical access controls\\n- Audit logging mechanisms\\n- Segmentation controls (if used)", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Additional requirement for service providers only: Implement a process for the timely detection and reporting of failures of critical security control systems, including but not limited to failure of:\\n- Firewalls\\n- IDS/IPS\\n- FIM\\n- Anti-virus\\n- Physical access controls\\n- Logical access controls\\n- Audit logging mechanisms\\n- Segmentation controls (if used)", 
+    "Requirement": "10.8. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

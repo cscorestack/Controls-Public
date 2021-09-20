@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000200", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000200", 
+  "Control Name": "PHYSICAL ACCESS AUTHORIZATIONS", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization: a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides; b. Issues authorization credentials for facility access; c. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and d. Removes individuals from the facility access list when access is no longer required.Supplemental Guidance:  This control applies to organizational employees and visitors. Individuals (e.g., employees, contractors, and others) with permanent physical access authorization credentials are not considered visitors. Authorization credentials include, for example, badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed (including level of forge-proof badges, smart cards, or identification cards) consistent with federal standards, policies, and procedures. This control only applies to areas within facilities that have not been designated as publicly accessible. Related controls: PE-3, PE-4, PS-3.References: None", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization: a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides; b. Issues authorization credentials for facility access; c. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and d. Removes individuals from the facility access list when access is no longer required.Supplemental Guidance:  This control applies to organizational employees and visitors. Individuals (e.g., employees, contractors, and others) with permanent physical access authorization credentials are not considered visitors. Authorization credentials include, for example, badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed (including level of forge-proof badges, smart cards, or identification cards) consistent with federal standards, policies, and procedures. This control only applies to areas within facilities that have not been designated as publicly accessible. Related controls: PE-3, PE-4, PS-3.References: None", 
+    "SelectionParam": "PE-2 (c) [at least annually] ", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-02", 
+    "CNTL NO": "PE-2", 
+    "AdditionalReq": "", 
+    "Control Name": "PHYSICAL ACCESS AUTHORIZATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

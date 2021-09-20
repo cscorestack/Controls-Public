@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000030", 
+  "compliance_control_uri": "CIS-Azure/0003/300000030", 
+  "Control Name": "6.5. Ensure that Network Watcher is 'Enabled'", 
+  "Control Family": "6. Networking", 
+  "Control Statement": "Network diagnostic and visualization tools available with Network Watcher help users understand, diagnose, and gain insights to the network in Azure.", 
+  "control_attributes": {
+    "Control": "6.5. Ensure that Network Watcher is 'Enabled'", 
+    "Control_Clause": "6. Networking", 
+    "description": "Network diagnostic and visualization tools available with Network Watcher help users understand, diagnose, and gain insights to the network in Azure."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

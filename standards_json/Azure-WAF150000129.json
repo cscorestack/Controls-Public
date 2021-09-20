@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000129", 
+  "compliance_control_uri": "Azure-WAF/0015/150000129", 
+  "Control Name": "2.8.6 Critical manual processes are defined and documented for failure responses.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are critical manual processes defined and documented for failure responses?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.8 What is your approach to recovery and failover?", 
+    "Control": "2.8.6 Critical manual processes are defined and documented for failure responses.", 
+    "Description": "Are critical manual processes defined and documented for failure responses?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

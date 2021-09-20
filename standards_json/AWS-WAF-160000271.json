@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000271",
+  "compliance_control_uri": "AWS-WAF/0016/160000271",
+  "Control Name": "COST 5.4 Select software with cost eﬀective licensing",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Open source software will eliminate software licensing costs, which can contribute signiﬁcant costs to workloads. Where licensed software is required, avoid licenses bound to arbitrary attributes such as CPUs, look for licenses that are bound to output or outcomes. The cost of these licenses scales more closely to the beneﬁt they provide.",
+  "control_attributes": {
+    "Control": "COST 5.4 Select software with cost eﬀective licensing",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_licensing"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

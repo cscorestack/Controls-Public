@@ -1,0 +1,151 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000016",
+  "compliance_control_uri": "AC3-v-01/0000/110000016",
+  "Control Name": "AC-16 (8) ASSOCIATION TECHNIQUES / TECHNOLOGIES",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system implements [Assignment: organization-defined techniques or technologies] with [Assignment: organization-defined level of assurance] in associating security attributes to information.",
+  "control_attributes": {
+    "Control Name": "AC-16 (8) ASSOCIATION TECHNIQUES / TECHNOLOGIES",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system implements [Assignment: organization-defined techniques or technologies] with [Assignment: organization-defined level of assurance] in associating security attributes to information."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPN",
+      "service_resource": "AWS/Network/VPN/VPN_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancersv2"
+    },
+    {
+      "service_resource_type": "AWS/Container/ECS",
+      "service_resource": "AWS/Container/ECS/Cluster"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Container/Azure_Kubernetes_Service",
+      "service_resource": "Azure/Container/Azure_Kubernetes_Service/Cluster"
+    },
+    {
+      "service_resource_type": "Azure/Container/Container_Instances",
+      "service_resource": "Azure/Container/Container_Instances/Containers"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000195",
+      "CIS-Azure/0003/300000040",
+      "CIS-Azure/0003/300000041",
+      "CIS-Azure/0003/300000042",
+      "CIS-Azure/0003/300000043",
+      "CIS-Azure/0003/300000044",
+      "CIS-Azure/0003/300000045",
+      "CIS-Azure/0003/300000046",
+      "CIS-Azure/0003/300000047",
+      "CIS-Azure/0003/300000048",
+      "CIS-Azure/0003/300000049",
+      "CIS-Azure/0003/300000050",
+      "CIS-Azure/0003/300000051",
+      "CIS-Azure/0003/300000052",
+      "CIS-Azure/0003/300000053",
+      "CIS-Azure/0003/300000054",
+      "CIS-Azure/0003/300000055",
+      "CIS-Azure/0003/300000056",
+      "CIS-Azure/0003/300000057",
+      "CIS-Azure/0003/300000058",
+      "CIS-Azure/0003/300000059",
+      "CIS-Azure/0015/150000004",
+      "CIS-Azure/0015/150000005",
+      "CIS-Azure/0015/150000006",
+      "CIS-Azure/0015/150000007",
+      "CIS-Azure/0015/150000008",
+      "CIS-Azure/0015/150000009",
+      "CIS-Azure/0015/150000010",
+      "CIS-Azure/0015/150000011",
+      "CIS-Azure/0015/150000012",
+      "CIS-Azure/0015/150000013",
+      "CIS-Azure/0015/150000014",
+      "CIS-Azure/0015/150000015",
+      "CIS-Azure/0015/150000016",
+      "CIS-Azure/0015/150000017",
+      "CIS-Azure/0015/150000018",
+      "CIS-Azure/0015/150000019",
+      "CIS-Azure/0015/150000022",
+      "CIS-Azure/0015/150000023",
+      "CIS-Azure/0015/150000003",
+      "CIS-GCP/0014/1400000019",
+      "SOC2/0017/1700000115"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_Project_Ownership",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/qazx",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

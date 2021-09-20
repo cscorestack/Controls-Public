@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000230", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000230", 
+  "Control Name": "INCIDENT RESPONSE ASSISTANCE | COORDINATION WITH EXTERNAL PROVIDERS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization: (a)   Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and (b)   Identifies organizational incident response team members to the external providers.Supplemental Guidance:  External providers of information system protection capability include, for example, the Computer Network Defense program within the U.S. Department of Defense. External providers help to protect, monitor, analyze, detect, and respond to unauthorized activity within organizational information systems and networks.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization: (a)   Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and (b)   Identifies organizational incident response team members to the external providers.Supplemental Guidance:  External providers of information system protection capability include, for example, the Computer Network Defense program within the U.S. Department of Defense. External providers help to protect, monitor, analyze, detect, and respond to unauthorized activity within organizational information systems and networks.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-07 (02)", 
+    "CNTL NO": "IR-7 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT RESPONSE ASSISTANCE | COORDINATION WITH EXTERNAL PROVIDERS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

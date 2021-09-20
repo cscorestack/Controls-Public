@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000099", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000099", 
+  "Control Name": "SYSTEM INTERCONNECTIONS | UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, non-national security system] to an external network without the use of [Assignment; organization-defined boundary protection device].Supplemental Guidance:  Organizations typically do not have control over external networks (e.g., the Internet). Approved boundary protection devices (e.g., routers, firewalls) mediate communications (i.e., information flows) between unclassified non-national security systems and external networks. This control enhancement is required for organizations processing, storing, or transmitting Controlled Unclassified Information (CUI).", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, non-national security system] to an external network without the use of [Assignment; organization-defined boundary protection device].Supplemental Guidance:  Organizations typically do not have control over external networks (e.g., the Internet). Approved boundary protection devices (e.g., routers, firewalls) mediate communications (i.e., information flows) between unclassified non-national security systems and external networks. This control enhancement is required for organizations processing, storing, or transmitting Controlled Unclassified Information (CUI).", 
+    "SelectionParam": "CA-3 (3)-2 [Boundary Protections which meet the Trusted Internet Connection (TIC) requirements]", 
+    "FedRampParam": "x", 
+    "SORTID": "CA-03 (03)", 
+    "CNTL NO": "CA-3 (3)", 
+    "AdditionalReq": "CA-3 (3) Guidance: Refer to Appendix H Cloud Considerations of the TIC 2.0 Reference Architecture document.", 
+    "Control Name": "SYSTEM INTERCONNECTIONS | UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

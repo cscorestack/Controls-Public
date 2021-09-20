@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000047",
+  "compliance_control_uri": "AWS-WAF/0016/160000047",
+  "Control Name": "OPS 7.2 Ensure consistent review of operational readiness",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Ensure you have a consistent review of your readiness to operate a workload. Reviews must include, at a minimum, the operational readiness of the teams and the workload, and security requirements. Implement review activities in code and trigger automated review in response to events where appropriate, to ensure consistency, speed of execution, and reduce errors caused by manual processes.",
+  "control_attributes": {
+    "Control": "OPS 7.2 Ensure consistent review of operational readiness",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you know that you are ready to support a workload?",
+    "question_id": "ready-to-support",
+    "choice_id": "ops_ready_to_support_const_orr"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

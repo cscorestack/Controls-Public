@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "compliance_control_number": "600000011", 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000011", 
+  "Control Name": "AU-6 (1) PROCESS INTEGRATION", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization employs automated mechanisms to integrate audit review, analysis, and reporting processes to support organizational processes for investigation and response to suspicious activities.", 
+  "control_attributes": {
+    "Control": "AU-6 (1) PROCESS INTEGRATION", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Priority": "", 
+    "Control_description": "The organization employs automated mechanisms to integrate audit review, analysis, and reporting processes to support organizational processes for investigation and response to suspicious activities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

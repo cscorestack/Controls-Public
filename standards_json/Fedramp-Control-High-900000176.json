@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000176", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000176", 
+  "Control Name": "INFORMATION SYSTEM BACKUP | TRANSFER TO ALTERNATE STORAGE SITE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization transfers information system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives].Supplemental Guidance:  Information system backup information can be transferred to alternate storage sites either electronically or by physical shipment of storage media.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization transfers information system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives].Supplemental Guidance:  Information system backup information can be transferred to alternate storage sites either electronically or by physical shipment of storage media.", 
+    "SelectionParam": "CP-9 (5) [time period and transfer rate consistent with the recovery time and recovery point objectives defined in the service provider and organization  SLA].", 
+    "FedRampParam": "x", 
+    "SORTID": "CP-09 (05)", 
+    "CNTL NO": "CP-9 (5)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM BACKUP | TRANSFER TO ALTERNATE STORAGE SITE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000394", 
+  "compliance_control_uri": "Azure-WAF/0015/150000394", 
+  "Control Name": "5.1.2 There's a process to track, triage and address security threats in the application development cycle.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "The threat modeling tool will produce a report of all the threats identified. This report is typically uploaded into a tracking tool or work items that can be validated and addressed by the developers. Cyber security teams can also use the report to determine attack vectors during a penetration test. As new features are added to the solution, the threat model should be updated and integrated into the code management process. If a security issue is found, there should be a process to triage the issue into the next release cycle or a faster release, depending on the severity.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.1 Have you done a threat analysis of your workload?", 
+    "Control": "5.1.2 There's a process to track, triage and address security threats in the application development cycle.", 
+    "Description": "The threat modeling tool will produce a report of all the threats identified. This report is typically uploaded into a tracking tool or work items that can be validated and addressed by the developers. Cyber security teams can also use the report to determine attack vectors during a penetration test. As new features are added to the solution, the threat model should be updated and integrated into the code management process. If a security issue is found, there should be a process to triage the issue into the next release cycle or a faster release, depending on the severity."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

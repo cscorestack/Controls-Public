@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000199", 
+  "control_attributes": {
+    "Control": "AC-17 (2) PROTECTION OF CONFIDENTIALITY / INTEGRITY USING ENCRYPTION", 
+    "control_description": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices]."
+  }, 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-17 (2) PROTECTION OF CONFIDENTIALITY / INTEGRITY USING ENCRYPTION", 
+  "compliance_control_number": "600000199"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000358", 
+  "compliance_control_uri": "Azure-WAF/0015/150000358", 
+  "Control Name": "4.8.7 Network traffic is monitored, and a response plan is in place to address network outages.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is network traffic and connectivity monitored? and are operational procedures in place to respond to network outages?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.7 Network traffic is monitored, and a response plan is in place to address network outages.", 
+    "Description": "Is network traffic and connectivity monitored? and are operational procedures in place to respond to network outages?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

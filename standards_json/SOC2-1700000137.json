@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000137",
+  "compliance_control_uri": "SOC2/0017/1700000137",
+  "Control Name": "Requires Additional Authentication or Credentials—Additional authentication information or credentials are required when accessing the system from outside its boundaries.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Requires Additional Authentication or Credentials—Additional authentication information or credentials are required when accessing the system from outside its boundaries.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.6 The entity implements logical access security measures to protect against threats from sources outside its system boundaries.",
+    "ControlNo": "CC6.6.3",
+    "TrustID": "CC6.6"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000077",
+  "compliance_control_uri": "SOC2/0017/1700000077",
+  "Control Name": "Considers Various Types of Fraud—The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Various Types of Fraud—The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.3 COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives",
+    "ControlNo": "CC3.3.1",
+    "TrustID": "CC3.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

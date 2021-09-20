@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000006", 
+  "compliance_control_uri": "CIS-GCP/0014/140000006", 
+  "Control Name": "1.6 Ensure that IAM users are not assigned the Service Account User or Service Account Token Creator roles at project level", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "It is recommended to assign the Service Account User and Service Account Token Creator roles to a user for a specific service account rather than assigning the role to a user at project level.", 
+  "control_attributes": {
+    "Control": "1.6 Ensure that IAM users are not assigned the Service Account User or Service Account Token Creator roles at project level", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "It is recommended to assign the Service Account User and Service Account Token Creator roles to a user for a specific service account rather than assigning the role to a user at project level."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

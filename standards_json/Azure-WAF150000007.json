@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000007", 
+  "compliance_control_uri": "Azure-WAF/0015/150000007", 
+  "Control Name": "1.1.7 The right operational capabilities are used for Azure services.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Operational capabilities, such as auto-scale and auto-heal for App Services, can reduce management overheads, support operational effectiveness and reduce cost. Make sure you understand the operational features/capabilities available and how they can be used in the solution.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.7 The right operational capabilities are used for Azure services.", 
+    "Description": "Operational capabilities, such as auto-scale and auto-heal for App Services, can reduce management overheads, support operational effectiveness and reduce cost. Make sure you understand the operational features/capabilities available and how they can be used in the solution."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

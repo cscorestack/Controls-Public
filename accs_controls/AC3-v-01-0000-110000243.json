@@ -1,0 +1,68 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000243",
+  "compliance_control_uri": "AC3-v-01/0000/110000243",
+  "Control Name": "CM-8 (3) AUTOMATED UNAUTHORIZED COMPONENT DETECTION",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization: (a) Employs automated mechanisms [Assignment: organization-defined frequency] to detect the presence of unauthorized hardware, software, and firmware components within the information system; and(b) Takes the following actions when unauthorized components are detected: [Selection (one or more): disables network access by such components; isolates the components; notifies [Assignment: organization-defined personnel or roles]].",
+  "control_attributes": {
+    "Control Name": "CM-8 (3) AUTOMATED UNAUTHORIZED COMPONENT DETECTION",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization: (a) Employs automated mechanisms [Assignment: organization-defined frequency] to detect the presence of unauthorized hardware, software, and firmware components within the information system; and(b) Takes the following actions when unauthorized components are detected: [Selection (one or more): disables network access by such components; isolates the components; notifies [Assignment: organization-defined personnel or roles]]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000301",
+      "Fedramp-Control-Moderate/0010/1000000103",
+      "Fedramp-Control-High/0009/900000137",
+      "CIS-Azure/0003/300000034",
+      "CIS-Azure/0015/150000092"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lihln",
+        "policy_name": "Azure_Audit_Virtual_Machine_SKUs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/VJLYh",
+        "policy_name": "Azure_Audit_Approved_VM_Extns_Installed",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

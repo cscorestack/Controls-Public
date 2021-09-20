@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000255", 
+  "compliance_control_uri": "Azure-WAF/0015/150000255", 
+  "Control Name": "3.6.4 You are using database replicas and data partitioning (sharding) as appropriate.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Database replicas and data partitioning can improve application performance by providing multiple copies of the data and/or reducing the taxation of database operations. Both mechanisms involve conversations and planning between developers and database administrators.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.4 You are using database replicas and data partitioning (sharding) as appropriate.", 
+    "Description": "Database replicas and data partitioning can improve application performance by providing multiple copies of the data and/or reducing the taxation of database operations. Both mechanisms involve conversations and planning between developers and database administrators."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

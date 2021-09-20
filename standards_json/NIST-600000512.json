@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000512", 
+  "control_attributes": {
+    "Control": "PE-11 (1) LONG-TERM ALTERNATE POWER SUPPLY - MINIMAL OPERATIONAL CAPABILITY", 
+    "control_description": "The organization provides a long-term alternate power supply for the information system that is capable of maintaining minimally required operational capability in the event of an extended loss of the primary power source.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs an automatic fire suppression capability for the information system when the facility is not staffed on a continuous basis."
+  }, 
+  "Control Statement": "The organization provides a long-term alternate power supply for the information system that is capable of maintaining minimally required operational capability in the event of an extended loss of the primary power source.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-11 (1) LONG-TERM ALTERNATE POWER SUPPLY - MINIMAL OPERATIONAL CAPABILITY", 
+  "compliance_control_number": "600000512"
+}

@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000556",
+  "compliance_control_uri": "AC3-v-01/0000/110000556",
+  "Control Name": "SA-11 (6) ATTACK SURFACE REVIEWS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to perform attack surface reviews.",
+  "control_attributes": {
+    "Control Name": "SA-11 (6) ATTACK SURFACE REVIEWS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to perform attack surface reviews."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000601",
+      "CIS-Azure/0003/300000112",
+      "CIS-Azure/0003/300000113",
+      "CIS-Azure/0003/300000114",
+      "CIS-Azure/0003/300000115",
+      "CIS-Azure/0003/300000116"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

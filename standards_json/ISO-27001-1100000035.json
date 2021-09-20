@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000035", 
+  "compliance_control_uri": "ISO-27001/0011/1100000035", 
+  "Control Name": "9.4.1 Information access\\nrestriction", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Access to information and application system functions shall be restricted in accordance with the access control policy.", 
+  "control_attributes": {
+    "Clause_Category": "9.4 - System and application access control", 
+    "description": "Access to information and application system functions shall be restricted in accordance with the access control policy.", 
+    "Control_Title": "9.4.1 Information access\\nrestriction", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

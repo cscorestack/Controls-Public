@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000097",
+  "compliance_control_uri": "AWS-WAF/0016/160000097",
+  "Control Name": "SEC 3.1 Deﬁne access requirements",
+  "Control Family": "Security",
+  "Control Statement": "Each component or resource of your workload needs to be accessed by administrators, end users, or other components. Have a clear deﬁnition of who or what should have access to each component, choose the appropriate identity type and method of authentication and authorization.",
+  "control_attributes": {
+    "Control": "SEC 3.1 Deﬁne access requirements",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_define"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

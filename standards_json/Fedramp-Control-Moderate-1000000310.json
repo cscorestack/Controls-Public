@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000310", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000310", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | SYSTEM-GENERATED ALERTS", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization- defined compromise indicators].Supplemental Guidance:  Alerts may be generated from a variety of sources, including, for example, audit records or inputs from malicious code protection mechanisms, intrusion detection or prevention mechanisms, or boundary protection devices such as firewalls, gateways, and routers. Alerts can be transmitted, for example, telephonically, by electronic mail messages, or by text messaging. Organizational personnel on the notification list can include, for example, system administrators, mission/business owners, system owners, or information system security officers. Related controls: AU-5, PE-6.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization- defined compromise indicators].Supplemental Guidance:  Alerts may be generated from a variety of sources, including, for example, audit records or inputs from malicious code protection mechanisms, intrusion detection or prevention mechanisms, or boundary protection devices such as firewalls, gateways, and routers. Alerts can be transmitted, for example, telephonically, by electronic mail messages, or by text messaging. Organizational personnel on the notification list can include, for example, system administrators, mission/business owners, system owners, or information system security officers. Related controls: AU-5, PE-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (05)", 
+    "CNTL NO": "SI-4 (5)", 
+    "AdditionalReq": "SI-4 (5) Guidance: In accordance with the incident response plan.", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | SYSTEM-GENERATED ALERTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000562", 
+  "control_attributes": {
+    "Control": "RA-5 (5) PRIVILEGED ACCESS", 
+    "control_description": "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities].", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (5) PRIVILEGED ACCESS", 
+  "compliance_control_number": "600000562"
+}

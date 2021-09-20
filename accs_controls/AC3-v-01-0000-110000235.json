@@ -1,0 +1,281 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000235",
+  "compliance_control_uri": "AC3-v-01/0000/110000235",
+  "Control Name": "CM-7 (1) PERIODIC REVIEW",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization: (a) Reviews the information system [Assignment: organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and(b) Disables [Assignment: organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].",
+  "control_attributes": {
+    "Control Name": "CM-7 (1) PERIODIC REVIEW",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization: (a) Reviews the information system [Assignment: organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and(b) Disables [Assignment: organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000299",
+      "PCI-DSS/0012/1200000007",
+      "PCI-DSS/0012/1200000027",
+      "PCI-DSS/0012/1200000028",
+      "PCI-DSS/0012/1200000029",
+      "PCI-DSS/0012/1200000030",
+      "Fedramp-Control-Moderate/0010/1000000098",
+      "Fedramp-Control-High/0009/900000131",
+      "AWS-WAF/0016/160000115",
+      "CIS-Azure/0003/300000003",
+      "CIS-Azure/0003/300000008",
+      "SOC2/0017/1700000149"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/volume/fyb4r",
+        "policy_name": "AWS_Audit_Volumes_Not_Having_Snapshot",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ae77d",
+        "policy_name": "AWS_Audit_EBS_Volumes_Attached_Stopped_EC2",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cb461",
+        "policy_name": "AWS_Audit_EBS_Volume_Naming_Conventions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/95083",
+        "policy_name": "AWS_Audit_EBS_Volumes_Recent_Snapshots",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/lSFYG",
+        "policy_name": "AWS_EC2_Volume_Inuse_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/eaFMo",
+        "policy_name": "AWS_EBS_Optimized_Instance",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/nUuok",
+        "policy_name": "AWS_EC2_Security_Group_Attached_To_ENI",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/1c3pu",
+        "policy_name": "AWS_EC2_Managedinstance_Platform_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/6keEC",
+        "policy_name": "AWS_EC2_Managedinstance_Applications_Required",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/sFIfu",
+        "policy_name": "AWS_Desired_Instance_Type",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/y3heu",
+        "policy_name": "AWS_EC2_ELASTICIPS_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/l7yeh",
+        "policy_name": "AWS_EC2_KEYPAIRS_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/4szfw",
+        "policy_name": "AWS_EC2_LOADBALANCERSV2_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/2fcla",
+        "policy_name": "AWS_EC2_LOADBALANCERS_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/ssgux",
+        "policy_name": "AWS_EC2_OWN_PRIVATE_IMAGES_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/xpqto",
+        "policy_name": "AWS_EC2_RESERVED_INSTANCES_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/xhz3l",
+        "policy_name": "AWS_EC2_SECURITY_GROUP_ORPHANED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/7ojcz",
+        "policy_name": "AWS_EC2_INSTANCE_UNDERUTILISED",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/0eabc",
+        "policy_name": "AWS_Audit_EC2_Stopped_Instance",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cbb48",
+        "policy_name": "AWS_Audit_AMI_Naming_Conventions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/73f38",
+        "policy_name": "AWS_Audit_Account_Instance_Limit",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/a0cd6",
+        "policy_name": "AWS_Audit_EC2_Instance_Counts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/53d71",
+        "policy_name": "AWS_Audit_EC2_Instance_Naming_Conventions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/b91d6",
+        "policy_name": "AWS_Audit_SQS_Dead_Letter_Queue",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5185e",
+        "policy_name": "AWS_Audit_SQS_Queue_Exposed",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/workspaces/0c80e",
+        "policy_name": "AWS_Audit_WorkSpaces_Desired_Bundle_Type",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/workspaces/d033b",
+        "policy_name": "AWS_Audit_WorkSpaces_Instances_Counts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/workspaces/cbcde",
+        "policy_name": "AWS_Audit_WorkSpaces_Operational_State",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/consumption/vm/577xf",
+        "policy_name": "Azure_VM_Size_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dnzwh",
+        "policy_name": "Azure_Audit_Classic_Storage_Accounts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xrfMG",
+        "policy_name": "Azure_Audit_Storage_Accounts_Allow_Access_Trusted_MS_Svcs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/6f712",
+        "policy_name": "Azure_Audit_container_CPU_and_memory_resource_limits_in_AKS_cluster",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/kffek",
+        "policy_name": "Azure_Audit_Classic_Virtual_Machines",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/r9skp",
+        "policy_name": "Azure_Allowed_Locations",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/6xaih",
+        "policy_name": "Azure_Audit_VM_OS_Image",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/nlr4x",
+        "policy_name": "Azure_Audit_VM_Disks_NotManaged",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/r4dle",
+        "policy_name": "Azure_Audit_VMSS_OS_Image",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

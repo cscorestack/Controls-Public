@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000740", 
+  "control_attributes": {
+    "Control": "SC-41 PORT AND I/O DEVICE ACCESS", 
+    "control_description": "The organization physically disables or removes [Assignment: organization-defined connection ports or input/output devices] on [Assignment: organization-defined information systems or information system components].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization prohibits the use of devices possessing [Assignment: organization-defined environmental sensing capabilities] in [Assignment: organization-defined facilities, areas, or systems]."
+  }, 
+  "Control Statement": "The organization physically disables or removes [Assignment: organization-defined connection ports or input/output devices] on [Assignment: organization-defined information systems or information system components].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-41 PORT AND I/O DEVICE ACCESS", 
+  "compliance_control_number": "600000740"
+}

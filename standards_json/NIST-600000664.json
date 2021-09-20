@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000664", 
+  "control_attributes": {
+    "Control": "SC-7 (4) EXTERNAL TELECOMMUNICATIONS SERVICES", 
+    "control_description": "The organization:  (a) Implements a managed interface for each external telecommunication service;(b) Establishes a traffic flow policy for each managed interface;(c) Protects the confidentiality and integrity of the information being transmitted across each interface;(d) Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and(e) Reviews exceptions to the traffic flow policy [Assignment: organization-defined frequency] and removes exceptions that are no longer supported by an explicit mission/business need.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements [Assignment: organization-defined host-based boundary protection mechanisms] at [Assignment: organization-defined information system components]."
+  }, 
+  "Control Statement": "The organization:  (a) Implements a managed interface for each external telecommunication service;(b) Establishes a traffic flow policy for each managed interface;(c) Protects the confidentiality and integrity of the information being transmitted across each interface;(d) Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and(e) Reviews exceptions to the traffic flow policy [Assignment: organization-defined frequency] and removes exceptions that are no longer supported by an explicit mission/business need.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (4) EXTERNAL TELECOMMUNICATIONS SERVICES", 
+  "compliance_control_number": "600000664"
+}

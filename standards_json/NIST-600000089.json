@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000089", 
+  "control_attributes": {
+    "Control": "SC-44 DETONATION CHAMBERS", 
+    "control_description": "The organization employs a detonation chamber capability within [Assignment: organization-defined information system, system component, or location].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system protects against an individual (or process acting on behalf of an individual) falsely denying having performed [Assignment: organization-defined actions to be covered by non-repudiation]."
+  }, 
+  "Control Statement": "The organization employs a detonation chamber capability within [Assignment: organization-defined information system, system component, or location].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-44 DETONATION CHAMBERS", 
+  "compliance_control_number": "600000089"
+}

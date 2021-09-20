@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000417", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000417", 
+  "Control Name": "SPAM PROTECTION | AUTOMATIC UPDATES", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system automatically updates spam protection mechanisms.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system automatically updates spam protection mechanisms.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-08 (02)", 
+    "CNTL NO": "SI-8 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SPAM PROTECTION | AUTOMATIC UPDATES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

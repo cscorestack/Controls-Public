@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000032", 
+  "compliance_control_uri": "Azure-WAF/0015/150000032", 
+  "Control Name": "1.4.6 The workload is designed to use Availability Zones within a region.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Availability Zones can be used to optimise application availability within a region by providing data-center level fault tolerance. However, the application architecture must not share dependencies between zones to use them effectively. It is also important to note that Availability Zones may introduce performance and cost considerations for applications which are extremely 'chatty' across zones given the implied physical separation between each zone and inter-zone bandwidth charges. That also means that AZ can be considered to get higher SLA for lower cost. Be aware of pricing changes coming to Availability Zone bandwidth starting February 2021.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.6 The workload is designed to use Availability Zones within a region.", 
+    "Description": "Availability Zones can be used to optimise application availability within a region by providing data-center level fault tolerance. However, the application architecture must not share dependencies between zones to use them effectively. It is also important to note that Availability Zones may introduce performance and cost considerations for applications which are extremely 'chatty' across zones given the implied physical separation between each zone and inter-zone bandwidth charges. That also means that AZ can be considered to get higher SLA for lower cost. Be aware of pricing changes coming to Availability Zone bandwidth starting February 2021."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

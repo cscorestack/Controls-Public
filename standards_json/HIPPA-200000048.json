@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000048", 
+  "compliance_control_uri": "HIPAA/0002/200000048", 
+  "Control Name": "Security Awareness and Training  Security Reminders - 164.308(a)(5)(ii)(A)", 
+  "Control Family": "Security Awareness and Training", 
+  "Control Statement": "Periodic security updates.", 
+  "control_attributes": {
+    "Control": "Security Awareness and Training  Security Reminders - 164.308(a)(5)(ii)(A)", 
+    "Security_Category": "Security Awareness and Training", 
+    "Control_description": "Periodic security updates."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

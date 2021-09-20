@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000115", 
+  "compliance_control_uri": "Azure-WAF/0015/150000115", 
+  "Control Name": "2.7.1 A tool such as Azure Monitor or Grafana is used to visualize the application health model and encompassed logs and metrics", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What technology in used to visualize the application health model and encompassed logs and metrics?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.1 A tool such as Azure Monitor or Grafana is used to visualize the application health model and encompassed logs and metrics", 
+    "Description": "What technology in used to visualize the application health model and encompassed logs and metrics?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

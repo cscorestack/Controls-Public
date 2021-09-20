@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000246", 
+  "control_attributes": {
+    "Control": "AU-9 (1) HARDWARE WRITE-ONCE MEDIA", 
+    "control_description": "The information system writes audit trails to hardware-enforced, write-once media.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to determine if organizational information has been disclosed in an unauthorized manner."
+  }, 
+  "Control Statement": "The information system writes audit trails to hardware-enforced, write-once media.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-9 (1) HARDWARE WRITE-ONCE MEDIA", 
+  "compliance_control_number": "600000246"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000076", 
+  "compliance_control_uri": "ISO-27001/0011/1100000076", 
+  "Control Name": "13.2.3 Electronic messaging", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Information involved in electronic messaging shall be appropriately protected", 
+  "control_attributes": {
+    "Clause_Category": "13.2 Information transfer", 
+    "description": "Information involved in electronic messaging shall be appropriately protected", 
+    "Control_Title": "13.2.3 Electronic messaging", 
+    "Control_Clause": "13. Communications security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

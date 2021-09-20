@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000109",
+  "compliance_control_uri": "SOC2/0017/1700000109",
+  "Control Name": "Establishes Responsibility and Accountability for Executing Policies and Procedures—Management establishes responsibility and accountability for control activities with management (or other designated personnel) of the business unit or function in which the relevant risks reside.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Establishes Responsibility and Accountability for Executing Policies and Procedures—Management establishes responsibility and accountability for control activities with management (or other designated personnel) of the business unit or function in which the relevant risks reside.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.3 COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "ControlNo": "CC5.3.2",
+    "TrustID": "CC5.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

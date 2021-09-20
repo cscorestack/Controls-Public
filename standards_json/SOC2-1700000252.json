@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000252",
+  "compliance_control_uri": "SOC2/0017/1700000252",
+  "Control Name": "Limits the Collection of Personal Information—The collection of personal information is limited to that necessary to meet the entity’s objectives.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Limits the Collection of Personal Information—The collection of personal information is limited to that necessary to meet the entity’s objectives.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P3.1 Personal information is collected consistent with the entity’s objectives related to privacy.",
+    "ControlNo": "P3.1.1",
+    "TrustID": "P3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

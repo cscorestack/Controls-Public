@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000236", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000236", 
+  "Control Name": "INFORMATION SPILLAGE RESPONSE | EXPOSURE TO UNAUTHORIZED PERSONNEL", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] for personnel exposed to information not within assigned access authorizations.Supplemental Guidance:  Security safeguards include, for example, making personnel exposed to spilled information aware of the federal laws, directives, policies, and/or regulations regarding the information and the restrictions imposed based on exposure to such information.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs [Assignment: organization-defined security safeguards] for personnel exposed to information not within assigned access authorizations.Supplemental Guidance:  Security safeguards include, for example, making personnel exposed to spilled information aware of the federal laws, directives, policies, and/or regulations regarding the information and the restrictions imposed based on exposure to such information.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-09 (04)", 
+    "CNTL NO": "IR-9 (4)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SPILLAGE RESPONSE | EXPOSURE TO UNAUTHORIZED PERSONNEL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000260",
+  "compliance_control_uri": "AWS-WAF/0016/160000260",
+  "Control Name": "COST 3.3 Establish organization metrics",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Establish the organization metrics that are required for this workload. Example metrics of a workload are customer reports produced or web pages served to customers.",
+  "control_attributes": {
+    "Control": "COST 3.3 Establish organization metrics",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_define_kpi"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

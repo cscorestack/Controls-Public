@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000280", 
+  "compliance_control_uri": "Azure-WAF/0015/150000280", 
+  "Control Name": "3.9.5 The health model can determine if the workload is performing at the expected targets.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "The health model should have the ability to evaluate application performance as a part of the application's overall health state.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.5 The health model can determine if the workload is performing at the expected targets.", 
+    "Description": "The health model should have the ability to evaluate application performance as a part of the application's overall health state."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

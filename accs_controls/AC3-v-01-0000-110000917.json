@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000917", 
+  "compliance_control_uri": "AC3-v-01/0000/110000917", 
+  "Control Name": "Ensure the web app has 'Client Certificates (Incoming client certificates)' set to 'On'", 
+  "Control Family": "AppService", 
+  "Control Statement": "Client certificates allow for the app to request a certificate for incoming requests. Only clients that have a valid certificate will be able to reach the app.", 
+  "control_attributes": {
+    "Control Name": "Ensure the web app has 'Client Certificates (Incoming client certificates)' set to 'On'", 
+    "Control Family": "AppService", 
+    "Control Statement": "Client certificates allow for the app to request a certificate for incoming requests. Only clients that have a valid certificate will be able to reach the app."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000104"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_Webapp_has_Client_Cert",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/OmdxU",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

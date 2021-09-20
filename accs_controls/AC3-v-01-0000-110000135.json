@@ -1,0 +1,78 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000135",
+  "compliance_control_uri": "AC3-v-01/0000/110000135",
+  "Control Name": "AU-13 (1) USE OF AUTOMATED TOOLS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization employs automated mechanisms to determine if organizational information has been disclosed in an unauthorized manner.",
+  "control_attributes": {
+    "Control Name": "AU-13 (1) USE OF AUTOMATED TOOLS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization employs automated mechanisms to determine if organizational information has been disclosed in an unauthorized manner."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000258",
+      "AWS-WAF/0016/160000130",
+      "Azure-WAF/0015/150000397",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fgdds",
+        "policy_name": "AWS_Alert_Configuration_For_CloudTrail_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/2cdfd",
+        "policy_name": "AWS_Audit_Guardduty_Non_Archived_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/2800c",
+        "policy_name": "AWS_Audit_GuardDuty_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/28c50",
+        "policy_name": "AWS_Audit_SecurityHub_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

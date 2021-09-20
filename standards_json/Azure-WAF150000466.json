@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000466", 
+  "compliance_control_uri": "Azure-WAF/0015/150000466", 
+  "Control Name": "5.9.3 Enhanced network visibility is enabled by integrating network logs into a Security information and event management (SIEM) solution or similar technology.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Integrating logs from the network devices, and even raw network traffic itself, will provide greater visibility into potential security threats flowing over the wire.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.3 Enhanced network visibility is enabled by integrating network logs into a Security information and event management (SIEM) solution or similar technology.", 
+    "Description": "Integrating logs from the network devices, and even raw network traffic itself, will provide greater visibility into potential security threats flowing over the wire."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

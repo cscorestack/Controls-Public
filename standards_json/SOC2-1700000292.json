@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000292",
+  "compliance_control_uri": "SOC2/0017/1700000292",
+  "Control Name": "Performs Ongoing Monitoring—Ongoing procedures are performed for monitoring the effectiveness of controls over personal information and for taking timely corrective actions when necessary.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Performs Ongoing Monitoring—Ongoing procedures are performed for monitoring the effectiveness of controls over personal information and for taking timely corrective actions when necessary.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P8.1 The entity implements a process for receiving, addressing, resolving, and communicating the resolution of inquiries, complaints, and disputes from data subjects and others and periodically monitors compliance to meet the entity’s objectives related to privacy. Corrections and other necessary actions related to identified deficiencies are made or taken in a timely manner.",
+    "ControlNo": "P8.1.6",
+    "TrustID": "P8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

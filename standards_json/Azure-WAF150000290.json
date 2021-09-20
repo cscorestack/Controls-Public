@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000290", 
+  "compliance_control_uri": "Azure-WAF/0015/150000290", 
+  "Control Name": "3.10.8 You are aware of the appropriate metrics to monitor for performance tests under standard load.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "A true performance test measures how the application performs under a standard load. It is critical to understand how your application operates--including CPU utilization and memory consumption--under a standard load. First, this will help you plan accordingly as you anticipate future user growth. Second, this gives you a baseline for performance regression testing.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.8 You are aware of the appropriate metrics to monitor for performance tests under standard load.", 
+    "Description": "A true performance test measures how the application performs under a standard load. It is critical to understand how your application operates--including CPU utilization and memory consumption--under a standard load. First, this will help you plan accordingly as you anticipate future user growth. Second, this gives you a baseline for performance regression testing."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000082", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000082", 
+  "Control Name": "6.4.5.4 Change control procedures for the implementation of security patches and software modifications must include the following:\\nBack-out procedures.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.4.5.4 Change control procedures for the implementation of security patches and software modifications must include the following:\\nBack-out procedures.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

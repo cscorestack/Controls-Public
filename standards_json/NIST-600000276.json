@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000276", 
+  "control_attributes": {
+    "Control": "CA-8 (2) RED TEAM EXERCISES", 
+    "control_description": "The organization employs [Assignment: organization-defined red team exercises] to simulate attempts by adversaries to compromise organizational information systems in accordance with [Assignment: organization-defined rules of engagement].", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires an information security representative to be a member of the [Assignment: organization-defined configuration change control element]."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined red team exercises] to simulate attempts by adversaries to compromise organizational information systems in accordance with [Assignment: organization-defined rules of engagement].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-8 (2) RED TEAM EXERCISES", 
+  "compliance_control_number": "600000276"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000073",
+  "compliance_control_uri": "AWS-WAF/0016/160000073",
+  "Control Name": "OPS 10.7 Automate responses to events",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Automate responses to events to reduce errors caused by manual processes, and to ensure prompt and consistent responses.",
+  "control_attributes": {
+    "Control": "OPS 10.7 Automate responses to events",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_auto_event_response"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

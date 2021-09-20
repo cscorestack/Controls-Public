@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000240", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000240", 
+  "Control Name": "Develop a process to modify and evolve the incident response plan according to lessons learned and to incorporate industry developments.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Develop a process to modify and evolve the incident response plan according to lessons learned and to incorporate industry developments.", 
+    "Requirement": "12.10.6.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

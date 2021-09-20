@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000566", 
+  "control_attributes": {
+    "Control": "RA-6 TECHNICAL SURVEILLANCE COUNTERMEASURES SURVEY", 
+    "control_description": "The organization employs a technical surveillance countermeasures survey at [Assignment: organization-defined locations] [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined events or indicators occur]].", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to provide design and implementation information for the security controls to be employed that includes: [Selection (one or more): security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics; [Assignment: organization-defined design/implementation information]] at [Assignment: organization-defined level of detail]."
+  }, 
+  "Control Statement": "The organization employs a technical surveillance countermeasures survey at [Assignment: organization-defined locations] [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined events or indicators occur]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-6 TECHNICAL SURVEILLANCE COUNTERMEASURES SURVEY", 
+  "compliance_control_number": "600000566"
+}

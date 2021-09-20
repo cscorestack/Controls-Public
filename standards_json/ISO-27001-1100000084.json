@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000084", 
+  "compliance_control_uri": "ISO-27001/0011/1100000084", 
+  "Control Name": "14.2.4 Restrictions on changes to software packages", 
+  "Control Family": "14. System acquisition, development and maintenance", 
+  "Control Statement": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled", 
+  "control_attributes": {
+    "Clause_Category": "14.2 Security in development and support processes", 
+    "description": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled", 
+    "Control_Title": "14.2.4 Restrictions on changes to software packages", 
+    "Control_Clause": "14. System acquisition, development and maintenance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000037",
+  "compliance_control_uri": "SOC2/0017/1700000037",
+  "Control Name": "Communicates Objectives and Changes to Objectives —The entity communicates its objectives and changes to those objectives to personnel in a timely manner. ",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates Objectives and Changes to Objectives —The entity communicates its objectives and changes to those objectives to personnel in a timely manner. ",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.2 COSO Principle 14: The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.",
+    "ControlNo": "CC2.2.7",
+    "TrustID": "CC2.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000158",
+  "compliance_control_uri": "AWS-WAF/0016/160000158",
+  "Control Name": "REL 5.2 Throttle requests",
+  "Control Family": "Reliability",
+  "Control Statement": "This is a mitigation pattern to respond to an unexpected increase in demand. Some requests are honored but those over a deﬁned limit are rejected and return a message indicating they have been throttled. The expectation on clients is that they will back oﬀ and abandon the request or try again at a slower rate.",
+  "control_attributes": {
+    "Control": "REL 5.2 Throttle requests",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_throttle_requests"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

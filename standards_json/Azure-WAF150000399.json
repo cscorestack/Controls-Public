@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000399", 
+  "compliance_control_uri": "Azure-WAF/0015/150000399", 
+  "Control Name": "5.1.7 Business critical workloads, which may adversely affect operations if they are compromised or become unavailable, were identified and classified", 
+  "Control Family": "5. Security", 
+  "Control Statement": ".Enterprise organizations typically have a large application portfolio. Have key business applications been identified and classified? This should include applications that have a high business impact if affected. Examples would be business critical data, regulated data, or business critical availability. These applications also might include applications which have a high exposure to attach such as public facing websites which are key to organizational success.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.1 Have you done a threat analysis of your workload?", 
+    "Control": "5.1.7 Business critical workloads, which may adversely affect operations if they are compromised or become unavailable, were identified and classified", 
+    "Description": ".Enterprise organizations typically have a large application portfolio. Have key business applications been identified and classified? This should include applications that have a high business impact if affected. Examples would be business critical data, regulated data, or business critical availability. These applications also might include applications which have a high exposure to attach such as public facing websites which are key to organizational success."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

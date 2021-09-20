@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000406", 
+  "compliance_control_uri": "Azure-WAF/0015/150000406", 
+  "Control Name": "5.2.7 Security plan for this workload was developed and is maintained.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "A security plan should be part of the main planning documentation for the cloud. It should include several core elements including organizational functions, security skilling, technical security architecture and capabilities roadmap.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.7 Security plan for this workload was developed and is maintained.", 
+    "Description": "A security plan should be part of the main planning documentation for the cloud. It should include several core elements including organizational functions, security skilling, technical security architecture and capabilities roadmap."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

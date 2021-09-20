@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000063",
+  "compliance_control_uri": "AWS-WAF/0016/160000063",
+  "Control Name": "OPS 9.5 Learn the expected patterns of activity for operations",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Establish patterns of operations activities to identify anomalous activity so that you can respond appropriately if necessary.",
+  "control_attributes": {
+    "Control": "OPS 9.5 Learn the expected patterns of activity for operations",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_learn_ops_usage_patterns"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

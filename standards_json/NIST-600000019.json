@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000019", 
+  "control_attributes": {
+    "Control": "AU-12 (1) SYSTEM-WIDE / TIME-CORRELATED AUDIT TRAIL", 
+    "control_description": "The information system compiles audit records from [Assignment: organization-defined information system components] into a system-wide (logical or physical) audit trail that is time-correlated to within [Assignment: organization-defined level of tolerance for the relationship between time stamps of individual records in the audit trail].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds]."
+  }, 
+  "Control Statement": "The information system compiles audit records from [Assignment: organization-defined information system components] into a system-wide (logical or physical) audit trail that is time-correlated to within [Assignment: organization-defined level of tolerance for the relationship between time stamps of individual records in the audit trail].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-12 (1) SYSTEM-WIDE / TIME-CORRELATED AUDIT TRAIL", 
+  "compliance_control_number": "600000019"
+}

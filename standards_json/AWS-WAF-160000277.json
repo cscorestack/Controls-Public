@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000277",
+  "compliance_control_uri": "AWS-WAF/0016/160000277",
+  "Control Name": "COST 7.1 Perform pricing model analysis",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Analyze each component of the workload. Determine if the component and resources will be running for extended periods (for commitment discounts), or dynamic and short running (for spot or on-demand). Perform an analysis on the workload using the Recommendations feature in AWS Cost Explorer.",
+  "control_attributes": {
+    "Control": "COST 7.1 Perform pricing model analysis",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you use pricing models to reduce cost?",
+    "question_id": "pricing-model",
+    "choice_id": "cost_pricing_model_analysis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

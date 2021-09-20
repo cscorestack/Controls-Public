@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000127", 
+  "control_attributes": {
+    "Control": "AC-2 (5) INACTIVITY LOGOUT", 
+    "control_description": "The organization requires that users log out when [Assignment: organization-defined time-period of expected inactivity or description of when to log out].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces a role-based access control policy over defined subjects and objects and controls access based upon [Assignment: organization-defined roles and users authorized to assume such roles]."
+  }, 
+  "Control Statement": "The organization requires that users log out when [Assignment: organization-defined time-period of expected inactivity or description of when to log out].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (5) INACTIVITY LOGOUT", 
+  "compliance_control_number": "600000127"
+}

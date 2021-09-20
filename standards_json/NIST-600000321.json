@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000321", 
+  "control_attributes": {
+    "Control": "CP-2 (6) ALTERNATE PROCESSING / STORAGE SITE", 
+    "control_description": "The organization plans for the transfer of essential missions and business functions to alternate processing and/or storage sites with little or no loss of operational continuity and sustains that continuity through information system restoration to primary processing and/or storage sites.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to more thoroughly and effectively test the contingency plan."
+  }, 
+  "Control Statement": "The organization plans for the transfer of essential missions and business functions to alternate processing and/or storage sites with little or no loss of operational continuity and sustains that continuity through information system restoration to primary processing and/or storage sites.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (6) ALTERNATE PROCESSING / STORAGE SITE", 
+  "compliance_control_number": "600000321"
+}

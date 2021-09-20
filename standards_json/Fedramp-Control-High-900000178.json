@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000178", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000178", 
+  "Control Name": "INFORMATION SYSTEM RECOVERY AND RECONSTITUTION | TRANSACTION RECOVERY", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The information system implements transaction recovery for systems that are transaction-based.Supplemental Guidance:  Transaction-based information systems include, for example, database management systems and transaction processing systems. Mechanisms supporting transaction recovery include, for example, transaction rollback and transaction journaling.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The information system implements transaction recovery for systems that are transaction-based.Supplemental Guidance:  Transaction-based information systems include, for example, database management systems and transaction processing systems. Mechanisms supporting transaction recovery include, for example, transaction rollback and transaction journaling.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-10 (02)", 
+    "CNTL NO": "CP-10 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM RECOVERY AND RECONSTITUTION | TRANSACTION RECOVERY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000223",
+  "compliance_control_uri": "AWS-WAF/0016/160000223",
+  "Control Name": "PERF 4.5 Optimize data storage based on access patterns and metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use performance characteristics and access patterns that optimize how data is stored or queried to achieve the best possible performance. Measure how optimizations such as indexing, key distribution, data warehouse design, or caching strategies impact system performance or overall eﬃciency.",
+  "control_attributes": {
+    "Control": "PERF 4.5 Optimize data storage based on access patterns and metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your database solution?",
+    "question_id": "right-database-solution",
+    "choice_id": "perf_right_database_solution_optimize_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

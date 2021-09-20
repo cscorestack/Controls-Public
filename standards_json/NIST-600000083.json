@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000083", 
+  "control_attributes": {
+    "Control": "SC-22 ARCHITECTURE AND PROVISIONING FOR NAME / ADDRESS RESOLUTION SERVICE", 
+    "control_description": "The information systems that collectively provide name/address resolution service for an organization are fault-tolerant and implement internal/external role separation.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies]."
+  }, 
+  "Control Statement": "The information systems that collectively provide name/address resolution service for an organization are fault-tolerant and implement internal/external role separation.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-22 ARCHITECTURE AND PROVISIONING FOR NAME / ADDRESS RESOLUTION SERVICE", 
+  "compliance_control_number": "600000083"
+}

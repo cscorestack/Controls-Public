@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000627",
+  "compliance_control_uri": "AC3-v-01/0000/110000627",
+  "Control Name": "SA-9 (5) PROCESSING, STORAGE, AND SERVICE LOCATION",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization restricts the location of [Selection (one or more): information processing; information/data; information system services] to [Assignment: organization-defined locations] based on [Assignment: organization-defined requirements or conditions].",
+  "control_attributes": {
+    "Control Name": "SA-9 (5) PROCESSING, STORAGE, AND SERVICE LOCATION",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization restricts the location of [Selection (one or more): information processing; information/data; information system services] to [Assignment: organization-defined locations] based on [Assignment: organization-defined requirements or conditions]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000587",
+      "ISO-27001/0011/1100000094",
+      "ISO-27001/0011/1100000095",
+      "Fedramp-Control-Moderate/0010/100000025",
+      "Fedramp-Control-High/0009/900000332",
+      "ISO/0001/100000069",
+      "ISO/0001/100000070"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

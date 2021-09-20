@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000026",
+  "compliance_control_uri": "SOC2/0017/1700000026",
+  "Control Name": "Evaluates Performance and Rewards or Disciplines Individuals—Management and the board of directors evaluate performance of internal control responsibilities, including adherence to standards of conduct and expected levels of competence, and provide rewards or exercise disciplinary action, as appropriate.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Evaluates Performance and Rewards or Disciplines Individuals—Management and the board of directors evaluate performance of internal control responsibilities, including adherence to standards of conduct and expected levels of competence, and provide rewards or exercise disciplinary action, as appropriate.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.5 COSO Principle 5: The entity holds individuals accountable for their internal control responsibilities in the pursuit of objectives.",
+    "ControlNo": "CC1.5.5",
+    "TrustID": "CC1.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

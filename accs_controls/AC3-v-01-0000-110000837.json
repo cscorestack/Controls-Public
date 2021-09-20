@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000837",
+  "compliance_control_uri": "AC3-v-01/0000/110000837",
+  "Control Name": "COST 2.5 Implement cost controls",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement controls based on organization policies and deﬁned groups and roles. These ensure that costs are only incurred as deﬁned by organization requirements: for example, control access to regions or resource types with IAM policies.",
+  "control_attributes": {
+    "Control Name": "COST 2.5 Implement cost controls",
+    "Control Family": "Cost Optimization",
+    "Control Statement": "Implement controls based on organization policies and deﬁned groups and roles. These ensure that costs are only incurred as deﬁned by organization requirements: for example, control access to regions or resource types with IAM policies."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Account",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "AWS-WAF/0016/160000256"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

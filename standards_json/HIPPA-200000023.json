@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000023", 
+  "compliance_control_uri": "HIPAA/0002/200000023", 
+  "Control Name": "Device and Media Controls  Data Backup and Storage Procedures - 164.310(d)(2)(iv)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Create a retrievable, exact copy of electronic protected health information, when needed, before movement of equipment.", 
+  "control_attributes": {
+    "Control": "Device and Media Controls  Data Backup and Storage Procedures - 164.310(d)(2)(iv)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Create a retrievable, exact copy of electronic protected health information, when needed, before movement of equipment."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

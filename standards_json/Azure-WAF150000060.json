@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000060", 
+  "compliance_control_uri": "Azure-WAF/0015/150000060", 
+  "Control Name": "1.8.3 Microsoft backbone network is preferred.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "If users are closer to the cloud than on-premises, Microsoft backbone and ExpressRoute or VPN Gateway should be used for network traffic (i.e. egress).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.8 How do you manage networking costs for this workload?", 
+    "Control": "1.8.3 Microsoft backbone network is preferred.", 
+    "Description": "If users are closer to the cloud than on-premises, Microsoft backbone and ExpressRoute or VPN Gateway should be used for network traffic (i.e. egress)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000255",
+  "compliance_control_uri": "AC3-v-01/0000/110000255",
+  "Control Name": "CP-10 (4) RESTORE WITHIN TIME PERIOD",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.",
+  "control_attributes": {
+    "Control Name": "CP-10 (4) RESTORE WITHIN TIME PERIOD",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000355",
+      "ISO-27001/0011/1100000104",
+      "Fedramp-Control-High/0009/900000179"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

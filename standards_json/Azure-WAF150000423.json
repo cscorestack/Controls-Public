@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000423", 
+  "compliance_control_uri": "Azure-WAF/0015/150000423", 
+  "Control Name": "5.4.6 Code scanning tools are integrated as part of the continuous integration (CI) process for this workload and cover also 3rd party dependencies.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Credentials should not be stored in source code or configuration files, because that increases the risk of exposure. Code analyzers (such as Roslyn analyzers for Visual Studio) can prevent from pushing credentials to source code repository and pipeline addons such as CredScan (part of Microsoft Security Code Analysis) help to catch credentials during the build process. Vulnerable dependencies should be flagged and investigated. This can done in combination with other code scanning tasks (e.g. code churn, test results/coverage).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.6 Code scanning tools are integrated as part of the continuous integration (CI) process for this workload and cover also 3rd party dependencies.", 
+    "Description": "Credentials should not be stored in source code or configuration files, because that increases the risk of exposure. Code analyzers (such as Roslyn analyzers for Visual Studio) can prevent from pushing credentials to source code repository and pipeline addons such as CredScan (part of Microsoft Security Code Analysis) help to catch credentials during the build process. Vulnerable dependencies should be flagged and investigated. This can done in combination with other code scanning tasks (e.g. code churn, test results/coverage)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

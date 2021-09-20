@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000077", 
+  "compliance_control_uri": "Azure-WAF/0015/150000077", 
+  "Control Name": "2.1.3 You have identified all broader teams responsible for operational aspects of the application and have established remediation plans with them for any issues that occur.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Different teams such as Central IT, Security, or Networking may be responsible for aspects of the application which are controlled centrally, such as a shared network virtual appliance (NVA).", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.1 Have you identified and planned out the roles and responsibilities to ensure your workload follows operational excellence best practices?", 
+    "Control": "2.1.3 You have identified all broader teams responsible for operational aspects of the application and have established remediation plans with them for any issues that occur.", 
+    "Description": "Different teams such as Central IT, Security, or Networking may be responsible for aspects of the application which are controlled centrally, such as a shared network virtual appliance (NVA)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

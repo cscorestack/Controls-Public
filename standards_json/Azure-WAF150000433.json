@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000433", 
+  "compliance_control_uri": "Azure-WAF/0015/150000433", 
+  "Control Name": "5.5.6 Access to data storage is identity-based, whenever possible.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Protecting data at rest is required to maintain confidentiality, integrity, and availability assurances across all workloads. Cloud service providers make multiple methods of access control available - shared keys, shared signatures, anonymous access, identity provider-based. Identity provider methods (such as AAD and RBAC) are the least liable to compromise and enable more fine-grained role-based access controls.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.6 Access to data storage is identity-based, whenever possible.", 
+    "Description": "Protecting data at rest is required to maintain confidentiality, integrity, and availability assurances across all workloads. Cloud service providers make multiple methods of access control available - shared keys, shared signatures, anonymous access, identity provider-based. Identity provider methods (such as AAD and RBAC) are the least liable to compromise and enable more fine-grained role-based access controls."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

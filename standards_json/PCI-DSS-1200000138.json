@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000138", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000138", 
+  "Control Name": "Visitors are asked to surrender the badge or identification before leaving the facility or at the date of expiration.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Visitors are asked to surrender the badge or identification before leaving the facility or at the date of expiration.", 
+    "Requirement": "9.4.3. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000035",
+  "compliance_control_uri": "AWS-WAF/0016/160000035",
+  "Control Name": "OPS 5.8 Use multiple environments",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use multiple environments to experiment, develop, and test your workload. Use increasing levels of controls as environments approach production to gain conﬁdence your workload will operate as intended when deployed.",
+  "control_attributes": {
+    "Control": "OPS 5.8 Use multiple environments",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_multi_env"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

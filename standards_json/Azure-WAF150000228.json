@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000228", 
+  "compliance_control_uri": "Azure-WAF/0015/150000228", 
+  "Control Name": "3.2.1 You are able to predict general application usage.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "It is important to understand application and environment usage. The customer may have an understanding of certain seasons or incidents that increase user load (e.g. a weather service being hit by users facing a storm, an e-commerce site during the holiday season).", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.2 Have you identified the performance targets and non-functional requirements for your workload?", 
+    "Control": "3.2.1 You are able to predict general application usage.", 
+    "Description": "It is important to understand application and environment usage. The customer may have an understanding of certain seasons or incidents that increase user load (e.g. a weather service being hit by users facing a storm, an e-commerce site during the holiday season)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

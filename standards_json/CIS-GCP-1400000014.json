@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000014", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000014", 
+  "Control Name": "1.14 Ensure API keys are restricted to only APIs that application needs access", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "API keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to restrict API keys to use (call) only APIs required by an application.", 
+  "control_attributes": {
+    "Control": "1.14 Ensure API keys are restricted to only APIs that application needs access", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "API keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to restrict API keys to use (call) only APIs required by an application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

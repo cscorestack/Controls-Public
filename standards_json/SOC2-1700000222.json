@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000222",
+  "compliance_control_uri": "SOC2/0017/1700000222",
+  "Control Name": "Implements Alternate Processing Infrastructure—Measures are implemented for migrating processing to alternate infrastructure in the event normal processing infrastructure becomes unavailable.  ",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Implements Alternate Processing Infrastructure—Measures are implemented for migrating processing to alternate infrastructure in the event normal processing infrastructure becomes unavailable.  ",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.2 The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.",
+    "ControlNo": "A1.2.10",
+    "TrustID": "A1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

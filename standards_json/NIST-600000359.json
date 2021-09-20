@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000359", 
+  "control_attributes": {
+    "Control": "CP-13 ALTERNATIVE SECURITY MECHANISMS", 
+    "control_description": "The organization employs [Assignment: organization-defined alternative or supplemental security mechanisms] for satisfying [Assignment: organization-defined security functions] when the primary means of implementing the security function is unavailable or compromised.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides a single sign-on capability for [Assignment: organization-defined information system accounts and services]."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined alternative or supplemental security mechanisms] for satisfying [Assignment: organization-defined security functions] when the primary means of implementing the security function is unavailable or compromised.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-13 ALTERNATIVE SECURITY MECHANISMS", 
+  "compliance_control_number": "600000359"
+}

@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000919", 
+  "compliance_control_uri": "AC3-v-01/0000/110000919", 
+  "Control Name": "Ensure that 'PHP version' is the latest, if used to run the web app", 
+  "Control Family": "AppService", 
+  "Control Statement": "Periodically newer versions are released for PHP software either due to security flaws or to include additional functionality. Using the latest PHP version for web apps is recommended in order to take advantage of security fixes, if any, and/or additional functionalities of the newer version.", 
+  "control_attributes": {
+    "Control Name": "Ensure that 'PHP version' is the latest, if used to run the web app", 
+    "Control Family": "AppService", 
+    "Control Statement": "Periodically newer versions are released for PHP software either due to security flaws or to include additional functionality. Using the latest PHP version for web apps is recommended in order to take advantage of security fixes, if any, and/or additional functionalities of the newer version."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000106"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_WebApp_using_Latest_PHP",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/uTAQQ",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

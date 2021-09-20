@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000106",
+  "compliance_control_uri": "AWS-WAF/0016/160000106",
+  "Control Name": "SEC 4.2 Analyze logs, ﬁndings, and metrics centrally",
+  "Control Family": "Security",
+  "Control Statement": "All logs, metrics, and telemetry should be collected centrally, and automatically analyzed to detect anomalies and indicators of unauthorized activity. A dashboard can provide you easy to access insight into real-time health. For example, ensure that Amazon GuardDuty and Security Hub logs are sent to a central location for alerting and analysis.",
+  "control_attributes": {
+    "Control": "SEC 4.2 Analyze logs, ﬁndings, and metrics centrally",
+    "Category": "Security",
+    "Subcategory": "How do you detect and investigate security events?",
+    "question_id": "detect-investigate-events",
+    "choice_id": "sec_detect_investigate_events_analyze_all"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

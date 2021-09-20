@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000134", 
+  "compliance_control_uri": "Azure-WAF/0015/150000134", 
+  "Control Name": "2.9.4 The impact of changes in application health on capacity is fully understood", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the impact of changes in application health on capacity fully understood?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.4 The impact of changes in application health on capacity is fully understood", 
+    "Description": "Is the impact of changes in application health on capacity fully understood?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

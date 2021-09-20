@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000097", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000097", 
+  "Control Name": "SECURITY ASSESSMENTS | EXTERNAL ORGANIZATIONS", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization accepts the results of an assessment of [Assignment: organization-defined information system] performed by [Assignment: organization-defined external organization] when the assessment meets [Assignment: organization-defined requirements].Supplemental Guidance:  Organizations may often rely on assessments of specific information systems by other (external) organizations. Utilizing such existing assessments (i.e., reusing existing assessment evidence) can significantly decrease the time and resources required for organizational assessments by limiting the amount of independent assessment activities that organizations need to perform. The factors that organizations may consider in determining whether to accept assessment results from external organizations can vary. Determinations for accepting assessment results can be based on, for example, past assessment experiences one organization has had with another organization, the reputation that organizations have with regard to assessments, the level of detail of supporting assessment documentation provided, or mandates imposed upon organizations by federal legislation, policies, or directives.", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization accepts the results of an assessment of [Assignment: organization-defined information system] performed by [Assignment: organization-defined external organization] when the assessment meets [Assignment: organization-defined requirements].Supplemental Guidance:  Organizations may often rely on assessments of specific information systems by other (external) organizations. Utilizing such existing assessments (i.e., reusing existing assessment evidence) can significantly decrease the time and resources required for organizational assessments by limiting the amount of independent assessment activities that organizations need to perform. The factors that organizations may consider in determining whether to accept assessment results from external organizations can vary. Determinations for accepting assessment results can be based on, for example, past assessment experiences one organization has had with another organization, the reputation that organizations have with regard to assessments, the level of detail of supporting assessment documentation provided, or mandates imposed upon organizations by federal legislation, policies, or directives.", 
+    "SelectionParam": "CA-2 (3)-1 [any FedRAMP Accredited 3PAO]CA-2 (3)-1-2 [any FedRAMP Accredited 3PAO]CA-2 (3)-1-3 [the conditions of the JAB/AO in the FedRAMP Repository]", 
+    "FedRampParam": "x", 
+    "SORTID": "CA-02 (03)", 
+    "CNTL NO": "CA-2 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY ASSESSMENTS | EXTERNAL ORGANIZATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

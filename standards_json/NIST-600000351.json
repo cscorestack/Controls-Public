@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000351", 
+  "control_attributes": {
+    "Control": "CP-9 (6) REDUNDANT SECONDARY SYSTEM", 
+    "control_description": "The organization accomplishes information system backup by maintaining a redundant secondary system that is not collocated with the primary system and that can be activated without loss of information or disruption to operations.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements multifactor authentication for network access to non-privileged accounts."
+  }, 
+  "Control Statement": "The organization accomplishes information system backup by maintaining a redundant secondary system that is not collocated with the primary system and that can be activated without loss of information or disruption to operations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 (6) REDUNDANT SECONDARY SYSTEM", 
+  "compliance_control_number": "600000351"
+}

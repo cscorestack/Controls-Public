@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000039", 
+  "compliance_control_uri": "ISO/0001/100000119", 
+  "Control Name": "9.4.5 Access control to program source code", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Access to program source code shall be restricted.", 
+  "control_attributes": {
+    "Control_Objective": "9.4.5 Access control to program source code", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.4 - System and application access control", 
+    "description": "Access to program source code shall be restricted."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

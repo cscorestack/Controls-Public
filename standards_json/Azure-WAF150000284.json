@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000284", 
+  "compliance_control_uri": "Azure-WAF/0015/150000284", 
+  "Control Name": "3.10.2 Have an overall monitoring strategy for scalability.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "The overall monitoring strategy should take into consideration not only scalability, but resiliency (infrastructure, application and dependent services) and application performance as well.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.2 Have an overall monitoring strategy for scalability.", 
+    "Description": "The overall monitoring strategy should take into consideration not only scalability, but resiliency (infrastructure, application and dependent services) and application performance as well."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

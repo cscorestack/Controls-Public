@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000024", 
+  "compliance_control_uri": "CIS-Azure/0015/150000024", 
+  "Control Name": "2.1 Ensure that Azure Defender is set to On for Servers", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "Turning on Azure Defender enables threat detection for Server, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center.", 
+  "control_attributes": {
+    "Control": "2.1 Ensure that Azure Defender is set to On for Servers", 
+    "Control_Clause": "2 Security Center", 
+    "description": "Turning on Azure Defender enables threat detection for Server, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

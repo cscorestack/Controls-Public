@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000018", 
+  "compliance_control_uri": "HIPAA/0002/200000018", 
+  "Control Name": "Security Incident Procedures  Response and Reporting - 164.308(a)(6)(ii)", 
+  "Control Family": "Security Incident Procedures", 
+  "Control Statement": "Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes.", 
+  "control_attributes": {
+    "Control": "Security Incident Procedures  Response and Reporting - 164.308(a)(6)(ii)", 
+    "Security_Category": "Security Incident Procedures", 
+    "Control_description": "Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

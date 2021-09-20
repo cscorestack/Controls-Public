@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000061", 
+  "compliance_control_uri": "CIS-Azure/0003/300000061", 
+  "Control Name": "2.1. Ensure that standard pricing tier is selected", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "The standard pricing tier enables threat detection for networks and virtual machines,providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center", 
+  "control_attributes": {
+    "Control": "2.1. Ensure that standard pricing tier is selected", 
+    "Control_Clause": "2. Security Center", 
+    "description": "The standard pricing tier enables threat detection for networks and virtual machines,providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

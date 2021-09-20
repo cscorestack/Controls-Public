@@ -1,0 +1,63 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000250",
+  "compliance_control_uri": "AC3-v-01/0000/110000250",
+  "Control Name": "CM-8 INFORMATION SYSTEM COMPONENT INVENTORY",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "Organizations may choose to implement centralized information system component inventories that include components from all organizational information systems. In such situations, organizations ensure that the resulting inventories include system-specific information required for proper component accountability (e.g., information system association, information system owner). Information deemed necessary for effective accountability of information system components includes, for example, hardware inventory specifications, software license information, software version numbers, component owners, and for networked components or devices, machine names and network addresses. Inventory specifications include, for example, manufacturer, device type, model, serial number, and physical location.",
+  "control_attributes": {
+    "Control Name": "CM-8 INFORMATION SYSTEM COMPONENT INVENTORY",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "Organizations may choose to implement centralized information system component inventories that include components from all organizational information systems. In such situations, organizations ensure that the resulting inventories include system-specific information required for proper component accountability (e.g., information system association, information system owner). Information deemed necessary for effective accountability of information system components includes, for example, hardware inventory specifications, software license information, software version numbers, component owners, and for networked components or devices, machine names and network addresses. Inventory specifications include, for example, manufacturer, device type, model, serial number, and physical location."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000036",
+      "Fedramp-Control-Moderate/0010/1000000101",
+      "Fedramp-Control-High/0009/900000134",
+      "HIPAA/0002/200000063",
+      "HIPAA/0002/200000066",
+      "SOC2/0017/1700000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

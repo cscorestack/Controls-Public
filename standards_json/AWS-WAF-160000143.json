@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000143",
+  "compliance_control_uri": "AWS-WAF/0016/160000143",
+  "Control Name": "REL 1.5 Automate quota management",
+  "Control Family": "Reliability",
+  "Control Statement": "Implement tools to alert you when thresholds are being approached. By using AWS Service Quotas APIs, you can automate quota increase requests.",
+  "control_attributes": {
+    "Control": "REL 1.5 Automate quota management",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_automated_monitor_limits"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

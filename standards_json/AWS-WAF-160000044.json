@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000044",
+  "compliance_control_uri": "AWS-WAF/0016/160000044",
+  "Control Name": "OPS 6.7 Fully automate integration and deployment",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Automate build, deployment, and testing of the workload. This reduces errors cause by manual processes and reduces the eﬀort to deploy changes.",
+  "control_attributes": {
+    "Control": "OPS 6.7 Fully automate integration and deployment",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_auto_integ_deploy"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

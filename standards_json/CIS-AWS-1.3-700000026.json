@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000026", 
+  "compliance_control_uri": "CIS-AWS/0007/700000026", 
+  "Control Name": "3.1 Ensure CloudTrail is enabled in all regions", 
+  "Control Family": "Logging", 
+  "Control Statement": "The AWS API call history produced by CloudTrail enables security analysis, resource change tracking, and compliance auditing.", 
+  "control_attributes": {
+    "Control": "3.1 Ensure CloudTrail is enabled in all regions", 
+    "Category": "Logging", 
+    "Control_description": "The AWS API call history produced by CloudTrail enables security analysis, resource change tracking, and compliance auditing."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

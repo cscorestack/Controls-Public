@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000272",
+  "compliance_control_uri": "SOC2/0017/1700000272",
+  "Control Name": "Discloses Personal Information Only When Appropriate—Personal information is disclosed to third parties only for the purposes for which it was collected or created and only when implicit or explicit consent has been obtained from the data subject, unless a law or regulation specifically requires otherwise.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Discloses Personal Information Only When Appropriate—Personal information is disclosed to third parties only for the purposes for which it was collected or created and only when implicit or explicit consent has been obtained from the data subject, unless a law or regulation specifically requires otherwise.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.1 The entity discloses personal information to third parties with the explicit consent of data subjects, and such consent is obtained prior to disclosure to meet the entity’s objectives related to privacy",
+    "ControlNo": "P6.1.2",
+    "TrustID": "P6.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

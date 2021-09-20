@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000216",
+  "compliance_control_uri": "AWS-WAF/0016/160000216",
+  "Control Name": "PERF 3.1 Understand storage characteristics and requirements",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Understand the diﬀerent characteristics (for example, shareable, ﬁle size, cache size, access patterns, latency, throughput, and persistence of\ndata) that are required to select the services that best ﬁt your workload, such as object storage, block storage, ﬁle storage, or instance storage.",
+  "control_attributes": {
+    "Control": "PERF 3.1 Understand storage characteristics and requirements",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your storage solution?",
+    "question_id": "right-storage-solution",
+    "choice_id": "perf_right_storage_solution_understand_char"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

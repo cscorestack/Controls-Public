@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000557",
+  "compliance_control_uri": "AC3-v-01/0000/110000557",
+  "Control Name": "SA-11 (7) VERIFY SCOPE OF TESTING / EVALUATION",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to verify that the scope of security testing/evaluation provides complete coverage of required security controls at [Assignment: organization-defined depth of testing/evaluation].",
+  "control_attributes": {
+    "Control Name": "SA-11 (7) VERIFY SCOPE OF TESTING / EVALUATION",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to verify that the scope of security testing/evaluation provides complete coverage of required security controls at [Assignment: organization-defined depth of testing/evaluation]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000602",
+      "Azure-WAF/0015/150000421"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

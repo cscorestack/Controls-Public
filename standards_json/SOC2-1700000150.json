@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000150",
+  "compliance_control_uri": "SOC2/0017/1700000150",
+  "Control Name": "Implements Change-Detection Mechanisms—The IT system includes a change-detection mechanism (for example, file integrity monitoring tools) to alert personnel to unauthorized modifications of critical system files, configuration files, or content files. ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Implements Change-Detection Mechanisms—The IT system includes a change-detection mechanism (for example, file integrity monitoring tools) to alert personnel to unauthorized modifications of critical system files, configuration files, or content files. ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.1 To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities.",
+    "ControlNo": "CC7.1.3",
+    "TrustID": "CC7.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

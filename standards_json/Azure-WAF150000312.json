@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000312", 
+  "compliance_control_uri": "Azure-WAF/0015/150000312", 
+  "Control Name": "4.3.4 Confirmed Availability Zones are available in required regions.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are Azure Availability Zones available in all of the required regions, including any disaster recovery regions?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.4 Confirmed Availability Zones are available in required regions.", 
+    "Description": "Are Azure Availability Zones available in all of the required regions, including any disaster recovery regions?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,60 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000510",
+  "compliance_control_uri": "AC3-v-01/0000/110000510",
+  "Control Name": "PM-5 INFORMATION SYSTEM INVENTORY",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization develops and maintains an inventory of its information systems.",
+  "control_attributes": {
+    "Control Name": "PM-5 INFORMATION SYSTEM INVENTORY",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization develops and maintains an inventory of its information systems."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Databases, Network,Storage, Container,Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000815",
+      "SOC2/0017/1700000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_id": "5ddbbcf84a5ab775f11c7e8f",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

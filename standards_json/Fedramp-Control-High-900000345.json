@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000345", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000345", 
+  "Control Name": "APPLICATION PARTITIONING", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system separates user functionality (including user interface services) from information system management functionality.Supplemental Guidance:  Information system management functionality includes, for example, functions necessary to administer databases, network components, workstations, or servers, and typically requires privileged user access. The separation of user functionality from information system management functionality is either physical or logical. Organizations implement separation of system management-related functionality from user functionality by using different computers, different central processing units, different instances of operating systems, different network addresses, virtualization techniques, or combinations of these or other methods, as appropriate. This type of separation includes, for example, web administrative interfaces that use separate authentication methods for users of any other information system resources. Separation of system and user functionality may include isolating administrative interfaces on different domains and with additional access controls. Related controls: SA-4, SA-8, SC-3.References: None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system separates user functionality (including user interface services) from information system management functionality.Supplemental Guidance:  Information system management functionality includes, for example, functions necessary to administer databases, network components, workstations, or servers, and typically requires privileged user access. The separation of user functionality from information system management functionality is either physical or logical. Organizations implement separation of system management-related functionality from user functionality by using different computers, different central processing units, different instances of operating systems, different network addresses, virtualization techniques, or combinations of these or other methods, as appropriate. This type of separation includes, for example, web administrative interfaces that use separate authentication methods for users of any other information system resources. Separation of system and user functionality may include isolating administrative interfaces on different domains and with additional access controls. Related controls: SA-4, SA-8, SC-3.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-02", 
+    "CNTL NO": "SC-2", 
+    "AdditionalReq": " ", 
+    "Control Name": "APPLICATION PARTITIONING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

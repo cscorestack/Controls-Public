@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000020", 
+  "control_attributes": {
+    "Control": "AU-12 (3) CHANGES BY AUTHORIZED INDIVIDUALS", 
+    "control_description": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-12 (3) CHANGES BY AUTHORIZED INDIVIDUALS", 
+  "compliance_control_number": "600000020"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000110", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000110", 
+  "Control Name": "BASELINE CONFIGURATION", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.Supplemental Guidance:  This control establishes baseline configurations for information systems and system components including communications and connectivity-related aspects of systems. Baseline configurations are documented, formally reviewed and agreed-upon sets of specifications for information systems or configuration items within those systems. Baseline configurations serve as a basis for future builds, releases, and/or changes to information systems. Baseline configurations include information about information system components (e.g., standard software packages installed on workstations, notebook computers, servers, network components, or mobile devices; current version numbers and patch information on operating systems and applications; and configuration settings/parameters), network topology, and the logical placement of those components within the system architecture. Maintaining baseline configurations requires creating new baselines as organizational information systems change over time. Baseline configurations of information systems reflect the current enterprise architecture. Related controls: CM-3, CM-6, CM-8, CM-9, SA-10, PM-5, PM-7.References: NIST Special Publication 800-128.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.Supplemental Guidance:  This control establishes baseline configurations for information systems and system components including communications and connectivity-related aspects of systems. Baseline configurations are documented, formally reviewed and agreed-upon sets of specifications for information systems or configuration items within those systems. Baseline configurations serve as a basis for future builds, releases, and/or changes to information systems. Baseline configurations include information about information system components (e.g., standard software packages installed on workstations, notebook computers, servers, network components, or mobile devices; current version numbers and patch information on operating systems and applications; and configuration settings/parameters), network topology, and the logical placement of those components within the system architecture. Maintaining baseline configurations requires creating new baselines as organizational information systems change over time. Baseline configurations of information systems reflect the current enterprise architecture. Related controls: CM-3, CM-6, CM-8, CM-9, SA-10, PM-5, PM-7.References: NIST Special Publication 800-128.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-02", 
+    "CNTL NO": "CM-2", 
+    "AdditionalReq": " ", 
+    "Control Name": "BASELINE CONFIGURATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

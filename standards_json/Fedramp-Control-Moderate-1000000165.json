@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000165", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000165", 
+  "Control Name": "INCIDENT HANDLING | AUTOMATED INCIDENT HANDLING PROCESSES", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs automated mechanisms to support the incident handling process.Supplemental Guidance:  Automated mechanisms supporting incident handling processes include, for example, online incident management systems.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs automated mechanisms to support the incident handling process.Supplemental Guidance:  Automated mechanisms supporting incident handling processes include, for example, online incident management systems.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-04 (01)", 
+    "CNTL NO": "IR-4 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT HANDLING | AUTOMATED INCIDENT HANDLING PROCESSES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

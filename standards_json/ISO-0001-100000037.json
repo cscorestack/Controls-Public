@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000037", 
+  "compliance_control_uri": "ISO/0001/100000096", 
+  "Control Name": "9.4.3 Password management system", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Password management systems shall be interactive and shall ensure quality passwords.", 
+  "control_attributes": {
+    "Control_Objective": "9.4.3 Password management system", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.4 - System and application access control", 
+    "description": "Password management systems shall be interactive and shall ensure quality passwords."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

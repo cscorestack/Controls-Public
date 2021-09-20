@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000150", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000150", 
+  "Control Name": "Protect devices that capture payment card data via direct physical interaction with the card from tampering and substitution.\\n\\n Note: These requirements apply to card-reading devices used in card-present transactions (that is, card swipe or dip) at the point of sale. This requirement is not intended to apply to manual key-entry components such as computer keyboards and POS keypads. ", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Protect devices that capture payment card data via direct physical interaction with the card from tampering and substitution.\\n\\n Note: These requirements apply to card-reading devices used in card-present transactions (that is, card swipe or dip) at the point of sale. This requirement is not intended to apply to manual key-entry components such as computer keyboards and POS keypads. ", 
+    "Requirement": "9.9. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

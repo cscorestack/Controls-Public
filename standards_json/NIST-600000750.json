@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000750", 
+  "control_attributes": {
+    "Control": "SI-2 (6) REMOVAL OF PREVIOUS VERSIONS OF SOFTWARE / FIRMWARE", 
+    "control_description": "The organization removes [Assignment: organization-defined software and firmware components] after updated versions have been installed.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system updates malicious code protection mechanisms only when directed by a privileged user."
+  }, 
+  "Control Statement": "The organization removes [Assignment: organization-defined software and firmware components] after updated versions have been installed.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-2 (6) REMOVAL OF PREVIOUS VERSIONS OF SOFTWARE / FIRMWARE", 
+  "compliance_control_number": "600000750"
+}

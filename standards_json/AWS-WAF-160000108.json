@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000108",
+  "compliance_control_uri": "AWS-WAF/0016/160000108",
+  "Control Name": "SEC 4.4 Implement actionable security events",
+  "Control Family": "Security",
+  "Control Statement": "Create alerts that are sent to and can be actioned by your team. Ensure that alerts include relevant information for the team to take action. For example, ensure that Amazon GuardDuty and AWS Security Hub alerts are sent to the team to action, or sent to response automation tooling with the team remaining informed by messaging from the automation framework.",
+  "control_attributes": {
+    "Control": "SEC 4.4 Implement actionable security events",
+    "Category": "Security",
+    "Subcategory": "How do you detect and investigate security events?",
+    "question_id": "detect-investigate-events",
+    "choice_id": "sec_detect_investigate_events_actionable_events"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

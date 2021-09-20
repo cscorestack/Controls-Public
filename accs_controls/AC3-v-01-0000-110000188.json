@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000188",
+  "compliance_control_uri": "AC3-v-01/0000/110000188",
+  "Control Name": "CA-3 (3) UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, non-national security system] to an external network without the use of [Assignment; organization-defined boundary protection device].",
+  "control_attributes": {
+    "Control Name": "CA-3 (3) UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, non-national security system] to an external network without the use of [Assignment; organization-defined boundary protection device]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000270",
+      "Fedramp-Control-Moderate/0010/1000000074",
+      "Fedramp-Control-High/0009/900000099"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

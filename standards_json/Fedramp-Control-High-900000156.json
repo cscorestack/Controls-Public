@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000156", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000156", 
+  "Control Name": "CONTINGENCY PLAN TESTING | COORDINATE WITH RELATED PLANS", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization coordinates contingency plan testing with organizational elements responsible for related plans.Supplemental Guidance:  Plans related to contingency plans for organizational information systems include, for example, Business Continuity Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, Cyber Incident Response Plans, and Occupant Emergency Plans. This control enhancement does not require organizations to create organizational elements to handle related plans or to align such elements with specific plans. It does require, however, that if such organizational elements are responsible for related plans, organizations should coordinate with those elements. Related controls: IR-8, PM-8.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization coordinates contingency plan testing with organizational elements responsible for related plans.Supplemental Guidance:  Plans related to contingency plans for organizational information systems include, for example, Business Continuity Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, Cyber Incident Response Plans, and Occupant Emergency Plans. This control enhancement does not require organizations to create organizational elements to handle related plans or to align such elements with specific plans. It does require, however, that if such organizational elements are responsible for related plans, organizations should coordinate with those elements. Related controls: IR-8, PM-8.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-04 (01)", 
+    "CNTL NO": "CP-4 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONTINGENCY PLAN TESTING | COORDINATE WITH RELATED PLANS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

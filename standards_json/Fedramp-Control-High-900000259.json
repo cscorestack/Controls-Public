@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000259", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000259", 
+  "Control Name": "MEDIA SANITIZATION | EQUIPMENT TESTING", 
+  "Control Family": "MEDIA PROTECTION", 
+  "Control Statement": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved.Supplemental Guidance: Testing of sanitization equipment and procedures may be conducted by qualified and authorized external entities (e.g., other federal agencies or external service providers).", 
+  "control_attributes": {
+    "Category": "MEDIA PROTECTION", 
+    "description": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved.Supplemental Guidance: Testing of sanitization equipment and procedures may be conducted by qualified and authorized external entities (e.g., other federal agencies or external service providers).", 
+    "SelectionParam": "MP-6 (2) [at least every six (6) months]", 
+    "FedRampParam": "x", 
+    "SORTID": "MP-06 (02)", 
+    "CNTL NO": "MP-6 (2)", 
+    "AdditionalReq": "MP-6 (2) Guidance: Equipment and procedures may be tested or validated for effectiveness", 
+    "Control Name": "MEDIA SANITIZATION | EQUIPMENT TESTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

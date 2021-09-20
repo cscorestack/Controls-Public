@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000139", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000139", 
+  "Control Name": "IDENTIFICATION AND AUTHENTICATION | NETWORK ACCESS TO PRIVILEGED ACCOUNTS - REPLAY RESISTANT", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system implements replay-resistant authentication mechanisms for network access to privileged accounts.Supplemental Guidance:  Authentication processes resist replay attacks if it is impractical to achieve successful authentications by replaying previous authentication messages. Replay- resistant techniques include, for example, protocols that use nonces or challenges such as Transport Layer Security (TLS) and time synchronous or challenge-response one-time authenticators.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system implements replay-resistant authentication mechanisms for network access to privileged accounts.Supplemental Guidance:  Authentication processes resist replay attacks if it is impractical to achieve successful authentications by replaying previous authentication messages. Replay- resistant techniques include, for example, protocols that use nonces or challenges such as Transport Layer Security (TLS) and time synchronous or challenge-response one-time authenticators.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-02 (08)", 
+    "CNTL NO": "IA-2 (8)", 
+    "AdditionalReq": "", 
+    "Control Name": "IDENTIFICATION AND AUTHENTICATION | NETWORK ACCESS TO PRIVILEGED ACCOUNTS - REPLAY RESISTANT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

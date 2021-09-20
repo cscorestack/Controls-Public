@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000401", 
+  "control_attributes": {
+    "Control": "IA-8 (2) ACCEPTANCE OF THIRD-PARTY CREDENTIALS", 
+    "control_description": "The information system accepts only FICAM-approved third-party credentials.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system accepts only FICAM-approved third-party credentials.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-8 (2) ACCEPTANCE OF THIRD-PARTY CREDENTIALS", 
+  "compliance_control_number": "600000401"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000468", 
+  "compliance_control_uri": "Azure-WAF/0015/150000468", 
+  "Control Name": "5.9.5 This workload has a security containment strategy that blends existing on-premises security controls and practices with native security controls available in Azure, and uses a zero-trust approach.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Assume breach is the recommended cybersecurity mindset and the ability to contain an attacker is vital to protect information systems.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.5 This workload has a security containment strategy that blends existing on-premises security controls and practices with native security controls available in Azure, and uses a zero-trust approach.", 
+    "Description": "Assume breach is the recommended cybersecurity mindset and the ability to contain an attacker is vital to protect information systems."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

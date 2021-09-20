@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000355",
+  "compliance_control_uri": "AC3-v-01/0000/110000355",
+  "Control Name": "IA-9 (2) TRANSMISSION OF DECISIONS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization ensures that identification and authentication decisions are transmitted between [Assignment: organization-defined services] consistent with organizational policies.",
+  "control_attributes": {
+    "Control Name": "IA-9 (2) TRANSMISSION OF DECISIONS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization ensures that identification and authentication decisions are transmitted between [Assignment: organization-defined services] consistent with organizational policies."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000407"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

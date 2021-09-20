@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000554", 
+  "control_attributes": {
+    "Control": "PS-7 THIRD-PARTY PERSONNEL SECURITY", 
+    "control_description": "The organization: a. Establishes personnel security requirements including security roles and responsibilities for third-party providers;b. Requires third-party providers to comply with personnel security policies and procedures established by the organization;c. Documents personnel security requirements;d. Requires third-party providers to notify [Assignment: organization-defined personnel or roles] of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within [Assignment: organization-defined time period]; ande. Monitors provider compliance.", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked)."
+  }, 
+  "Control Statement": "The organization: a. Establishes personnel security requirements including security roles and responsibilities for third-party providers;b. Requires third-party providers to comply with personnel security policies and procedures established by the organization;c. Documents personnel security requirements;d. Requires third-party providers to notify [Assignment: organization-defined personnel or roles] of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within [Assignment: organization-defined time period]; ande. Monitors provider compliance.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-7 THIRD-PARTY PERSONNEL SECURITY", 
+  "compliance_control_number": "600000554"
+}

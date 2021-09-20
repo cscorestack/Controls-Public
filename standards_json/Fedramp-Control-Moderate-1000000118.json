@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000118", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000118", 
+  "Control Name": "ALTERNATE STORAGE SITE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and b. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.Supplemental Guidance:  Alternate storage sites are sites that are geographically distinct from primary storage sites. An alternate storage site maintains duplicate copies of information and data in the event that the primary storage site is not available. Items covered by alternate storage site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination of delivery/retrieval of backupmedia. Alternate storage sites reflect the requirements in contingency plans so that organizations can maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems. Related controls: CP-2, CP-7, CP-9, CP-10, MP-4.References: NIST Special Publication 800-34.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and b. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.Supplemental Guidance:  Alternate storage sites are sites that are geographically distinct from primary storage sites. An alternate storage site maintains duplicate copies of information and data in the event that the primary storage site is not available. Items covered by alternate storage site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination of delivery/retrieval of backupmedia. Alternate storage sites reflect the requirements in contingency plans so that organizations can maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems. Related controls: CP-2, CP-7, CP-9, CP-10, MP-4.References: NIST Special Publication 800-34.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-06", 
+    "CNTL NO": "CP-6", 
+    "AdditionalReq": "", 
+    "Control Name": "ALTERNATE STORAGE SITE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

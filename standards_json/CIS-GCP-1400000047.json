@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000047", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000047", 
+  "Control Name": "5.2 Ensure that Cloud Storage buckets have uniform bucket-level access enabled", 
+  "Control Family": "Storage", 
+  "Control Statement": "It is recommended that uniform bucket-level access is enabled on Cloud Storage buckets.", 
+  "control_attributes": {
+    "Control": "5.2 Ensure that Cloud Storage buckets have uniform bucket-level access enabled", 
+    "Security_Category": "Storage", 
+    "Control_description": "It is recommended that uniform bucket-level access is enabled on Cloud Storage buckets."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

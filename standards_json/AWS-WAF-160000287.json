@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000287",
+  "compliance_control_uri": "AWS-WAF/0016/160000287",
+  "Control Name": "COST 9.3 Supply resources dynamically",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Resources are provisioned in a planned manner. This can be demandbased, such as through automatic scaling, or time-based, where demand is predictable and resources are provided based on time. These methods result in the least amount of over or under provisioning.",
+  "control_attributes": {
+    "Control": "COST 9.3 Supply resources dynamically",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you manage demand, and supply resources?",
+    "question_id": "manage-demand-resources",
+    "choice_id": "cost_manage_demand_resources_dynamic"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

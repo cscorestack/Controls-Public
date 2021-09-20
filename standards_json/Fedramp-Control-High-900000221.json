@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000221", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000221", 
+  "Control Name": "INCIDENT HANDLING | INFORMATION CORRELATION", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization correlates incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.Supplemental Guidance:  Sometimes the nature of a threat event, for example, a hostile cyber attack, is such that it can only be observed by bringing together information from different sources including various reports and reporting procedures established by organizations.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization correlates incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.Supplemental Guidance:  Sometimes the nature of a threat event, for example, a hostile cyber attack, is such that it can only be observed by bringing together information from different sources including various reports and reporting procedures established by organizations.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-04 (04)", 
+    "CNTL NO": "IR-4 (4)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT HANDLING | INFORMATION CORRELATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

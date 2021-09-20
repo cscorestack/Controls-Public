@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000025",
+  "compliance_control_uri": "SOC2/0017/1700000025",
+  "Control Name": "Considers Excessive Pressures—Management and the board of directors evaluate and adjust pressures associated with the achievement of objectives as they assign responsibilities, develop performance measures, and evaluate performance.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Excessive Pressures—Management and the board of directors evaluate and adjust pressures associated with the achievement of objectives as they assign responsibilities, develop performance measures, and evaluate performance.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.5 COSO Principle 5: The entity holds individuals accountable for their internal control responsibilities in the pursuit of objectives.",
+    "ControlNo": "CC1.5.4",
+    "TrustID": "CC1.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

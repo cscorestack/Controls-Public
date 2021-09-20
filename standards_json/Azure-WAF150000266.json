@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000266", 
+  "compliance_control_uri": "Azure-WAF/0015/150000266", 
+  "Control Name": "3.7.8 The testing plan includes occasionally injecting faults.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Chaos engineering is a common practice to verify the effectiveness of operational procedures using artificial faults. For example, taking dependencies offline (stopping API apps, shutting down VMs, etc.), restricting access (enabling firewall rules, changing connection strings, etc.) or forcing failover (database level, Front Door, etc.) is a good way to validate that the application is able to handle faults gracefully.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.8 The testing plan includes occasionally injecting faults.", 
+    "Description": "Chaos engineering is a common practice to verify the effectiveness of operational procedures using artificial faults. For example, taking dependencies offline (stopping API apps, shutting down VMs, etc.), restricting access (enabling firewall rules, changing connection strings, etc.) or forcing failover (database level, Front Door, etc.) is a good way to validate that the application is able to handle faults gracefully."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

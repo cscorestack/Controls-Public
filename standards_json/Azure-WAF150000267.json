@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000267", 
+  "compliance_control_uri": "Azure-WAF/0015/150000267", 
+  "Control Name": "3.8.1 You have identified goals or a baseline for workload performance.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "There are many types of goals when determining baselines for application performance. Perhaps baselines center around a certain number of visitors within a given time period, the time it takes to render a page, type required for executing a stored procedure, or a desired number of transactions if your site conducts some type of e-commerce. It is important to identify and maintain a shared understanding of these baselines so that you can architect a system that meets them.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.1 You have identified goals or a baseline for workload performance.", 
+    "Description": "There are many types of goals when determining baselines for application performance. Perhaps baselines center around a certain number of visitors within a given time period, the time it takes to render a page, type required for executing a stored procedure, or a desired number of transactions if your site conducts some type of e-commerce. It is important to identify and maintain a shared understanding of these baselines so that you can architect a system that meets them."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

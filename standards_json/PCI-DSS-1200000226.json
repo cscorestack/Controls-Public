@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000226", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000226", 
+  "Control Name": "Require personnel to acknowledge at least annually that they have read and understood the security policy and procedures.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Require personnel to acknowledge at least annually that they have read and understood the security policy and procedures.", 
+    "Requirement": "12.6.2.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000027", 
+  "compliance_control_uri": "ISO-27001/0011/1100000027", 
+  "Control Name": "9.1.2 Access to networks and network services", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Users shall only be provided with access to the services that they have been specifically authorized to use.\\u00a0The cloud service customer's access control policy for the use\\nof network services should specify requirements for user access\\nto each separate cloud service that is used.", 
+  "control_attributes": {
+    "Clause_Category": "9.1 Business requirements of access control", 
+    "description": "Users shall only be provided with access to the services that they have been specifically authorized to use.\\u00a0The cloud service customer's access control policy for the use\\nof network services should specify requirements for user access\\nto each separate cloud service that is used.", 
+    "Control_Title": "9.1.2 Access to networks and network services", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

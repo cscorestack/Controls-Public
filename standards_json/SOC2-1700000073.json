@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000073",
+  "compliance_control_uri": "SOC2/0017/1700000073",
+  "Control Name": "Determines How to Respond to Risks—Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Determines How to Respond to Risks—Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.2 COSO Principle 7: The entity identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed.",
+    "ControlNo": "CC3.2.5",
+    "TrustID": "CC3.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

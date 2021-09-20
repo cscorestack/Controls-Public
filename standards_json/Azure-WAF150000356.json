@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000356", 
+  "compliance_control_uri": "Azure-WAF/0015/150000356", 
+  "Control Name": "4.8.5 A failure path has been simulated for cross-premises connectivity.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has a failure path been simulated to ensure connectivity is available over alternative paths? i.e. using S2S as a backup for Express Route.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.5 A failure path has been simulated for cross-premises connectivity.", 
+    "Description": "Has a failure path been simulated to ensure connectivity is available over alternative paths? i.e. using S2S as a backup for Express Route."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

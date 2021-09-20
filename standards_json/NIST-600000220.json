@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000220", 
+  "control_attributes": {
+    "Control": "AC-24 (2) NO USER OR PROCESS IDENTITY", 
+    "control_description": "The information system enforces access control decisions based on [Assignment: organization-defined security attributes] that do not include the identity of the user or process acting on behalf of the user.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system generates audit records containing the following additional information: [Assignment: organization-defined additional, more detailed information]."
+  }, 
+  "Control Statement": "The information system enforces access control decisions based on [Assignment: organization-defined security attributes] that do not include the identity of the user or process acting on behalf of the user.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-24 (2) NO USER OR PROCESS IDENTITY", 
+  "compliance_control_number": "600000220"
+}

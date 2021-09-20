@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000174", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000174", 
+  "Control Name": "INFORMATION SPILLAGE RESPONSE | RESPONSIBLE PERSONNEL", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills. ", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills. ", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-09 (01)", 
+    "CNTL NO": "IR-9 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "INFORMATION SPILLAGE RESPONSE | RESPONSIBLE PERSONNEL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

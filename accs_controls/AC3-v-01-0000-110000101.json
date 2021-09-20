@@ -1,0 +1,96 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000101",
+  "compliance_control_uri": "AC3-v-01/0000/110000101",
+  "Control Name": "AC-6 (7) REVIEW OF USER PRIVILEGES",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization: (a) Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and(b) Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs.",
+  "control_attributes": {
+    "Control Name": "AC-6 (7) REVIEW OF USER PRIVILEGES",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization: (a) Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and(b) Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000025",
+      "NIST-SP800-53/0006/600000171",
+      "ISO-27001/0011/1100000032",
+      "Fedramp-Control-High/0009/900000024",
+      "AWS-WAF/0005/500000073",
+      "Azure-WAF/0015/150000488",
+      "CIS-Azure/0015/150000100",
+      "CIS-AWS/0007/700000004",
+      "SOC2/0017/1700000129"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pATnB",
+        "policy_name": "Azure_Audit_RBAC_Kubernetes_Services",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_IAM_Root_Access_Key_Check",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/dhnaw",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

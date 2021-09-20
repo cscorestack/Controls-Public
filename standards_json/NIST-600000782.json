@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000782", 
+  "control_attributes": {
+    "Control": "SI-7 (2) AUTOMATED NOTIFICATIONS OF INTEGRITY VIOLATIONS", 
+    "control_description": "The organization employs automated tools that provide notification to [Assignment: organization-defined personnel or roles] upon discovering discrepancies during integrity verification.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system automatically [Selection (one or more): shuts the information system down; restarts the information system; implements [Assignment: organization-defined security safeguards]] when integrity violations are discovered."
+  }, 
+  "Control Statement": "The organization employs automated tools that provide notification to [Assignment: organization-defined personnel or roles] upon discovering discrepancies during integrity verification.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (2) AUTOMATED NOTIFICATIONS OF INTEGRITY VIOLATIONS", 
+  "compliance_control_number": "600000782"
+}

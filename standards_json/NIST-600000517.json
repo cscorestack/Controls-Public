@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000517", 
+  "control_attributes": {
+    "Control": "PE-13 (1) DETECTION DEVICES / SYSTEMS", 
+    "control_description": "The organization employs fire detection devices/systems for the information system that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization protects the information system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel."
+  }, 
+  "Control Statement": "The organization employs fire detection devices/systems for the information system that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-13 (1) DETECTION DEVICES / SYSTEMS", 
+  "compliance_control_number": "600000517"
+}

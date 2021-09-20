@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000007", 
+  "compliance_control_uri": "ISO-27001/0011/1100000007", 
+  "Control Name": "6.1.5 information security in project management", 
+  "Control Family": "6. Organization of Information Security", 
+  "Control Statement": "Management shall actively support security within the organization through clear direction, demonstrated commitment, explicit assignment, and acknowledgment of information security responsibilities", 
+  "control_attributes": {
+    "Clause_Category": "6.1 internal organization", 
+    "description": "Management shall actively support security within the organization through clear direction, demonstrated commitment, explicit assignment, and acknowledgment of information security responsibilities", 
+    "Control_Title": "6.1.5 information security in project management", 
+    "Control_Clause": "6. Organization of Information Security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

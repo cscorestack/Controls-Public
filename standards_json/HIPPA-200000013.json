@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000013", 
+  "compliance_control_uri": "HIPAA/0002/200000013", 
+  "Control Name": "Security Management Process - 164.308(a)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "A covered entity or business associate must in accordance with 164.306:      (1)(i) Implement policies and procedures to prevent, detect, contain, and correct security violations.", 
+  "control_attributes": {
+    "Control": "Security Management Process - 164.308(a)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "A covered entity or business associate must in accordance with 164.306:      (1)(i) Implement policies and procedures to prevent, detect, contain, and correct security violations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

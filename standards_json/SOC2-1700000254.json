@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000254",
+  "compliance_control_uri": "SOC2/0017/1700000254",
+  "Control Name": "Collects Information From Reliable Sources—Management confirms that third parties from whom personal information is collected (that is, sources other than the individual) are reliable sources that collect information fairly and lawfully.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Collects Information From Reliable Sources—Management confirms that third parties from whom personal information is collected (that is, sources other than the individual) are reliable sources that collect information fairly and lawfully.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P3.1 Personal information is collected consistent with the entity’s objectives related to privacy.",
+    "ControlNo": "P3.1.3",
+    "TrustID": "P3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

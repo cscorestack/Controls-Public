@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000055", 
+  "compliance_control_uri": "CIS-AWS/0007/700000055", 
+  "Control Name": "5.4 Ensure routing tables for VPC peering are least access", 
+  "Control Family": "Networking", 
+  "Control Statement": "Being highly selective in peering routing tables is a very effective way of minimizing theimpact of breach as resources outside of these routes are inaccessible to the peered VPC.", 
+  "control_attributes": {
+    "Control": "5.4 Ensure routing tables for VPC peering are least access", 
+    "Category": "Networking", 
+    "Control_description": "Being highly selective in peering routing tables is a very effective way of minimizing theimpact of breach as resources outside of these routes are inaccessible to the peered VPC."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

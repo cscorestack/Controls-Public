@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000067", 
+  "compliance_control_uri": "HIPAA/0002/200000067", 
+  "Control Name": "Access Control  Automatic Logoff - 164.312(a)(2)(iii)", 
+  "Control Family": "Access Control", 
+  "Control Statement": "Implement electronic procedures that terminate an electronic session after a predetermined time of inactivity.", 
+  "control_attributes": {
+    "Control": "Access Control  Automatic Logoff - 164.312(a)(2)(iii)", 
+    "Security_Category": "Access Control", 
+    "Control_description": "Implement electronic procedures that terminate an electronic session after a predetermined time of inactivity."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

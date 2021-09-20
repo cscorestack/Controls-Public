@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000224", 
+  "compliance_control_uri": "Azure-WAF/0015/150000224", 
+  "Control Name": "3.1.8 The application can operation with reduced functionality or degraded performance in the case of an outage.Avoiding failure is impossible in the public cloud, and as a result applications require resilience to respond to outages and deliver reliability. The application should therefore be designed to operate even when impacted by regional, zonal, service or component failures across critical application scenarios and functionality.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "A variant to asynchronous programming, queuing services have long been used as a scalable mechanism to hand off processing work to a service.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.8 The application can operation with reduced functionality or degraded performance in the case of an outage.Avoiding failure is impossible in the public cloud, and as a result applications require resilience to respond to outages and deliver reliability. The application should therefore be designed to operate even when impacted by regional, zonal, service or component failures across critical application scenarios and functionality.", 
+    "Description": "A variant to asynchronous programming, queuing services have long been used as a scalable mechanism to hand off processing work to a service."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000058", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000058", 
+  "Control Name": "4.1 Use strong cryptography and security protocols (for example, TLS, IPSEC, SSH, etc.) to safeguard sensitive cardholder data during transmission over open, public networks, ", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "4.1 Use strong cryptography and security protocols (for example, TLS, IPSEC, SSH, etc.) to safeguard sensitive cardholder data during transmission over open, public networks, ", 
+    "Requirement": "Requirement 4: Encrypt transmission of cardholder data across open, public networks"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

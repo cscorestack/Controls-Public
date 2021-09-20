@@ -1,0 +1,89 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000661",
+  "compliance_control_uri": "AC3-v-01/0000/110000661",
+  "Control Name": "SC-23 SESSION AUTHENTICITY",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system protects the authenticity of communications sessions.",
+  "control_attributes": {
+    "Control Name": "SC-23 SESSION AUTHENTICITY",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system protects the authenticity of communications sessions."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource": "GCP/Compute/App_Engine/Services",
+      "service_resource_type": "GCP/Compute/App_Engine"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000117",
+      "PCI-DSS/0012/1200000093",
+      "Fedramp-Control-Moderate/0010/1000000291",
+      "Fedramp-Control-High/0009/900000376",
+      "CIS-GCP/0014/1400000059",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jPnKB",
+        "policy_name": "Azure_Audit_FunctionApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lKMjK",
+        "policy_name": "Azure_Audit_WebApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LjgiO",
+        "policy_name": "Azure_Audit_APIApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pkam",
+        "policy_name": "GCP_Audit_Cloud_SQL_Database_Connection_For_SSL",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

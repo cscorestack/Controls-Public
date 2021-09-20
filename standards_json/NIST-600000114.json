@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000114", 
+  "control_attributes": {
+    "Control": "SC-3 SECURITY FUNCTION ISOLATION", 
+    "control_description": "The information system isolates security functions from nonsecurity functions.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization requires that users log out when [Assignment: organization-defined time-period of expected inactivity or description of when to log out]."
+  }, 
+  "Control Statement": "The information system isolates security functions from nonsecurity functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-3 SECURITY FUNCTION ISOLATION", 
+  "compliance_control_number": "600000114"
+}

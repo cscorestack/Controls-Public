@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000430", 
+  "control_attributes": {
+    "Control": "IR-7 (2) COORDINATION WITH EXTERNAL PROVIDERS", 
+    "control_description": "The organization: (a) Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and(b) Identifies organizational incident response team members to the external providers.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: (a) Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and(b) Identifies organizational incident response team members to the external providers.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-7 (2) COORDINATION WITH EXTERNAL PROVIDERS", 
+  "compliance_control_number": "600000430"
+}

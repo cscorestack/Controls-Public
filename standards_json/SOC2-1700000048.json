@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000048",
+  "compliance_control_uri": "SOC2/0017/1700000048",
+  "Control Name": "Communicates Objectives Related to Privacy and Changes to Objectives—The entity communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives related to privacy and changes to those objectives. ",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates Objectives Related to Privacy and Changes to Objectives—The entity communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives related to privacy and changes to those objectives. ",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.7",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

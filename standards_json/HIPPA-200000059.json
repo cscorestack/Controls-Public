@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000059", 
+  "compliance_control_uri": "HIPAA/0002/200000059", 
+  "Control Name": "Facility Access Controls  Access Control and Validation Procedures - 164.310(a)(2)(iii)", 
+  "Control Family": "Facility Access Controls", 
+  "Control Statement": "Implement procedures to control and validate a person's access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision", 
+  "control_attributes": {
+    "Control": "Facility Access Controls  Access Control and Validation Procedures - 164.310(a)(2)(iii)", 
+    "Security_Category": "Facility Access Controls", 
+    "Control_description": "Implement procedures to control and validate a person's access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

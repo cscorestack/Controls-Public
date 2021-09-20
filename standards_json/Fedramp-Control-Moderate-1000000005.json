@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000005", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000005", 
+  "Control Name": "ACCOUNT MANAGEMENT | DISABLE INACTIVE ACCOUNTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+    "SelectionParam": "AC-2 (3) [90 days for user accounts]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (03)", 
+    "CNTL NO": "AC-2 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCOUNT MANAGEMENT | DISABLE INACTIVE ACCOUNTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000096", 
+  "compliance_control_uri": "ISO/0001/100000071", 
+  "Control Name": "16.1.1 Responsibilities and procedures", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "Management responsibilities and procedures shall be established to ensure a quick, effective, and orderly response to information security incidents", 
+  "control_attributes": {
+    "Control_Objective": "16.1.1 Responsibilities and procedures", 
+    "Security_Control_Clause": "16. Information security incident management", 
+    "Security_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "Management responsibilities and procedures shall be established to ensure a quick, effective, and orderly response to information security incidents"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

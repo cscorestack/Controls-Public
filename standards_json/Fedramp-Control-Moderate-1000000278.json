@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000278", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000278", 
+  "Control Name": "BOUNDARY PROTECTION | ISOLATION OF SECURITY TOOLS /MECHANISMS / SUPPORT COMPONENTS", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization isolates [Assignment: organization-defined information security tools, mechanisms, and support components] from other internal information system components by implementing physically separate subnetworks with managed interfaces to other components of the system.Supplemental Guidance:  Physically separate subnetworks with managed interfaces are useful, for example, in isolating computer network defenses from critical operational processing networks to prevent adversaries from discovering the analysis and forensics techniques of organizations. Related controls: SA-8, SC-2, SC-3.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization isolates [Assignment: organization-defined information security tools, mechanisms, and support components] from other internal information system components by implementing physically separate subnetworks with managed interfaces to other components of the system.Supplemental Guidance:  Physically separate subnetworks with managed interfaces are useful, for example, in isolating computer network defenses from critical operational processing networks to prevent adversaries from discovering the analysis and forensics techniques of organizations. Related controls: SA-8, SC-2, SC-3.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (13)", 
+    "CNTL NO": "SC-7 (13)", 
+    "AdditionalReq": "SC-7 (13) Requirement: The service provider defines key information security tools, mechanisms, and support components associated with system and security administration and isolates those tools, mechanisms, and support components from other internal information system components via physically or logically separate subnets.", 
+    "Control Name": "BOUNDARY PROTECTION | ISOLATION OF SECURITY TOOLS /MECHANISMS / SUPPORT COMPONENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

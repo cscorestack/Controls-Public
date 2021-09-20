@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000038", 
+  "compliance_control_uri": "ISO-27001/0011/1100000038", 
+  "Control Name": "9.4.4 Use of privileged utility\\nprograms", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "The use of utility programs that might be capable of overriding system and application controls shall be restricted and tightly controlled.", 
+  "control_attributes": {
+    "Clause_Category": "9.4 - System and application access control", 
+    "description": "The use of utility programs that might be capable of overriding system and application controls shall be restricted and tightly controlled.", 
+    "Control_Title": "9.4.4 Use of privileged utility\\nprograms", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000227",
+  "compliance_control_uri": "AWS-WAF/0016/160000227",
+  "Control Name": "PERF 5.4 Leverage load-balancing and encryption oﬄoading",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Distribute traﬃc across multiple resources or services to allow your workload to take advantage of the elasticity that the cloud provides. You can also use load balancing for oﬄoading encryption termination to improve performance and to manage and route traﬃc eﬀectively.",
+  "control_attributes": {
+    "Control": "PERF 5.4 Leverage load-balancing and encryption oﬄoading",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_encryption_offload"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000448", 
+  "control_attributes": {
+    "Control": "MA-4 (2) DOCUMENT NONLOCAL MAINTENANCE", 
+    "control_description": "The organization documents in the security plan for the information system, the policies and procedures for the establishment and use of nonlocal maintenance and diagnostic connections.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that personnel performing maintenance and diagnostic activities on an information system processing, storing, or transmitting classified information are U.S. citizens."
+  }, 
+  "Control Statement": "The organization documents in the security plan for the information system, the policies and procedures for the establishment and use of nonlocal maintenance and diagnostic connections.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 (2) DOCUMENT NONLOCAL MAINTENANCE", 
+  "compliance_control_number": "600000448"
+}

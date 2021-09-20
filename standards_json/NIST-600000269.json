@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000269", 
+  "control_attributes": {
+    "Control": "CA-3 (2) CLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS", 
+    "control_description": "The organization prohibits the direct connection of a classified, national security system to an external network without the use of [Assignment: organization-defined boundary protection device].", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization reviews and updates the baseline configuration of the information system:"
+  }, 
+  "Control Statement": "The organization prohibits the direct connection of a classified, national security system to an external network without the use of [Assignment: organization-defined boundary protection device].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-3 (2) CLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS", 
+  "compliance_control_number": "600000269"
+}

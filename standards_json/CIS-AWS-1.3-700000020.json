@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000020", 
+  "compliance_control_uri": "CIS-AWS/0007/700000020", 
+  "Control Name": "1.20 Ensure that S3 Buckets are configured with 'Block public access (bucket settings)'", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "Amazon S3 Block public access (bucket settings) prevents the accidental or malicious public exposure of data contained within the respective bucket(s). Amazon S3 Block public access (account settings) prevents the accidental or malicious public exposure of data contained within all buckets of the respective AWS account.", 
+  "control_attributes": {
+    "Control": "1.20 Ensure that S3 Buckets are configured with 'Block public access (bucket settings)'", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "Amazon S3 Block public access (bucket settings) prevents the accidental or malicious public exposure of data contained within the respective bucket(s). Amazon S3 Block public access (account settings) prevents the accidental or malicious public exposure of data contained within all buckets of the respective AWS account."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

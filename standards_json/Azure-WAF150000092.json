@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000092", 
+  "compliance_control_uri": "Azure-WAF/0015/150000092", 
+  "Control Name": "2.3.7 There are well defined performance requirements for the application and key scenarios", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are there well defined performance requirements for the application and/or key scenarios?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.7 There are well defined performance requirements for the application and key scenarios", 
+    "Description": "Are there well defined performance requirements for the application and/or key scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

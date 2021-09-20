@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000273", 
+  "compliance_control_uri": "Azure-WAF/0015/150000273", 
+  "Control Name": "3.8.6 You have goals for latency between the systems & microservices of your workload.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Performance should not only be monitored within the application itself, but response times between service tiers should also be noted. While this is important for n-Tier applications, it is especially crucial for microservices. Most microservices leverage some type of pub-sub architecture where communication is asynchronous. However, validation for sending and receiving messages should still take place. In these instances, understanding the routing and latency between services is imperative to improving performance.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.6 You have goals for latency between the systems & microservices of your workload.", 
+    "Description": "Performance should not only be monitored within the application itself, but response times between service tiers should also be noted. While this is important for n-Tier applications, it is especially crucial for microservices. Most microservices leverage some type of pub-sub architecture where communication is asynchronous. However, validation for sending and receiving messages should still take place. In these instances, understanding the routing and latency between services is imperative to improving performance."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

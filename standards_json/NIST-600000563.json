@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000563", 
+  "control_attributes": {
+    "Control": "RA-5 (6) AUTOMATED TREND ANALYSES", 
+    "control_description": "The organization employs automated mechanisms to compare the results of vulnerability scans over time to determine trends in information system vulnerabilities.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to compare the results of vulnerability scans over time to determine trends in information system vulnerabilities.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (6) AUTOMATED TREND ANALYSES", 
+  "compliance_control_number": "600000563"
+}

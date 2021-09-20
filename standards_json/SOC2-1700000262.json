@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000262",
+  "compliance_control_uri": "SOC2/0017/1700000262",
+  "Control Name": "Disposes of, Destroys, and Redacts Personal Information—Personal information no longer retained is anonymized, disposed of, or destroyed in a manner that prevents loss, theft, misuse, or unauthorized access.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Disposes of, Destroys, and Redacts Personal Information—Personal information no longer retained is anonymized, disposed of, or destroyed in a manner that prevents loss, theft, misuse, or unauthorized access.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P4.3 The entity securely disposes of personal information to meet the entity’s objectives related to privacy",
+    "ControlNo": "P4.3.2",
+    "TrustID": "P4.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

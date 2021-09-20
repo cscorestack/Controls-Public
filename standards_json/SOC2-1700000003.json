@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000003",
+  "compliance_control_uri": "SOC2/0017/1700000003",
+  "Control Name": "Evaluates Adherence to Standards of Conduct—Processes are in place to evaluate the performance of individuals and teams against the entity’s expected standards of conduct.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Evaluates Adherence to Standards of Conduct—Processes are in place to evaluate the performance of individuals and teams against the entity’s expected standards of conduct.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.1 COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.",
+    "ControlNo": "CC1.1.3",
+    "TrustID": "CC1.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

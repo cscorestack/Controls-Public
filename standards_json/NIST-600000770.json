@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000770", 
+  "control_attributes": {
+    "Control": "SI-4 (17) INTEGRATED SITUATIONAL AWARENESS", 
+    "control_description": "The organization correlates information from monitoring physical, cyber, and supply chain activities to achieve integrated, organization-wide situational awareness.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements [Assignment: organization-defined additional monitoring] of individuals who have been identified by [Assignment: organization-defined sources] as posing an increased level of risk."
+  }, 
+  "Control Statement": "The organization correlates information from monitoring physical, cyber, and supply chain activities to achieve integrated, organization-wide situational awareness.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (17) INTEGRATED SITUATIONAL AWARENESS", 
+  "compliance_control_number": "600000770"
+}

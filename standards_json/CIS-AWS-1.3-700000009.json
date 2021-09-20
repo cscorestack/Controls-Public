@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000009", 
+  "compliance_control_uri": "CIS-AWS/0007/700000009", 
+  "Control Name": "1.9 Ensure IAM password policy prevents password reuse", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "IAM password policies can prevent the reuse of a given password by the same user. It is recommended that the password policy prevent the reuse of passwords.", 
+  "control_attributes": {
+    "Control": "1.9 Ensure IAM password policy prevents password reuse", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "IAM password policies can prevent the reuse of a given password by the same user. It is recommended that the password policy prevent the reuse of passwords."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

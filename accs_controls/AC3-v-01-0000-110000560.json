@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000560",
+  "compliance_control_uri": "AC3-v-01/0000/110000560",
+  "Control Name": "SA-12 (1) ACQUISITION STRATEGIES / TOOLS / METHODS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization employs [Assignment: organization-defined tailored acquisition strategies, contract tools, and procurement methods] for the purchase of the information system, system component, or information system service from suppliers.",
+  "control_attributes": {
+    "Control Name": "SA-12 (1) ACQUISITION STRATEGIES / TOOLS / METHODS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization employs [Assignment: organization-defined tailored acquisition strategies, contract tools, and procurement methods] for the purchase of the information system, system component, or information system service from suppliers."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000605",
+      "ISO-27001/0011/1100000087",
+      "ISO/0001/100000062"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000216", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000216", 
+  "Control Name": "Develop usage policies for critical technologies and define proper use of these technologies.\\n\\nNote: Examples of critical technologies include, but are not limited to, remote access and wireless technologies, laptops, tablets, removable electronic media, e-mail usage and Internet usage.\\n\\nEnsure these usage policies require the following:\\nFor personnel accessing cardholder data via remote-access technologies, prohibit the copying, moving, and storage of cardholder data onto local hard drives and removable electronic media, unless explicitly authorized for a defined business need.\\nWhere there is an authorized business need, the usage policies must require the data be protected in accordance with all applicable PCI DSS Requirements.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Develop usage policies for critical technologies and define proper use of these technologies.\\n\\nNote: Examples of critical technologies include, but are not limited to, remote access and wireless technologies, laptops, tablets, removable electronic media, e-mail usage and Internet usage.\\n\\nEnsure these usage policies require the following:\\nFor personnel accessing cardholder data via remote-access technologies, prohibit the copying, moving, and storage of cardholder data onto local hard drives and removable electronic media, unless explicitly authorized for a defined business need.\\nWhere there is an authorized business need, the usage policies must require the data be protected in accordance with all applicable PCI DSS Requirements.", 
+    "Requirement": "12.3.10.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

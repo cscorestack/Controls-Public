@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000028",
+  "compliance_control_uri": "AWS-WAF/0016/160000028",
+  "Control Name": "OPS 5.1 Use version control",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use version control to enable tracking of changes and releases.",
+  "control_attributes": {
+    "Control": "OPS 5.1 Use version control",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_version_control"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

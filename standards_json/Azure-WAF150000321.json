@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000321", 
+  "compliance_control_uri": "Azure-WAF/0015/150000321", 
+  "Control Name": "4.4.6 Failover and failback steps and processes are automated.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are operational procedures to failover and failback automated?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.6 Failover and failback steps and processes are automated.", 
+    "Description": "Are operational procedures to failover and failback automated?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

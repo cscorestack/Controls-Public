@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000163",
+  "compliance_control_uri": "AWS-WAF/0016/160000163",
+  "Control Name": "REL 5.7 Implement emergency levers",
+  "Control Family": "Reliability",
+  "Control Statement": "These are rapid processes that may mitigate availability impact on your workload. They can be operated in the absence of a root cause. An ideal emergency lever reduces the cognitive burden on the resolvers to zero by providing fully deterministic activation and deactivation criteria. Example levers include blocking all robot traﬃc or serving a static response. Levers are often manual, but they can also be automated.",
+  "control_attributes": {
+    "Control": "REL 5.7 Implement emergency levers",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_emergency_levers"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

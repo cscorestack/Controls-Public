@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000478", 
+  "control_attributes": {
+    "Control": "MP-8 MEDIA DOWNGRADING", 
+    "control_description": "The organization: a. Establishes [Assignment: organization-defined information system media downgrading process] that includes employing downgrading mechanisms with [Assignment: organization-defined strength and integrity];b. Ensures that the information system media downgrading process is commensurate with the security category and/or classification level of the information to be removed and the access authorizations of the potential recipients of the downgraded information;c. Identifies [Assignment: organization-defined information system media requiring downgrading]; andd. Downgrades the identified information system media using the established process.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization authorizes physical access to the facility where the information system resides based on position or role."
+  }, 
+  "Control Statement": "The organization: a. Establishes [Assignment: organization-defined information system media downgrading process] that includes employing downgrading mechanisms with [Assignment: organization-defined strength and integrity];b. Ensures that the information system media downgrading process is commensurate with the security category and/or classification level of the information to be removed and the access authorizations of the potential recipients of the downgraded information;c. Identifies [Assignment: organization-defined information system media requiring downgrading]; andd. Downgrades the identified information system media using the established process.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-8 MEDIA DOWNGRADING", 
+  "compliance_control_number": "600000478"
+}

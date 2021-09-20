@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000034", 
+  "compliance_control_uri": "Azure-WAF/0015/150000034", 
+  "Control Name": "1.5.2 Targets for the time it takes to perform scale operations are defined and monitored.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Scale operations (horizontal - changing the number of identical instances, vertical - switching to more/less powerful instances) can be fast, but usually take time to complete. It's important to understand how this delay affects the application under load and if degraded performance is acceptable.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.2 Targets for the time it takes to perform scale operations are defined and monitored.", 
+    "Description": "Scale operations (horizontal - changing the number of identical instances, vertical - switching to more/less powerful instances) can be fast, but usually take time to complete. It's important to understand how this delay affects the application under load and if degraded performance is acceptable."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

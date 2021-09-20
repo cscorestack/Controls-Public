@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000129", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000129", 
+  "Control Name": "CONFIGURATION SETTINGS | RESPOND TO UNAUTHORIZED CHANGES", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] to respond to unauthorized changes to [Assignment: organization-defined configuration settings].Supplemental Guidance:  Responses to unauthorized changes to configuration settings can include, for example, alerting designated organizational personnel, restoring established configuration settings, or in extreme cases, halting affected information system processing. Related controls: IR-4, SI-7.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization employs [Assignment: organization-defined security safeguards] to respond to unauthorized changes to [Assignment: organization-defined configuration settings].Supplemental Guidance:  Responses to unauthorized changes to configuration settings can include, for example, alerting designated organizational personnel, restoring established configuration settings, or in extreme cases, halting affected information system processing. Related controls: IR-4, SI-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-06 (02)", 
+    "CNTL NO": "CM-6 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONFIGURATION SETTINGS | RESPOND TO UNAUTHORIZED CHANGES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

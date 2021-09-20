@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000796",
+  "compliance_control_uri": "AC3-v-01/0000/110000796",
+  "Control Name": "SI-4 (3) AUTOMATED TOOL INTEGRATION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization employs automated tools to integrate intrusion detection tools into access control and flow control mechanisms for rapid response to attacks by enabling reconfiguration of these mechanisms in support of attack isolation and elimination.",
+  "control_attributes": {
+    "Control Name": "SI-4 (3) AUTOMATED TOOL INTEGRATION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization employs automated tools to integrate intrusion detection tools into access control and flow control mechanisms for rapid response to attacks by enabling reconfiguration of these mechanisms in support of attack isolation and elimination."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000759"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

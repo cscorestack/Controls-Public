@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000672", 
+  "control_attributes": {
+    "Control": "SC-7 (14) PROTECTS AGAINST UNAUTHORIZED PHYSICAL CONNECTIONS", 
+    "control_description": "The organization protects against unauthorized physical connections at [Assignment: organization-defined managed interfaces].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability to dynamically isolate/segregate [Assignment: organization-defined information system components] from other components of the system."
+  }, 
+  "Control Statement": "The organization protects against unauthorized physical connections at [Assignment: organization-defined managed interfaces].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (14) PROTECTS AGAINST UNAUTHORIZED PHYSICAL CONNECTIONS", 
+  "compliance_control_number": "600000672"
+}

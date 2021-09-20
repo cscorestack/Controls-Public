@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000109", 
+  "compliance_control_uri": "ISO/0001/100000085", 
+  "Control Name": "18.1.3 Protection of records", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Important records shall be protected from loss, destruction and falsification, in accordance with statutory, regulatory, contractual, and business requirements", 
+  "control_attributes": {
+    "Control_Objective": "18.1.3 Protection of records", 
+    "Security_Control_Clause": "18. Compliance", 
+    "Security_Category": "18.1 Compliance with legal and contractual requirements", 
+    "description": "Important records shall be protected from loss, destruction and falsification, in accordance with statutory, regulatory, contractual, and business requirements"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

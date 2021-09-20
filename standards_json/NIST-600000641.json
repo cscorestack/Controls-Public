@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000641", 
+  "control_attributes": {
+    "Control": "SA-19 COMPONENT AUTHENTICITY", 
+    "control_description": "The organization: a. Develops and implements anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the information system; andb. Reports counterfeit information system components to [Selection (one or more): source of counterfeit component; [Assignment: organization-defined external reporting organizations]; [Assignment: organization-defined personnel or roles]].", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that the developer of [Assignment: organization-defined information system, system component, or information system service]:"
+  }, 
+  "Control Statement": "The organization: a. Develops and implements anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the information system; andb. Reports counterfeit information system components to [Selection (one or more): source of counterfeit component; [Assignment: organization-defined external reporting organizations]; [Assignment: organization-defined personnel or roles]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-19 COMPONENT AUTHENTICITY", 
+  "compliance_control_number": "600000641"
+}

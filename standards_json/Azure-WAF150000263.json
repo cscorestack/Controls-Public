@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000263", 
+  "compliance_control_uri": "Azure-WAF/0015/150000263", 
+  "Control Name": "3.7.5 You are testing all appropriate components for performance.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Most people think of load testing as the only form of performance testing. However, there are different types of performance testing--load testing, stress testing, API testing, client-side/browser testing, etc.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.5 You are testing all appropriate components for performance.", 
+    "Description": "Most people think of load testing as the only form of performance testing. However, there are different types of performance testing--load testing, stress testing, API testing, client-side/browser testing, etc."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

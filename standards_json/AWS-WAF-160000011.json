@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000011",
+  "compliance_control_uri": "AWS-WAF/0016/160000011",
+  "Control Name": "OPS 2.4 Team members know what they are responsible for",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Understanding the responsibilities of your role and how you contribute to business outcomes informs the prioritization of your tasks and why your role is important. This enables team members to recognize needs and respond appropriately.",
+  "control_attributes": {
+    "Control": "OPS 2.4 Team members know what they are responsible for",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_know_my_job"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

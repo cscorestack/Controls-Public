@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000203", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000203", 
+  "Control Name": "AUTHENTICATOR MANAGEMENT | EXPIRATION OF CACHED AUTHENTICATORS", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system prohibits the use of cached authenticators after [Assignment: organization-defined time period].", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system prohibits the use of cached authenticators after [Assignment: organization-defined time period].", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-05 (13)", 
+    "CNTL NO": "IA-5 (13)", 
+    "AdditionalReq": "", 
+    "Control Name": "AUTHENTICATOR MANAGEMENT | EXPIRATION OF CACHED AUTHENTICATORS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

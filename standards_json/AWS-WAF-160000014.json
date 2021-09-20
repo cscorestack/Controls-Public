@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000014",
+  "compliance_control_uri": "AWS-WAF/0016/160000014",
+  "Control Name": "OPS 2.7 Responsibilities between teams are predeﬁned or negotiated",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "There are deﬁned or negotiated agreements between teams describing how they work with and support each other (for example, response times, service level objectives, or service level agreements). Understanding the impact of the teams’ work on business outcomes, and the outcomes of other teams and organizations, informs the prioritization of their tasks and enables them to respond appropriately.",
+  "control_attributes": {
+    "Control": "OPS 2.7 Responsibilities between teams are predeﬁned or negotiated",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_def_neg_team_agreements"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

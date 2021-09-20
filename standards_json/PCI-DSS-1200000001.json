@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000001", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000001", 
+  "Control Name": "1.1 Establish and implement firewall and router configuration standards that include the following:\\n", 
+  "Control Family": "Build and Maintain a Secure a Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "1.1 Establish and implement firewall and router configuration standards that include the following:\\n", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

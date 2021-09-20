@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000176", 
+  "compliance_control_uri": "Azure-WAF/0015/150000176", 
+  "Control Name": "2.14.11 You regularly validate and update your tests to reflect any necessary changes.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Tests and test data should be evaluated and updated after each major application change, update, or outage.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.11 You regularly validate and update your tests to reflect any necessary changes.", 
+    "Description": "Tests and test data should be evaluated and updated after each major application change, update, or outage."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

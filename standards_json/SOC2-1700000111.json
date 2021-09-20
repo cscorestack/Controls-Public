@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000111",
+  "compliance_control_uri": "SOC2/0017/1700000111",
+  "Control Name": "Takes Corrective Action—Responsible personnel investigate and act on matters identified as a result of executing control activities.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Takes Corrective Action—Responsible personnel investigate and act on matters identified as a result of executing control activities.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.3 COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "ControlNo": "CC5.3.4",
+    "TrustID": "CC5.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

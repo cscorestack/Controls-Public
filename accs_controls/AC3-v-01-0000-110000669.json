@@ -1,0 +1,206 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000669",
+  "compliance_control_uri": "AC3-v-01/0000/110000669",
+  "Control Name": "SC-29 (1) VIRTUALIZATION TECHNIQUES",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization employs virtualization techniques to support the deployment of a diversity of operating systems and applications that are changed [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "SC-29 (1) VIRTUALIZATION TECHNIQUES",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization employs virtualization techniques to support the deployment of a diversity of operating systems and applications that are changed [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EFS",
+      "service_resource": "AWS/Storage/EFS/FileSystem"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Volumes"
+    },
+    {
+      "service_resource_type": "AWS/Analytics/Elasticsearch Service",
+      "service_resource": "AWS/Analytics/Elasticsearch Service/Domain"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Cluster_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Sites"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000713"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/7a96a",
+        "policy_name": "AWS_Audit_CloudTrail_Bucket_Publicly_Accessible",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/X0F1c",
+        "policy_name": "AWS_DYNAMODB_Table_Encryption_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/wgb1L",
+        "policy_name": "AWS_Encrypted_Volumes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f479f",
+        "policy_name": "AWS_Audit_EBS_Snapshots_Encrypted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/yOraR",
+        "policy_name": "AWS_ELASTICSEARCH_Encrypted_at_Rest",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/YgFiH",
+        "policy_name": "AWS_RDS_Storage_Encrypted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/24188",
+        "policy_name": "AWS_Audit_RDS_Encrypted_With_KMS_Customer_Master_Keys",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/hec4u",
+        "policy_name": "AWS_Audit_Unencrypted_S3_Buckets",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/l2rt5",
+        "policy_name": "AWS_S3_Bucket_Serverside_Encryption_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22b97",
+        "policy_name": "AWS_Audit_S3_Buckets_Encrypted_with_Customer_Provided_CMKs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/storage/g7jr6",
+        "policy_name": "Ensure_Storage_File_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/storage/xg5cm",
+        "policy_name": "Require_Blob_Encryption_For_StorageAccounts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/e93b5",
+        "policy_name": "Azure_Audit_Advanced_ThreatProtection_StorageAccounts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XpSzr",
+        "policy_name": "Azure_Audit_SQLserver_TDE_Encrypted_with_your_Own_Key",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/ew5gj",
+        "policy_name": "Azure_Audit_SQLServer_Transparent_Data_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/2oolq",
+        "policy_name": "Azure_Monitor_Unencrypted_SQLdb",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

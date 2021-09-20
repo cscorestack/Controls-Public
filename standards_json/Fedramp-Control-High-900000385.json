@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000385", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000385", 
+  "Control Name": "FLAW REMEDIATION | CENTRAL MANAGEMENT", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization centrally manages the flaw remediation process.Supplemental Guidance:  Central management is the organization-wide management and implementation of flaw remediation processes. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed flaw remediation security controls.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization centrally manages the flaw remediation process.Supplemental Guidance:  Central management is the organization-wide management and implementation of flaw remediation processes. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed flaw remediation security controls.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-02 (01)", 
+    "CNTL NO": "SI-2 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "FLAW REMEDIATION | CENTRAL MANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

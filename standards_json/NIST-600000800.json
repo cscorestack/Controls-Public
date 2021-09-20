@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000800", 
+  "control_attributes": {
+    "Control": "SI-10 (3) PREDICTABLE BEHAVIOR", 
+    "control_description": "The information system behaves in a predictable and documented manner that reflects organizational and system objectives when invalid inputs are received.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system behaves in a predictable and documented manner that reflects organizational and system objectives when invalid inputs are received."
+  }, 
+  "Control Statement": "The information system behaves in a predictable and documented manner that reflects organizational and system objectives when invalid inputs are received.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-10 (3) PREDICTABLE BEHAVIOR", 
+  "compliance_control_number": "600000800"
+}

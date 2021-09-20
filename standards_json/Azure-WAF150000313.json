@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000313", 
+  "compliance_control_uri": "Azure-WAF/0015/150000313", 
+  "Control Name": "4.3.5 Validated required capacity is within Azure service scale limits and quotas.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the required capacity, both initial and future growth, within Azure service scale limits and quotas?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.5 Validated required capacity is within Azure service scale limits and quotas.", 
+    "Description": "Is the required capacity, both initial and future growth, within Azure service scale limits and quotas?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

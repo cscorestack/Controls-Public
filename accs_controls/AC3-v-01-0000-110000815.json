@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000815",
+  "compliance_control_uri": "AC3-v-01/0000/110000815",
+  "Control Name": "SI-7 (2) AUTOMATED NOTIFICATIONS OF INTEGRITY VIOLATIONS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization employs automated tools that provide notification to [Assignment: organization-defined personnel or roles] upon discovering discrepancies during integrity verification.",
+  "control_attributes": {
+    "Control Name": "SI-7 (2) AUTOMATED NOTIFICATIONS OF INTEGRITY VIOLATIONS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization employs automated tools that provide notification to [Assignment: organization-defined personnel or roles] upon discovering discrepancies during integrity verification."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000782",
+      "PCI-DSS/0012/1200000178",
+      "PCI-DSS/0012/1200000201",
+      "PCI-DSS/0012/1200000202",
+      "Fedramp-Control-High/0009/900000410",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

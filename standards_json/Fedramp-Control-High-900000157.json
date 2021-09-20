@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000157", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000157", 
+  "Control Name": "CONTINGENCY PLAN TESTING | ALTERNATE PROCESSING SITE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization tests the contingency plan at the alternate processing site: (a)   To familiarize contingency personnel with the facility and available resources; and (b)   To evaluate the capabilities of the alternate processing site to support contingency operations.Supplemental Guidance:  Related control: CP-7.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization tests the contingency plan at the alternate processing site: (a)   To familiarize contingency personnel with the facility and available resources; and (b)   To evaluate the capabilities of the alternate processing site to support contingency operations.Supplemental Guidance:  Related control: CP-7.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "CP-04 (02)", 
+    "CNTL NO": "CP-4 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTINGENCY PLAN TESTING | ALTERNATE PROCESSING SITE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

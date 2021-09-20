@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000110", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000110", 
+  "Control Name": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nLimit repeated access attempts by locking out the user ID after not more than six attempts.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nLimit repeated access attempts by locking out the user ID after not more than six attempts.", 
+    "Requirement": "8.1.6.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000247", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000247", 
+  "Control Name": "NONLOCAL MAINTENANCE | CRYPTOGRAPHIC PROTECTION", 
+  "Control Family": "MAINTENANCE", 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications.Supplemental Guidance:  Related controls: SC-8, SC-13.", 
+  "control_attributes": {
+    "Category": "MAINTENANCE", 
+    "description": "The information system implements cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications.Supplemental Guidance:  Related controls: SC-8, SC-13.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "MA-04 (06)", 
+    "CNTL NO": "MA-4 (6)", 
+    "AdditionalReq": "", 
+    "Control Name": "NONLOCAL MAINTENANCE | CRYPTOGRAPHIC PROTECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

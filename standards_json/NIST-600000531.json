@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000531", 
+  "control_attributes": {
+    "Control": "PE-19 (1) NATIONAL EMISSIONS / TEMPEST POLICIES AND PROCEDURES", 
+    "control_description": "The organization ensures that information system components, associated data communications, and networks are protected in accordance with national emissions and TEMPEST policies and procedures based on the security category or classification of the information.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization ensures that information system components, associated data communications, and networks are protected in accordance with national emissions and TEMPEST policies and procedures based on the security category or classification of the information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-19 (1) NATIONAL EMISSIONS / TEMPEST POLICIES AND PROCEDURES", 
+  "compliance_control_number": "600000531"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000055", 
+  "compliance_control_uri": "CIS-Azure/0015/150000055", 
+  "Control Name": "4.2.3 Ensure that VA setting Periodic Recurring Scans is enabled on a SQL server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable Vulnerability Assessment (VA) Periodic recurring scans for critical SQL servers and corresponding SQL databases.", 
+  "control_attributes": {
+    "Control": "4.2.3 Ensure that VA setting Periodic Recurring Scans is enabled on a SQL server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable Vulnerability Assessment (VA) Periodic recurring scans for critical SQL servers and corresponding SQL databases."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

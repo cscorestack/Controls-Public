@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000720", 
+  "control_attributes": {
+    "Control": "SC-31 (1) TEST COVERT CHANNELS FOR EXPLOITABILITY", 
+    "control_description": "The organization tests a subset of the identified covert channels to determine which channels are exploitable.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined information system components] with no writeable storage that is persistent across component restart or power on/off."
+  }, 
+  "Control Statement": "The organization tests a subset of the identified covert channels to determine which channels are exploitable.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-31 (1) TEST COVERT CHANNELS FOR EXPLOITABILITY", 
+  "compliance_control_number": "600000720"
+}

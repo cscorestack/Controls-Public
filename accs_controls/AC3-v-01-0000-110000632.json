@@ -1,0 +1,136 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000632",
+  "compliance_control_uri": "AC3-v-01/0000/110000632",
+  "Control Name": "SC-11 TRUSTED PATH",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system establishes a trusted communications path between the user and the following security functions of the system: [Assignment: organization-defined security functions to include at a minimum, information system authentication and re-authentication].",
+  "control_attributes": {
+    "Control Name": "SC-11 TRUSTED PATH",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system establishes a trusted communications path between the user and the following security functions of the system: [Assignment: organization-defined security functions to include at a minimum, information system authentication and re-authentication]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000685",
+      "CIS-GCP/0014/1400000039",
+      "SOC2/0017/1700000138"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/nVmT4",
+        "policy_name": "AWS_ELASTICSEARCH_in_VPC_Only",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/NLPEr",
+        "policy_name": "AWS_LAMBDA_Inside_VPC",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/OHa2D",
+        "policy_name": "AWS_Internet_Gateway_Authorized_VPC_Only",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/iv7Os",
+        "policy_name": "AWS_VPC_VPN_2_Tunnels_Up",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/asdde",
+        "policy_name": "AWS_Peering_VPC_Least_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ebdc5",
+        "policy_name": "AWS_Audit_Managed_NAT_Gateway_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3f5b4",
+        "policy_name": "AWS_Audit_Specific_Gateway_Attached_To_Specific_VPC",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/109ef",
+        "policy_name": "AWS_Audit_VPC_Endpoint_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/c2ab0",
+        "policy_name": "AWS_Audit_VPC_Peering_Connections_Route_Tables_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22631",
+        "policy_name": "AWS_Audit_VPC_Peer_Connections_Acc_Outside_Organization",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/eso7u",
+        "policy_name": "Azure_Audit_Gateway_Subnet_NoNSG",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/WIFiA",
+        "policy_name": "Azure_Audit_VM_Connected_Approved_Virtual_Network",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Audit_Instance_OS_Login_Disabled",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/loginv",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

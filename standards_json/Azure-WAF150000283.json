@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000283", 
+  "compliance_control_uri": "Azure-WAF/0015/150000283", 
+  "Control Name": "3.10.1 Track when resources scale in and out.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Azure services scale in and out in a variety of different ways, track and optimize these scaling events to ensure that you are taking advantages of distributed resources.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.1 Track when resources scale in and out.", 
+    "Description": "Azure services scale in and out in a variety of different ways, track and optimize these scaling events to ensure that you are taking advantages of distributed resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

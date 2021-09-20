@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000081", 
+  "compliance_control_uri": "ISO/0001/100000056", 
+  "Control Name": "14.2.1 Secure development policy", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Is there a policy on secure development covering security architectures, services and software?  Are development environments and repositories secure with access control, security and change monitoring etc.?  Do development methods include secure coding guidelines", 
+  "control_attributes": {
+    "Control_Objective": "14.2.1 Secure development policy", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Is there a policy on secure development covering security architectures, services and software?  Are development environments and repositories secure with access control, security and change monitoring etc.?  Do development methods include secure coding guidelines"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

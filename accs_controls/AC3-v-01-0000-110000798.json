@@ -1,0 +1,184 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000798",
+  "compliance_control_uri": "AC3-v-01/0000/110000798",
+  "Control Name": "SI-4 (5) SYSTEM-GENERATED ALERTS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators].",
+  "control_attributes": {
+    "Control Name": "SI-4 (5) SYSTEM-GENERATED ALERTS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "AWS/Security_Compliance/GuardDuty",
+      "service_resource": "AWS/Security_Compliance/GuardDuty/Detector"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Others",
+      "service_resource": "Azure/Compute/Others/Resource_Groups"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Security_Rule"
+    },
+    {
+      "service_resource_type": "Azure/Security_Compliance/Azure_Security_Center",
+      "service_resource": "Azure/Security_Compliance/Azure_Security_Center/Tasks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000062",
+      "PCI-DSS/0012/1200000200",
+      "Fedramp-Control-Moderate/0010/1000000307",
+      "Fedramp-Control-High/0009/900000395",
+      "HIPAA/0002/200000014",
+      "AWS-WAF/0016/160000086",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lPSNi",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Policy_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yhetg",
+        "policy_name": "Azure_Audit_SecurityAlert_SubsOwner",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hxl3x",
+        "policy_name": "Azure_Audit_SecurityContact_Alert",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/oyj2b",
+        "policy_name": "Azure_Audit_Email_Alerts_SQL_Servers",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hYRfU",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Security_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/baLl4",
+        "policy_name": "AWS_CLOUDTRAIL_CLOUDWATCH_LOGS_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zg73w",
+        "policy_name": "Azure_Audit_Email_Alerts_SQLInstance",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3xXGV",
+        "policy_name": "AWS_CLOUDWATCH_Alarm_Resource_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/kfod*",
+        "policy_name": "Azure_Audit_Metric_Alerts_Batch_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/mrrte",
+        "policy_name": "Chef_Audit_Clamav_Service",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/fdgsb",
+        "policy_name": "Chef_Check_Clamav_Installation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/uyity",
+        "policy_name": "Chef_Check_Clamav_Database_Updated",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/reql5",
+        "policy_name": "AWS_Restricted_SSH",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/denq8",
+        "policy_name": "AWS_Restricted_Common_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/@nmot",
+        "policy_name": "AWS_VPC_Flow_Logs_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dZuBi",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Agent_Installed_Windows",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/qTqPp",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Linux",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

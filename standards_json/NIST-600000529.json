@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000529", 
+  "control_attributes": {
+    "Control": "PE-18 (1) FACILITY SITE", 
+    "control_description": "The organization plans the location or site of the facility where the information system resides with regard to physical and environmental hazards and for existing facilities, considers the physical and environmental hazards in its risk mitigation strategy.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization plans the location or site of the facility where the information system resides with regard to physical and environmental hazards and for existing facilities, considers the physical and environmental hazards in its risk mitigation strategy.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-18 (1) FACILITY SITE", 
+  "compliance_control_number": "600000529"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000028", 
+  "compliance_control_uri": "Azure-WAF/0015/150000028", 
+  "Control Name": "1.4.2 There is an availability strategy defined and cost implications of it are understood.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "An availability strategy should capture how the application remains available when in a failure state and should apply across all application components and the application deployment stamp as a whole such as via multi-geo scale-unit deployment approach. There are cost implications as well: More resources need to be provisioned in advance to provide high availability. Active-active setup, while more expensive than single deployment, can balance cost by lowering load on one stamp and reducing the total amount of resources needed.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.2 There is an availability strategy defined and cost implications of it are understood.", 
+    "Description": "An availability strategy should capture how the application remains available when in a failure state and should apply across all application components and the application deployment stamp as a whole such as via multi-geo scale-unit deployment approach. There are cost implications as well: More resources need to be provisioned in advance to provide high availability. Active-active setup, while more expensive than single deployment, can balance cost by lowering load on one stamp and reducing the total amount of resources needed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

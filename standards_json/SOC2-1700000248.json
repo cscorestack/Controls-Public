@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000248",
+  "compliance_control_uri": "SOC2/0017/1700000248",
+  "Control Name": "Obtains Implicit or Explicit Consent—Implicit or explicit consent is obtained from data subjects at or before the time personal information is collected or soon thereafter. The individual’s preferences expressed in his or her consent are confirmed and implemented.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Obtains Implicit or Explicit Consent—Implicit or explicit consent is obtained from data subjects at or before the time personal information is collected or soon thereafter. The individual’s preferences expressed in his or her consent are confirmed and implemented.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P2.1 The entity communicates choices available regarding the collection, use, retention, disclosure, and disposal of personal information to the data subjects and the consequences, if any, of each choice. Explicit consent for the collection, use, retention, disclosure, and disposal of personal information is obtained from data subjects or other authorized persons, if required. Such consent is obtained only for the intended purpose of the information to meet the entity’s objectives related to privacy. The entity’s basis for determining implicit consent for the collection, use, retention, disclosure, and disposal of personal information is documented.",
+    "ControlNo": "P2.1.3",
+    "TrustID": "P2.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000098", 
+  "compliance_control_uri": "ISO/0001/100000073", 
+  "Control Name": "16.1.3 Reporting information security weakness", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "All employees, contractors and third party users of information systems and services shall be required to note and report any observed or suspected security weaknesses in systems or services", 
+  "control_attributes": {
+    "Control_Objective": "16.1.3 Reporting information security weakness", 
+    "Security_Control_Clause": "16. Information security incident management", 
+    "Security_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "All employees, contractors and third party users of information systems and services shall be required to note and report any observed or suspected security weaknesses in systems or services"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000013", 
+  "compliance_control_uri": "CIS-Azure/0003/300000013", 
+  "Control Name": "2.15. Ensure ASC Default policy setting 'Monitor SQL Encryption' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "When this setting is enabled, it recommends that encryption at rest be enabled for the Azure SQL Database, associated backups, and transaction log files. In the event of a data breach, it will not be readable", 
+  "control_attributes": {
+    "Control": "2.15. Ensure ASC Default policy setting 'Monitor SQL Encryption' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "When this setting is enabled, it recommends that encryption at rest be enabled for the Azure SQL Database, associated backups, and transaction log files. In the event of a data breach, it will not be readable"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000261", 
+  "compliance_control_uri": "Azure-WAF/0015/150000261", 
+  "Control Name": "3.7.3 You have identified the human and environmental resources needed to create performance tests.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Successfully implementing meaningful performance tests requires a number of resources. If is not just a single developer or QA Analyst running some tests on their local machine. Instead, performance tests need a test environment (also known as a test bed) that tests can be executed against without interfering with production environments and data.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.3 You have identified the human and environmental resources needed to create performance tests.", 
+    "Description": "Successfully implementing meaningful performance tests requires a number of resources. If is not just a single developer or QA Analyst running some tests on their local machine. Instead, performance tests need a test environment (also known as a test bed) that tests can be executed against without interfering with production environments and data."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

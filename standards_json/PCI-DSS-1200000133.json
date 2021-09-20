@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000133", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000133", 
+  "Control Name": "Develop procedures to easily distinguish between onsite personnel and visitors, to include:\\n- Identifying onsite personnel and visitors (for example, assigning badges)\\n- Changes to access requirements\\n- Revoking or terminating onsite personnel and expired visitor identification (such as ID badges).", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Develop procedures to easily distinguish between onsite personnel and visitors, to include:\\n- Identifying onsite personnel and visitors (for example, assigning badges)\\n- Changes to access requirements\\n- Revoking or terminating onsite personnel and expired visitor identification (such as ID badges).", 
+    "Requirement": "9.2. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

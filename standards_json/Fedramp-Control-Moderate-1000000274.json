@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000274", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000274", 
+  "Control Name": "BOUNDARY PROTECTION | DENY BY DEFAULT / ALLOW BY EXCEPTION", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).Supplemental Guidance:  This control enhancement applies to both inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those connections which are essential and approved are allowed.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).Supplemental Guidance:  This control enhancement applies to both inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those connections which are essential and approved are allowed.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (05)", 
+    "CNTL NO": "SC-7 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "BOUNDARY PROTECTION | DENY BY DEFAULT / ALLOW BY EXCEPTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

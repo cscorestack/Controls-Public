@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000149",
+  "compliance_control_uri": "AWS-WAF/0016/160000149",
+  "Control Name": "REL 2.5 Enforce non-overlapping private IP address ranges in all private address spaces where they are connected",
+  "Control Family": "Reliability",
+  "Control Statement": "The IP address ranges of each of your VPCs must not overlap when peered or connected via VPN. You must similarly avoid IP address conﬂicts between a VPC and on-premises environments or with other cloud providers that you use. You must also have a way to allocate private IP address ranges when needed.",
+  "control_attributes": {
+    "Control": "REL 2.5 Enforce non-overlapping private IP address ranges in all private address spaces where they are connected",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan your network topology?",
+    "question_id": "planning-network-topology",
+    "choice_id": "rel_planning_network_topology_non_overlap_ip"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

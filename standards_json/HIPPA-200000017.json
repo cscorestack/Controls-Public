@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000017", 
+  "compliance_control_uri": "HIPAA/0002/200000017", 
+  "Control Name": "Security Incident Procedures - 164.308(a)(6)(i)", 
+  "Control Family": "Security Incident Procedures", 
+  "Control Statement": "Implement policies and procedures to address security incidents.", 
+  "control_attributes": {
+    "Control": "Security Incident Procedures - 164.308(a)(6)(i)", 
+    "Security_Category": "Security Incident Procedures", 
+    "Control_description": "Implement policies and procedures to address security incidents."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

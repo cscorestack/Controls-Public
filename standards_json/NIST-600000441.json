@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000441", 
+  "control_attributes": {
+    "Control": "MA-3 MAINTENANCE TOOLS", 
+    "control_description": "The organization approves, controls, and monitors information system maintenance tools.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization protects nonlocal maintenance sessions by:"
+  }, 
+  "Control Statement": "The organization approves, controls, and monitors information system maintenance tools.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-3 MAINTENANCE TOOLS", 
+  "compliance_control_number": "600000441"
+}

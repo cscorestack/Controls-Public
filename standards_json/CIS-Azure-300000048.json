@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000048", 
+  "compliance_control_uri": "CIS-Azure/0003/300000048", 
+  "Control Name": "1.11. Ensure that 'Users can register applications' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Require administrators to register third-party applications", 
+  "control_attributes": {
+    "Control": "1.11. Ensure that 'Users can register applications' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Require administrators to register third-party applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

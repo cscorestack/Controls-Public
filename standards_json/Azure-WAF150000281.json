@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000281", 
+  "compliance_control_uri": "Azure-WAF/0015/150000281", 
+  "Control Name": "3.9.6 Retention times for logs and metrics been defined and housekeeping mechanisms are configured.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Clear retention times should be defined to allow for suitable historic analysis but also control storage costs. Suitable housekeeping tasks should also be used to archive data to cheaper storage or aggregate data for long-term trend analysis.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.6 Retention times for logs and metrics been defined and housekeeping mechanisms are configured.", 
+    "Description": "Clear retention times should be defined to allow for suitable historic analysis but also control storage costs. Suitable housekeeping tasks should also be used to archive data to cheaper storage or aggregate data for long-term trend analysis."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

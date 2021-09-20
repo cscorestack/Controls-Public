@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000016", 
+  "compliance_control_uri": "CIS-Azure/0003/300000016", 
+  "Control Name": "3.1. Ensure that 'Secure transfer required' is set to 'Enabled'", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "The secure transfer option enhances the security of a storage account by only allowing HTTPS requests to the storage account by a secure connection. Any requests using HTTP will be rejected when 'secure transfer required' is enabled.", 
+  "control_attributes": {
+    "Control": "3.1. Ensure that 'Secure transfer required' is set to 'Enabled'", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "The secure transfer option enhances the security of a storage account by only allowing HTTPS requests to the storage account by a secure connection. Any requests using HTTP will be rejected when 'secure transfer required' is enabled."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

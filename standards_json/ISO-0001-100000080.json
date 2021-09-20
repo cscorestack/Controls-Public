@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000080", 
+  "compliance_control_uri": "ISO/0001/100000055", 
+  "Control Name": "14.1.3 Protecting applications services transactions", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Check how transaction integrity, confidentiality, availability and prevention of mis-routing are achieved.  Are transactions performed and stored in a secure internal environment (not open to the Internet!)?  Do they meet all jurisdictional legal, regulatory and compliance requirements?", 
+  "control_attributes": {
+    "Control_Objective": "14.1.3 Protecting applications services transactions", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.1 Security requirements of information systems", 
+    "description": "Check how transaction integrity, confidentiality, availability and prevention of mis-routing are achieved.  Are transactions performed and stored in a secure internal environment (not open to the Internet!)?  Do they meet all jurisdictional legal, regulatory and compliance requirements?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000075", 
+  "compliance_control_uri": "HIPAA/0002/200000075", 
+  "Control Name": "Requirements for Group Health Plans - 164.314(b)(1)", 
+  "Control Family": "Requirements for Group Health Plans", 
+  "Control Statement": "Except when the only electronic protected health information disclosed to a plan sponsor is disclosed pursuant to 164.504(f)(1)(ii) or (iii), or as authorized under 164.508, a group health plan must ensure that its plan documents provide that the plan sponsor will reasonably and appropriately safeguard electronic protected health information created, received, maintained, or transmitted to or by the plan sponsor on behalf of the group health plan.", 
+  "control_attributes": {
+    "Control": "Requirements for Group Health Plans - 164.314(b)(1)", 
+    "Security_Category": "Requirements for Group Health Plans", 
+    "Control_description": "Except when the only electronic protected health information disclosed to a plan sponsor is disclosed pursuant to 164.504(f)(1)(ii) or (iii), or as authorized under 164.508, a group health plan must ensure that its plan documents provide that the plan sponsor will reasonably and appropriately safeguard electronic protected health information created, received, maintained, or transmitted to or by the plan sponsor on behalf of the group health plan."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

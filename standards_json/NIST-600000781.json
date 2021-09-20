@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000781", 
+  "control_attributes": {
+    "Control": "SI-7 SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY", 
+    "control_description": "The organization employs integrity verification tools to detect unauthorized changes to [Assignment: organization-defined software, firmware, and information].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs centrally managed integrity verification tools."
+  }, 
+  "Control Statement": "The organization employs integrity verification tools to detect unauthorized changes to [Assignment: organization-defined software, firmware, and information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY", 
+  "compliance_control_number": "600000781"
+}

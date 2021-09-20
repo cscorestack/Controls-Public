@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000385", 
+  "compliance_control_uri": "Azure-WAF/0015/150000385", 
+  "Control Name": "4.13.1 The application is instrumented with semantic logs and metrics.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application instrumented with semantic logs and metrics using APM technologies such as Application Insights?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.1 The application is instrumented with semantic logs and metrics.", 
+    "Description": "Is the application instrumented with semantic logs and metrics using APM technologies such as Application Insights?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

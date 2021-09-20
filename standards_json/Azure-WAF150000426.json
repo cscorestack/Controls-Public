@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000426", 
+  "compliance_control_uri": "Azure-WAF/0015/150000426", 
+  "Control Name": "5.4.9 Security controls are applied to all self-hosted build agents used by this workload (if any).", 
+  "Control Family": "5. Security", 
+  "Control Statement": "When the organization uses their own build agents it adds management complexity and can become an attack vector. Build machine credentials must be stored securely and file system needs to be cleaned of any temporary build artifacts regularly. Network isolation can be achieved by only allowing outgoing traffic from the build agent, because it's using pull model of communication with Azure DevOps.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.9 Security controls are applied to all self-hosted build agents used by this workload (if any).", 
+    "Description": "When the organization uses their own build agents it adds management complexity and can become an attack vector. Build machine credentials must be stored securely and file system needs to be cleaned of any temporary build artifacts regularly. Network isolation can be achieved by only allowing outgoing traffic from the build agent, because it's using pull model of communication with Azure DevOps."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,86 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000096",
+  "compliance_control_uri": "AC3-v-01/0000/110000096",
+  "Control Name": "AC-6 (2) NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non-privileged accounts or roles, when accessing nonsecurity functions.",
+  "control_attributes": {
+    "Control Name": "AC-6 (2) NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non-privileged accounts or roles, when accessing nonsecurity functions."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000166",
+      "PCI-DSS/0012/1200000096",
+      "PCI-DSS/0012/1200000097",
+      "PCI-DSS/0012/1200000098",
+      "PCI-DSS/0012/1200000099",
+      "PCI-DSS/0012/1200000100",
+      "Fedramp-Control-Moderate/0010/1000000018",
+      "Fedramp-Control-High/0009/900000021",
+      "HIPAA/0002/200000015",
+      "HIPAA/0002/200000043",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000024"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

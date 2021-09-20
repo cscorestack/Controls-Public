@@ -1,0 +1,89 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000161",
+  "compliance_control_uri": "AC3-v-01/0000/110000161",
+  "Control Name": "AU-6 (5) INTEGRATION / SCANNING AND MONITORING CAPABILITIES",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization integrates analysis of audit records with analysis of [Selection (one or more): vulnerability scanning information; performance data; information system monitoring information; [Assignment: organization-defined data/information collected from other sources]] to further enhance the ability to identify inappropriate or unusual activity.",
+  "control_attributes": {
+    "Control Name": "AU-6 (5) INTEGRATION / SCANNING AND MONITORING CAPABILITIES",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization integrates analysis of audit records with analysis of [Selection (one or more): vulnerability scanning information; performance data; information system monitoring information; [Assignment: organization-defined data/information collected from other sources]] to further enhance the ability to identify inappropriate or unusual activity."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000013",
+      "ISO-27001/0011/1100000099",
+      "PCI-DSS/0012/1200000179",
+      "PCI-DSS/0012/1200000180",
+      "PCI-DSS/0012/1200000181",
+      "PCI-DSS/0012/1200000182",
+      "Fedramp-Control-High/0009/900000076",
+      "CIS-GCP/0014/1400000034",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/nanny",
+        "policy_name": "AWS_S3_Bucket_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/@nmot",
+        "policy_name": "AWS_VPC_Flow_Logs_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/baLl4",
+        "policy_name": "AWS_CLOUDTRAIL_CLOUDWATCH_LOGS_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/915fd",
+        "policy_name": "AWS_Audit_AWS_CloudWatch_Events_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Audit_VPC_Subnetwork_With_Flow_Logs_Disabled",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/lkja",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

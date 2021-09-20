@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000530", 
+  "control_attributes": {
+    "Control": "PE-19 INFORMATION LEAKAGE", 
+    "control_description": "The organization protects the information system from information leakage due to electromagnetic signals emanations.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites."
+  }, 
+  "Control Statement": "The organization protects the information system from information leakage due to electromagnetic signals emanations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-19 INFORMATION LEAKAGE", 
+  "compliance_control_number": "600000530"
+}

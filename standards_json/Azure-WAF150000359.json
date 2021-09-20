@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000359", 
+  "compliance_control_uri": "Azure-WAF/0015/150000359", 
+  "Control Name": "4.9.1 The application has dedicated cross-premises bandwidth.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Does the application have dedicated cross-premises bandwidth? Or is bandwidth shared with other applications?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.1 The application has dedicated cross-premises bandwidth.", 
+    "Description": "Does the application have dedicated cross-premises bandwidth? Or is bandwidth shared with other applications?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

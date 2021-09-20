@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000293", 
+  "control_attributes": {
+    "Control": "CM-5 (1) AUTOMATED ACCESS ENFORCEMENT / AUDITING", 
+    "control_description": "The information system enforces access restrictions and supports auditing of the enforcement actions.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization includes in the information system component inventory information, a means for identifying by [Selection (one or more): name; position; role], individuals responsible/accountable for administering those components."
+  }, 
+  "Control Statement": "The information system enforces access restrictions and supports auditing of the enforcement actions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-5 (1) AUTOMATED ACCESS ENFORCEMENT / AUDITING", 
+  "compliance_control_number": "600000293"
+}

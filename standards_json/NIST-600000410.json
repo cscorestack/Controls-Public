@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000410", 
+  "control_attributes": {
+    "Control": "IR-1 INCIDENT RESPONSE POLICY AND PROCEDURES", 
+    "control_description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the incident response policy and associated incident response controls; andb. Reviews and updates the current:1. Incident response policy [Assignment: organization-defined frequency]; and2. Incident response procedures [Assignment: organization-defined frequency].", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization identifies [Assignment: organization-defined classes of incidents] and [Assignment: organization-defined actions to take in response to classes of incidents] to ensure continuation of organizational missions and business functions."
+  }, 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the incident response policy and associated incident response controls; andb. Reviews and updates the current:1. Incident response policy [Assignment: organization-defined frequency]; and2. Incident response procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-1 INCIDENT RESPONSE POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000410"
+}

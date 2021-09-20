@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000228",
+  "compliance_control_uri": "SOC2/0017/1700000228",
+  "Control Name": "Destroys Confidential Information—Procedures are in place to erase or otherwise destroy confidential information that has been identified for destruction.",
+  "Control Family": "Additional Criteria For Confidentiality",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Destroys Confidential Information—Procedures are in place to erase or otherwise destroy confidential information that has been identified for destruction.",
+    "Category": "Additional Criteria For Confidentiality",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Confidentiality",
+    "SubCategory": "C1.2 The entity disposes of confidential information to meet the entity’s objectives related to confidentiality.",
+    "ControlNo": "C1.2.2",
+    "TrustID": "C1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,107 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000791",
+  "compliance_control_uri": "AC3-v-01/0000/110000791",
+  "Control Name": "SI-4 (20) PRIVILEGED USERS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users.",
+  "control_attributes": {
+    "Control Name": "SI-4 (20) PRIVILEGED USERS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Governance/CloudTrail",
+      "service_resource": "AWS/Governance/CloudTrail/Trail"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure_AD_Privileged_Identity_Management",
+      "service_resource": "Azure/Identity/Azure_AD_Privileged_Identity_Management/Privileged_Identity_Management"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000773",
+      "Fedramp-Control-High/0009/900000401",
+      "CIS-GCP/0014/140000003",
+      "SOC2/0017/1700000154"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/65zn4",
+        "policy_name": "Azure_Audit_Accounts_With_Owner_perm_not_MFA_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vbnm2",
+        "policy_name": "Azure_Audit_Minimum_No_of_Owners_in_a_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/arlno",
+        "policy_name": "Azure_Audit_Deprecated_Accounts_With_Owner_Permission",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/c75tm",
+        "policy_name": "Azure_Audit_Max_No_Of_Owners_For_A_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/BEaQN",
+        "policy_name": "Azure_Audit_Custom_Owner_Role_Exists",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ghjd4",
+        "policy_name": "Azure_Audit_External_Accounts_with_Owner_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mceg7",
+        "policy_name": "Azure_Audit_Usage_Custom_RBAC_Rules",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

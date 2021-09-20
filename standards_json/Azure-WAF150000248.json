@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000248", 
+  "compliance_control_uri": "Azure-WAF/0015/150000248", 
+  "Control Name": "3.5.4 You have defined, tested, and validated latency targets for key scenarios.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Latency targets, which are commonly defined as first byte in to last byte out, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.4 You have defined, tested, and validated latency targets for key scenarios.", 
+    "Description": "Latency targets, which are commonly defined as first byte in to last byte out, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000461", 
+  "control_attributes": {
+    "Control": "MA-6 (3) AUTOMATED SUPPORT FOR PREDICTIVE MAINTENANCE", 
+    "control_description": "The organization employs automated mechanisms to transfer predictive maintenance data to a computerized maintenance management system.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to transfer predictive maintenance data to a computerized maintenance management system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-6 (3) AUTOMATED SUPPORT FOR PREDICTIVE MAINTENANCE", 
+  "compliance_control_number": "600000461"
+}

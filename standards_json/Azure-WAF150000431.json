@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000431", 
+  "compliance_control_uri": "Azure-WAF/0015/150000431", 
+  "Control Name": "5.5.4 CDN (content delivery network) is used to separate the hosting platform and end-users/clients.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Azure CDN can be used to separate the hosting platform from end users. Azure CDN contains a rule engine to remove platform-specific information and headers. The use of Azure CDN or 3rd party CDN will have different cost implications depending on what is chosen for the workload.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.4 CDN (content delivery network) is used to separate the hosting platform and end-users/clients.", 
+    "Description": "Azure CDN can be used to separate the hosting platform from end users. Azure CDN contains a rule engine to remove platform-specific information and headers. The use of Azure CDN or 3rd party CDN will have different cost implications depending on what is chosen for the workload."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

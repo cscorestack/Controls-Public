@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000390", 
+  "control_attributes": {
+    "Control": "IA-5 (9) CROSS-ORGANIZATION CREDENTIAL MANAGEMENT", 
+    "control_description": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of credentials.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users)."
+  }, 
+  "Control Statement": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of credentials.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (9) CROSS-ORGANIZATION CREDENTIAL MANAGEMENT", 
+  "compliance_control_number": "600000390"
+}

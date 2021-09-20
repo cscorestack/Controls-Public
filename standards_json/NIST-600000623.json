@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000623", 
+  "control_attributes": {
+    "Control": "SA-15 (5) ATTACK SURFACE REDUCTION", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to reduce attack surfaces to [Assignment: organization-defined thresholds].", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system or system component to archive the system or component to be released or delivered together with the corresponding evidence supporting the final security review."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to reduce attack surfaces to [Assignment: organization-defined thresholds].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-15 (5) ATTACK SURFACE REDUCTION", 
+  "compliance_control_number": "600000623"
+}

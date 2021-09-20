@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000242", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000242", 
+  "Control Name": "Additional requirement for service providers only: Maintain documentation of quarterly review process to include:\\n- Documenting results of the reviews\\n- Review and sign-off of results by  personnel assigned responsibility for the PCI DSS compliance program", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Additional requirement for service providers only: Maintain documentation of quarterly review process to include:\\n- Documenting results of the reviews\\n- Review and sign-off of results by  personnel assigned responsibility for the PCI DSS compliance program", 
+    "Requirement": "12.11.1.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

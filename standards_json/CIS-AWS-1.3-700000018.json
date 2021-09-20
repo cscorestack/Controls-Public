@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000018", 
+  "compliance_control_uri": "CIS-AWS/0007/700000018", 
+  "Control Name": "1.18 Ensure IAM instance roles are used for AWS resource access from instances", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS access from within AWS instances can be done by either encoding AWS keys into AWS API calls or by assigning the instance to a role which has an appropriate permissions policy for the required access. AWS Access means accessing the APIs of AWS in order to access AWS resources or manage AWS account resources.", 
+  "control_attributes": {
+    "Control": "1.18 Ensure IAM instance roles are used for AWS resource access from instances", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS access from within AWS instances can be done by either encoding AWS keys into AWS API calls or by assigning the instance to a role which has an appropriate permissions policy for the required access. AWS Access means accessing the APIs of AWS in order to access AWS resources or manage AWS account resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

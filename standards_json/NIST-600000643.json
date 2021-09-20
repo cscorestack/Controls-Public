@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000643", 
+  "control_attributes": {
+    "Control": "SA-19 (2) CONFIGURATION CONTROL FOR COMPONENT SERVICE / REPAIR", 
+    "control_description": "The organization maintains configuration control over [Assignment: organization-defined information system components] awaiting service/repair and serviced/repaired components awaiting return to service.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization maintains configuration control over [Assignment: organization-defined information system components] awaiting service/repair and serviced/repaired components awaiting return to service.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-19 (2) CONFIGURATION CONTROL FOR COMPONENT SERVICE / REPAIR", 
+  "compliance_control_number": "600000643"
+}

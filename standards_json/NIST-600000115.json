@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000115", 
+  "control_attributes": {
+    "Control": "CA-6 SECURITY AUTHORIZATION", 
+    "control_description": "The organization: a. Assigns a senior-level executive or manager as the authorizing official for the information system;b. Ensures that the authorizing official authorizes the information system for processing before commencing operations; andc. Updates the security authorization [Assignment: organization-defined frequency].", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements the following dynamic privilege management capabilities: [Assignment: organization-defined list of dynamic privilege management capabilities]."
+  }, 
+  "Control Statement": "The organization: a. Assigns a senior-level executive or manager as the authorizing official for the information system;b. Ensures that the authorizing official authorizes the information system for processing before commencing operations; andc. Updates the security authorization [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-6 SECURITY AUTHORIZATION", 
+  "compliance_control_number": "600000115"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000284",
+  "compliance_control_uri": "AWS-WAF/0016/160000284",
+  "Control Name": "COST 8.3 Implement services to reduce data transfer costs",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement services to reduce data transfer: for example, using a CDN such as Amazon CloudFront to deliver content to end users, caching layers using Amazon ElastiCache, or using AWS Direct Connect instead of VPN for connectivity to AWS.\n",
+  "control_attributes": {
+    "Control": "COST 8.3 Implement services to reduce data transfer costs",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you plan for data transfer charges?",
+    "question_id": "data-transfer",
+    "choice_id": "cost_data_transfer_implement_services"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

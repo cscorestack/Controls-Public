@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000334", 
+  "control_attributes": {
+    "Control": "CP-6 (3) ACCESSIBILITY", 
+    "control_description": "The organization identifies potential accessibility problems to the alternate storage site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization obtains alternate telecommunications services to reduce the likelihood of sharing a single point of failure with primary telecommunications services."
+  }, 
+  "Control Statement": "The organization identifies potential accessibility problems to the alternate storage site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-6 (3) ACCESSIBILITY", 
+  "compliance_control_number": "600000334"
+}

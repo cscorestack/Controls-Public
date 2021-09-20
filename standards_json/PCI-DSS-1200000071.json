@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000071", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000071", 
+  "Control Name": "6.3.1 Remove development, test and/or custom application accounts, user IDs, and passwords before applications become active or are released to customers.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.3.1 Remove development, test and/or custom application accounts, user IDs, and passwords before applications become active or are released to customers.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

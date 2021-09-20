@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000439", 
+  "compliance_control_uri": "Azure-WAF/0015/150000439", 
+  "Control Name": "5.6.4 The security team has access to and monitor all subscriptions and tenants that are connected to the existing cloud environment, relative to this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Ensure the security organization is aware of all enrollments and associated subscriptions connected to the existing environment and is able to monitor those resources as part of the overall enterprise security posture.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.4 The security team has access to and monitor all subscriptions and tenants that are connected to the existing cloud environment, relative to this workload.", 
+    "Description": "Ensure the security organization is aware of all enrollments and associated subscriptions connected to the existing environment and is able to monitor those resources as part of the overall enterprise security posture."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000579", 
+  "control_attributes": {
+    "Control": "SA-4 (10) USE OF APPROVED PIV PRODUCTS", 
+    "control_description": "The organization employs only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization establishes, documents, and maintains trust relationships with external service providers based on [Assignment: organization-defined security requirements, properties, factors, or conditions defining acceptable trust relationships]."
+  }, 
+  "Control Statement": "The organization employs only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-4 (10) USE OF APPROVED PIV PRODUCTS", 
+  "compliance_control_number": "600000579"
+}

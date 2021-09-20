@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000091", 
+  "control_attributes": {
+    "Control": "SC-36 DISTRIBUTED PROCESSING AND STORAGE", 
+    "control_description": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined Operations Security (OPSEC) safeguards] in accordance with classification guides to protect supply chain-related information for the information system, system component, or information system service."
+  }, 
+  "Control Statement": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-36 DISTRIBUTED PROCESSING AND STORAGE", 
+  "compliance_control_number": "600000091"
+}

@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000817",
+  "compliance_control_uri": "AC3-v-01/0000/110000817",
+  "Control Name": "SI-7 (5) AUTOMATED RESPONSE TO INTEGRITY VIOLATIONS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system automatically [Selection (one or more): shuts the information system down; restarts the information system; implements [Assignment: organization-defined security safeguards]] when integrity violations are discovered.",
+  "control_attributes": {
+    "Control Name": "SI-7 (5) AUTOMATED RESPONSE TO INTEGRITY VIOLATIONS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system automatically [Selection (one or more): shuts the information system down; restarts the information system; implements [Assignment: organization-defined security safeguards]] when integrity violations are discovered."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000784",
+      "PCI-DSS/0012/1200000178",
+      "PCI-DSS/0012/1200000201",
+      "PCI-DSS/0012/1200000202",
+      "Fedramp-Control-High/0009/900000411"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

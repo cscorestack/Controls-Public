@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000267",
+  "compliance_control_uri": "AWS-WAF/0016/160000267",
+  "Control Name": "COST 4.4 Decommission resources automatically",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Design your workload to gracefully handle resource termination as you identify and decommission non-critical resources, resources that are not required, or resources with low utilization.",
+  "control_attributes": {
+    "Control": "COST 4.4 Decommission resources automatically",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you decommission resources?",
+    "question_id": "decomissioning-resources",
+    "choice_id": "cost_decomissioning_resources_decomm_automated"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

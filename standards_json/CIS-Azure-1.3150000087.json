@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000087", 
+  "compliance_control_uri": "CIS-Azure/0015/150000087", 
+  "Control Name": "6.5 Ensure that Network Watcher is 'Enabled'", 
+  "Control Family": "6 Networking", 
+  "Control Statement": "Enable Network Watcher for Azure subscriptions.", 
+  "control_attributes": {
+    "Control": "6.5 Ensure that Network Watcher is 'Enabled'", 
+    "Control_Clause": "6 Networking", 
+    "description": "Enable Network Watcher for Azure subscriptions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

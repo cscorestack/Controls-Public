@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000329", 
+  "control_attributes": {
+    "Control": "CP-4 (2) ALTERNATE PROCESSING SITE", 
+    "control_description": "The organization tests the contingency plan at the alternate processing site:", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives)."
+  }, 
+  "Control Statement": "The organization tests the contingency plan at the alternate processing site:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-4 (2) ALTERNATE PROCESSING SITE", 
+  "compliance_control_number": "600000329"
+}

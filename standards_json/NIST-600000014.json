@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000014", 
+  "control_attributes": {
+    "Control": "AU-7 AUDIT REDUCTION AND REPORT GENERATION", 
+    "control_description": "The information system provides an audit reduction and report generation capability that: a. Supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents; andb. Does not alter the original content or time ordering of audit records.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system provides the capability to process audit records for events of interest based on [Assignment: organization-defined audit fields within audit records]."
+  }, 
+  "Control Statement": "The information system provides an audit reduction and report generation capability that: a. Supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents; andb. Does not alter the original content or time ordering of audit records.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-7 AUDIT REDUCTION AND REPORT GENERATION", 
+  "compliance_control_number": "600000014"
+}

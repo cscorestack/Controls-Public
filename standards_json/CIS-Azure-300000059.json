@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000059", 
+  "compliance_control_uri": "CIS-Azure/0003/300000059", 
+  "Control Name": "1.22. Ensure that 'Require Multi-Factor Auth to join devices' is set to 'Yes'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Joining devices to the active directory should require Multi-factor authentication.", 
+  "control_attributes": {
+    "Control": "1.22. Ensure that 'Require Multi-Factor Auth to join devices' is set to 'Yes'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Joining devices to the active directory should require Multi-factor authentication."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

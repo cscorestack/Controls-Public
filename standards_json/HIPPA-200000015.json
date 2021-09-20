@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000015", 
+  "compliance_control_uri": "HIPAA/0002/200000015", 
+  "Control Name": "Workforce Security - 164.308(a)(3)(i)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Implement policies and procedures to ensure that all members of its workforce have appropriate access to electronic protected health information, as provided under paragraph (a)(4) of this section, and to prevent those workforce members who do not have access under paragraph (a)(4) of this section from obtaining access to electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Workforce Security - 164.308(a)(3)(i)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Implement policies and procedures to ensure that all members of its workforce have appropriate access to electronic protected health information, as provided under paragraph (a)(4) of this section, and to prevent those workforce members who do not have access under paragraph (a)(4) of this section from obtaining access to electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

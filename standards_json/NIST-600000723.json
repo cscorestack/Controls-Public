@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000723", 
+  "control_attributes": {
+    "Control": "SC-34 NON-MODIFIABLE EXECUTABLE PROGRAMS", 
+    "control_description": "The information system at [Assignment: organization-defined information system components]:", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system includes components that proactively seek to identify malicious websites and/or web-based malicious code."
+  }, 
+  "Control Statement": "The information system at [Assignment: organization-defined information system components]:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-34 NON-MODIFIABLE EXECUTABLE PROGRAMS", 
+  "compliance_control_number": "600000723"
+}

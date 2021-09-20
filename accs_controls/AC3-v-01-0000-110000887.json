@@ -1,0 +1,62 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000887", 
+  "compliance_control_uri": "AC3-v-01/0000/110000887", 
+  "Control Name": "Ensure that Vulnerability Assessment (VA) is enabled on a SQL server by setting a Storage Account", 
+  "Control Family": "Database Services", 
+  "Control Statement": "Enable Vulnerability Assessment (VA) service scans for critical SQL servers and corresponding SQL databases.", 
+  "control_attributes": {
+    "Control Name": "Ensure that Vulnerability Assessment (VA) is enabled on a SQL server by setting a Storage Account", 
+    "Control Family": "Database Services", 
+    "Control Statement": "Enable Vulnerability Assessment (VA) service scans for critical SQL servers and corresponding SQL databases."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Databases/Servers",
+      "service_resource": "Azure/Databases/Servers/MSSQL"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000054"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Monitor_SQL_Vuln_Assessment_Results",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/sn4yt",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_SQL_Servers_without_VA",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/xwysa",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_SQL_Managed_Instance_without_VA",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/ryutr",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

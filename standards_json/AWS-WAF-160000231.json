@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000231",
+  "compliance_control_uri": "AWS-WAF/0016/160000231",
+  "Control Name": "PERF 6.1 Stay up-to-date on new resources and services",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Evaluate ways to improve performance as new services, design patterns, and product oﬀerings become available. Determine which of these could improve performance or increase the eﬃciency of the workload through ad-hoc evaluation, internal discussion, or external analysis.",
+  "control_attributes": {
+    "Control": "PERF 6.1 Stay up-to-date on new resources and services",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you evolve your workload to take advantage of new releases?",
+    "question_id": "continue-having-appropriate-resource-type",
+    "choice_id": "perf_continue_having_appropriate_resource_type_keep_up_to_date"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

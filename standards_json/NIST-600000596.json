@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000596", 
+  "control_attributes": {
+    "Control": "SA-11 (1) STATIC CODE ANALYSIS", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to employ static code analysis tools to identify common flaws and document the results of the analysis.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to verify that the scope of security testing/evaluation provides complete coverage of required security controls at [Assignment: organization-defined depth of testing/evaluation]."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to employ static code analysis tools to identify common flaws and document the results of the analysis.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-11 (1) STATIC CODE ANALYSIS", 
+  "compliance_control_number": "600000596"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000162", 
+  "compliance_control_uri": "Azure-WAF/0015/150000162", 
+  "Control Name": "2.12.6 Direct write access to infrastructure is not possible and all resources are provisioned or configured through IaC processes.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "It is recommended that even small operational changes and modifications be implemented as-code to track changes and ensure they are fully reproducible and revertible. No infrastructure changes should be done manually outside of IaC.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.12 What operational considerations are you making regarding the deployment of your infrastructure?", 
+    "Control": "2.12.6 Direct write access to infrastructure is not possible and all resources are provisioned or configured through IaC processes.", 
+    "Description": "It is recommended that even small operational changes and modifications be implemented as-code to track changes and ensure they are fully reproducible and revertible. No infrastructure changes should be done manually outside of IaC."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

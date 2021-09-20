@@ -1,0 +1,52 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000634",
+  "compliance_control_uri": "AC3-v-01/0000/110000634",
+  "Control Name": "SC-12 (2) SYMMETRIC KEYS",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization produces, controls, and distributes symmetric cryptographic keys using [Selection: NIST FIPS-compliant; NSA-approved] key management technology and processes.",
+  "control_attributes": {
+    "Control Name": "SC-12 (2) SYMMETRIC KEYS",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization produces, controls, and distributes symmetric cryptographic keys using [Selection: NIST FIPS-compliant; NSA-approved] key management technology and processes."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000687",
+      "Fedramp-Control-Moderate/0010/1000000281",
+      "Fedramp-Control-High/0009/900000366",
+      "AWS-WAF/0005/500000116",
+      "AWS-WAF/0005/500000121",
+      "CIS-GCP/0014/1400000030",
+      "CIS-GCP/0014/1400000031",
+      "SOC2/0017/1700000122"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "GCP_Audit_RSASHA1_For_Signing_Cloud_DNS",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/RSAV",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

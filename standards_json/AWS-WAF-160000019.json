@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000019",
+  "compliance_control_uri": "AWS-WAF/0016/160000019",
+  "Control Name": "OPS 3.5 Experimentation is encouraged",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Experimentation accelerates learning and keeps team members interested and engaged. An undesired result is a successful experiment that has identiﬁed a path that will not lead to success. Team members are not punished for successful experiments with undesired results. Experimentation is required for innovation to happen and turn ideas into outcomes.",
+  "control_attributes": {
+    "Control": "OPS 3.5 Experimentation is encouraged",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_team_enc_experiment"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

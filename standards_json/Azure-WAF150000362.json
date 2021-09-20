@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000362", 
+  "compliance_control_uri": "Azure-WAF/0015/150000362", 
+  "Control Name": "4.9.4 Expected throughput passing through security/network appliances has been tested and autoscaling is configured based on throughput requirements.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is autoscaling enabled and integrated within Azure Monitor?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.4 Expected throughput passing through security/network appliances has been tested and autoscaling is configured based on throughput requirements.", 
+    "Description": "Is autoscaling enabled and integrated within Azure Monitor?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

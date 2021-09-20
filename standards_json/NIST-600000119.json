@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000119", 
+  "control_attributes": {
+    "Control": "AU-8 TIME STAMPS", 
+    "control_description": "The information system: a. Uses internal system clocks to generate time stamps for audit records; andb. Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets [Assignment: organization-defined granularity of time measurement]. ", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system terminates shared/group account credentials when members leave the group."
+  }, 
+  "Control Statement": "The information system: a. Uses internal system clocks to generate time stamps for audit records; andb. Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets [Assignment: organization-defined granularity of time measurement]. ", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-8 TIME STAMPS", 
+  "compliance_control_number": "600000119"
+}

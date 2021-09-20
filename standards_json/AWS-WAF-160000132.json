@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000132",
+  "compliance_control_uri": "AWS-WAF/0016/160000132",
+  "Control Name": "SEC 10.1 Identify key personnel and external resources",
+  "Control Family": "Security",
+  "Control Statement": "Identify internal and external personnel, resources, and legal obligations that would help your organization respond to an incident.",
+  "control_attributes": {
+    "Control": "SEC 10.1 Identify key personnel and external resources",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_identify_personnel"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

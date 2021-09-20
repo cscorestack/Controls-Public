@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000088", 
+  "compliance_control_uri": "CIS-Azure/0015/150000088", 
+  "Control Name": "6.6 Ensure that UDP Services are restricted from the Internet", 
+  "Control Family": "6 Networking", 
+  "Control Statement": "Disable Internet exposed UDP ports on network security groups.", 
+  "control_attributes": {
+    "Control": "6.6 Ensure that UDP Services are restricted from the Internet", 
+    "Control_Clause": "6 Networking", 
+    "description": "Disable Internet exposed UDP ports on network security groups."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

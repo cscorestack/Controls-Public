@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000343", 
+  "compliance_control_uri": "Azure-WAF/0015/150000343", 
+  "Control Name": "4.6.7 Application traffic can be routed to data stores in the case of region/zone/network outages.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "How is application traffic routed to data sources in the case of region/zone/network outage? i.e. Cosmos DB Automatic Failover.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.7 Application traffic can be routed to data stores in the case of region/zone/network outages.", 
+    "Description": "How is application traffic routed to data sources in the case of region/zone/network outage? i.e. Cosmos DB Automatic Failover."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

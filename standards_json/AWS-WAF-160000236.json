@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000236",
+  "compliance_control_uri": "AWS-WAF/0016/160000236",
+  "Control Name": "PERF 7.3 Establish Key Performance Indicators (KPIs) to measure workload performance",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Identify the KPIs that indicate whether the workload is performing as intended. For example, an API-based workload might use overall response latency as an indication of overall performance, and an e-commerce site might choose to use the number of purchases as its KPI.",
+  "control_attributes": {
+    "Control": "PERF 7.3 Establish Key Performance Indicators (KPIs) to measure workload performance",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_establish_kpi"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000368", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000368", 
+  "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT |ASYMMETRIC KEYS", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization produces, controls, and distributes asymmetric cryptographic keys using [Selection: NSA-approved key management technology and processes; approved PKI Class 3 certificates or prepositioned keying material; approved PKI Class 3 or Class 4 certificates and hardware security tokens that protect the user\u00e2\u20ac\u2122s private key].", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization produces, controls, and distributes asymmetric cryptographic keys using [Selection: NSA-approved key management technology and processes; approved PKI Class 3 certificates or prepositioned keying material; approved PKI Class 3 or Class 4 certificates and hardware security tokens that protect the user\u00e2\u20ac\u2122s private key].", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-12 (03)", 
+    "CNTL NO": "SC-12 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT |ASYMMETRIC KEYS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000030",
+  "compliance_control_uri": "AWS-WAF/0016/160000030",
+  "Control Name": "OPS 5.3 Use conﬁguration management systems",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use conﬁguration management systems to make and track conﬁguration changes. These systems reduce errors caused by manual processes and reduce the level of eﬀort to deploy changes.",
+  "control_attributes": {
+    "Control": "OPS 5.3 Use conﬁguration management systems",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_conf_mgmt_sys"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

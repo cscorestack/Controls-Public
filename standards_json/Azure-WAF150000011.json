@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000011", 
+  "compliance_control_uri": "Azure-WAF/0015/150000011", 
+  "Control Name": "1.2.2 There is a cost owner for every service used by this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Every service should have a cost owner that is tracking and is responsible for cost. This drives responsibility and awareness on who owns the cost tracking.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.2 There is a cost owner for every service used by this workload.", 
+    "Description": "Every service should have a cost owner that is tracking and is responsible for cost. This drives responsibility and awareness on who owns the cost tracking."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000212", 
+  "control_attributes": {
+    "Control": "AC-20 (1) LIMITS ON AUTHORIZED USE", 
+    "control_description": "The organization permits authorized individuals to use an external information system to access the information system or to process, store, or transmit organization-controlled information only when the organization:                                                                                                               (a) Verifies the implementation of required security controls on the external system as specified in the organization\u2019s information security policy and security plan; or(b) Retains approved information system connection or processing agreements with the organizational entity hosting the external information system.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization includes security awareness training on recognizing and reporting potential indicators of insider threat."
+  }, 
+  "Control Statement": "The organization permits authorized individuals to use an external information system to access the information system or to process, store, or transmit organization-controlled information only when the organization:                                                                                                               (a) Verifies the implementation of required security controls on the external system as specified in the organization\u2019s information security policy and security plan; or(b) Retains approved information system connection or processing agreements with the organizational entity hosting the external information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-20 (1) LIMITS ON AUTHORIZED USE", 
+  "compliance_control_number": "600000212"
+}

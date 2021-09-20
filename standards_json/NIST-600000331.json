@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000331", 
+  "control_attributes": {
+    "Control": "CP-4 (4) FULL RECOVERY / RECONSTITUTION", 
+    "control_description": "The organization includes a full recovery and reconstitution of the information system to a known state as part of contingency plan testing.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization plans and prepares for circumstances that preclude returning to the primary processing site."
+  }, 
+  "Control Statement": "The organization includes a full recovery and reconstitution of the information system to a known state as part of contingency plan testing.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-4 (4) FULL RECOVERY / RECONSTITUTION", 
+  "compliance_control_number": "600000331"
+}

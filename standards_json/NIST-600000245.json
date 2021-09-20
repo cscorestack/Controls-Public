@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000245", 
+  "control_attributes": {
+    "Control": "AU-8 (2) SECONDARY AUTHORITATIVE TIME SOURCE", 
+    "control_description": "The information system identifies a secondary authoritative time source that is located in a different geographic region than the primary authoritative time source.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization monitors [Assignment: organization-defined open source information and/or information sites] [Assignment: organization-defined frequency] for evidence of unauthorized disclosure of organizational information."
+  }, 
+  "Control Statement": "The information system identifies a secondary authoritative time source that is located in a different geographic region than the primary authoritative time source.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-8 (2) SECONDARY AUTHORITATIVE TIME SOURCE", 
+  "compliance_control_number": "600000245"
+}

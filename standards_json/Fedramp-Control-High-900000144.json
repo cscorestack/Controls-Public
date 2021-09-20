@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000144", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000144", 
+  "Control Name": "USER-INSTALLED SOFTWARE | ALERTS FOR UNAUTHORIZED INSTALLATIONS", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected.Supplemental Guidance:  Related controls: CA-7, SI-4.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected.Supplemental Guidance:  Related controls: CA-7, SI-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-11 (01)", 
+    "CNTL NO": "CM-11 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "USER-INSTALLED SOFTWARE | ALERTS FOR UNAUTHORIZED INSTALLATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

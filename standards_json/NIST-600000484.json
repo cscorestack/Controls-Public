@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000484", 
+  "control_attributes": {
+    "Control": "PE-2 PHYSICAL ACCESS AUTHORIZATIONS", 
+    "control_description": "The organization: a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;b. Issues authorization credentials for facility access;c. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; andd. Removes individuals from the facility access list when access is no longer required", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs guards and/or alarms to monitor every physical access point to the facility where the information system resides 24 hours per day, 7 days per week."
+  }, 
+  "Control Statement": "The organization: a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;b. Issues authorization credentials for facility access;c. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; andd. Removes individuals from the facility access list when access is no longer required", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-2 PHYSICAL ACCESS AUTHORIZATIONS", 
+  "compliance_control_number": "600000484"
+}

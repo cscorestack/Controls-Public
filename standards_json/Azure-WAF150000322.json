@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000322", 
+  "compliance_control_uri": "Azure-WAF/0015/150000322", 
+  "Control Name": "4.4.7 Successfully tested and validated the failover and failback approach at least once.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are disaster recovery strategies and operational runbooks for key failure scenarios tested on a regular basis?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.7 Successfully tested and validated the failover and failback approach at least once.", 
+    "Description": "Are disaster recovery strategies and operational runbooks for key failure scenarios tested on a regular basis?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

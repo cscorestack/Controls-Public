@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000620", 
+  "control_attributes": {
+    "Control": "SA-15 (2) SECURITY TRACKING TOOLS", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to select and employ a security tracking tool for use during the development process.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to use threat modeling and vulnerability analyses from similar systems, components, or services to inform the current development process."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to select and employ a security tracking tool for use during the development process.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-15 (2) SECURITY TRACKING TOOLS", 
+  "compliance_control_number": "600000620"
+}

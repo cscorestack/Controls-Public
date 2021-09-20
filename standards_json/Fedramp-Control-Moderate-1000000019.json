@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000019", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000019", 
+  "Control Name": "LEAST PRIVILEGE | PRIVILEGED ACCOUNTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization restricts privileged accounts on the information system to [Assignment:organization-defined personnel or roles].Supplemental Guidance:  Privileged accounts, including super user accounts, are typically described as system administrator for various types of commercial off-the-shelf operating systems. Restricting privileged accounts to specific personnel or roles prevents day-to-day users from having access to privileged information/functions. Organizations may differentiate in the application of this control enhancement between allowed privileges for local accounts and for domain accounts provided organizations retain the ability to control information system configurations for key security parameters and as otherwise necessary to sufficiently mitigate risk. Related control: CM-6.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization restricts privileged accounts on the information system to [Assignment:organization-defined personnel or roles].Supplemental Guidance:  Privileged accounts, including super user accounts, are typically described as system administrator for various types of commercial off-the-shelf operating systems. Restricting privileged accounts to specific personnel or roles prevents day-to-day users from having access to privileged information/functions. Organizations may differentiate in the application of this control enhancement between allowed privileges for local accounts and for domain accounts provided organizations retain the ability to control information system configurations for key security parameters and as otherwise necessary to sufficiently mitigate risk. Related control: CM-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-06 (05)", 
+    "CNTL NO": "AC-6 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "LEAST PRIVILEGE | PRIVILEGED ACCOUNTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

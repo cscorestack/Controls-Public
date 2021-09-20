@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000556", 
+  "control_attributes": {
+    "Control": "RA-1 RISK ASSESSMENT POLICY AND PROCEDURES", 
+    "control_description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; andb. Reviews and updates the current:1. Risk assessment policy [Assignment: organization-defined frequency]; and2. Risk assessment procedures [Assignment: organization-defined frequency].", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities]."
+  }, 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; andb. Reviews and updates the current:1. Risk assessment policy [Assignment: organization-defined frequency]; and2. Risk assessment procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-1 RISK ASSESSMENT POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000556"
+}

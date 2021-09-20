@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000071", 
+  "compliance_control_uri": "HIPAA/0002/200000071", 
+  "Control Name": "Business associate contracts. - 164.314(a)(2)(i)(B)", 
+  "Control Family": "Business associate contracts.", 
+  "Control Statement": "The contract must provide that the business associate will, in accordance with \\u00a7164.308(b)(2), ensure that any subcontractors that create, receive, maintain, or transmit electronic protected health information on behalf of the business associate agree to comply with the applicable requirements of this subpart by entering into a contract or other arrangement that complies with this section", 
+  "control_attributes": {
+    "Control": "Business associate contracts. - 164.314(a)(2)(i)(B)", 
+    "Security_Category": "Business associate contracts.", 
+    "Control_description": "The contract must provide that the business associate will, in accordance with \\u00a7164.308(b)(2), ensure that any subcontractors that create, receive, maintain, or transmit electronic protected health information on behalf of the business associate agree to comply with the applicable requirements of this subpart by entering into a contract or other arrangement that complies with this section"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

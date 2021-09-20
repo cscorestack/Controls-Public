@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000234",
+  "compliance_control_uri": "AWS-WAF/0016/160000234",
+  "Control Name": "PERF 7.1 Record performance-related metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use a monitoring and observability service to record performance-related metrics. For example, record database transactions, slow queries, I/O latency, HTTP request throughput, service latency, or other key data.",
+  "control_attributes": {
+    "Control": "PERF 7.1 Record performance-related metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_record_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000505", 
+  "control_attributes": {
+    "Control": "PE-8 VISITOR ACCESS RECORDS", 
+    "control_description": "The organization: a. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; andb. Reviews visitor access records [Assignment: organization-defined frequency].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization provides a long-term alternate power supply for the information system that is capable of maintaining minimally required operational capability in the event of an extended loss of the primary power source."
+  }, 
+  "Control Statement": "The organization: a. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; andb. Reviews visitor access records [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-8 VISITOR ACCESS RECORDS", 
+  "compliance_control_number": "600000505"
+}

@@ -1,0 +1,47 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000164",
+  "compliance_control_uri": "AC3-v-01/0000/110000164",
+  "Control Name": "AU-6 (8) FULL TEXT ANALYSIS OF PRIVILEGED COMMANDS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization performs a full text analysis of audited privileged commands in a physically distinct component or subsystem of the information system, or other information system that is dedicated to that analysis.",
+  "control_attributes": {
+    "Control Name": "AU-6 (8) FULL TEXT ANALYSIS OF PRIVILEGED COMMANDS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization performs a full text analysis of audited privileged commands in a physically distinct component or subsystem of the information system, or other information system that is dedicated to that analysis."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000240",
+      "CIS-AWS/0007/700000031",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Audit_S3_Access_Logging",
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/ax2y5",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000276", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000276", 
+  "Control Name": "EMERGENCY POWER", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization provides a short-term uninterruptible power supply to facilitate [Selection (one or more): an orderly shutdown of the information system; transition of the information system to long-term alternate power] in the event of a primary power source loss.Supplemental Guidance:  Related controls: AT-3, CP-2, CP-7.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization provides a short-term uninterruptible power supply to facilitate [Selection (one or more): an orderly shutdown of the information system; transition of the information system to long-term alternate power] in the event of a primary power source loss.Supplemental Guidance:  Related controls: AT-3, CP-2, CP-7.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-11", 
+    "CNTL NO": "PE-11", 
+    "AdditionalReq": " ", 
+    "Control Name": "EMERGENCY POWER"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

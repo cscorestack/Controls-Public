@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000017", 
+  "control_attributes": {
+    "Control": "AU-9 (3) CRYPTOGRAPHIC PROTECTION", 
+    "control_description": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-9 (3) CRYPTOGRAPHIC PROTECTION", 
+  "compliance_control_number": "600000017"
+}

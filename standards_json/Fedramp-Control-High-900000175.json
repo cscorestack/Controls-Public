@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000175", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000175", 
+  "Control Name": "INFORMATION SYSTEM BACKUP | SEPARATE STORAGE FOR CRITICAL INFORMATION", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system.Supplemental Guidance:  Critical information system software includes, for example, operating systems, cryptographic key management systems, and intrusion detection/prevention systems. Security-related information includes, for example, organizational inventories of hardware, software, and firmware components. Alternate storage sites typically serve as separate storage facilities for organizations. Related controls: CM-2, CM-8.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system.Supplemental Guidance:  Critical information system software includes, for example, operating systems, cryptographic key management systems, and intrusion detection/prevention systems. Security-related information includes, for example, organizational inventories of hardware, software, and firmware components. Alternate storage sites typically serve as separate storage facilities for organizations. Related controls: CM-2, CM-8.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-09 (03)", 
+    "CNTL NO": "CP-9 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM BACKUP | SEPARATE STORAGE FOR CRITICAL INFORMATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

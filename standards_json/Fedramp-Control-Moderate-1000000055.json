@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000055", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000055", 
+  "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; and b. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)].Supplemental Guidance:  Audit processing failures include, for example, software/hardware errors, failures in the audit capturing mechanisms, and audit storage capacity being reached or exceeded. Organizations may choose to define additional actions for different audit processing failures (e.g., by type, by location, by severity, or a combination of such factors). This control applies to each audit data storage repository (i.e., distinct information system component where audit records are stored), the total audit storage capacity of organizations (i.e., all audit data storage repositories combined), or both. Related controls: AU-4, SI-12.References: None.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; and b. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)].Supplemental Guidance:  Audit processing failures include, for example, software/hardware errors, failures in the audit capturing mechanisms, and audit storage capacity being reached or exceeded. Organizations may choose to define additional actions for different audit processing failures (e.g., by type, by location, by severity, or a combination of such factors). This control applies to each audit data storage repository (i.e., distinct information system component where audit records are stored), the total audit storage capacity of organizations (i.e., all audit data storage repositories combined), or both. Related controls: AU-4, SI-12.References: None.", 
+    "SelectionParam": "AU-5 (b) [organization-defined actions to be taken (overwrite oldest record)", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-05", 
+    "CNTL NO": "AU-5", 
+    "AdditionalReq": " ", 
+    "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

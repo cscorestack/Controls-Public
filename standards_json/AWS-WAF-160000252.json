@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000252",
+  "compliance_control_uri": "AWS-WAF/0016/160000252",
+  "Control Name": "COST 2.1 Develop policies based on your organization requirements",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Develop policies that deﬁne how resources are managed by your organization. Policies should cover cost aspects of resources and workloads, including creation, modiﬁcation and decommission over the resource lifetime.",
+  "control_attributes": {
+    "Control": "COST 2.1 Develop policies based on your organization requirements",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_policies"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

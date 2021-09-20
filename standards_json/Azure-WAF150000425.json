@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000425", 
+  "compliance_control_uri": "Azure-WAF/0015/150000425", 
+  "Control Name": "5.4.8 Branch policies are used in source control management, main branch is protected and code reviews are required.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Branch policies provide additional level of control over the code which is committed to the product. It is a common practice to not allow pushing against the main branch and require pull-request (PR) with code review before merging the changes by at least one reviewer, other than the change author. Different branches can have different purposes and access levels, for example: feature branches are created by developers and are open to push, integration branch requires PR and code-review and production branch requires additional approval from a senior developer before merging.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.8 Branch policies are used in source control management, main branch is protected and code reviews are required.", 
+    "Description": "Branch policies provide additional level of control over the code which is committed to the product. It is a common practice to not allow pushing against the main branch and require pull-request (PR) with code review before merging the changes by at least one reviewer, other than the change author. Different branches can have different purposes and access levels, for example: feature branches are created by developers and are open to push, integration branch requires PR and code-review and production branch requires additional approval from a senior developer before merging."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

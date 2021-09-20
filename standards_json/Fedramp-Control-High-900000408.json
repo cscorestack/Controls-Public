@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000408", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000408", 
+  "Control Name": "SECURITY FUNCTION VERIFICATION", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system: a. Verifies the correct operation of [Assignment: organization-defined security functions]; b. Performs this verification [Selection (one or more): [Assignment: organization-defined system transitional states]; upon command by user with appropriate privilege; [Assignment: organization-defined frequency]]; c. Notifies [Assignment: organization-defined personnel or roles] of failed security verification tests; and d. [Selection (one or more): shuts the information system down; restarts the information system; [Assignment: organization-defined alternative action(s)]] when anomalies are discovered.Supplemental Guidance: Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights. Related controls: CA-7, CM-6.References: None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system: a. Verifies the correct operation of [Assignment: organization-defined security functions]; b. Performs this verification [Selection (one or more): [Assignment: organization-defined system transitional states]; upon command by user with appropriate privilege; [Assignment: organization-defined frequency]]; c. Notifies [Assignment: organization-defined personnel or roles] of failed security verification tests; and d. [Selection (one or more): shuts the information system down; restarts the information system; [Assignment: organization-defined alternative action(s)]] when anomalies are discovered.Supplemental Guidance: Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights. Related controls: CA-7, CM-6.References: None.", 
+    "SelectionParam": "SI-6 (b) [to include upon system startup and/or restart and at least monthly]SI-6 (c) [to include system administrators and security personnel]SI-6 (d) [to include notification of system administrators and security personnel]", 
+    "FedRampParam": "x", 
+    "SORTID": "SI-06", 
+    "CNTL NO": "SI-6", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY FUNCTION VERIFICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

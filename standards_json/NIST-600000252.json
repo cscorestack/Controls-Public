@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000252", 
+  "control_attributes": {
+    "Control": "AU-10 (2) VALIDATE BINDING OF INFORMATION PRODUCER IDENTITY", 
+    "control_description": "The information system:  This control enhancement prevents the modification of information between production and review. The validation of bindings can be achieved, for example, by the use of cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically. Related controls: AC-3, AC-4, AC-16.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides cross-organizational audit information to [Assignment: organization-defined organizations] based on [Assignment: organization-defined cross-organizational sharing agreements]."
+  }, 
+  "Control Statement": "The information system:  This control enhancement prevents the modification of information between production and review. The validation of bindings can be achieved, for example, by the use of cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically. Related controls: AC-3, AC-4, AC-16.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-10 (2) VALIDATE BINDING OF INFORMATION PRODUCER IDENTITY", 
+  "compliance_control_number": "600000252"
+}

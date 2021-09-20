@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000150",
+  "compliance_control_uri": "AWS-WAF/0016/160000150",
+  "Control Name": "REL 3.1 Choose how to segment your workload",
+  "Control Family": "Reliability",
+  "Control Statement": "Monolithic architecture should be avoided. Instead, you should choose between SOA and microservices. When making each choice, balance the beneﬁts against the complexities—what is right for a new product racing to ﬁrst launch is diﬀerent than what a workload built to scale from the start needs. The beneﬁts of using smaller segments include greater agility, organizational ﬂexibility, and scalability. Complexities include possible increased latency, more complex debugging, and increased operational burden.",
+  "control_attributes": {
+    "Control": "REL 3.1 Choose how to segment your workload",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload service architecture?",
+    "question_id": "service-architecture",
+    "choice_id": "rel_service_architecture_monolith_soa_microservice"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

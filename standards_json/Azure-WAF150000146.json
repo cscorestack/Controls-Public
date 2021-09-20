@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000146", 
+  "compliance_control_uri": "Azure-WAF/0015/150000146", 
+  "Control Name": "2.10.9 Components are hosted on shared application or data platforms as appropriate.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Do application components leverage shared data platforms, such as a central data lake, or application hosting platforms, such as a centrally managed Azure Kubernetes Service (AKS) or App Service Environment (ASE) cluster? Shared platforms drive down cost, but the workload needs to maintain the expected performance.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.9 Components are hosted on shared application or data platforms as appropriate.", 
+    "Description": "Do application components leverage shared data platforms, such as a central data lake, or application hosting platforms, such as a centrally managed Azure Kubernetes Service (AKS) or App Service Environment (ASE) cluster? Shared platforms drive down cost, but the workload needs to maintain the expected performance."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

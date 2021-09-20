@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000031", 
+  "compliance_control_uri": "Azure-WAF/0015/150000031", 
+  "Control Name": "1.4.5 Multi-region deployment is supported and cost implications understood.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Multiple regions should be used for fail-over purposes in a disaster state, as part of either re-deployment, warm-spare active-passive, or hot-spare active-active strategies. Additional cost needs to be taken into consideration - mostly from compute, data and networking perspective, but also services like Azure Site Recovery (ASR).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.5 Multi-region deployment is supported and cost implications understood.", 
+    "Description": "Multiple regions should be used for fail-over purposes in a disaster state, as part of either re-deployment, warm-spare active-passive, or hot-spare active-active strategies. Additional cost needs to be taken into consideration - mostly from compute, data and networking perspective, but also services like Azure Site Recovery (ASR)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000418", 
+  "compliance_control_uri": "Azure-WAF/0015/150000418", 
+  "Control Name": "5.4.1 Formal DevOps approach to building and maintaining software in this workload was adopted.The DevOps approach increases the organization's ability to rapidly address security concerns without waiting for a longer planning and testing cycle of traditional waterfall model. Key attributes are: automation, close integration of infra and dev teams, testability and reliability and repeatability of deployments.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "The DevOps approach increases the organization's ability to rapidly address security concerns without waiting for a longer planning and testing cycle of traditional waterfall model. Key attributes are: automation, close integration of infra and dev teams, testability and reliability and repeatability of deployments.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.1 Formal DevOps approach to building and maintaining software in this workload was adopted.The DevOps approach increases the organization's ability to rapidly address security concerns without waiting for a longer planning and testing cycle of traditional waterfall model. Key attributes are: automation, close integration of infra and dev teams, testability and reliability and repeatability of deployments.", 
+    "Description": "The DevOps approach increases the organization's ability to rapidly address security concerns without waiting for a longer planning and testing cycle of traditional waterfall model. Key attributes are: automation, close integration of infra and dev teams, testability and reliability and repeatability of deployments."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

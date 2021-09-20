@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000708", 
+  "control_attributes": {
+    "Control": "SC-25 THIN NODES", 
+    "control_description": "The organization employs [Assignment: organization-defined information system components] with minimal functionality and information storage.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs a diverse set of information technologies for [Assignment: organization-defined information system components] in the implementation of the information system."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined information system components] with minimal functionality and information storage.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-25 THIN NODES", 
+  "compliance_control_number": "600000708"
+}

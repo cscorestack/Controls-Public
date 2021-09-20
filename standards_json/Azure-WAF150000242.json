@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000242", 
+  "compliance_control_uri": "Azure-WAF/0015/150000242", 
+  "Control Name": "3.4.5 You are aware of relevant Azure service limits and quotas.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Due to physical and logical resource constraints within the platform, Azure must apply limits and quotas to service scalability, which may be either hard or soft.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.5 You are aware of relevant Azure service limits and quotas.", 
+    "Description": "Due to physical and logical resource constraints within the platform, Azure must apply limits and quotas to service scalability, which may be either hard or soft."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

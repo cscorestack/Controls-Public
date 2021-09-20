@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000342", 
+  "compliance_control_uri": "Azure-WAF/0015/150000342", 
+  "Control Name": "4.6.6 Active geo-replication is used for data platform components such as storage and databases.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is active geo-replication used?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.6 Active geo-replication is used for data platform components such as storage and databases.", 
+    "Description": "Is active geo-replication used?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

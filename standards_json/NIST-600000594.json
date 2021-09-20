@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000594", 
+  "control_attributes": {
+    "Control": "SA-10 (6) TRUSTED DISTRIBUTION", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to execute procedures for ensuring that security-relevant hardware, software, and firmware updates distributed to the organization are exactly as specified by the master copies.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to perform penetration testing at [Assignment: organization-defined breadth/depth] and with [Assignment: organization-defined constraints]."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to execute procedures for ensuring that security-relevant hardware, software, and firmware updates distributed to the organization are exactly as specified by the master copies.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-10 (6) TRUSTED DISTRIBUTION", 
+  "compliance_control_number": "600000594"
+}

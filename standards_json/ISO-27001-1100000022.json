@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000022", 
+  "compliance_control_uri": "ISO-27001/0011/1100000022", 
+  "Control Name": "8.2.3 Handling of assets", 
+  "Control Family": "8. Asset Management", 
+  "Control Statement": "Procedures for handling assets shall be developed and implemented in accordance with the information classification scheme adopted by the organization.", 
+  "control_attributes": {
+    "Clause_Category": "8.2 Information classification", 
+    "description": "Procedures for handling assets shall be developed and implemented in accordance with the information classification scheme adopted by the organization.", 
+    "Control_Title": "8.2.3 Handling of assets", 
+    "Control_Clause": "8. Asset Management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

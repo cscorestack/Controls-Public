@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000416", 
+  "compliance_control_uri": "Azure-WAF/0015/150000416", 
+  "Control Name": "5.3.7 Azure Tags are used to enrich Azure resources with operational metadata.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Using tags can help to manage resources and make it easier to find relevant items during operational procedures.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.7 Azure Tags are used to enrich Azure resources with operational metadata.", 
+    "Description": "Using tags can help to manage resources and make it easier to find relevant items during operational procedures."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

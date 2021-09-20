@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000005", 
+  "compliance_control_uri": "CIS-Azure/0003/300000005", 
+  "Control Name": "2.6. Ensure ASC Default policy setting 'Monitor Disk Encryption' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Enable Disk encryption recommendations for virtual machines.", 
+  "control_attributes": {
+    "Control": "2.6. Ensure ASC Default policy setting 'Monitor Disk Encryption' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Enable Disk encryption recommendations for virtual machines."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

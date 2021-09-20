@@ -1,0 +1,99 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000536",
+  "compliance_control_uri": "AC3-v-01/0000/110000536",
+  "Control Name": "RA-5 (3) BREADTH / DEPTH OF COVERAGE",
+  "Control Family": "RISK ASSESSMENT",
+  "Control Statement": "The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked).",
+  "control_attributes": {
+    "Control Name": "RA-5 (3) BREADTH / DEPTH OF COVERAGE",
+    "Control Family": "RISK ASSESSMENT",
+    "Control Statement": "The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked)."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000560",
+      "ISO-27001/0011/1100000068",
+      "Fedramp-Control-Moderate/0010/1000000237",
+      "Fedramp-Control-High/0009/900000311",
+      "ISO/0001/100000044",
+      "AWS-WAF/0016/160000114",
+      "SOC2/0017/1700000152"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ryutr",
+        "policy_name": "Azure_Audit_SQL_Managed_Instance_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/sn4yt",
+        "policy_name": "Azure_Monitor_SQL_Vuln_Assessment_Results",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/izhd6",
+        "policy_name": "Azure_Monitor_VM_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/velo4",
+        "policy_name": "Azure_Audit_OS_Vulnerabilities_in_Virtual_Machine_Scale_Set",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/nk46s",
+        "policy_name": "Azure_Monitor_OS_vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xwysa",
+        "policy_name": "Azure_Audit_SQL_Servers_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/8017e",
+        "policy_name": "AWS_Audit_Amazon_Inspector_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/73d1d",
+        "policy_name": "AWS_Audit_Days_since_last_Amazon_Inspector_run",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000231", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000231", 
+  "Control Name": "Maintain and implement policies and procedures to manage service providers with whom cardholder data is shared, or that could affect the security of cardholder data, as follows:\\nMaintain a program to monitor service providers\\u2019 PCI DSS compliance status at least annually.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Maintain and implement policies and procedures to manage service providers with whom cardholder data is shared, or that could affect the security of cardholder data, as follows:\\nMaintain a program to monitor service providers\\u2019 PCI DSS compliance status at least annually.", 
+    "Requirement": "12.8.4.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

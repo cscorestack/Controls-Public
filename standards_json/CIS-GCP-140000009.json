@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000009", 
+  "compliance_control_uri": "CIS-GCP/0014/140000009", 
+  "Control Name": "1.9 Ensure that Cloud KMS cryptokeys are not anonymously or publicly accessible", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "It is recommended that the IAM policy on Cloud KMS cryptokeys should restrict anonymous and/or public access.", 
+  "control_attributes": {
+    "Control": "1.9 Ensure that Cloud KMS cryptokeys are not anonymously or publicly accessible", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "It is recommended that the IAM policy on Cloud KMS cryptokeys should restrict anonymous and/or public access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

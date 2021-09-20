@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000018", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000018", 
+  "Control Name": "2.3 Ensure that retention policies on log buckets are configured using Bucket Lock", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "It is recommended to create a sink that will export copies of all the log entries. This can help aggregate logs from multiple projects and export them to a Security Information and Event Management (SIEM).", 
+  "control_attributes": {
+    "Control": "2.3 Ensure that retention policies on log buckets are configured using Bucket Lock", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "It is recommended to create a sink that will export copies of all the log entries. This can help aggregate logs from multiple projects and export them to a Security Information and Event Management (SIEM)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

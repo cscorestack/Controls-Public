@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000497", 
+  "compliance_control_uri": "Azure-WAF/0015/150000497", 
+  "Control Name": "5.13.3 Modern authentication protocols (OAuth 2.0, OpenID) are used by this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Modern authentication protocols support strong controls such as MFA and should be used instead of legacy.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.3 Modern authentication protocols (OAuth 2.0, OpenID) are used by this workload.", 
+    "Description": "Modern authentication protocols support strong controls such as MFA and should be used instead of legacy."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

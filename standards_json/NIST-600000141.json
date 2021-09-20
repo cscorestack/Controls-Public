@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000141", 
+  "control_attributes": {
+    "Control": "AC-3 (8) REVOCATION OF ACCESS AUTHORIZATIONS", 
+    "control_description": "The information system enforces the revocation of access authorizations resulting from changes to the security attributes of subjects and objects based on [Assignment: organization-defined rules governing the timing of revocations of access authorizations].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability for privileged administrators to configure [Assignment: organization-defined security policy filters] to support different security policies."
+  }, 
+  "Control Statement": "The information system enforces the revocation of access authorizations resulting from changes to the security attributes of subjects and objects based on [Assignment: organization-defined rules governing the timing of revocations of access authorizations].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-3 (8) REVOCATION OF ACCESS AUTHORIZATIONS", 
+  "compliance_control_number": "600000141"
+}

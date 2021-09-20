@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000482", 
+  "control_attributes": {
+    "Control": "MP-8 (4) CLASSIFIED INFORMATION", 
+    "control_description": "The organization downgrades information system media containing classified information prior to release to individuals without required access authorizations in accordance with NSA standards and policies.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization enforces physical access authorizations to the information system in addition to the physical access controls for the facility at [Assignment: organization-defined physical spaces containing one or more components of the information system]."
+  }, 
+  "Control Statement": "The organization downgrades information system media containing classified information prior to release to individuals without required access authorizations in accordance with NSA standards and policies.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-8 (4) CLASSIFIED INFORMATION", 
+  "compliance_control_number": "600000482"
+}

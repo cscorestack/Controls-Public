@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000159", 
+  "control_attributes": {
+    "Control": "AC-4 (17) DOMAIN AUTHENTICATION", 
+    "control_description": "The information system uniquely identifies and authenticates source and destination points by [Selection (one or more): organization, system, application, individual] for information transfer.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prevents [Assignment: organization-defined software] from executing at higher privilege levels than users executing the software."
+  }, 
+  "Control Statement": "The information system uniquely identifies and authenticates source and destination points by [Selection (one or more): organization, system, application, individual] for information transfer.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (17) DOMAIN AUTHENTICATION", 
+  "compliance_control_number": "600000159"
+}

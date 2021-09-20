@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000189", 
+  "compliance_control_uri": "Azure-WAF/0015/150000189", 
+  "Control Name": "2.16.3 Availability targets such as Service Level Agreements (SLAs) and Service Level Objectives (SLOs) have been set.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Have availability targets been defined for the application and key scenarios? and are targets considered whilst the system is running in a recovery mode?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.3 Availability targets such as Service Level Agreements (SLAs) and Service Level Objectives (SLOs) have been set.", 
+    "Description": "Have availability targets been defined for the application and key scenarios? and are targets considered whilst the system is running in a recovery mode?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

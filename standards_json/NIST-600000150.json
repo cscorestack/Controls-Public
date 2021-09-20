@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000150", 
+  "control_attributes": {
+    "Control": "AC-4 (7) ONE-WAY FLOW MECHANISMS", 
+    "control_description": "The information system enforces [Assignment: organization-defined one-way information flows] using hardware mechanisms.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system separates information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization-defined required separations by types of information]."
+  }, 
+  "Control Statement": "The information system enforces [Assignment: organization-defined one-way information flows] using hardware mechanisms.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (7) ONE-WAY FLOW MECHANISMS", 
+  "compliance_control_number": "600000150"
+}

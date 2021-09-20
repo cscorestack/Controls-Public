@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000218",
+  "compliance_control_uri": "AC3-v-01/0000/110000218",
+  "Control Name": "CM-3 (4) SECURITY REPRESENTATIVE",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization requires an information security representative to be a member of the [Assignment: organization-defined configuration change control element].",
+  "control_attributes": {
+    "Control Name": "CM-3 (4) SECURITY REPRESENTATIVE",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization requires an information security representative to be a member of the [Assignment: organization-defined configuration change control element]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000286",
+      "Fedramp-Control-High/0009/900000118"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

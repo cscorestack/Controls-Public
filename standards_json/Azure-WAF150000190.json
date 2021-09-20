@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000190", 
+  "compliance_control_uri": "Azure-WAF/0015/150000190", 
+  "Control Name": "2.16.4 The lifecycle of the application is decoupled from its dependencies.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "If the application lifecycle is closely coupled with that of its dependencies it can limit the operational agility of the application, particularly where new releases are concerned.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.4 The lifecycle of the application is decoupled from its dependencies.", 
+    "Description": "If the application lifecycle is closely coupled with that of its dependencies it can limit the operational agility of the application, particularly where new releases are concerned."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

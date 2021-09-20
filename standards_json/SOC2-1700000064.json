@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000064",
+  "compliance_control_uri": "SOC2/0017/1700000064",
+  "Control Name": "Considers the Required Level of Precision—Management reflects the required level of precision and accuracy suitable for user needs in nonfinancial reporting objectives and materiality within financial reporting objectives.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers the Required Level of Precision—Management reflects the required level of precision and accuracy suitable for user needs in nonfinancial reporting objectives and materiality within financial reporting objectives.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.1 COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "ControlNo": "CC3.1.12",
+    "TrustID": "CC3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

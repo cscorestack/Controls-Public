@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000165", 
+  "control_attributes": {
+    "Control": "AC-6 (1) AUTHORIZE ACCESS TO SECURITY FUNCTIONS", 
+    "control_description": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system notifies the user, upon successful logon (access) to the system, of the date and time of the last logon (access)."
+  }, 
+  "Control Statement": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (1) AUTHORIZE ACCESS TO SECURITY FUNCTIONS", 
+  "compliance_control_number": "600000165"
+}

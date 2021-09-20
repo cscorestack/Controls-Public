@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000426", 
+  "control_attributes": {
+    "Control": "IR-4 (10) SUPPLY CHAIN COORDINATION", 
+    "control_description": "The organization coordinates incident handling activities involving supply chain events with other organizations involved in the supply chain.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements [Assignment: organization-defined procedures] to ensure that organizational personnel impacted by information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions."
+  }, 
+  "Control Statement": "The organization coordinates incident handling activities involving supply chain events with other organizations involved in the supply chain.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 (10) SUPPLY CHAIN COORDINATION", 
+  "compliance_control_number": "600000426"
+}

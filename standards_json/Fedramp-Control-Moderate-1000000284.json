@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000284", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000284", 
+  "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT |SYMMETRIC KEYS", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization produces, controls, and distributes symmetric cryptographic keys using [Selection: NIST FIPS-compliant; NSA-approved] key management technology and processes.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization produces, controls, and distributes symmetric cryptographic keys using [Selection: NIST FIPS-compliant; NSA-approved] key management technology and processes.", 
+    "SelectionParam": "SC-12 (2) [NIST FIPS-compliant]", 
+    "FedRampParam": "x", 
+    "SORTID": "SC-12 (02)", 
+    "CNTL NO": "SC-12 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT |SYMMETRIC KEYS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

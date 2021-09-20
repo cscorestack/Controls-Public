@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000187", 
+  "control_attributes": {
+    "Control": "AC-16 SECURITY ATTRIBUTES", 
+    "control_description": "The organization: a. Provides the means to associate [Assignment: organization-defined types of security attributes] having [Assignment: organization-defined security attribute values] with information in storage, in process, and/or in transmission;b. Ensures that the security attribute associations are made and retained with the information;c. Establishes the permitted [Assignment: organization-defined security attributes] for [Assignment: organization-defined information systems]; andd. Determines the permitted [Assignment: organization-defined values or ranges] for each of the established security attributes.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions."
+  }, 
+  "Control Statement": "The organization: a. Provides the means to associate [Assignment: organization-defined types of security attributes] having [Assignment: organization-defined security attribute values] with information in storage, in process, and/or in transmission;b. Ensures that the security attribute associations are made and retained with the information;c. Establishes the permitted [Assignment: organization-defined security attributes] for [Assignment: organization-defined information systems]; andd. Determines the permitted [Assignment: organization-defined values or ranges] for each of the established security attributes.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 SECURITY ATTRIBUTES", 
+  "compliance_control_number": "600000187"
+}

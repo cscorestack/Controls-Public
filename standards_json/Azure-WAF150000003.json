@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000003", 
+  "compliance_control_uri": "Azure-WAF/0015/150000003", 
+  "Control Name": "1.1.3 Critical system flows through the application have been defined for all key business scenarios.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Understanding critical system flows is vital to assessing overall operational effectiveness, and should be used to inform a health model for the application. It can also tell if areas of the application are over or under utilized and should be adjusted to better meet business needs and cost goals.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.3 Critical system flows through the application have been defined for all key business scenarios.", 
+    "Description": "Understanding critical system flows is vital to assessing overall operational effectiveness, and should be used to inform a health model for the application. It can also tell if areas of the application are over or under utilized and should be adjusted to better meet business needs and cost goals."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000050", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000050", 
+  "Control Name": "6.3 Ensure that the 'log_checkpoints' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "Ensure that the log_checkpoints database flag for the Cloud SQL PostgreSQL instance is set to on.", 
+  "control_attributes": {
+    "Control": "6.3 Ensure that the 'log_checkpoints' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "Ensure that the log_checkpoints database flag for the Cloud SQL PostgreSQL instance is set to on."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

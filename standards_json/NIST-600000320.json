@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000320", 
+  "control_attributes": {
+    "Control": "CP-2 (5) CONTINUE  ESSENTIAL MISSIONS / BUSINESS FUNCTIONS", 
+    "control_description": "The organization plans for the continuance of essential missions and business functions with little or no loss of operational continuity and sustains that continuity until full information system restoration at primary processing and/or storage sites.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization tests the contingency plan at the alternate processing site:"
+  }, 
+  "Control Statement": "The organization plans for the continuance of essential missions and business functions with little or no loss of operational continuity and sustains that continuity until full information system restoration at primary processing and/or storage sites.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (5) CONTINUE  ESSENTIAL MISSIONS / BUSINESS FUNCTIONS", 
+  "compliance_control_number": "600000320"
+}

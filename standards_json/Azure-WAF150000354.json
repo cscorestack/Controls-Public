@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000354", 
+  "compliance_control_uri": "Azure-WAF/0015/150000354", 
+  "Control Name": "4.8.3 Azure Load Balancer Standard or Zone redundant application gateways are used to load balance traffic across Availability Zones.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are there any mitigation plans defined in case data size exceeds limits? i.e. purging or archiving", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.3 Azure Load Balancer Standard or Zone redundant application gateways are used to load balance traffic across Availability Zones.", 
+    "Description": "Are there any mitigation plans defined in case data size exceeds limits? i.e. purging or archiving"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

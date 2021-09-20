@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000490", 
+  "compliance_control_uri": "Azure-WAF/0015/150000490", 
+  "Control Name": "5.12.7 Resource locks are leveraged to protect critical infrastructure of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Critical infrastructure typically doesn't change often. To prevent accidental/undesired modification of resources, Azure offers the locking functionality where only specific roles and users with permissions are able to delete/modify resources. Locks can be used on critical parts of the infrastructure, but special care needs to be taken in the DevOps process - modification locks can sometimes block automation.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.12 What security controls do you have in place for access to Azure infrastructure?", 
+    "Control": "5.12.7 Resource locks are leveraged to protect critical infrastructure of this workload.", 
+    "Description": "Critical infrastructure typically doesn't change often. To prevent accidental/undesired modification of resources, Azure offers the locking functionality where only specific roles and users with permissions are able to delete/modify resources. Locks can be used on critical parts of the infrastructure, but special care needs to be taken in the DevOps process - modification locks can sometimes block automation."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

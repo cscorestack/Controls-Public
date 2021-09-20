@@ -1,0 +1,146 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000047",
+  "compliance_control_uri": "AC3-v-01/0000/110000047",
+  "Control Name": "AC-2 ACCOUNT MANAGEMENT",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization: a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [Assignment: organization-defined information system account types];b. Assigns account managers for information system accounts;c. Establishes conditions for group and role membership;d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;e. Requires approvals by [Assignment: organization-defined personnel or roles] for requests to create information system accounts;f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [Assignment: organization-defined procedures or conditions];g. Monitors the use of information system accounts;h. Notifies account managers:1. When accounts are no longer required;2. When users are terminated or transferred; and3. When individual information system usage or need-to-know changes;i. Authorizes access to the information system based on:1. A valid access authorization;2. Intended system usage; and3. Other attributes as required by the organization or associated missions/business functions;j. Reviews accounts for compliance with account management requirements [Assignment: organization-defined frequency]; andk. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.",
+  "control_attributes": {
+    "Control Name": "AC-2 ACCOUNT MANAGEMENT",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization: a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [Assignment: organization-defined information system account types];b. Assigns account managers for information system accounts;c. Establishes conditions for group and role membership;d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;e. Requires approvals by [Assignment: organization-defined personnel or roles] for requests to create information system accounts;f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [Assignment: organization-defined procedures or conditions];g. Monitors the use of information system accounts;h. Notifies account managers:1. When accounts are no longer required;2. When users are terminated or transferred; and3. When individual information system usage or need-to-know changes;i. Authorizes access to the information system based on:1. A valid access authorization;2. Intended system usage; and3. Other attributes as required by the organization or associated missions/business functions;j. Reviews accounts for compliance with account management requirements [Assignment: organization-defined frequency]; andk. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Identity/AzureActiveDirectory",
+      "service_resource": "Azure/Identity/AzureActiveDirectory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/AzureActiveDirectory",
+      "service_resource": "Azure/Identity/AzureActiveDirectory/Objects"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Identity/IAM",
+      "service_resource": "GCP/Identity/IAM/Users"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000079",
+      "ISO-27001/0011/1100000028",
+      "ISO-27001/0011/1100000030",
+      "ISO-27001/0011/1100000032",
+      "ISO-27001/0011/1100000033",
+      "PCI-DSS/0012/1200000106",
+      "PCI-DSS/0012/1200000107",
+      "PCI-DSS/0012/1200000108",
+      "PCI-DSS/0012/1200000127",
+      "Fedramp-Control-Moderate/0010/1000000002",
+      "Fedramp-Control-High/0009/900000002",
+      "HIPAA/0002/200000041",
+      "HIPAA/0002/200000043",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000046",
+      "HIPAA/0002/200000016",
+      "ISO/0001/100000021",
+      "ISO/0001/100000023",
+      "ISO/0001/100000025",
+      "ISO/0001/100000026",
+      "AWS-WAF/0016/160000096",
+      "AWS-WAF/0016/160000097",
+      "CIS-AWS/0007/700000012",
+      "PCI-DSS/0012/1200000102",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/arlno",
+        "policy_name": "Azure_Audit_Deprecated_Accounts_With_Owner_Permission",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/BEaQN",
+        "policy_name": "Azure_Audit_Custom_Owner_Role_Exists",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mceg7",
+        "policy_name": "Azure_Audit_Usage_Custom_RBAC_Rules",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/c75tm",
+        "policy_name": "Azure_Audit_Max_No_Of_Owners_For_A_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ghjd4",
+        "policy_name": "Azure_Audit_External_Accounts_with_Owner_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vbnm2",
+        "policy_name": "Azure_Audit_Minimum_No_of_Owners_in_a_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/fullv",
+        "policy_name": "GCP_Audit_Service_Accounts_With_Full_Google_Cloud_API_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/loginv",
+        "policy_name": "GCP_Audit_Instance_OS_Login_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/scov",
+        "policy_name": "GCP_Audit_Over_Service_Account_Privileged_Scopes",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

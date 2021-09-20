@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000045", 
+  "compliance_control_uri": "Azure-WAF/0015/150000045", 
+  "Control Name": "1.6.3 Test-environments are deployed automatically and deleted after use.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Automating test cases reduces time, cost and helps inefficient resource utilization. It also provides a structured approach to testing with test scripts. Test environments can quickly become overhead if not monitored properly, therefore stopping these resources when they are not in use leads to cost saving. In order to drive down cost a good place to look is test environments that might not be used anymore. Implementing a process can help by tagging all test environments with end date and owner and after this date follow up with the owner if the environment is still needed and if so set a new end-of-life date.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.6 What considerations for DevOps practices are you making in this workload?", 
+    "Control": "1.6.3 Test-environments are deployed automatically and deleted after use.", 
+    "Description": "Automating test cases reduces time, cost and helps inefficient resource utilization. It also provides a structured approach to testing with test scripts. Test environments can quickly become overhead if not monitored properly, therefore stopping these resources when they are not in use leads to cost saving. In order to drive down cost a good place to look is test environments that might not be used anymore. Implementing a process can help by tagging all test environments with end date and owner and after this date follow up with the owner if the environment is still needed and if so set a new end-of-life date."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

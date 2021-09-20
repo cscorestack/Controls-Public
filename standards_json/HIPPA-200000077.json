@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000077", 
+  "compliance_control_uri": "HIPAA/0002/200000077", 
+  "Control Name": "Group Heath Plan Implementation Specification - 164.314(b)(2)(ii)", 
+  "Control Family": "Group Heath Plan Implementation Specification", 
+  "Control Statement": "The plan documents of the group health plan must be amended to incorporate provisions to require the plan sponsor to-- (ii) Ensure that the adequate separation required by 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures.", 
+  "control_attributes": {
+    "Control": "Group Heath Plan Implementation Specification - 164.314(b)(2)(ii)", 
+    "Security_Category": "Group Heath Plan Implementation Specification", 
+    "Control_description": "The plan documents of the group health plan must be amended to incorporate provisions to require the plan sponsor to-- (ii) Ensure that the adequate separation required by 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

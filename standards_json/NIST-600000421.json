@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000421", 
+  "control_attributes": {
+    "Control": "IR-4 (5) AUTOMATIC DISABLING OF INFORMATION SYSTEM", 
+    "control_description": "The organization implements a configurable capability to automatically disable the information system if [Assignment: organization-defined security violations] are detected.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization implements a configurable capability to automatically disable the information system if [Assignment: organization-defined security violations] are detected.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 (5) AUTOMATIC DISABLING OF INFORMATION SYSTEM", 
+  "compliance_control_number": "600000421"
+}

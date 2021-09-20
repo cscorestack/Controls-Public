@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000111", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000111", 
+  "Control Name": "BASELINE CONFIGURATION | REVIEWS AND UPDATES", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization reviews and updates the baseline configuration of the information system:  (a)   [Assignment: organization-defined frequency]; (b)   When required due to [Assignment organization-defined circumstances]; and (c)   As an integral part of information system component installations and upgrades.Supplemental Guidance:  Related control: CM-5.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization reviews and updates the baseline configuration of the information system:  (a)   [Assignment: organization-defined frequency]; (b)   When required due to [Assignment organization-defined circumstances]; and (c)   As an integral part of information system component installations and upgrades.Supplemental Guidance:  Related control: CM-5.", 
+    "SelectionParam": "CM-2 (1) (a) [at least annually or when a significant change occurs]CM-2 (1) (b) [to include when  directed by the JAB]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-02 (01)", 
+    "CNTL NO": "CM-2 (1)", 
+    "AdditionalReq": " CM-2 (1) (a) Guidance: Significant change is defined in NIST Special Publication 800-37 Revision 1, Appendix F, page F-7.", 
+    "Control Name": "BASELINE CONFIGURATION | REVIEWS AND UPDATES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

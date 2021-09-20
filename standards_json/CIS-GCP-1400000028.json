@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000028", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000028", 
+  "Control Name": "3.2 Ensure legacy networks do not exist for a project", 
+  "Control Family": "Networking", 
+  "Control Statement": "In order to prevent use of legacy networks, a project should not have a legacy network configured.", 
+  "control_attributes": {
+    "Control": "3.2 Ensure legacy networks do not exist for a project", 
+    "Security_Category": "Networking", 
+    "Control_description": "In order to prevent use of legacy networks, a project should not have a legacy network configured."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

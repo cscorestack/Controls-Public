@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000289", 
+  "control_attributes": {
+    "Control": "CM-4 SECURITY IMPACT ANALYSIS", 
+    "control_description": "The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs [Assignment: organization-defined security safeguards] to respond to unauthorized changes to [Assignment: organization-defined configuration settings]."
+  }, 
+  "Control Statement": "The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-4 SECURITY IMPACT ANALYSIS", 
+  "compliance_control_number": "600000289"
+}

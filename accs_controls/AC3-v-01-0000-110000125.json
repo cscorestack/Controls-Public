@@ -1,0 +1,47 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000125",
+  "compliance_control_uri": "AC3-v-01/0000/110000125",
+  "Control Name": "AU-10 (2) VALIDATE BINDING OF INFORMATION PRODUCER IDENTITY",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system:  This control enhancement prevents the modification of information between production and review. The validation of bindings can be achieved, for example, by the use of cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically. Related controls: AC-3, AC-4, AC-16.",
+  "control_attributes": {
+    "Control Name": "AU-10 (2) VALIDATE BINDING OF INFORMATION PRODUCER IDENTITY",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system:  This control enhancement prevents the modification of information between production and review. The validation of bindings can be achieved, for example, by the use of cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically. Related controls: AC-3, AC-4, AC-16."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000252",
+      "CIS-AWS/0007/700000027",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_CLOUDTRAIL_Log_File_Validation_Enabled",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/2LlfS",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

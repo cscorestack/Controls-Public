@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000407", 
+  "control_attributes": {
+    "Control": "IA-9 (2) TRANSMISSION OF DECISIONS", 
+    "control_description": "The organization ensures that identification and authentication decisions are transmitted between [Assignment: organization-defined services] consistent with organizational policies.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization coordinates incident response testing with organizational elements responsible for related plans."
+  }, 
+  "Control Statement": "The organization ensures that identification and authentication decisions are transmitted between [Assignment: organization-defined services] consistent with organizational policies.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-9 (2) TRANSMISSION OF DECISIONS", 
+  "compliance_control_number": "600000407"
+}

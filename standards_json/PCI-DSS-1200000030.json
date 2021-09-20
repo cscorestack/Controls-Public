@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000030", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000030", 
+  "Control Name": "2.2.5 Remove all unnecessary functionality, such as scripts, drivers, features, subsystems, file systems, and unnecessary web servers.", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "2.2.5 Remove all unnecessary functionality, such as scripts, drivers, features, subsystems, file systems, and unnecessary web servers.", 
+    "Requirement": "2. Do not use vendor-supplied defaults for system passwords and other security parameters"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

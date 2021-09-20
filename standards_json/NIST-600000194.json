@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000194", 
+  "control_attributes": {
+    "Control": "AC-16 (7) CONSISTENT ATTRIBUTE INTERPRETATION", 
+    "control_description": "The organization provides a consistent interpretation of security attributes transmitted between distributed information system components.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment."
+  }, 
+  "Control Statement": "The organization provides a consistent interpretation of security attributes transmitted between distributed information system components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (7) CONSISTENT ATTRIBUTE INTERPRETATION", 
+  "compliance_control_number": "600000194"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000078", 
+  "compliance_control_uri": "CIS-Azure/0015/150000078", 
+  "Control Name": "5.2.6 Ensure that activity log alert exists for the Delete Network Security Group Rule", 
+  "Control Family": "5 Logging and Monitoring", 
+  "Control Statement": "Create an activity log alert for the Delete Network Security Group Rule event.", 
+  "control_attributes": {
+    "Control": "5.2.6 Ensure that activity log alert exists for the Delete Network Security Group Rule", 
+    "Control_Clause": "5 Logging and Monitoring", 
+    "description": "Create an activity log alert for the Delete Network Security Group Rule event."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

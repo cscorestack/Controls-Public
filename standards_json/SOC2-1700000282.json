@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000282",
+  "compliance_control_uri": "SOC2/0017/1700000282",
+  "Control Name": "Provides Notice of Breaches and Incidents—The entity has a process for providing notice of breaches and incidents to affected data subjects, regulators, and others to meet the entity’s objectives related to privacy.  ",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Provides Notice of Breaches and Incidents—The entity has a process for providing notice of breaches and incidents to affected data subjects, regulators, and others to meet the entity’s objectives related to privacy.  ",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.6 The entity provides notification of breaches and incidents to affected data subjects, regulators, and others to meet the entity’s objectives related to privacy.",
+    "ControlNo": "P6.6.2",
+    "TrustID": "P6.6"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

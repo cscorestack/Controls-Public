@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000559", 
+  "control_attributes": {
+    "Control": "RA-5 (2) UPDATE BY FREQUENCY / PRIOR TO NEW SCAN / WHEN IDENTIFIED", 
+    "control_description": "The organization updates the information system vulnerabilities scanned [Selection (one or more): [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities are identified and reported].", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization correlates the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors."
+  }, 
+  "Control Statement": "The organization updates the information system vulnerabilities scanned [Selection (one or more): [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities are identified and reported].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (2) UPDATE BY FREQUENCY / PRIOR TO NEW SCAN / WHEN IDENTIFIED", 
+  "compliance_control_number": "600000559"
+}

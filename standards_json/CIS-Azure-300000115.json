@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000115", 
+  "compliance_control_uri": "CIS-Azure/0003/300000115", 
+  "Control Name": "9.9. Ensure that 'Java version' is the latest", 
+  "Control Family": "9. App Service", 
+  "Control Statement": "Using the latest Java version for web apps is recommended in order to to take advantage of security fixes, if any, and/or new functionalities of the latest version.", 
+  "control_attributes": {
+    "Control": "9.9. Ensure that 'Java version' is the latest", 
+    "Control_Clause": "9. App Service", 
+    "description": "Using the latest Java version for web apps is recommended in order to to take advantage of security fixes, if any, and/or new functionalities of the latest version."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

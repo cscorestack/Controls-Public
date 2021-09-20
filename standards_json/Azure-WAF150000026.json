@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000026", 
+  "compliance_control_uri": "Azure-WAF/0015/150000026", 
+  "Control Name": "1.3.4 Cost Management Tools (such as Azure Cost Management) are being used to track spending in this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "In order to track spending an ACM tool can help with understanding how much is spent, where and when. This helps to make better decisions about how and if cost can be reduced.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.3 How are you monitoring costs of this workload?", 
+    "Control": "1.3.4 Cost Management Tools (such as Azure Cost Management) are being used to track spending in this workload.", 
+    "Description": "In order to track spending an ACM tool can help with understanding how much is spent, where and when. This helps to make better decisions about how and if cost can be reduced."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

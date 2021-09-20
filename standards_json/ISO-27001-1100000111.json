@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000111", 
+  "compliance_control_uri": "ISO-27001/0011/1100000111", 
+  "Control Name": "18.1.5 Regulation of cryptographic controls", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Cryptographic controls shall be used in compliance with all relevant agreements, laws, and regulations", 
+  "control_attributes": {
+    "Clause_Category": "18.1 Compliance with legal and contractual requirements", 
+    "description": "Cryptographic controls shall be used in compliance with all relevant agreements, laws, and regulations", 
+    "Control_Title": "18.1.5 Regulation of cryptographic controls", 
+    "Control_Clause": "18. Compliance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

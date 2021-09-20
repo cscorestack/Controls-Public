@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000020", 
+  "compliance_control_uri": "CIS-Azure/0003/300000020", 
+  "Control Name": "4.4. Ensure that 'Advanced Data Security' on a SQL server is set to 'On'", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "SQL Server Advanced Data Security provides a new layer of security, which enables customers to detect and respond to potential threats as they occur by providing security alerts on anomalous activities.", 
+  "control_attributes": {
+    "Control": "4.4. Ensure that 'Advanced Data Security' on a SQL server is set to 'On'", 
+    "Control_Clause": "4. Database Services", 
+    "description": "SQL Server Advanced Data Security provides a new layer of security, which enables customers to detect and respond to potential threats as they occur by providing security alerts on anomalous activities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

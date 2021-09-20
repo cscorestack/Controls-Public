@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000077", 
+  "control_attributes": {
+    "Control": "AC-24 ACCESS CONTROL DECISIONS", 
+    "control_description": "The organization establishes procedures to ensure [Assignment: organization-defined access control decisions] are applied to each access request prior to access enforcement.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements [Assignment: organization-defined fail-safe procedures] when [Assignment: organization-defined failure conditions occur]."
+  }, 
+  "Control Statement": "The organization establishes procedures to ensure [Assignment: organization-defined access control decisions] are applied to each access request prior to access enforcement.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-24 ACCESS CONTROL DECISIONS", 
+  "compliance_control_number": "600000077"
+}

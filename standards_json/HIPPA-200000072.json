@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000072", 
+  "compliance_control_uri": "HIPAA/0002/200000072", 
+  "Control Name": "Business associate contracts. - 164.314(a)(2)(i)(C)", 
+  "Control Family": "Business associate contracts.", 
+  "Control Statement": "The contract must provide that the business associate will report to the covered entity any security incident of which it becomes aware, including breaches of unsecured protected health information as required by \\u00a7164.410", 
+  "control_attributes": {
+    "Control": "Business associate contracts. - 164.314(a)(2)(i)(C)", 
+    "Security_Category": "Business associate contracts.", 
+    "Control_description": "The contract must provide that the business associate will report to the covered entity any security incident of which it becomes aware, including breaches of unsecured protected health information as required by \\u00a7164.410"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000703",
+  "compliance_control_uri": "AC3-v-01/0000/110000703",
+  "Control Name": "SC-40 (2) REDUCE DETECTION POTENTIAL",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system implements cryptographic mechanisms to reduce the detection potential of wireless links to [Assignment: organization-defined level of reduction].",
+  "control_attributes": {
+    "Control Name": "SC-40 (2) REDUCE DETECTION POTENTIAL",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system implements cryptographic mechanisms to reduce the detection potential of wireless links to [Assignment: organization-defined level of reduction]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000737"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

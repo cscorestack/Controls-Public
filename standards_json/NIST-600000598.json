@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000598", 
+  "control_attributes": {
+    "Control": "SA-11 (3) INDEPENDENT VERIFICATION OF ASSESSMENT PLANS / EVIDENCE", 
+    "control_description": "The organization:                                                                                                                     (a) Requires an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security assessment plan and the evidence produced during security testing/evaluation; and(b) Ensures that the independent agent is either provided with sufficient information to complete the verification process or granted the authority to obtain such information.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization protects against supply chain threats to the information system, system component, or information system service by employing [Assignment: organization-defined security safeguards] as part of a comprehensive, defense-in-breadth information security strategy."
+  }, 
+  "Control Statement": "The organization:                                                                                                                     (a) Requires an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security assessment plan and the evidence produced during security testing/evaluation; and(b) Ensures that the independent agent is either provided with sufficient information to complete the verification process or granted the authority to obtain such information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-11 (3) INDEPENDENT VERIFICATION OF ASSESSMENT PLANS / EVIDENCE", 
+  "compliance_control_number": "600000598"
+}

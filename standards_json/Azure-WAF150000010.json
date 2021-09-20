@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000010", 
+  "compliance_control_uri": "Azure-WAF/0015/150000010", 
+  "Control Name": "1.2.1 Budgets are assigned to all services in this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "For cost management it is recommended to have a budget even for the smallest services operated, because that allows to track and understand the flow of the spend and also understand the impact of a smaller service in a bigger picture.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.1 Budgets are assigned to all services in this workload.", 
+    "Description": "For cost management it is recommended to have a budget even for the smallest services operated, because that allows to track and understand the flow of the spend and also understand the impact of a smaller service in a bigger picture."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

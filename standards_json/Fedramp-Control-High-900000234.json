@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000234", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000234", 
+  "Control Name": "INFORMATION SPILLAGE RESPONSE | TRAINING", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization provides information spillage response training [Assignment: organization- defined frequency].", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization provides information spillage response training [Assignment: organization- defined frequency].", 
+    "SelectionParam": "IR-9 (2) [at least annually]", 
+    "FedRampParam": "x", 
+    "SORTID": "IR-09 (02)", 
+    "CNTL NO": "IR-9 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SPILLAGE RESPONSE | TRAINING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

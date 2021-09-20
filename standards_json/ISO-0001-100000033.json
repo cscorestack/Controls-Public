@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000033", 
+  "compliance_control_uri": "ISO/0001/100000026", 
+  "Control Name": "9.2.6 Removal or adjustment of access rights", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "The access rights of all employees, contractors and third party users to information and information processing facilities shall be removed upon termination of their employment, contract or agreement, or adjusted upon change", 
+  "control_attributes": {
+    "Control_Objective": "9.2.6 Removal or adjustment of access rights", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.2 User access management", 
+    "description": "The access rights of all employees, contractors and third party users to information and information processing facilities shall be removed upon termination of their employment, contract or agreement, or adjusted upon change"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

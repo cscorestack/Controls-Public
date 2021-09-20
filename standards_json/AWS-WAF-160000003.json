@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000003",
+  "compliance_control_uri": "AWS-WAF/0016/160000003",
+  "Control Name": "OPS 1.3 Evaluate governance requirements",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Ensure that you are aware of guidelines or obligations deﬁned by your organization that may mandate or emphasize speciﬁc focus. Evaluate internal factors, such as organization policy, standards, and requirements. Validate that you have mechanisms to identify changes to governance. If no governance requirements are identiﬁed, ensure that you have applied due diligence to this determination.",
+  "control_attributes": {
+    "Control": "OPS 1.3 Evaluate governance requirements",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_governance_reqs"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

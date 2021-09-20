@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000569", 
+  "control_attributes": {
+    "Control": "SA-3 SYSTEM DEVELOPMENT LIFE CYCLE", 
+    "control_description": "The organization: a. Manages the information system using [Assignment: organization-defined system development life cycle] that incorporates information security considerations;b. Defines and documents information security roles and responsibilities throughout the system development life cycle;c. Identifies individuals having information security roles and responsibilities; andd. Integrates the organizational information security risk management process into system development life cycle activities. ", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Manages the information system using [Assignment: organization-defined system development life cycle] that incorporates information security considerations;b. Defines and documents information security roles and responsibilities throughout the system development life cycle;c. Identifies individuals having information security roles and responsibilities; andd. Integrates the organizational information security risk management process into system development life cycle activities. ", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-3 SYSTEM DEVELOPMENT LIFE CYCLE", 
+  "compliance_control_number": "600000569"
+}

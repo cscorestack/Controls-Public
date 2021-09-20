@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000237",
+  "compliance_control_uri": "AC3-v-01/0000/110000237",
+  "Control Name": "CM-7 (3) REGISTRATION COMPLIANCE",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization ensures compliance with [Assignment: organization-defined registration requirements for functions, ports, protocols, and services].",
+  "control_attributes": {
+    "Control Name": "CM-7 (3) REGISTRATION COMPLIANCE",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization ensures compliance with [Assignment: organization-defined registration requirements for functions, ports, protocols, and services]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2/Instances",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000300",
+      "AWS-WAF/0016/160000004"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

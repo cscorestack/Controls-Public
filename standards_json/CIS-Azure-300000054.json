@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000054", 
+  "compliance_control_uri": "CIS-Azure/0003/300000054", 
+  "Control Name": "1.17. Ensure that 'Users can create security groups' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "When creating security groups is enabled, all users in the directory are allowed to create new security groups and add members to those groups. Unless a business requires this day-to-day delegation, security group creation should be restricted to administrators only", 
+  "control_attributes": {
+    "Control": "1.17. Ensure that 'Users can create security groups' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "When creating security groups is enabled, all users in the directory are allowed to create new security groups and add members to those groups. Unless a business requires this day-to-day delegation, security group creation should be restricted to administrators only"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

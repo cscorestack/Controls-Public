@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000084", 
+  "compliance_control_uri": "HIPAA/0002/200000084", 
+  "Control Name": "Documentation -Updates - 164.316(b)(2)(iii)", 
+  "Control Family": "Documentation", 
+  "Control Statement": "Review documentation periodically, and update as needed, in response to environmental or operational changes affecting the security of the electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Documentation -Updates - 164.316(b)(2)(iii)", 
+    "Security_Category": "Documentation", 
+    "Control_description": "Review documentation periodically, and update as needed, in response to environmental or operational changes affecting the security of the electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

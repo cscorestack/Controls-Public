@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000076", 
+  "compliance_control_uri": "CIS-Azure/0003/300000076", 
+  "Control Name": "4.5. Ensure that 'Threat Detection types' is set to 'All'", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling all threat detection types protects against SQL injection, database vulnerabilities, and any other anomalous activities.", 
+  "control_attributes": {
+    "Control": "4.5. Ensure that 'Threat Detection types' is set to 'All'", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling all threat detection types protects against SQL injection, database vulnerabilities, and any other anomalous activities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

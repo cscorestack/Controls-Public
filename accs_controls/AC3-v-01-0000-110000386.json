@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000386",
+  "compliance_control_uri": "AC3-v-01/0000/110000386",
+  "Control Name": "IR-9 (1) RESPONSIBLE PERSONNEL",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills.",
+  "control_attributes": {
+    "Control Name": "IR-9 (1) RESPONSIBLE PERSONNEL",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000433",
+      "Fedramp-Control-Moderate/0010/1000000172",
+      "Fedramp-Control-High/0009/900000233",
+      "CIS-AWS/0007/700000002",
+      "CIS-Azure/0003/300000014",
+      "CIS-Azure/0003/300000015",
+      "Azure-WAF/0015/150000450",
+      "CIS-Azure/0015/150000038"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

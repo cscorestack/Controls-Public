@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000066", 
+  "compliance_control_uri": "Azure-WAF/0015/150000066", 
+  "Control Name": "1.9.1 Reserved capacity is used for data in block blob storage.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Money can be saved by reserving capacity for block blob and for Azure Data Lake Storage Gen 2 data in a standard storage account when customer commits to 1 or 3 years reservation.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.1 Reserved capacity is used for data in block blob storage.", 
+    "Description": "Money can be saved by reserving capacity for block blob and for Azure Data Lake Storage Gen 2 data in a standard storage account when customer commits to 1 or 3 years reservation."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

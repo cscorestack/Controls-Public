@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000005", 
+  "compliance_control_uri": "Azure-WAF/0015/150000005", 
+  "Control Name": "1.1.5 Internal and external dependencies are identified and cost implications understood.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Examples of typical dependencies include platform dependencies outside the remit of the application, such as Azure Active Directory, Express Route, or a central NVA (Network Virtual Appliance), as well as application dependencies such as APIs which may be in-house or externally owned by a third-party. It's important to understand the cost for these services and how they are being charged, this makes it easier to understand an all up cost.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.5 Internal and external dependencies are identified and cost implications understood.", 
+    "Description": "Examples of typical dependencies include platform dependencies outside the remit of the application, such as Azure Active Directory, Express Route, or a central NVA (Network Virtual Appliance), as well as application dependencies such as APIs which may be in-house or externally owned by a third-party. It's important to understand the cost for these services and how they are being charged, this makes it easier to understand an all up cost."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

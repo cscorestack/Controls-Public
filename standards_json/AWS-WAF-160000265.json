@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000265",
+  "compliance_control_uri": "AWS-WAF/0016/160000265",
+  "Control Name": "COST 4.2 Implement a decommissioning process",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement a process to identify and decommission orphaned resources.",
+  "control_attributes": {
+    "Control": "COST 4.2 Implement a decommissioning process",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you decommission resources?",
+    "question_id": "decomissioning-resources",
+    "choice_id": "cost_decomissioning_resources_implement_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

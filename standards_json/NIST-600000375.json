@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000375", 
+  "control_attributes": {
+    "Control": "IA-4 (1) PROHIBIT ACCOUNT IDENTIFIERS AS PUBLIC IDENTIFIERS", 
+    "control_description": "The organization prohibits the use of information system account identifiers that are the same as public identifiers for individual electronic mail accounts.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization requires that the registration process to receive [Assignment: organization-defined types of and/or specific authenticators] be conducted [Selection: in person; by a trusted third party] before [Assignment: organization-defined registration authority] with authorization by [Assignment: organization-defined personnel or roles]."
+  }, 
+  "Control Statement": "The organization prohibits the use of information system account identifiers that are the same as public identifiers for individual electronic mail accounts.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-4 (1) PROHIBIT ACCOUNT IDENTIFIERS AS PUBLIC IDENTIFIERS", 
+  "compliance_control_number": "600000375"
+}

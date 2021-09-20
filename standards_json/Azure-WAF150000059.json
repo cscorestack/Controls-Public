@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000059", 
+  "compliance_control_uri": "Azure-WAF/0015/150000059", 
+  "Control Name": "1.8.2 Hub and spoke design pricing is understood.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Virtual WAN has costs that are different in hub and spoke design. The cost of the peering network or other service routing has to be included. If Private Link is deployed, peering is not billed - only private link.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.8 How do you manage networking costs for this workload?", 
+    "Control": "1.8.2 Hub and spoke design pricing is understood.", 
+    "Description": "Virtual WAN has costs that are different in hub and spoke design. The cost of the peering network or other service routing has to be included. If Private Link is deployed, peering is not billed - only private link."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

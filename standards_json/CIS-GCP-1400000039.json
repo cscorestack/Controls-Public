@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000039", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000039", 
+  "Control Name": "4.4 Ensure oslogin is enabled for a Project", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "Enabling OS login binds SSH certificates to IAM users and facilitates effective SSH certificate management.", 
+  "control_attributes": {
+    "Control": "4.4 Ensure oslogin is enabled for a Project", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "Enabling OS login binds SSH certificates to IAM users and facilitates effective SSH certificate management."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000113", 
+  "compliance_control_uri": "CIS-Azure/0003/300000113", 
+  "Control Name": "9.7. Ensure that 'PHP version' is the latest", 
+  "Control Family": "9. App Service", 
+  "Control Statement": "Using the latest PHP version for web apps is recommended in order to to take advantage of security fixes, if any, and/or new functionalities of the latest version.", 
+  "control_attributes": {
+    "Control": "9.7. Ensure that 'PHP version' is the latest", 
+    "Control_Clause": "9. App Service", 
+    "description": "Using the latest PHP version for web apps is recommended in order to to take advantage of security fixes, if any, and/or new functionalities of the latest version."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

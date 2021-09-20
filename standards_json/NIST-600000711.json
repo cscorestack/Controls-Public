@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000711", 
+  "control_attributes": {
+    "Control": "SC-28 (2) OFF-LINE STORAGE", 
+    "control_description": "The organization removes from online storage and stores off-line in a secure location [Assignment: organization-defined information].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined techniques] to introduce randomness into organizational operations and assets."
+  }, 
+  "Control Statement": "The organization removes from online storage and stores off-line in a secure location [Assignment: organization-defined information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-28 (2) OFF-LINE STORAGE", 
+  "compliance_control_number": "600000711"
+}

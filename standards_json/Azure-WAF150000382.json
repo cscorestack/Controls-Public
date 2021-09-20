@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000382", 
+  "compliance_control_uri": "Azure-WAF/0015/150000382", 
+  "Control Name": "4.12.3 Chaos Testing is performed by injecting faults.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the system tested under critical failure scenarios to validate availability and recovery targets are fully satisfied?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.12 How do you test the application to ensure it is fault tolerant?", 
+    "Control": "4.12.3 Chaos Testing is performed by injecting faults.", 
+    "Description": "Is the system tested under critical failure scenarios to validate availability and recovery targets are fully satisfied?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

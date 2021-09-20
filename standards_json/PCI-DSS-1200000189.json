@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000189", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000189", 
+  "Control Name": "Implement incident response procedures in the event unauthorized wireless access points are detected.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Implement incident response procedures in the event unauthorized wireless access points are detected.", 
+    "Requirement": "11.1.2.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

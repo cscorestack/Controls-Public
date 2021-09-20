@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000182",
+  "compliance_control_uri": "SOC2/0017/1700000182",
+  "Control Name": "Authorizes Changes—A process is in place to authorize system changes prior to development.",
+  "Control Family": "Change Management",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Authorizes Changes—A process is in place to authorize system changes prior to development.",
+    "Category": "Change Management",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC8.1 The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "ControlNo": "CC8.1.2",
+    "TrustID": "CC8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

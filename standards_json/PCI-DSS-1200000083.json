@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000083", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000083", 
+  "Control Name": "6.4.6 Follow change control processes and procedures for all changes to system components. The processes must include the following:\\nUpon completion of a significant change, all relevant PCI DSS requirements must be implemented on all new or changed systems and networks, and documentation updated as applicable.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.4.6 Follow change control processes and procedures for all changes to system components. The processes must include the following:\\nUpon completion of a significant change, all relevant PCI DSS requirements must be implemented on all new or changed systems and networks, and documentation updated as applicable.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

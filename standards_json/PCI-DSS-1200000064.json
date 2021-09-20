@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000064", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000064", 
+  "Control Name": "5.1.2 For systems considered to be not commonly affected by malicious software, perform periodic evaluations to identify and evaluate evolving malware threats in order to confirm whether such systems continue to not require anti-virus software.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "5.1.2 For systems considered to be not commonly affected by malicious software, perform periodic evaluations to identify and evaluate evolving malware threats in order to confirm whether such systems continue to not require anti-virus software.", 
+    "Requirement": "Requirement 5. Protect all systems against malware and regularly update anti-virus software or programs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

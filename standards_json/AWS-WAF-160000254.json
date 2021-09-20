@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000254",
+  "compliance_control_uri": "AWS-WAF/0016/160000254",
+  "Control Name": "COST 2.3 Implement an account structure",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement a structure of accounts that maps to your organization. This assists in allocating and managing costs throughout your organization.",
+  "control_attributes": {
+    "Control": "COST 2.3 Implement an account structure",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_account_structure"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

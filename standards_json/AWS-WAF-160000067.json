@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000067",
+  "compliance_control_uri": "AWS-WAF/0016/160000067",
+  "Control Name": "OPS 10.1 Use processes for event, incident, and problem management",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Have processes to address observed events, events that require intervention (incidents), and events that require intervention and either recur or cannot currently be resolved (problems). Use these processes to mitigate the impact of these events on the business and your customers by ensuring timely and appropriate responses.",
+  "control_attributes": {
+    "Control": "OPS 10.1 Use processes for event, incident, and problem management",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_event_incident_problem_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

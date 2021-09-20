@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000460", 
+  "compliance_control_uri": "Azure-WAF/0015/150000460", 
+  "Control Name": "5.8.9 Publishing methods for this workload (e.g FTP, Web Deploy) are protected.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Application resources allowing multiple methods to publish app content (e.g FTP, Web Deploy) should have the unused endpoints disabled. For Azure Web Apps SCM is the recommended endpoint and it can be protected separately with network restrictions for sensitive scenarios.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.9 Publishing methods for this workload (e.g FTP, Web Deploy) are protected.", 
+    "Description": "Application resources allowing multiple methods to publish app content (e.g FTP, Web Deploy) should have the unused endpoints disabled. For Azure Web Apps SCM is the recommended endpoint and it can be protected separately with network restrictions for sensitive scenarios."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

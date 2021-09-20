@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000254", 
+  "control_attributes": {
+    "Control": "AU-10 (4) VALIDATE BINDING OF INFORMATION REVIEWER IDENTITY", 
+    "control_description": "The information system:                                                                                                                               (a) Validates the binding of the information reviewer identity to the information at the transfer or release points prior to release/transfer between [Assignment: organization-defined security domains]; and(b) Performs [Assignment: organization-defined actions] in the event of a validation error.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs assessors or assessment teams with [Assignment: organization-defined level of independence] to conduct security control assessments."
+  }, 
+  "Control Statement": "The information system:                                                                                                                               (a) Validates the binding of the information reviewer identity to the information at the transfer or release points prior to release/transfer between [Assignment: organization-defined security domains]; and(b) Performs [Assignment: organization-defined actions] in the event of a validation error.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-10 (4) VALIDATE BINDING OF INFORMATION REVIEWER IDENTITY", 
+  "compliance_control_number": "600000254"
+}

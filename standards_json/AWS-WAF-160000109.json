@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000109",
+  "compliance_control_uri": "AWS-WAF/0016/160000109",
+  "Control Name": "SEC 5.1 Create network layers",
+  "Control Family": "Security",
+  "Control Statement": "Group components that share reachability requirements into layers. For example, a database cluster in a VPC with no need for internet access should be placed in subnets with no route to or from the internet. In a serverless workload operating without a VPC, similar layering and segmentation with microservices can achieve the same goal.",
+  "control_attributes": {
+    "Control": "SEC 5.1 Create network layers",
+    "Category": "Security",
+    "Subcategory": "How do you protect your network resources?",
+    "question_id": "network-protection",
+    "choice_id": "sec_network_protection_create_layers"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

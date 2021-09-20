@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000100",
+  "compliance_control_uri": "AWS-WAF/0016/160000100",
+  "Control Name": "SEC 3.4 Reduce permissions continuously",
+  "Control Family": "Security",
+  "Control Statement": "As teams and workloads determine what access they need; remove permissions they no longer use and establish review processes to achieve least privilege permissions. Continuously monitor and reduce unused identities and permissions.",
+  "control_attributes": {
+    "Control": "SEC 3.4 Reduce permissions continuously",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_continuous_reduction"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

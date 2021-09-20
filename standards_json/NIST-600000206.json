@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000206", 
+  "control_attributes": {
+    "Control": "AC-18 (3) DISABLE WIRELESS NETWORKING", 
+    "control_description": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements information search and retrieval services that enforce [Assignment: organization-defined information sharing restrictions]."
+  }, 
+  "Control Statement": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-18 (3) DISABLE WIRELESS NETWORKING", 
+  "compliance_control_number": "600000206"
+}

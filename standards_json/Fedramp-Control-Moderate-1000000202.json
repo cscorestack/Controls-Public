@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000202", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000202", 
+  "Control Name": "ACCESS CONTROL FOR TRANSMISSION MEDIUM", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization controls physical access to [Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [Assignment: organization-defined security safeguards].Supplemental Guidance:  Physical security safeguards applied to information system distribution and transmission lines help to prevent accidental damage, disruption, and physical tampering. In addition, physical safeguards may be necessary to help prevent eavesdropping or in transit modification of unencrypted transmissions. Security safeguards to control physical access to system distribution and transmission lines include, for example: (i) locked wiring closets; (ii) disconnected or locked spare jacks; and/or (iii) protection of cabling by conduit or cable trays. Related controls: MP-2, MP-4, PE-2, PE-3, PE-5, SC-7, SC-8.Control Enhancements:  None.References:  NSTISSI No. 7003.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization controls physical access to [Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [Assignment: organization-defined security safeguards].Supplemental Guidance:  Physical security safeguards applied to information system distribution and transmission lines help to prevent accidental damage, disruption, and physical tampering. In addition, physical safeguards may be necessary to help prevent eavesdropping or in transit modification of unencrypted transmissions. Security safeguards to control physical access to system distribution and transmission lines include, for example: (i) locked wiring closets; (ii) disconnected or locked spare jacks; and/or (iii) protection of cabling by conduit or cable trays. Related controls: MP-2, MP-4, PE-2, PE-3, PE-5, SC-7, SC-8.Control Enhancements:  None.References:  NSTISSI No. 7003.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-04", 
+    "CNTL NO": "PE-4", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCESS CONTROL FOR TRANSMISSION MEDIUM"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

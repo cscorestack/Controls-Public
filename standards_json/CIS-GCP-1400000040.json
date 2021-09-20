@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000040", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000040", 
+  "Control Name": "4.5 Ensure 'Enable connecting to serial ports' is not enabled for VM Instance", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "Interacting with a serial port is often referred to as the serial console, which is similar to using a terminal window, in that input and output is entirely in text mode and there is no graphical interface or mouse support.", 
+  "control_attributes": {
+    "Control": "4.5 Ensure 'Enable connecting to serial ports' is not enabled for VM Instance", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "Interacting with a serial port is often referred to as the serial console, which is similar to using a terminal window, in that input and output is entirely in text mode and there is no graphical interface or mouse support."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

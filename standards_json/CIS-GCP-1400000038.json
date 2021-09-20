@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000038", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000038", 
+  "Control Name": "4.3 Ensure 'Block Project-wide SSH keys' is enabled for VM instances", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "It is recommended to use Instance specific SSH key instead of using common/shared project-wide SSH key to access Instances.", 
+  "control_attributes": {
+    "Control": "4.3 Ensure 'Block Project-wide SSH keys' is enabled for VM instances", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "It is recommended to use Instance specific SSH key instead of using common/shared project-wide SSH key to access Instances."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000131", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000131", 
+  "Control Name": "Implement physical and/or logical controls to restrict access to publicly accessible network jacks. \\n\\nFor example, network jacks located in public areas and areas accessible to visitors could be disabled and only enabled when network access is explicitly authorized. Alternatively, processes could be implemented to ensure that visitors are escorted at all times in areas with active network jacks.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Implement physical and/or logical controls to restrict access to publicly accessible network jacks. \\n\\nFor example, network jacks located in public areas and areas accessible to visitors could be disabled and only enabled when network access is explicitly authorized. Alternatively, processes could be implemented to ensure that visitors are escorted at all times in areas with active network jacks.", 
+    "Requirement": "9.1.2. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

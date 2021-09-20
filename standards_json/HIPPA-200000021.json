@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000021", 
+  "compliance_control_uri": "HIPAA/0002/200000021", 
+  "Control Name": "Contingency Plan Disaster Recovery Plan - 164.308(a)(7)(ii)(B)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Establish (and implement as needed) procedures to restore any loss of data.", 
+  "control_attributes": {
+    "Control": "Contingency Plan Disaster Recovery Plan - 164.308(a)(7)(ii)(B)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Establish (and implement as needed) procedures to restore any loss of data."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

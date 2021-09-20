@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000773", 
+  "control_attributes": {
+    "Control": "SI-4 (20) PRIVILEGED USERS", 
+    "control_description": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]]."
+  }, 
+  "Control Statement": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (20) PRIVILEGED USERS", 
+  "compliance_control_number": "600000773"
+}

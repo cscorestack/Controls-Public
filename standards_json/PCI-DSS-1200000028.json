@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000028", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000028", 
+  "Control Name": "2.2.3 Implement additional security features for any required services, protocols, or daemons that are considered to be insecure.", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "2.2.3 Implement additional security features for any required services, protocols, or daemons that are considered to be insecure.", 
+    "Requirement": "2. Do not use vendor-supplied defaults for system passwords and other security parameters"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

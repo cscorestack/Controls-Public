@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000190", 
+  "control_attributes": {
+    "Control": "AC-16 (3) MAINTENANCE OF ATTRIBUTE ASSOCIATIONS BY INFORMATION SYSTEM", 
+    "control_description": "The information system maintains the association and integrity of [Assignment: organization-defined security attributes] to [Assignment: organization-defined subjects and objects].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that users protect information about remote access mechanisms from unauthorized use and disclosure."
+  }, 
+  "Control Statement": "The information system maintains the association and integrity of [Assignment: organization-defined security attributes] to [Assignment: organization-defined subjects and objects].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (3) MAINTENANCE OF ATTRIBUTE ASSOCIATIONS BY INFORMATION SYSTEM", 
+  "compliance_control_number": "600000190"
+}

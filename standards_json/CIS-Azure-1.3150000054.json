@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000054", 
+  "compliance_control_uri": "CIS-Azure/0015/150000054", 
+  "Control Name": "4.2.2 Ensure that Vulnerability Assessment (VA) is enabled on a SQL server by setting a Storage Account", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable Vulnerability Assessment (VA) service scans for critical SQL servers and corresponding SQL databases.", 
+  "control_attributes": {
+    "Control": "4.2.2 Ensure that Vulnerability Assessment (VA) is enabled on a SQL server by setting a Storage Account", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable Vulnerability Assessment (VA) service scans for critical SQL servers and corresponding SQL databases."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

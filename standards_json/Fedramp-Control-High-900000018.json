@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000018", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000018", 
+  "Control Name": "SEPARATION OF DUTIES", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization: a. Separates [Assignment: organization-defined duties of individuals]; b. Documents separation of duties of individuals; and c. Defines information system access authorizations to support separation of duties.Supplemental Guidance:  Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. Separation of duties includes, for example: (i) dividing mission functions and information system support functions among different individuals and/or roles; (ii) conducting information system support functions with different individuals (e.g., system management, programming, configuration management, quality assurance and testing, and network security); and (iii) ensuring security personnel administering access control functions do not also administer audit functions. Related controls: AC-3, AC-6, PE-3, PE-4, PS-2.Control Enhancements:  None.References: None.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization: a. Separates [Assignment: organization-defined duties of individuals]; b. Documents separation of duties of individuals; and c. Defines information system access authorizations to support separation of duties.Supplemental Guidance:  Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. Separation of duties includes, for example: (i) dividing mission functions and information system support functions among different individuals and/or roles; (ii) conducting information system support functions with different individuals (e.g., system management, programming, configuration management, quality assurance and testing, and network security); and (iii) ensuring security personnel administering access control functions do not also administer audit functions. Related controls: AC-3, AC-6, PE-3, PE-4, PS-2.Control Enhancements:  None.References: None.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AC-05", 
+    "CNTL NO": "AC-5", 
+    "AdditionalReq": "AC-5 Guidance: CSPs have the option to provide a separation of duties matrix as an attachment to the SSP.", 
+    "Control Name": "SEPARATION OF DUTIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

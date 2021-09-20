@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000499",
+  "compliance_control_uri": "AC3-v-01/0000/110000499",
+  "Control Name": "PM-1 INFORMATION SECURITY PROGRAM PLAN",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization: a. Develops and disseminates an organization-wide information security program plan that:1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;b. Reviews the organization-wide information security program plan [Assignment: organization-defined frequency];c. Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; andd. Protects the information security program plan from unauthorized disclosure and modification.",
+  "control_attributes": {
+    "Control Name": "PM-1 INFORMATION SECURITY PROGRAM PLAN",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization: a. Develops and disseminates an organization-wide information security program plan that:1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;b. Reviews the organization-wide information security program plan [Assignment: organization-defined frequency];c. Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; andd. Protects the information security program plan from unauthorized disclosure and modification."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000811",
+      "ISO-27001/0011/1100000001",
+      "ISO-27001/0011/1100000002",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000107",
+      "ISO-27001/0011/1100000113",
+      "ISO/0001/100000001",
+      "ISO/0001/100000002",
+      "ISO/0001/100000003",
+      "ISO/0001/100000083",
+      "ISO/0001/100000089",
+      "AWS-WAF/0005/500000109",
+      "Azure-WAF/0015/150000400"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

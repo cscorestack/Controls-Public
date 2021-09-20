@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000238", 
+  "control_attributes": {
+    "Control": "AU-6 (6) CORRELATION WITH PHYSICAL MONITORING", 
+    "control_description": "The organization correlates information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization authorizes read-only access to audit information to [Assignment: organization-defined subset of privileged users]."
+  }, 
+  "Control Statement": "The organization correlates information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 (6) CORRELATION WITH PHYSICAL MONITORING", 
+  "compliance_control_number": "600000238"
+}

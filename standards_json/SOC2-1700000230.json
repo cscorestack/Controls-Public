@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000230",
+  "compliance_control_uri": "SOC2/0017/1700000230",
+  "Control Name": "Defines Characteristics of Processing Inputs—The characteristics of processing inputs that are necessary to meet requirements are defined.",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Defines Characteristics of Processing Inputs—The characteristics of processing inputs that are necessary to meet requirements are defined.",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.2 The entity implements policies and procedures over system inputs, including controls over completeness and accuracy, to result in products, services, and reporting to meet the\nentity’s objectives.",
+    "ControlNo": "PI1.2.1",
+    "TrustID": "PI1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

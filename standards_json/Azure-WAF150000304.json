@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000304", 
+  "compliance_control_uri": "Azure-WAF/0015/150000304", 
+  "Control Name": "4.2.2 Removed all single points of failure by running multiple instances of application components.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have all single points of failure been eliminated? A single point of failure describes a specific fault-point which if it where to fail would bring down the entire application. Single points of failure introduce significant risk since any failure of this component will cause an application outage", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.2 Removed all single points of failure by running multiple instances of application components.", 
+    "Description": "Have all single points of failure been eliminated? A single point of failure describes a specific fault-point which if it where to fail would bring down the entire application. Single points of failure introduce significant risk since any failure of this component will cause an application outage"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

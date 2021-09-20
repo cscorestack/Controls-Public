@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000301", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000301", 
+  "Control Name": "PERSONNEL TERMINATION | AUTOMATED NOTIFICATION", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual.Supplemental Guidance:  In organizations with a large number of employees, not all personnel who need to know about termination actions receive the appropriate notifications\u00e2\u20ac\u201dor, if such notifications are received, they may not occur in a timely manner. Automated mechanismscan be used to send automatic alerts or notifications to specific organizational personnel or roles (e.g., management personnel, supervisors, personnel security officers, information security officers, systems administrators, or information technology administrators) when individuals are terminated. Such automatic alerts or notifications can be conveyed in a variety of ways, including, for example, telephonically, via electronic mail, via text message, or via websites.", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual.Supplemental Guidance:  In organizations with a large number of employees, not all personnel who need to know about termination actions receive the appropriate notifications\u00e2\u20ac\u201dor, if such notifications are received, they may not occur in a timely manner. Automated mechanismscan be used to send automatic alerts or notifications to specific organizational personnel or roles (e.g., management personnel, supervisors, personnel security officers, information security officers, systems administrators, or information technology administrators) when individuals are terminated. Such automatic alerts or notifications can be conveyed in a variety of ways, including, for example, telephonically, via electronic mail, via text message, or via websites.", 
+    "SelectionParam": "PS-4 (2) [access control personnel responsible for disabling access to the system]", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-04 (02)", 
+    "CNTL NO": "PS-4 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "PERSONNEL TERMINATION | AUTOMATED NOTIFICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000178",
+  "compliance_control_uri": "AWS-WAF/0016/160000178",
+  "Control Name": "REL 8.4 Deploy using immutable infrastructure",
+  "Control Family": "Reliability",
+  "Control Statement": "This is a model that mandates that no updates, security patches, or conﬁguration changes happen in-place on production workloads. When a change is needed, the architecture is built onto new infrastructure and deployed into production.",
+  "control_attributes": {
+    "Control": "REL 8.4 Deploy using immutable infrastructure",
+    "Category": "Reliability",
+    "Subcategory": "How do you implement change?",
+    "question_id": "tracking-change-management",
+    "choice_id": "rel_tracking_change_management_immutable_infrastructure"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

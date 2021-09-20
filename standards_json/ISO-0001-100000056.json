@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000056", 
+  "compliance_control_uri": "ISO/0001/100000117", 
+  "Control Name": "11.2.9 Clear desk and clear screen policy", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "A clear desk policy for papers and removable storage media anda clear screen policy for information processing facilities shall be adopted.", 
+  "control_attributes": {
+    "Control_Objective": "11.2.9 Clear desk and clear screen policy", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.2 - Equipment", 
+    "description": "A clear desk policy for papers and removable storage media anda clear screen policy for information processing facilities shall be adopted."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

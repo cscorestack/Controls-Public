@@ -1,0 +1,551 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000740",
+  "compliance_control_uri": "AC3-v-01/0000/110000740",
+  "Control Name": "SC-8 (1) CRYPTOGRAPHIC OR ALTERNATE PHYSICAL PROTECTION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system implements cryptographic mechanisms to [Selection (one or more): prevent unauthorized disclosure of information; detect changes to information] during transmission unless otherwise protected by [Assignment: organization-defined alternative physical safeguards].",
+  "control_attributes": {
+    "Control Name": "SC-8 (1) CRYPTOGRAPHIC OR ALTERNATE PHYSICAL PROTECTION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system implements cryptographic mechanisms to [Selection (one or more): prevent unauthorized disclosure of information; detect changes to information] during transmission unless otherwise protected by [Assignment: organization-defined alternative physical safeguards]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Governance/OpsWorks",
+      "service_resource": "AWS/Governance/OpsWorks/ElasticLoadBalancerAttachment"
+    },
+    {
+      "service_resource_type": "AWS/Analytics/Elasticsearch Service",
+      "service_resource": "AWS/Analytics/Elasticsearch Service/Domain"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Cluster_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Governance/AWS_Config",
+      "service_resource": "AWS/Governance/AWS_Config/AWS::ACM::Certificate"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Elastic IPs"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Subnets"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Snapshots"
+    },
+    {
+      "service_resource_type": "AWS/Compute/Lambda",
+      "service_resource": "AWS/Compute/Lambda/Functions"
+    },
+    {
+      "service_resource_type": "AWS/Analytics/EMR",
+      "service_resource": "AWS/Analytics/EMR/SecurityConfiguration"
+    },
+    {
+      "service_resource_type": "AWS/Machine_Learning/Amazon_SageMaker",
+      "service_resource": "AWS/Machine_Learning/Amazon_SageMaker/EndpointConfig"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Sites"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000052",
+      "Fedramp-Control-Moderate/0010/1000000278",
+      "Fedramp-Control-High/0009/900000362",
+      "HIPAA/0002/200000030",
+      "HIPAA/0002/200000032",
+      "SOC2/0017/1700000140"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ln2dx",
+        "policy_name": "Azure_Audit_Unattached_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/2LlfS",
+        "policy_name": "AWS_CLOUDTRAIL_Log_File_Validation_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ikuz4",
+        "policy_name": "Azure_Monitor_Unencrypted_VM_Disks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/ew5gj",
+        "policy_name": "Azure_Audit_SQLServer_Transparent_Data_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4vnyd",
+        "policy_name": "Azure_Audit_OS_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/2oolq",
+        "policy_name": "Azure_Monitor_Unencrypted_SQLdb",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/qKsaU",
+        "policy_name": "AWS_API_GW_Endpoint_Type_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/dswd6",
+        "policy_name": "AWS_SecurityGroup_Port_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/hyfsg",
+        "policy_name": "AWS_Audit_UnRestricted_CIFS_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/iig55",
+        "policy_name": "AWS_Audit_UnRestricted_DNS_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/ch7rb",
+        "policy_name": "AWS_Audit_UnRestricted_Telnet_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/vrjj3",
+        "policy_name": "AWS_Audit_UnRestricted_FTP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/security_group/2rkj4",
+        "policy_name": "AWS_Audit_UnRestricted_ICMP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/reql5",
+        "policy_name": "AWS_Restricted_SSH",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/denq8",
+        "policy_name": "AWS_Restricted_Common_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/kD7vV",
+        "policy_name": "AWS_VPC_SG_Open_Only_to_Authorized_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/RTCqi",
+        "policy_name": "AWS_EC2_Instance_No_Public_IP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/67ba7",
+        "policy_name": "AWS_Audit_Default_Security_Group_Unrestricted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/45457",
+        "policy_name": "AWS_Audit_SecurityGroup_RFC_1918",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/4eaab",
+        "policy_name": "AWS_Audit_Security_Group_Port_Range",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/4c0e3",
+        "policy_name": "AWS_Audit_Security_Group_Rules_Counts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/28288",
+        "policy_name": "AWS_Audit_Unrestricted_Elasticsearch_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/74261",
+        "policy_name": "AWS_Audit_Unrestricted_HTTP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/77706",
+        "policy_name": "AWS_Audit_Unrestricted_Inbound_Access_on_Uncommon_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/16401",
+        "policy_name": "AWS_Audit_Unrestricted_MongoDB_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/33832",
+        "policy_name": "AWS_Audit_Unrestricted_MsSQL_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/86925",
+        "policy_name": "AWS_Audit_Unrestricted_MySQL_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/4e133",
+        "policy_name": "AWS_Audit_Unrestricted_NetBIOS_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/52695",
+        "policy_name": "AWS_Audit_Unrestricted_Oracle_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/bdb57",
+        "policy_name": "AWS_Audit_Unrestricted_Outbound_Access_on_All_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/49046",
+        "policy_name": "AWS_Audit_Unrestricted_PostgreSQL_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/92535",
+        "policy_name": "AWS_Audit_Unrestricted_RDP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/74316",
+        "policy_name": "AWS_Audit_Unrestricted_RPC_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/securitygroups/5b863",
+        "policy_name": "AWS_Audit_EC2_SecurityGroup_Rules_Count",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/securitygroups/3e30c",
+        "policy_name": "AWS_Audit_SecurityGroup_Excess",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/securitygroups/83bb3",
+        "policy_name": "AWS_Audit_Unrestricted_SMTP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/0638a",
+        "policy_name": "AWS_Audit_EKS_Cluster_EndPoints_Not_Public",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/38c63",
+        "policy_name": "AWS_Audit_RDS_Not_Using_Default_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/71804",
+        "policy_name": "AWS_Audit_RDS_Not_Using_Unrestricted_DB_SecurityGroups",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/65e07",
+        "policy_name": "AWS_Audit_RDS_Instance_Not_In_Public_Subnet",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5b26d",
+        "policy_name": "AWS_Audit_VPC_Default_Security_Group_Closed",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/taom7",
+        "policy_name": "Azure_Audit_Unrestricted_Network_Access_Storage_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XZSuJ",
+        "policy_name": "Azure_Audit_StorageAccounts_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/liwlj",
+        "policy_name": "Azure_Monitor_Permissive_NetworkAccess_VM_Web_Apps",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/MqWnd",
+        "policy_name": "Azure_Audit_APIService_using_Virtual_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yVINP",
+        "policy_name": "Azure_Audit_CosmosDB_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/y6ifz",
+        "policy_name": "Azure_Audit_Kubernetes_API_IP_Allow",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LRpyi",
+        "policy_name": "Azure_Audit_ContainerRegistry_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/SsLPi",
+        "policy_name": "Azure_Audit_ContainerRegistry_Unrestricted_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LltIe",
+        "policy_name": "Azure_Audit_MariaDB_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XeJCm",
+        "policy_name": "Azure_Audit_MariaDB_Configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dHvSs",
+        "policy_name": "Azure_Audit_MySQL_not_configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pBIgi",
+        "policy_name": "Azure_Audit_MySQLserver_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/HkrhE",
+        "policy_name": "Azure_Audit_PostgreSQLserver_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/TnBzR",
+        "policy_name": "Azure_Audit_PostgreSQLserver_not_configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XaRFO",
+        "policy_name": "Azure_Audit_EventHub_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/security_group/bmd2t",
+        "policy_name": "Azure_Network_SecurityGroup_Port_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/osnui",
+        "policy_name": "Azure_Audit_SQL_Database_Ingress",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/VtPEe",
+        "policy_name": "Azure_Audit_ServiceBus_using_Virtual_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/cost/network/ng7wd",
+        "policy_name": "Azure_VPN_Gateway_Pricing_Tier",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/YeyaY",
+        "policy_name": "Azure_Audit_VPN_Gateways_Not_Use_Basic_SKU",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App_Services",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tgn2q",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/4ezeo",
+        "policy_name": "Azure_Monitor_Unprotected_Network_pts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/rNo8q",
+        "policy_name": "Monitor_Orphaned_NetWork_Interfaces",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vl5of",
+        "policy_name": "Azure_Audit_RDP_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4xvtf",
+        "policy_name": "Azure_Audit_SSH_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/g2v2x",
+        "policy_name": "Azure_Audit_NSG_Subnet",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

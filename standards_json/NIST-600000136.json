@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000136", 
+  "control_attributes": {
+    "Control": "AC-3 (2) DUAL AUTHORIZATION", 
+    "control_description": "The information system enforces dual authorization for [Assignment: organization-defined privileged commands and/or other organization-defined actions].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces information flow control based on [Assignment: organization-defined metadata]."
+  }, 
+  "Control Statement": "The information system enforces dual authorization for [Assignment: organization-defined privileged commands and/or other organization-defined actions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-3 (2) DUAL AUTHORIZATION", 
+  "compliance_control_number": "600000136"
+}

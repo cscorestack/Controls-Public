@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000286",
+  "compliance_control_uri": "AWS-WAF/0016/160000286",
+  "Control Name": "COST 9.2 Implement a buﬀer or throttle to manage demand",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Buﬀering and throttling modify the demand on your workload, smoothing out any peaks. Implement throttling when your clients perform retries.\nImplement buﬀering to store the request and defer processing until a later time. Ensure your throttles and buﬀers are designed so clients receive a response in the required time.",
+  "control_attributes": {
+    "Control": "COST 9.2 Implement a buﬀer or throttle to manage demand",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you manage demand, and supply resources?",
+    "question_id": "manage-demand-resources",
+    "choice_id": "cost_manage_demand_resources_buffer_throttle"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

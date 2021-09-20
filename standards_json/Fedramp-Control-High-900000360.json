@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000360", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000360", 
+  "Control Name": "BOUNDARY PROTECTION | DYNAMIC ISOLATION / SEGREGATION", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system provides the capability to dynamically isolate/segregate [Assignment: organization-defined information system components] from other components of the system.Supplemental Guidance:  The capability to dynamically isolate or segregate certain internal components of organizational information systems is useful when it is necessary to partition or separate certain components of dubious origin from those components possessing greatertrustworthiness. Component isolation reduces the attack surface of organizational information systems. Isolation of selected information system components is also a means of limiting the damage from successful cyber attacks when those attacks occur.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system provides the capability to dynamically isolate/segregate [Assignment: organization-defined information system components] from other components of the system.Supplemental Guidance:  The capability to dynamically isolate or segregate certain internal components of organizational information systems is useful when it is necessary to partition or separate certain components of dubious origin from those components possessing greatertrustworthiness. Component isolation reduces the attack surface of organizational information systems. Isolation of selected information system components is also a means of limiting the damage from successful cyber attacks when those attacks occur.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (20)", 
+    "CNTL NO": "SC-7 (20)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BOUNDARY PROTECTION | DYNAMIC ISOLATION / SEGREGATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

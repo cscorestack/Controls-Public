@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000383", 
+  "control_attributes": {
+    "Control": "IA-5 (2) PKI-BASED AUTHENTICATION", 
+    "control_description": "The information system, for PKI-based authentication:", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system, for hardware token-based authentication, employs mechanisms that satisfy [Assignment: organization-defined token quality requirements]."
+  }, 
+  "Control Statement": "The information system, for PKI-based authentication:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (2) PKI-BASED AUTHENTICATION", 
+  "compliance_control_number": "600000383"
+}

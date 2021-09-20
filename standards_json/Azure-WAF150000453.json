@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000453", 
+  "compliance_control_uri": "Azure-WAF/0015/150000453", 
+  "Control Name": "5.8.2 Service Endpoints or Private Links are used for accessing Azure PaaS services.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Service Endpoints and Private Link can be leveraged to restrict access to PaaS endpoints only from authorized virtual networks, effectively mitigating data intrusion risks and associated impact to application availability. Service Endpoints provide service level access to a PaaS service, while Private Link provides direct access to a specific PaaS resource to mitigate data exfiltration risks (e.g. malicious admin scenarios). Don't forget that Private Link is a paid service and has meters for inbound and outbound data processed. Private Endpoints are charged as well.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.2 Service Endpoints or Private Links are used for accessing Azure PaaS services.", 
+    "Description": "Service Endpoints and Private Link can be leveraged to restrict access to PaaS endpoints only from authorized virtual networks, effectively mitigating data intrusion risks and associated impact to application availability. Service Endpoints provide service level access to a PaaS service, while Private Link provides direct access to a specific PaaS resource to mitigate data exfiltration risks (e.g. malicious admin scenarios). Don't forget that Private Link is a paid service and has meters for inbound and outbound data processed. Private Endpoints are charged as well."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000504", 
+  "control_attributes": {
+    "Control": "PE-6 (4) MONITORING PHYSICAL ACCESS TO INFORMATION SYSTEMS", 
+    "control_description": "The organization monitors physical access to the information system in addition to the physical access monitoring of the facility as [Assignment: organization-defined physical spaces containing one or more components of the information system].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization provides a short-term uninterruptible power supply to facilitate [Selection (one or more): an orderly shutdown of the information system; transition of the information system to long-term alternate power] in the event of a primary power source loss."
+  }, 
+  "Control Statement": "The organization monitors physical access to the information system in addition to the physical access monitoring of the facility as [Assignment: organization-defined physical spaces containing one or more components of the information system].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-6 (4) MONITORING PHYSICAL ACCESS TO INFORMATION SYSTEMS", 
+  "compliance_control_number": "600000504"
+}

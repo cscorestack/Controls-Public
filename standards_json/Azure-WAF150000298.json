@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000298", 
+  "compliance_control_uri": "Azure-WAF/0015/150000298", 
+  "Control Name": "4.1.2 Availability targets such as Service Level Agreements (SLAs) and Service Level Objectives (SLOs).", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have availability targets been defined for the application and key scenarios? and are targets considered whilst the system is running in a recovery mode?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.2 Availability targets such as Service Level Agreements (SLAs) and Service Level Objectives (SLOs).", 
+    "Description": "Have availability targets been defined for the application and key scenarios? and are targets considered whilst the system is running in a recovery mode?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

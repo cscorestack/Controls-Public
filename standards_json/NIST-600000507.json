@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000507", 
+  "control_attributes": {
+    "Control": "PE-9 POWER EQUIPMENT AND CABLING", 
+    "control_description": "The organization protects power equipment and power cabling for the information system from damage and destruction.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization employs and maintains automatic emergency lighting for the information system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility."
+  }, 
+  "Control Statement": "The organization protects power equipment and power cabling for the information system from damage and destruction.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-9 POWER EQUIPMENT AND CABLING", 
+  "compliance_control_number": "600000507"
+}

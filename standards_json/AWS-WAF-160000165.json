@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000165",
+  "compliance_control_uri": "AWS-WAF/0016/160000165",
+  "Control Name": "REL 6.2 Deﬁne and calculate metrics (Aggregation)",
+  "Control Family": "Reliability",
+  "Control Statement": "Store log data and apply ﬁlters where necessary to calculate metrics, such as counts of a speciﬁc log event, or latency calculated from log event timestamps",
+  "control_attributes": {
+    "Control": "REL 6.2 Deﬁne and calculate metrics (Aggregation)",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_notification_aggregation"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

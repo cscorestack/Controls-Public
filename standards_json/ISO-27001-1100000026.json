@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000026", 
+  "compliance_control_uri": "ISO-27001/0011/1100000026", 
+  "Control Name": "9.1.1 Access control policy", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "An access control policy shall be established, documented, and reviewed based on business and security requirements for access", 
+  "control_attributes": {
+    "Clause_Category": "9.1 Business requirements of access control", 
+    "description": "An access control policy shall be established, documented, and reviewed based on business and security requirements for access", 
+    "Control_Title": "9.1.1 Access control policy", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

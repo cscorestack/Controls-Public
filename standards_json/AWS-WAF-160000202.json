@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000202",
+  "compliance_control_uri": "AWS-WAF/0016/160000202",
+  "Control Name": "REL 13.5 Automate recovery",
+  "Control Family": "Reliability",
+  "Control Statement": "Use AWS or third-party tools to automate system recovery and route traﬃc to the DR site or region.",
+  "control_attributes": {
+    "Control": "REL 13.5 Automate recovery",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan for disaster recovery (DR)?",
+    "question_id": "planning-for-recovery",
+    "choice_id": "rel_planning_for_recovery_auto_recovery"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

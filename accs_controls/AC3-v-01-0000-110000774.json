@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000774",
+  "compliance_control_uri": "AC3-v-01/0000/110000774",
+  "Control Name": "SI-3 (6) TESTING / VERIFICATION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization: (a) Tests malicious code protection mechanisms [Assignment: organization-defined frequency] by introducing a known benign, non-spreading test case into the information system; and(b) Verifies that both detection of the test case and associated incident reporting occur.",
+  "control_attributes": {
+    "Control Name": "SI-3 (6) TESTING / VERIFICATION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization: (a) Tests malicious code protection mechanisms [Assignment: organization-defined frequency] by introducing a known benign, non-spreading test case into the information system; and(b) Verifies that both detection of the test case and associated incident reporting occur."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000753"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000053", 
+  "compliance_control_uri": "HIPAA/0002/200000053", 
+  "Control Name": "Evaluation - 164.308(a)(8)", 
+  "Control Family": "Evaluation", 
+  "Control Statement": "Perform a periodic technical and nontechnical evaluation, based initially upon the standards implemented under this rule and subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, which establishes the extent to which a covered entity's or business associate\\u0080\\u0099s security policies and procedures meet the requirements of this subpart.\\n \\t\\t\\t\\t", 
+  "control_attributes": {
+    "Control": "Evaluation - 164.308(a)(8)", 
+    "Security_Category": "Evaluation", 
+    "Control_description": "Perform a periodic technical and nontechnical evaluation, based initially upon the standards implemented under this rule and subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, which establishes the extent to which a covered entity's or business associate\\u0080\\u0099s security policies and procedures meet the requirements of this subpart.\\n \\t\\t\\t\\t"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

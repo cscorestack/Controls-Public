@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000302", 
+  "compliance_control_uri": "Azure-WAF/0015/150000302", 
+  "Control Name": "4.1.6 Independent availability and recovery targets for critical application subsystems and scenarios.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has the application been decomposed into distinct subsystems with independent availability and recovery targets?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.6 Independent availability and recovery targets for critical application subsystems and scenarios.", 
+    "Description": "Has the application been decomposed into distinct subsystems with independent availability and recovery targets?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

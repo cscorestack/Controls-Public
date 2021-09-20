@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000610", 
+  "control_attributes": {
+    "Control": "SA-12 (10) VALIDATE AS GENUINE AND NOT ALTERED", 
+    "control_description": "The organization employs [Assignment: organization-defined security safeguards] to validate that the information system or system component received is genuine and has not been altered.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] to validate that the information system or system component received is genuine and has not been altered.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-12 (10) VALIDATE AS GENUINE AND NOT ALTERED", 
+  "compliance_control_number": "600000610"
+}

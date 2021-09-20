@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000046", 
+  "compliance_control_uri": "HIPAA/0002/200000046", 
+  "Control Name": "Information Access Management  Access Establishment and Modification - 164.308(a)(4)(ii)(C)", 
+  "Control Family": "Information Access Management", 
+  "Control Statement": "Implement policies and procedures that, based upon the covered entity\\u0080\\u0099s or the business associate\\u0080\\u0099s access authorization policies, establish, document, review, and modify a user\\u0080\\u0099s right of access to a workstation, transaction, program, or process.", 
+  "control_attributes": {
+    "Control": "Information Access Management  Access Establishment and Modification - 164.308(a)(4)(ii)(C)", 
+    "Security_Category": "Information Access Management", 
+    "Control_description": "Implement policies and procedures that, based upon the covered entity\\u0080\\u0099s or the business associate\\u0080\\u0099s access authorization policies, establish, document, review, and modify a user\\u0080\\u0099s right of access to a workstation, transaction, program, or process."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,155 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000330",
+  "compliance_control_uri": "AC3-v-01/0000/110000330",
+  "Control Name": "IA-5 (1) PASSWORD-BASED AUTHENTICATION",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system, for password-based authentication:                                                         (a) Enforces minimum password complexity of [Assignment: organization-defined requirements for case sensitivity, number of characters, mix of upper-case letters, lower-case letters, numbers, and special characters, including minimum requirements for each type];(b) Enforces at least the following number of changed characters when new passwords are created: [Assignment: organization-defined number];(c) Stores and transmits only cryptographically-protected passwords;(d) Enforces password minimum and maximum lifetime restrictions of [Assignment: organization-defined numbers for lifetime minimum, lifetime maximum];(e) Prohibits password reuse for [Assignment: organization-defined number] generations; and(f) Allows the use of a temporary password for system logons with an immediate change to a permanent password.",
+  "control_attributes": {
+    "Control Name": "IA-5 (1) PASSWORD-BASED AUTHENTICATION",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system, for password-based authentication:                                                         (a) Enforces minimum password complexity of [Assignment: organization-defined requirements for case sensitivity, number of characters, mix of upper-case letters, lower-case letters, numbers, and special characters, including minimum requirements for each type];(b) Enforces at least the following number of changed characters when new passwords are created: [Assignment: organization-defined number];(c) Stores and transmits only cryptographically-protected passwords;(d) Enforces password minimum and maximum lifetime restrictions of [Assignment: organization-defined numbers for lifetime minimum, lifetime maximum];(e) Prohibits password reuse for [Assignment: organization-defined number] generations; and(f) Allows the use of a temporary password for system logons with an immediate change to a permanent password."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000382",
+      "ISO-27001/0011/1100000037",
+      "PCI-DSS/0012/1200000023",
+      "PCI-DSS/0012/1200000113",
+      "PCI-DSS/0012/1200000115",
+      "PCI-DSS/0012/1200000116",
+      "PCI-DSS/0012/1200000117",
+      "PCI-DSS/0012/1200000118",
+      "PCI-DSS/0012/1200000119",
+      "Fedramp-Control-Moderate/0010/1000000144",
+      "Fedramp-Control-High/0009/900000195",
+      "HIPAA/0002/200000050",
+      "ISO/0001/100000096",
+      "AWS-WAF/0016/160000091",
+      "CIS-AWS/0007/700000008",
+      "CIS-AWS/0007/700000009",
+      "ISO-27001/0011/1100000029",
+      "ISO-27001/0011/1100000031",
+      "ISO-27001/0011/1100000034",
+      "ISO-27001/0011/1100000037",
+      "ISO/0001/100000022",
+      "ISO/0001/100000024",
+      "ISO/0001/100000027",
+      "SOC2/0017/1700000124"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/weeq2",
+        "policy_name": "AWS_IAM_Password_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_IAM_Password_Policy",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/weeq2",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_IAM_User_Password_Expiry_30_Days",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/bbf2e",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_IAM_User_Password_Expiry_45_Days",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/7272e",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_IAM_User_Password_Expiry_7_Days",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/94ec7",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_IAM_User_With_Password_And_Access_Keys",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e2f2d",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_LinuxVM_Allow_RemoteConnection_Without_Passwords",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/98d46",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_LinuxVM_PasswdFile_Permission",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ccc81",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_Allow_Reuse_Previous24Passwords",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/5a85d",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_DoNot_Store_Passwords_UsingReversibleEncryption",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/92c86",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_Password_Age_1day",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/bc952",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_Password_Age_70days",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/2ae6b",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_Password_Complexity",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/426cf",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_WindowsVM_Password_Min_Length_14chars",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/69897",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

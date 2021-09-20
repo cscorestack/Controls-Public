@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000101",
+  "compliance_control_uri": "SOC2/0017/1700000101",
+  "Control Name": "Evaluates a Mix of Control Activity Types—Control activities include a range and variety of controls and may include a balance of approaches to mitigate risks, considering both manual and automated controls, and preventive and detective controls.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Evaluates a Mix of Control Activity Types—Control activities include a range and variety of controls and may include a balance of approaches to mitigate risks, considering both manual and automated controls, and preventive and detective controls.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.1 COSO Principle 10: The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels",
+    "ControlNo": "CC5.1.4",
+    "TrustID": "CC5.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

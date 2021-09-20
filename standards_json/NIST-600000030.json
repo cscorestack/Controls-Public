@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000030", 
+  "control_attributes": {
+    "Control": "CM-5 (3) SIGNED COMPONENTS", 
+    "control_description": "The information system prevents the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system prevents the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-5 (3) SIGNED COMPONENTS", 
+  "compliance_control_number": "600000030"
+}

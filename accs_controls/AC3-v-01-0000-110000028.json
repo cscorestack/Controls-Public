@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000028",
+  "compliance_control_uri": "AC3-v-01/0000/110000028",
+  "Control Name": "AC-18 (4) RESTRICT CONFIGURATIONS BY USERS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization identifies and explicitly authorizes users allowed to independently configure wireless networking capabilities.",
+  "control_attributes": {
+    "Control Name": "AC-18 (4) RESTRICT CONFIGURATIONS BY USERS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization identifies and explicitly authorizes users allowed to independently configure wireless networking capabilities."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000008",
+      "NIST-SP800-53/0006/600000207",
+      "ISO-27001/0011/1100000008",
+      "PCI-DSS/0012/1200000024",
+      "PCI-DSS/0012/1200000059",
+      "PCI-DSS/0012/1200000188",
+      "Fedramp-Control-High/0009/900000046"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

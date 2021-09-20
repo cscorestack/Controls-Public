@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000152",
+  "compliance_control_uri": "SOC2/0017/1700000152",
+  "Control Name": "Conducts Vulnerability Scans—The entity conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Conducts Vulnerability Scans—The entity conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.1 To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities.",
+    "ControlNo": "CC7.1.5",
+    "TrustID": "CC7.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

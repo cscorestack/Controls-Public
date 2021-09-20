@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000391", 
+  "compliance_control_uri": "Azure-WAF/0015/150000391", 
+  "Control Name": "4.13.7 Azure Resource Health events are used to alert on resource health events.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are Azure Resource Health event used to alert on resource health events? An appropriate threshold for resource unavailability must be set to minimise signal to noise ratios so that transient faults do not generate an alert. For example, configuring a virtual machine alert with an unavailability threshold of 1 minute before an alert is triggered.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.7 Azure Resource Health events are used to alert on resource health events.", 
+    "Description": "Are Azure Resource Health event used to alert on resource health events? An appropriate threshold for resource unavailability must be set to minimise signal to noise ratios so that transient faults do not generate an alert. For example, configuring a virtual machine alert with an unavailability threshold of 1 minute before an alert is triggered."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

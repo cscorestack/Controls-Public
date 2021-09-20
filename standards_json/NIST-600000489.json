@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000489", 
+  "control_attributes": {
+    "Control": "PE-3 (1) INFORMATION SYSTEM ACCESS", 
+    "control_description": "The organization enforces physical access authorizations to the information system in addition to the physical access controls for the facility at [Assignment: organization-defined physical spaces containing one or more components of the information system].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output."
+  }, 
+  "Control Statement": "The organization enforces physical access authorizations to the information system in addition to the physical access controls for the facility at [Assignment: organization-defined physical spaces containing one or more components of the information system].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-3 (1) INFORMATION SYSTEM ACCESS", 
+  "compliance_control_number": "600000489"
+}

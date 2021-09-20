@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000575", 
+  "control_attributes": {
+    "Control": "SA-4 (6) USE OF INFORMATION ASSURANCE PRODUCTS", 
+    "control_description": "The organization: (a) Employs only government off-the-shelf (GOTS) or commercial off-the-shelf (COTS) information assurance (IA) and IA-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and(b) Ensures that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system."
+  }, 
+  "Control Statement": "The organization: (a) Employs only government off-the-shelf (GOTS) or commercial off-the-shelf (COTS) information assurance (IA) and IA-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and(b) Ensures that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-4 (6) USE OF INFORMATION ASSURANCE PRODUCTS", 
+  "compliance_control_number": "600000575"
+}

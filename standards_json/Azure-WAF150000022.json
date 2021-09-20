@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000022", 
+  "compliance_control_uri": "Azure-WAF/0015/150000022", 
+  "Control Name": "1.2.13 Role Based Access Control (RBAC) is used to control access to operational and financial dashboards and underlying data.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Are the dashboards openly available in your organization or do you limit access based on roles etc.? For example: developers usually don't need to know the overall cost of Azure for the company, but it might be good for them to be able to watch a particular workload. Access to operational and financial data should be tightly controlled to align with segregation of duties, while making sure that it doesn't hinder operational effectiveness; i.e. scenarios where developers have to raise an ticket to access logs should be avoided.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.13 Role Based Access Control (RBAC) is used to control access to operational and financial dashboards and underlying data.", 
+    "Description": "Are the dashboards openly available in your organization or do you limit access based on roles etc.? For example: developers usually don't need to know the overall cost of Azure for the company, but it might be good for them to be able to watch a particular workload. Access to operational and financial data should be tightly controlled to align with segregation of duties, while making sure that it doesn't hinder operational effectiveness; i.e. scenarios where developers have to raise an ticket to access logs should be avoided."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

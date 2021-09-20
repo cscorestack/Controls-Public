@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000099", 
+  "compliance_control_uri": "Azure-WAF/0015/150000099", 
+  "Control Name": "2.4.6 End-to-end performance of critical system flows is monitored", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the end-to-end performance of critical system flows monitored?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.6 End-to-end performance of critical system flows is monitored", 
+    "Description": "Is the end-to-end performance of critical system flows monitored?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

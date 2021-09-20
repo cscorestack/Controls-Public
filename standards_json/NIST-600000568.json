@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000568", 
+  "control_attributes": {
+    "Control": "SA-2 ALLOCATION OF RESOURCES", 
+    "control_description": "The organization: a. Determines information security requirements for the information system or information system service in mission/business process planning;b. Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; andc. Establishes a discrete line item for information security in organizational programming and budgeting documentation.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to:"
+  }, 
+  "Control Statement": "The organization: a. Determines information security requirements for the information system or information system service in mission/business process planning;b. Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; andc. Establishes a discrete line item for information security in organizational programming and budgeting documentation.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-2 ALLOCATION OF RESOURCES", 
+  "compliance_control_number": "600000568"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000042",
+  "compliance_control_uri": "SOC2/0017/1700000042",
+  "Control Name": "Communicates to External Parties—Processes are in place to communicate relevant and timely information to external parties, including shareholders, partners, owners, regulators, customers, financial analysts, and other external parties.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates to External Parties—Processes are in place to communicate relevant and timely information to external parties, including shareholders, partners, owners, regulators, customers, financial analysts, and other external parties.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.1",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,124 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000736",
+  "compliance_control_uri": "AC3-v-01/0000/110000736",
+  "Control Name": "SC-7 (7) PREVENT SPLIT TUNNELING FOR REMOTE DEVICES",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system, in conjunction with a remote device, prevents the device from simultaneously establishing non-remote connections with the system and communicating via some other connection to resources in external networks.",
+  "control_attributes": {
+    "Control Name": "SC-7 (7) PREVENT SPLIT TUNNELING FOR REMOTE DEVICES",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system, in conjunction with a remote device, prevents the device from simultaneously establishing non-remote connections with the system and communicating via some other connection to resources in external networks."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000665",
+      "PCI-DSS/0012/1200000005",
+      "PCI-DSS/0012/1200000009",
+      "PCI-DSS/0012/1200000010",
+      "PCI-DSS/0012/1200000013",
+      "PCI-DSS/0012/1200000014",
+      "PCI-DSS/0012/1200000015",
+      "PCI-DSS/0012/1200000016",
+      "PCI-DSS/0012/1200000017",
+      "PCI-DSS/0012/1200000018",
+      "PCI-DSS/0012/1200000019",
+      "PCI-DSS/0012/1200000020",
+      "Fedramp-Control-Moderate/0010/1000000272",
+      "Fedramp-Control-High/0009/900000353",
+      "SOC2/0017/1700000135"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/IAOx6",
+        "policy_name": "AWS_FMS_Webacl_Resource_Policy_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9e58b",
+        "policy_name": "AWS_Audit_App-Tier_ELB_Security_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cbb19",
+        "policy_name": "AWS_Audit_ELB_Security_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e2b29",
+        "policy_name": "AWS_Audit_ELBv2_ALB_Security_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3b785",
+        "policy_name": "AWS_Audit_Network_Load_Balancer_Security_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f6822",
+        "policy_name": "AWS_Audit_Web-Tier_ELB_Security_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fb0c2",
+        "policy_name": "AWS_Audit_ELB_With_Valid_Security_Groups",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/lmnop",
+        "policy_name": "Azure_Audit_Monitor_IP_Forwarding_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/07ee1",
+        "policy_name": "Azure_Audit_Internetfacing_EndPoints_Restricted",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

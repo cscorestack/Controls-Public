@@ -1,0 +1,137 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000666",
+  "compliance_control_uri": "AC3-v-01/0000/110000666",
+  "Control Name": "SC-28 (1) CRYPTOGRAPHIC PROTECTION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system implements cryptographic mechanisms to prevent unauthorized disclosure and modification of [Assignment: organization-defined information] on [Assignment: organization-defined information system components].",
+  "control_attributes": {
+    "Control Name": "SC-28 (1) CRYPTOGRAPHIC PROTECTION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system implements cryptographic mechanisms to prevent unauthorized disclosure and modification of [Assignment: organization-defined information] on [Assignment: organization-defined information system components]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000075",
+      "ISO-27001/0011/1100000041",
+      "Fedramp-Control-Moderate/0010/1000000293",
+      "Fedramp-Control-High/0009/900000380",
+      "ISO/0001/100000029",
+      "AWS-WAF/0016/160000125",
+      "CIS-Azure/0003/300000005",
+      "CIS-Azure/0003/300000009",
+      "CIS-Azure/0003/300000013",
+      "CIS-Azure/0003/300000022",
+      "Azure-WAF/0015/150000475",
+      "CIS-GCP/0014/1400000042",
+      "AWS-WAF/0016/160000125",
+      "AWS-WAF/0016/160000124",
+      "SOC2/0017/1700000122"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/iwpln",
+        "policy_name": "Azure_Audit_Encryption_DataLakeStore",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ikuz4",
+        "policy_name": "Azure_Monitor_Unencrypted_VM_Disks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ln2dx",
+        "policy_name": "Azure_Audit_Unattached_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4vnyd",
+        "policy_name": "Azure_Audit_OS_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/2oolq",
+        "policy_name": "Azure_Monitor_Unencrypted_SQLdb",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/X0F1c",
+        "policy_name": "AWS_DYNAMODB_Table_Encryption_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/wgb1L",
+        "policy_name": "AWS_Encrypted_Volumes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f479f",
+        "policy_name": "AWS_Audit_EBS_Snapshots_Encrypted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/yOraR",
+        "policy_name": "AWS_ELASTICSEARCH_Encrypted_at_Rest",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/YgFiH",
+        "policy_name": "AWS_RDS_Storage_Encrypted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/24188",
+        "policy_name": "AWS_Audit_RDS_Encrypted_With_KMS_Customer_Master_Keys",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/hec4u",
+        "policy_name": "AWS_Audit_Unencrypted_S3_Buckets",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/l2rt5",
+        "policy_name": "AWS_S3_Bucket_Serverside_Encryption_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22b97",
+        "policy_name": "AWS_Audit_S3_Buckets_Encrypted_with_Customer_Provided_CMKs",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

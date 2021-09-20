@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000213",
+  "compliance_control_uri": "SOC2/0017/1700000213",
+  "Control Name": "Identifies Environmental Threats—As part of the risk assessment process, management identifies environmental threats that could impair the availability of the system, including threats resulting from adverse weather, failure of environmental control systems, electrical discharge, fire, and water.  ",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Identifies Environmental Threats—As part of the risk assessment process, management identifies environmental threats that could impair the availability of the system, including threats resulting from adverse weather, failure of environmental control systems, electrical discharge, fire, and water.  ",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.2 The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.",
+    "ControlNo": "A1.2.1",
+    "TrustID": "A1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

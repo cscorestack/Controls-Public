@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000538", 
+  "control_attributes": {
+    "Control": "PL-7 SECURITY CONCEPT OF OPERATIONS", 
+    "control_description": "The organization: a. Develops a security Concept of Operations (CONOPS) for the information system containing at a minimum, how the organization intends to operate the system from the perspective of information security; andb. Reviews and updates the CONOPS [Assignment: organization-defined frequency].", 
+    "Family": "PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Develops a security Concept of Operations (CONOPS) for the information system containing at a minimum, how the organization intends to operate the system from the perspective of information security; andb. Reviews and updates the CONOPS [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-7 SECURITY CONCEPT OF OPERATIONS", 
+  "compliance_control_number": "600000538"
+}

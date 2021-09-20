@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000099", 
+  "control_attributes": {
+    "Control": "SI-15 INFORMATION OUTPUT FILTERING", 
+    "control_description": "The information system validates information output from [Assignment: organization-defined software programs and/or applications] to ensure that the information is consistent with the expected content.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system validates information output from [Assignment: organization-defined software programs and/or applications] to ensure that the information is consistent with the expected content.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-15 INFORMATION OUTPUT FILTERING", 
+  "compliance_control_number": "600000099"
+}

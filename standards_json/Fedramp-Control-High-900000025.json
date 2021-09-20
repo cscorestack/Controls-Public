@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000025", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000025", 
+  "Control Name": "LEAST PRIVILEGE | PRIVILEGE LEVELS FOR CODE EXECUTION", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system prevents [Assignment: organization-defined software] from executing at higher privilege levels than users executing the software.Supplemental Guidance:  In certain situations, software applications/programs need to execute with elevated privileges to perform required functions. However, if the privileges required for execution are at a higher level than the privileges assigned to organizational users invoking such applications/programs, those users are indirectly provided with greater privileges than assigned by organizations.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system prevents [Assignment: organization-defined software] from executing at higher privilege levels than users executing the software.Supplemental Guidance:  In certain situations, software applications/programs need to execute with elevated privileges to perform required functions. However, if the privileges required for execution are at a higher level than the privileges assigned to organizational users invoking such applications/programs, those users are indirectly provided with greater privileges than assigned by organizations.", 
+    "SelectionParam": "AC-6 (8) [any software except software explicitly documented]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-06 (08)", 
+    "CNTL NO": "AC-6 (8)", 
+    "AdditionalReq": "", 
+    "Control Name": "LEAST PRIVILEGE | PRIVILEGE LEVELS FOR CODE EXECUTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

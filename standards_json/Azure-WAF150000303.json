@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000303", 
+  "compliance_control_uri": "Azure-WAF/0015/150000303", 
+  "Control Name": "4.2.1 Deployed the application across multiple regions.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Does the application support multi-region deployments for failover purposes?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.1 Deployed the application across multiple regions.", 
+    "Description": "Does the application support multi-region deployments for failover purposes?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

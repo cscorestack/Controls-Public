@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000704", 
+  "control_attributes": {
+    "Control": "SC-23 (1) INVALIDATE SESSION IDENTIFIERS AT LOGOUT", 
+    "control_description": "The information system invalidates session identifiers upon user logout or other session termination.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system includes components specifically designed to be the target of malicious attacks for the purpose of detecting, deflecting, and analyzing such attacks."
+  }, 
+  "Control Statement": "The information system invalidates session identifiers upon user logout or other session termination.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-23 (1) INVALIDATE SESSION IDENTIFIERS AT LOGOUT", 
+  "compliance_control_number": "600000704"
+}

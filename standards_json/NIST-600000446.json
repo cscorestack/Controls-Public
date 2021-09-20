@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000446", 
+  "control_attributes": {
+    "Control": "MA-4 NONLOCAL MAINTENANCE", 
+    "control_description": "The organization: a. Approves and monitors nonlocal maintenance and diagnostic activities;b. Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;c. Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;d. Maintains records for nonlocal maintenance and diagnostic activities; ande. Terminates session and network connections when nonlocal maintenance is completed.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Approves and monitors nonlocal maintenance and diagnostic activities;b. Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;c. Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;d. Maintains records for nonlocal maintenance and diagnostic activities; ande. Terminates session and network connections when nonlocal maintenance is completed.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 NONLOCAL MAINTENANCE", 
+  "compliance_control_number": "600000446"
+}

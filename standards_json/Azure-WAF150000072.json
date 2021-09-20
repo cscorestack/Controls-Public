@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000072", 
+  "compliance_control_uri": "Azure-WAF/0015/150000072", 
+  "Control Name": "1.9.7 For database workloads, data and log files are stored on separate disks.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "You can optimize IaaS DB workload performance by configuring system, data and log files to be on different disk SKUs (leveraging Premium Disks for data and Ultra Disks for logs satisfies most production scenarios). Furthermore, Ultra Disk cost/performance can by optimized by taking advantage of the ability to configure capacity, IOPS and throughput independently; and ability to dynamically configure these attributes. Example workloads are SQL on IaaS, Cassandra DB, Maria DB, MySQL and MongoDB on IaaS.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.7 For database workloads, data and log files are stored on separate disks.", 
+    "Description": "You can optimize IaaS DB workload performance by configuring system, data and log files to be on different disk SKUs (leveraging Premium Disks for data and Ultra Disks for logs satisfies most production scenarios). Furthermore, Ultra Disk cost/performance can by optimized by taking advantage of the ability to configure capacity, IOPS and throughput independently; and ability to dynamically configure these attributes. Example workloads are SQL on IaaS, Cassandra DB, Maria DB, MySQL and MongoDB on IaaS."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

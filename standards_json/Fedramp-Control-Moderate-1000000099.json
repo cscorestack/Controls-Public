@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000099", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000099", 
+  "Control Name": "LEAST FUNCTIONALITY | PREVENT PROGRAM EXECUTION", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The information system prevents program execution in accordance with [Selection (one or more): [Assignment: organization-defined policies regarding software program usage and restrictions]; rules authorizing the terms and conditions of software program usage].Supplemental Guidance:  Related controls: CM-8, PM-5.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The information system prevents program execution in accordance with [Selection (one or more): [Assignment: organization-defined policies regarding software program usage and restrictions]; rules authorizing the terms and conditions of software program usage].Supplemental Guidance:  Related controls: CM-8, PM-5.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-07 (02)", 
+    "CNTL NO": "CM-7 (2)", 
+    "AdditionalReq": "CM-7 (2) Guidance: This control shall be implemented in a technical manner on the information system to only allow programs to run that adhere to the policy (i.e. white listing). This control is not to be based off of strictly written policy on what is allowed or not allowed to run.", 
+    "Control Name": "LEAST FUNCTIONALITY | PREVENT PROGRAM EXECUTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

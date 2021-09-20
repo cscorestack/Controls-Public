@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000152",
+  "compliance_control_uri": "AWS-WAF/0016/160000152",
+  "Control Name": "REL 3.3 Provide service contracts per API",
+  "Control Family": "Reliability",
+  "Control Statement": "Service contracts are documented agreements between teams on service integration and include a machine-readable API deﬁnition, rate limits, and performance expectations. A versioning strategy allows clients to continue using the existing API and migrate their applications to the newer API when they are ready. Deployment can happen anytime, as long as the contract is not violated. The service provider team can use the technology stack of their choice to satisfy the API contract. Similarly, the service consumer can use their own technology.",
+  "control_attributes": {
+    "Control": "REL 3.3 Provide service contracts per API",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload service architecture?",
+    "question_id": "service-architecture",
+    "choice_id": "rel_service_architecture_api_contracts"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

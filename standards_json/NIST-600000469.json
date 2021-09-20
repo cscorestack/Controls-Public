@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000469", 
+  "control_attributes": {
+    "Control": "MP-6 MEDIA SANITIZATION", 
+    "control_description": "The organization: a. Sanitizes [Assignment: organization-defined information system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures] in accordance with applicable federal and organizational standards and policies; andb. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization prohibits the use of portable storage devices in organizational information systems when such devices have no identifiable owner."
+  }, 
+  "Control Statement": "The organization: a. Sanitizes [Assignment: organization-defined information system media] prior to disposal, release out of organizational control, or release for reuse using [Assignment: organization-defined sanitization techniques and procedures] in accordance with applicable federal and organizational standards and policies; andb. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-6 MEDIA SANITIZATION", 
+  "compliance_control_number": "600000469"
+}

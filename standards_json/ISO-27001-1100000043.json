@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000043", 
+  "compliance_control_uri": "ISO-27001/0011/1100000043", 
+  "Control Name": "11.1.2 Physical entry controls", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Secure areas shall be protected by appropriate entry controls to ensure that only authorized personnel are allowed access.", 
+  "control_attributes": {
+    "Clause_Category": "11.1 - Secure areas", 
+    "description": "Secure areas shall be protected by appropriate entry controls to ensure that only authorized personnel are allowed access.", 
+    "Control_Title": "11.1.2 Physical entry controls", 
+    "Control_Clause": "11. Physical and environmental security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

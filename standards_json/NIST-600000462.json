@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000462", 
+  "control_attributes": {
+    "Control": "MP-1 MEDIA PROTECTION POLICY AND PROCEDURES", 
+    "control_description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the media protection policy and associated media protection controls; andb. Reviews and updates the current:1. Media protection policy [Assignment: organization-defined frequency]; and2. Media protection procedures [Assignment: organization-defined frequency].", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the media protection policy and associated media protection controls; andb. Reviews and updates the current:1. Media protection policy [Assignment: organization-defined frequency]; and2. Media protection procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-1 MEDIA PROTECTION POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000462"
+}

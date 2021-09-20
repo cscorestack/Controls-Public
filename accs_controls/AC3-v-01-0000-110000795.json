@@ -1,0 +1,68 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000795",
+  "compliance_control_uri": "AC3-v-01/0000/110000795",
+  "Control Name": "SI-4 (24) INDICATORS OF COMPROMISE",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system discovers, collects, distributes, and uses indicators of compromise.",
+  "control_attributes": {
+    "Control Name": "SI-4 (24) INDICATORS OF COMPROMISE",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system discovers, collects, distributes, and uses indicators of compromise."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000777",
+      "Fedramp-Control-High/0009/900000404",
+      "SOC2/0017/1700000155"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/aJ46r",
+        "policy_name": "AWS_Multi_Region_CLOUDTRAIL_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mazt4",
+        "policy_name": "Azure_Audit_LogProfile",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/f482c",
+        "policy_name": "Azure_Audit_LogAnalytics_WorkSpace_VM",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

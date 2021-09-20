@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000053", 
+  "compliance_control_uri": "Azure-WAF/0015/150000053", 
+  "Control Name": "1.7.6 Spot virtual machines are used.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Spot VMs are ideal for workloads that can be interrupted, such as highly parallel batch processing jobs. These VMs take advantage of the surplus capacity in Azure at a lower cost. They're also well suited for experimenting, development and testing of large-scale solutions.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.6 Spot virtual machines are used.", 
+    "Description": "Spot VMs are ideal for workloads that can be interrupted, such as highly parallel batch processing jobs. These VMs take advantage of the surplus capacity in Azure at a lower cost. They're also well suited for experimenting, development and testing of large-scale solutions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

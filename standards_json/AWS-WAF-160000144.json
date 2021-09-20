@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000144",
+  "compliance_control_uri": "AWS-WAF/0016/160000144",
+  "Control Name": "REL 1.6 Ensure that a suﬃcient gap exists between the current quotas and the maximum usage to accommodate failover",
+  "Control Family": "Reliability",
+  "Control Statement": "When a resource fails, it may still be counted against quotas until its successfully terminated. Ensure that your quotas cover the overlap of all failed resources with replacements before the failed resources are terminated. You should consider an Availability Zone failure when calculating this gap.",
+  "control_attributes": {
+    "Control": "REL 1.6 Ensure that a suﬃcient gap exists between the current quotas and the maximum usage to accommodate failover",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_suff_buffer_limits"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

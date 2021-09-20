@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000292", 
+  "compliance_control_uri": "Azure-WAF/0015/150000292", 
+  "Control Name": "3.11.1 You have steps to troubleshoot database issues.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Applications that spend a lot of execution time in the database layers can benefit from a database tuning analysis. This analysis will only focus on the data tier components and may require special resources such as DBA's to tune queries, indexes, execution plans, and more.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.11 What common problems do you have steps to troubleshoot in your operations playbook?", 
+    "Control": "3.11.1 You have steps to troubleshoot database issues.", 
+    "Description": "Applications that spend a lot of execution time in the database layers can benefit from a database tuning analysis. This analysis will only focus on the data tier components and may require special resources such as DBA's to tune queries, indexes, execution plans, and more."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

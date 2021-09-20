@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000141",
+  "compliance_control_uri": "AWS-WAF/0016/160000141",
+  "Control Name": "REL 1.3 Accommodate ﬁxed service quotas and constraints through architecture",
+  "Control Family": "Reliability",
+  "Control Statement": "Be aware of unchangeable service quotas and physical resources, and architect to prevent these from impacting reliability.",
+  "control_attributes": {
+    "Control": "REL 1.3 Accommodate ﬁxed service quotas and constraints through architecture",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_aware_fixed_limits"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

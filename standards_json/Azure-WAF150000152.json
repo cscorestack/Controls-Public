@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000152", 
+  "compliance_control_uri": "Azure-WAF/0015/150000152", 
+  "Control Name": "2.11.4 N-1 or N+1 versions can be deployed via automated pipelines where N is current deployment version in production", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Can N-1 or N+1 versions be deployed via automated pipelines where N is current deployment version in production?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.4 N-1 or N+1 versions can be deployed via automated pipelines where N is current deployment version in production", 
+    "Description": "Can N-1 or N+1 versions be deployed via automated pipelines where N is current deployment version in production?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

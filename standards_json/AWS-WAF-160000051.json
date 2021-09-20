@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000051",
+  "compliance_control_uri": "AWS-WAF/0016/160000051",
+  "Control Name": "OPS 8.1 Identify key performance indicators",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Identify key performance indicators (KPIs) based on desired business outcomes (for example, order rate, customer retention rate, and proﬁt versus operating expense) and customer outcomes (for example, customer satisfaction). Evaluate KPIs to determine workload success.",
+  "control_attributes": {
+    "Control": "OPS 8.1 Identify key performance indicators",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_define_workload_kpis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000284",
+  "compliance_control_uri": "SOC2/0017/1700000284",
+  "Control Name": "Captures, Identifies, and Communicates Requests for Information—Requests for an accounting of personal information held and disclosures of the data subjects’ personal information are captured, and information related to the requests is identified and communicated to data subjects to meet the entity’s objectives related to privacy.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Captures, Identifies, and Communicates Requests for Information—Requests for an accounting of personal information held and disclosures of the data subjects’ personal information are captured, and information related to the requests is identified and communicated to data subjects to meet the entity’s objectives related to privacy.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.7 The entity provides data subjects with an accounting of the personal information held and disclosure of the data subjects’ personal information, upon the data subjects’ request, to meet the entity’s objectives related to privacy.",
+    "ControlNo": "P6.7.2",
+    "TrustID": "P6.7"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

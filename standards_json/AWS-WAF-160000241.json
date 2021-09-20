@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000241",
+  "compliance_control_uri": "AWS-WAF/0016/160000241",
+  "Control Name": "PERF 8.2 Learn about design patterns and services",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Research and understand the various design patterns and services that help improve workload performance. As part of the analysis, identify what you could trade to achieve higher performance. For example, using a cache service can help to reduce the load placed on database systems; however, it requires some engineering to implement safe caching or possible introduction of eventual consistency in some areas.",
+  "control_attributes": {
+    "Control": "PERF 8.2 Learn about design patterns and services",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you use tradeoﬀs to improve performance?",
+    "question_id": "tradeoffs-performance",
+    "choice_id": "perf_tradeoffs_performance_design_patterns"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

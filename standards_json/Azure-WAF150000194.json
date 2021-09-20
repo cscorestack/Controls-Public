@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000194", 
+  "compliance_control_uri": "Azure-WAF/0015/150000194", 
+  "Control Name": "2.16.8 Calculated target data sizes and associated growth rates per scenario and component.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Scale limits and recovery options should be assessed in the context of target data sizes and growth rates to ensure suitable capacity exists.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.8 Calculated target data sizes and associated growth rates per scenario and component.", 
+    "Description": "Scale limits and recovery options should be assessed in the context of target data sizes and growth rates to ensure suitable capacity exists."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

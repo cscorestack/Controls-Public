@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000286", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000286", 
+  "Control Name": "WATER DAMAGE PROTECTION | AUTOMATION SUPPORT", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization employs automated mechanisms to detect the presence of water in the vicinity of the information system and alerts [Assignment: organization-defined personnel or roles].Supplemental Guidance:  Automated mechanisms can include, for example, water detection sensors, alarms, and notification systems.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization employs automated mechanisms to detect the presence of water in the vicinity of the information system and alerts [Assignment: organization-defined personnel or roles].Supplemental Guidance:  Automated mechanisms can include, for example, water detection sensors, alarms, and notification systems.", 
+    "SelectionParam": "PE-15 (1) [service provider building maintenance/physical security personnel]", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-15 (01)", 
+    "CNTL NO": "PE-15 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "WATER DAMAGE PROTECTION | AUTOMATION SUPPORT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

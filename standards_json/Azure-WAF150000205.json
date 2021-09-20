@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000205", 
+  "compliance_control_uri": "Azure-WAF/0015/150000205", 
+  "Control Name": "2.17.5 Critical system flows through the application have been defined for all key business scenarios.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Understanding critical system flows is vital to assessing overall operational effectiveness, and should be used to inform a health model for the application. It can also tell if areas of the application are over or under utilized and should be adjusted to better meet business needs and cost goals.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.5 Critical system flows through the application have been defined for all key business scenarios.", 
+    "Description": "Understanding critical system flows is vital to assessing overall operational effectiveness, and should be used to inform a health model for the application. It can also tell if areas of the application are over or under utilized and should be adjusted to better meet business needs and cost goals."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

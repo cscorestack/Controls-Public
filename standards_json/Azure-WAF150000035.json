@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000035", 
+  "compliance_control_uri": "Azure-WAF/0015/150000035", 
+  "Control Name": "1.5.3 The workload is designed to scale independently.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "If the workload contains multiple components and one component requires scale, this triggers scale-out/up of the entire infrastructure. It needs to be evaluated if the application scale is monolithic or each component is scaled independently and for example how the database scales with the rest of the workload.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.3 The workload is designed to scale independently.", 
+    "Description": "If the workload contains multiple components and one component requires scale, this triggers scale-out/up of the entire infrastructure. It needs to be evaluated if the application scale is monolithic or each component is scaled independently and for example how the database scales with the rest of the workload."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

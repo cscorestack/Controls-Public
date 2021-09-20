@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000329", 
+  "compliance_control_uri": "Azure-WAF/0015/150000329", 
+  "Control Name": "4.5.5 Application platform components are deployed across Availability Zones or Availability Sets.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application deployed across AZs or ASs?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.5 Application platform components are deployed across Availability Zones or Availability Sets.", 
+    "Description": "Is the application deployed across AZs or ASs?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

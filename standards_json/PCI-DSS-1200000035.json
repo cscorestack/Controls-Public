@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000035", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000035", 
+  "Control Name": "3.1 Keep cardholder data storage to a minimum by implementing data retention and disposal policies, procedures and processes", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.1 Keep cardholder data storage to a minimum by implementing data retention and disposal policies, procedures and processes", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

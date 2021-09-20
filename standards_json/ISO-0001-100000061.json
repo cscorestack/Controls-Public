@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000061", 
+  "compliance_control_uri": "ISO/0001/100000037", 
+  "Control Name": "12.2.1 Controls against malware", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Detection, prevention, and recovery controls to protect against malicious code and appropriate user awareness procedures shall be implemented", 
+  "control_attributes": {
+    "Control_Objective": "12.2.1 Controls against malware", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.2 Protection from malware", 
+    "description": "Detection, prevention, and recovery controls to protect against malicious code and appropriate user awareness procedures shall be implemented"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

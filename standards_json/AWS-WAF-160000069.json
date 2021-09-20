@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000069",
+  "compliance_control_uri": "AWS-WAF/0016/160000069",
+  "Control Name": "OPS 10.3 Prioritize operational events based on business impact",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Ensure that when multiple events require intervention, those that are most signiﬁcant to the business are addressed ﬁrst. For example, impacts can include loss of life or injury, ﬁnancial loss, or damage to reputation or trust.",
+  "control_attributes": {
+    "Control": "OPS 10.3 Prioritize operational events based on business impact",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_prioritize_events"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

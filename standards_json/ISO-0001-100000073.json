@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000073", 
+  "compliance_control_uri": "ISO/0001/100000048", 
+  "Control Name": "13.1.3 Segregation in networks", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Groups of information services, users, and information systems shall be segregated on networks", 
+  "control_attributes": {
+    "Control_Objective": "13.1.3 Segregation in networks", 
+    "Security_Control_Clause": "13. Communications security", 
+    "Security_Category": "13.1 Network security management", 
+    "description": "Groups of information services, users, and information systems shall be segregated on networks"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

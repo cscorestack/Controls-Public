@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000099",
+  "compliance_control_uri": "SOC2/0017/1700000099",
+  "Control Name": "Considers Entity-Specific Factors—Management considers how the environment, complexity, nature, and scope of its operations, as well as the specific characteristics of its organization, affect the selection and development of control activities.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Entity-Specific Factors—Management considers how the environment, complexity, nature, and scope of its operations, as well as the specific characteristics of its organization, affect the selection and development of control activities.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.1 COSO Principle 10: The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels",
+    "ControlNo": "CC5.1.2",
+    "TrustID": "CC5.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

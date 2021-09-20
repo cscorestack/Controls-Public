@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000032", 
+  "compliance_control_uri": "ISO/0001/100000025", 
+  "Control Name": "9.2.5 Review of user access rights", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Management shall review users' access rights at regular intervals using a formal process", 
+  "control_attributes": {
+    "Control_Objective": "9.2.5 Review of user access rights", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.2 User access management", 
+    "description": "Management shall review users' access rights at regular intervals using a formal process"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

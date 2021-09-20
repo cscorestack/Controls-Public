@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000363", 
+  "compliance_control_uri": "Azure-WAF/0015/150000363", 
+  "Control Name": "4.9.5 Autoscaling is enabled for application components and integrated with Azure Monitor.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is autoscaling enabled and integrated within Azure Monitor?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.5 Autoscaling is enabled for application components and integrated with Azure Monitor.", 
+    "Description": "Is autoscaling enabled and integrated within Azure Monitor?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

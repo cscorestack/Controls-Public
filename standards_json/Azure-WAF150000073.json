@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000073", 
+  "compliance_control_uri": "Azure-WAF/0015/150000073", 
+  "Control Name": "1.9.8 Unused storage resources (e.g. unattached disks, old snapshots) are periodically cleaned up.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Unused storage resources can incur cost and it is a good idea to regularly perform cleanup to reduce spending.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.8 Unused storage resources (e.g. unattached disks, old snapshots) are periodically cleaned up.", 
+    "Description": "Unused storage resources can incur cost and it is a good idea to regularly perform cleanup to reduce spending."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

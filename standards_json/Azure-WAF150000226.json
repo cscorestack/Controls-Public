@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000226", 
+  "compliance_control_uri": "Azure-WAF/0015/150000226", 
+  "Control Name": "3.1.10 Your application is using a micro-service architecture.As compared to a monolithic architecture--an application that is tightly coupled with synchronous communication and often a single datastore--microservices leverage concepts such as asynchronous communication, service discovery, various resiliency strategies, and each service has its own datastore.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "How do you ensure that you have the appropriate amount of compute (and other) underlying resources to ensure customers can access your application.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.10 Your application is using a micro-service architecture.As compared to a monolithic architecture--an application that is tightly coupled with synchronous communication and often a single datastore--microservices leverage concepts such as asynchronous communication, service discovery, various resiliency strategies, and each service has its own datastore.", 
+    "Description": "How do you ensure that you have the appropriate amount of compute (and other) underlying resources to ensure customers can access your application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000032", 
+  "control_attributes": {
+    "Control": "CM-7 LEAST FUNCTIONALITY", 
+    "control_description": "The organization:a. Configures the information system to provide only essential capabilities; andb. Prohibits or restricts the use of the following functions, ports, protocols, and/or services: [Assignment: organization-defined prohibited or restricted functions, ports, protocols, and/or services].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization:a. Configures the information system to provide only essential capabilities; andb. Prohibits or restricts the use of the following functions, ports, protocols, and/or services: [Assignment: organization-defined prohibited or restricted functions, ports, protocols, and/or services].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-7 LEAST FUNCTIONALITY", 
+  "compliance_control_number": "600000032"
+}

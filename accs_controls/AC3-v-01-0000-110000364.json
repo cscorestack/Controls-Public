@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000364",
+  "compliance_control_uri": "AC3-v-01/0000/110000364",
+  "Control Name": "IR-3 INCIDENT RESPONSE TESTING",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results.",
+  "control_attributes": {
+    "Control Name": "IR-3 INCIDENT RESPONSE TESTING",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000414",
+      "Fedramp-Control-Moderate/0010/1000000160",
+      "Fedramp-Control-High/0009/900000215",
+      "HIPAA/0002/200000017",
+      "Azure-WAF/0015/150000449"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

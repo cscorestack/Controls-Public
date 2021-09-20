@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000139", 
+  "control_attributes": {
+    "Control": "AC-3 (5) SECURITY-RELEVANT INFORMATION", 
+    "control_description": "The information system prevents access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces the use of human reviews for [Assignment: organization-defined information flows] under the following conditions: [Assignment: organization-defined conditions]."
+  }, 
+  "Control Statement": "The information system prevents access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-3 (5) SECURITY-RELEVANT INFORMATION", 
+  "compliance_control_number": "600000139"
+}

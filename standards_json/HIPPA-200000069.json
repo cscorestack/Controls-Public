@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000069", 
+  "compliance_control_uri": "HIPAA/0002/200000069", 
+  "Control Name": "Business Associate Contracts or Other Arrangements - 164.314(a)(1)", 
+  "Control Family": "Business Associate Contracts or Other Arrangements", 
+  "Control Statement": "The contract or other arrangement between the covered entity and its business associate required by \\u00a7164.308(b)(3) must meet the requirements of paragraph (a)(2)(i) or (a)(2)(ii) of this section, as applicable.", 
+  "control_attributes": {
+    "Control": "Business Associate Contracts or Other Arrangements - 164.314(a)(1)", 
+    "Security_Category": "Business Associate Contracts or Other Arrangements", 
+    "Control_description": "The contract or other arrangement between the covered entity and its business associate required by \\u00a7164.308(b)(3) must meet the requirements of paragraph (a)(2)(i) or (a)(2)(ii) of this section, as applicable."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

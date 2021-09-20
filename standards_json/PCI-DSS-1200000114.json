@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000114", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000114", 
+  "Control Name": "Using strong cryptography, render all authentication credentials (such as passwords/phrases) unreadable during transmission and storage on all system components.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Using strong cryptography, render all authentication credentials (such as passwords/phrases) unreadable during transmission and storage on all system components.", 
+    "Requirement": "8.2.1.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

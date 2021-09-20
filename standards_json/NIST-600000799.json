@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000799", 
+  "control_attributes": {
+    "Control": "SI-10 (2) REVIEW / RESOLUTION OF ERRORS", 
+    "control_description": "The organization ensures that input validation errors are reviewed and resolved within [Assignment: organization-defined time period].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that input validation errors are reviewed and resolved within [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The organization ensures that input validation errors are reviewed and resolved within [Assignment: organization-defined time period].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-10 (2) REVIEW / RESOLUTION OF ERRORS", 
+  "compliance_control_number": "600000799"
+}

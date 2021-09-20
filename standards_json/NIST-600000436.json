@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000436", 
+  "control_attributes": {
+    "Control": "IR-9 (4) EXPOSURE TO UNAUTHORIZED PERSONNEL", 
+    "control_description": "The organization employs [Assignment: organization-defined security safeguards] for personnel exposed to information not within assigned access authorizations.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system restricts the use of maintenance tools to authorized personnel only."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] for personnel exposed to information not within assigned access authorizations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-9 (4) EXPOSURE TO UNAUTHORIZED PERSONNEL", 
+  "compliance_control_number": "600000436"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000003", 
+  "compliance_control_uri": "CIS-GCP/0014/140000003", 
+  "Control Name": "1.3 Ensure that Security Key Enforcement is enabled for all admin accounts", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Setup Security Key Enforcement for Google Cloud Platform admin accounts.", 
+  "control_attributes": {
+    "Control": "1.3 Ensure that Security Key Enforcement is enabled for all admin accounts", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Setup Security Key Enforcement for Google Cloud Platform admin accounts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

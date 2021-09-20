@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000662", 
+  "control_attributes": {
+    "Control": "SC-5 (3) DETECTION / MONITORING", 
+    "control_description": "The organization: (a) Employs [Assignment: organization-defined monitoring tools] to detect indicators of denial of service attacks against the information system; and(b) Monitors [Assignment: organization-defined information system resources] to determine if sufficient resources exist to prevent effective denial of service attacks", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization prevents the unauthorized exfiltration of information across managed interfaces."
+  }, 
+  "Control Statement": "The organization: (a) Employs [Assignment: organization-defined monitoring tools] to detect indicators of denial of service attacks against the information system; and(b) Monitors [Assignment: organization-defined information system resources] to determine if sufficient resources exist to prevent effective denial of service attacks", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-5 (3) DETECTION / MONITORING", 
+  "compliance_control_number": "600000662"
+}

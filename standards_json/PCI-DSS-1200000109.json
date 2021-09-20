@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000109", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000109", 
+  "Control Name": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows: Manage IDs used by vendors to access, support, or maintain system components via remote access as follows: n- Enabled only during the time period needed and disabled when not in use. n- Monitored when in use.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures Modified", 
+    "Control": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows: Manage IDs used by vendors to access, support, or maintain system components via remote access as follows: n- Enabled only during the time period needed and disabled when not in use. n- Monitored when in use.", 
+    "Requirement": "8.1.5.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

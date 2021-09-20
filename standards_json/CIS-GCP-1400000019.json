@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000019", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000019", 
+  "Control Name": "2.4 Ensure log metric filter and alerts exist for project ownership assignments/changes", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "In order to prevent unnecessary project ownership assignments to users/service-accounts and further misuses of projects and resources, all roles/Owner assignments should be monitored.", 
+  "control_attributes": {
+    "Control": "2.4 Ensure log metric filter and alerts exist for project ownership assignments/changes", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "In order to prevent unnecessary project ownership assignments to users/service-accounts and further misuses of projects and resources, all roles/Owner assignments should be monitored."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

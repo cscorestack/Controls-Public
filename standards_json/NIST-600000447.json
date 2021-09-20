@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000447", 
+  "control_attributes": {
+    "Control": "MA-4 (1) AUDITING AND REVIEW", 
+    "control_description": "The organization:  The organization:(a) Audits nonlocal maintenance and diagnostic sessions [Assignment: organization-defined audit events]; and(b) Reviews the records of the maintenance and diagnostic sessions.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that personnel performing maintenance and diagnostic activities on an information system processing, storing, or transmitting classified information possess security clearances and formal access approvals for at least the highest classification level and for all compartments of information on the system."
+  }, 
+  "Control Statement": "The organization:  The organization:(a) Audits nonlocal maintenance and diagnostic sessions [Assignment: organization-defined audit events]; and(b) Reviews the records of the maintenance and diagnostic sessions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 (1) AUDITING AND REVIEW", 
+  "compliance_control_number": "600000447"
+}

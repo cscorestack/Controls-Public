@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000003", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000003", 
+  "Control Name": "ACCOUNT MANAGEMENT | AUTOMATED SYSTEM ACCOUNT MANAGEMENT", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization employs automated mechanisms to support the management of information system accounts.Supplemental Guidance: The use of automated mechanisms can include, for example: using email or text messaging to automatically notify account managers when users are terminated or transferred; using the information system to monitor account usage; and using telephonic notification to report atypical system account usage.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization employs automated mechanisms to support the management of information system accounts.Supplemental Guidance: The use of automated mechanisms can include, for example: using email or text messaging to automatically notify account managers when users are terminated or transferred; using the information system to monitor account usage; and using telephonic notification to report atypical system account usage.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-02 (01)", 
+    "CNTL NO": "AC-2 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCOUNT MANAGEMENT | AUTOMATED SYSTEM ACCOUNT MANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

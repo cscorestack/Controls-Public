@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000220", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000220", 
+  "Control Name": "INCIDENT HANDLING | CONTINUITY OF OPERATIONS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization identifies [Assignment: organization-defined classes of incidents] and [Assignment: organization-defined actions to take in response to classes of incidents] to ensure continuation of organizational missions and business functions.Supplemental Guidance:  Classes of incidents include, for example, malfunctions due to design/implementation errors and omissions, targeted malicious attacks, and untargeted malicious attacks. Appropriate incident response actions include, for example, graceful degradation, information system shutdown, fall back to manual mode/alternative technology whereby the system operates differently, employing deceptive measures, alternate information flows, or operating in a mode that is reserved solely for when systems are under attack.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization identifies [Assignment: organization-defined classes of incidents] and [Assignment: organization-defined actions to take in response to classes of incidents] to ensure continuation of organizational missions and business functions.Supplemental Guidance:  Classes of incidents include, for example, malfunctions due to design/implementation errors and omissions, targeted malicious attacks, and untargeted malicious attacks. Appropriate incident response actions include, for example, graceful degradation, information system shutdown, fall back to manual mode/alternative technology whereby the system operates differently, employing deceptive measures, alternate information flows, or operating in a mode that is reserved solely for when systems are under attack.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-04 (03)", 
+    "CNTL NO": "IR-4 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT HANDLING | CONTINUITY OF OPERATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

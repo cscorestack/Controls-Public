@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000018",
+  "compliance_control_uri": "AWS-WAF/0016/160000018",
+  "Control Name": "OPS 3.4 Communications are timely, clear, and actionable",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Mechanisms exist and are used to provide timely notice to team members of known risks and planned events. Necessary context, details, and time (when possible) are provided to support determining if action is necessary, what action is required, and to take action in a timely manner. For example, providing notice of software vulnerabilities so that patching can be expedited, or providing notice of planned sales promotions so that a change freeze can be implemented to avoid the risk of service disruption.",
+  "control_attributes": {
+    "Control": "OPS 3.4 Communications are timely, clear, and actionable",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_effective_comms"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

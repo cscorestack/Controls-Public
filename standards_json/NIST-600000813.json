@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000813", 
+  "control_attributes": {
+    "Control": "PM-3 INFORMATION SECURITY RESOURCES", 
+    "control_description": "The organization: a. Ensures that all capital planning and investment requests include the resources needed to implement the information security program and documents all exceptions to this requirement;b. Employs a business case/Exhibit 300/Exhibit 53 to record the resources required; andc. Ensures that information security resources are available for expenditure as planned.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization appoints a senior information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program."
+  }, 
+  "Control Statement": "The organization: a. Ensures that all capital planning and investment requests include the resources needed to implement the information security program and documents all exceptions to this requirement;b. Employs a business case/Exhibit 300/Exhibit 53 to record the resources required; andc. Ensures that information security resources are available for expenditure as planned.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-3 INFORMATION SECURITY RESOURCES", 
+  "compliance_control_number": "600000813"
+}

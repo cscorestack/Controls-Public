@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000500", 
+  "compliance_control_uri": "Azure-WAF/0015/150000500", 
+  "Control Name": "5.13.6 Conditional access policies are implemented for users of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Modern cloud-based applications are often accessible over the internet and location-based networking restrictions don't make much sense, but it needs to be mapped and understood what kind of restrictions are required. Multi-factor Authentication (MFA) is a necessity for remote access, IP-based filtering can be used to enable ad-hoc debugging, but VPNs are preferred.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.6 Conditional access policies are implemented for users of this workload.", 
+    "Description": "Modern cloud-based applications are often accessible over the internet and location-based networking restrictions don't make much sense, but it needs to be mapped and understood what kind of restrictions are required. Multi-factor Authentication (MFA) is a necessity for remote access, IP-based filtering can be used to enable ad-hoc debugging, but VPNs are preferred."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

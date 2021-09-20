@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000045", 
+  "compliance_control_uri": "CIS-Azure/0015/150000045", 
+  "Control Name": "3.7 Ensure 'Trusted Microsoft Services' is enabled for Storage Account access", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Some Microsoft services that interact with storage accounts operate from networks that can't be granted access through network rules. To help this type of service work as intended, allow the set of trusted Microsoft services to bypass the network rules. These services will then use strong authentication to access the storage account.", 
+  "control_attributes": {
+    "Control": "3.7 Ensure 'Trusted Microsoft Services' is enabled for Storage Account access", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Some Microsoft services that interact with storage accounts operate from networks that can't be granted access through network rules. To help this type of service work as intended, allow the set of trusted Microsoft services to bypass the network rules. These services will then use strong authentication to access the storage account."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

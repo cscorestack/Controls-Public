@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000202",
+  "compliance_control_uri": "SOC2/0017/1700000202",
+  "Control Name": "Establishes Exception Handling Procedures From Vendors and Business Partners —The entity establishes exception handling procedures for service or product issues related to vendors and business partners. ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Establishes Exception Handling Procedures From Vendors and Business Partners —The entity establishes exception handling procedures for service or product issues related to vendors and business partners. ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.5",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

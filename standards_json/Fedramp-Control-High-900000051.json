@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000051", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000051", 
+  "Control Name": "USE OF EXTERNAL INFORMATION SYSTEMS | LIMITS ON AUTHORIZED USE", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization permits authorized individuals to use an external information system to access the information system or to process, store, or transmit organization-controlled information only when the organization: (a)   Verifies the implementation of required security controls on the external system as specified in the organization\u00e2\u20ac\u2122s information security policy and security plan; or (b)   Retains approved information system connection or processing agreements with the organizational entity hosting the external information system.Supplemental Guidance:  This control enhancement recognizes that there are circumstances where individuals using external information systems (e.g., contractors, coalition partners) need to access organizational information systems. In those situations, organizations need confidence that the external information systems contain the necessary security safeguards (i.e., security controls), so as not to compromise, damage, or otherwise harm organizational information systems. Verification that the required security controls have been implemented can be achieved, for example, by third-party, independent assessments, attestations, or other means, depending on the confidence level required by organizations. Related control: CA-2.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization permits authorized individuals to use an external information system to access the information system or to process, store, or transmit organization-controlled information only when the organization: (a)   Verifies the implementation of required security controls on the external system as specified in the organization\u00e2\u20ac\u2122s information security policy and security plan; or (b)   Retains approved information system connection or processing agreements with the organizational entity hosting the external information system.Supplemental Guidance:  This control enhancement recognizes that there are circumstances where individuals using external information systems (e.g., contractors, coalition partners) need to access organizational information systems. In those situations, organizations need confidence that the external information systems contain the necessary security safeguards (i.e., security controls), so as not to compromise, damage, or otherwise harm organizational information systems. Verification that the required security controls have been implemented can be achieved, for example, by third-party, independent assessments, attestations, or other means, depending on the confidence level required by organizations. Related control: CA-2.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-20 (01)", 
+    "CNTL NO": "AC-20 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "USE OF EXTERNAL INFORMATION SYSTEMS | LIMITS ON AUTHORIZED USE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

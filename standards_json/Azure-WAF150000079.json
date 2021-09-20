@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000079", 
+  "compliance_control_uri": "Azure-WAF/0015/150000079", 
+  "Control Name": "2.1.5 You understand how the choices and desired configuration of Azure services are managed.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Many customers govern service configuration through a catalogue of allowed services that developers and application owners must pick from.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.1 Have you identified and planned out the roles and responsibilities to ensure your workload follows operational excellence best practices?", 
+    "Control": "2.1.5 You understand how the choices and desired configuration of Azure services are managed.", 
+    "Description": "Many customers govern service configuration through a catalogue of allowed services that developers and application owners must pick from."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

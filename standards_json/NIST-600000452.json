@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000452", 
+  "control_attributes": {
+    "Control": "MA-4 (7) REMOTE DISCONNECT VERIFICATION", 
+    "control_description": "The information system implements remote disconnect verification at the termination of nonlocal maintenance and diagnostic sessions.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization performs predictive maintenance on [Assignment: organization-defined information system components] at [Assignment: organization-defined time intervals]."
+  }, 
+  "Control Statement": "The information system implements remote disconnect verification at the termination of nonlocal maintenance and diagnostic sessions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 (7) REMOTE DISCONNECT VERIFICATION", 
+  "compliance_control_number": "600000452"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000290", 
+  "control_attributes": {
+    "Control": "CM-4 (1) SEPARATE TEST ENVIRONMENTS", 
+    "control_description": "The organization analyzes changes to the information system in a separate test environment before implementation in an operational environment, looking for security impacts due to flaws, weaknesses, incompatibility, or intentional malice.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization analyzes changes to the information system in a separate test environment before implementation in an operational environment, looking for security impacts due to flaws, weaknesses, incompatibility, or intentional malice.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-4 (1) SEPARATE TEST ENVIRONMENTS", 
+  "compliance_control_number": "600000290"
+}

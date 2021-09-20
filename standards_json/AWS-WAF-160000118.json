@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000118",
+  "compliance_control_uri": "AWS-WAF/0016/160000118",
+  "Control Name": "SEC 6.6 Validate software integrity",
+  "Control Family": "Security",
+  "Control Statement": "Implement mechanisms (for example, code signing) to validate that the software, code, and libraries used in the workload are from trusted sources and have not been tampered with.",
+  "control_attributes": {
+    "Control": "SEC 6.6 Validate software integrity",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_validate_software_integrity"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

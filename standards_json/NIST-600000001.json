@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000001", 
+  "control_attributes": {
+    "Control": "AC2 (3) DISABLE INACTIVE ACCOUNTS", 
+    "control_description": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC2 (3) DISABLE INACTIVE ACCOUNTS", 
+  "compliance_control_number": "600000001"
+}

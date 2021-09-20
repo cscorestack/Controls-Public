@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000014", 
+  "compliance_control_uri": "CIS-Azure/0015/150000014", 
+  "Control Name": "1.14 Ensure that 'Guests can invite' is set to 'No'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Restrict guest being able to invite other guests to collaborate with your organization.", 
+  "control_attributes": {
+    "Control": "1.14 Ensure that 'Guests can invite' is set to 'No'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Restrict guest being able to invite other guests to collaborate with your organization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

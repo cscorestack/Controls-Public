@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000092", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000092", 
+  "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | AUTOMATED ACCESS ENFORCEMENT / AUDITING", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The information system enforces access restrictions and supports auditing of the enforcement actions.Supplemental Guidance:  Related controls: AU-2, AU-12, AU-6, CM-3, CM-6.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The information system enforces access restrictions and supports auditing of the enforcement actions.Supplemental Guidance:  Related controls: AU-2, AU-12, AU-6, CM-3, CM-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-05 (01)", 
+    "CNTL NO": "CM-5 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | AUTOMATED ACCESS ENFORCEMENT / AUDITING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

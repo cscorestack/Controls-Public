@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000069", 
+  "compliance_control_uri": "CIS-Azure/0003/300000069", 
+  "Control Name": "3.3. Ensure Storage logging is enabled for Queue service for read", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "Storage Analytics logs contain detailed information about successful and failed requests to a storage service. This information can be used to monitor individual requests and to diagnose issues with a storage service.", 
+  "control_attributes": {
+    "Control": "3.3. Ensure Storage logging is enabled for Queue service for read", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "Storage Analytics logs contain detailed information about successful and failed requests to a storage service. This information can be used to monitor individual requests and to diagnose issues with a storage service."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

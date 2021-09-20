@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000263",
+  "compliance_control_uri": "SOC2/0017/1700000263",
+  "Control Name": "Destroys Personal Information—Policies and procedures are implemented to erase or otherwise destroy personal information that has been identified for destruction.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Destroys Personal Information—Policies and procedures are implemented to erase or otherwise destroy personal information that has been identified for destruction.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P4.3 The entity securely disposes of personal information to meet the entity’s objectives related to privacy",
+    "ControlNo": "P4.3.3",
+    "TrustID": "P4.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

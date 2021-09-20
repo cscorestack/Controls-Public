@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000282",
+  "compliance_control_uri": "AWS-WAF/0016/160000282",
+  "Control Name": "COST 8.1 Perform data transfer modeling",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Gather organization requirements and perform data transfer modeling of the workload and each of its components. This identiﬁes the lowest cost point for its current data transfer requirements.",
+  "control_attributes": {
+    "Control": "COST 8.1 Perform data transfer modeling",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you plan for data transfer charges?",
+    "question_id": "data-transfer",
+    "choice_id": "cost_data_transfer_modeling"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

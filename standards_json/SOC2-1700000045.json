@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000045",
+  "compliance_control_uri": "SOC2/0017/1700000045",
+  "Control Name": "Provides Separate Communication Lines—Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Provides Separate Communication Lines—Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.4",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

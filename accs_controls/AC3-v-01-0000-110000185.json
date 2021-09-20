@@ -1,0 +1,123 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000185",
+  "compliance_control_uri": "AC3-v-01/0000/110000185",
+  "Control Name": "CA-2 SECURITY ASSESSMENTS",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization:a. Develops a security assessment plan that describes the scope of the assessment including:1. Security controls and control enhancements under assessment;2. Assessment procedures to be used to determine security control effectiveness; and3. Assessment environment, assessment team, and assessment roles and responsibilities;b. Assesses the security controls in the information system and its environment of operation [Assignment: organization-defined frequency] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;c. Produces a security assessment report that documents the results of the assessment; andd. Provides the results of the security control assessment to [Assignment: organization-defined individuals or roles].",
+  "control_attributes": {
+    "Control Name": "CA-2 SECURITY ASSESSMENTS",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization:a. Develops a security assessment plan that describes the scope of the assessment including:1. Security controls and control enhancements under assessment;2. Assessment procedures to be used to determine security control effectiveness; and3. Assessment environment, assessment team, and assessment roles and responsibilities;b. Assesses the security controls in the information system and its environment of operation [Assignment: organization-defined frequency] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;c. Produces a security assessment report that documents the results of the assessment; andd. Provides the results of the security control assessment to [Assignment: organization-defined individuals or roles]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000063",
+      "ISO/0001/100000089",
+      "ISO/0001/100000090",
+      "NIST-SP800-53/0006/600000021",
+      "ISO-27001/0011/1100000088",
+      "ISO-27001/0011/1100000113",
+      "ISO-27001/0011/1100000114",
+      "Fedramp-Control-Moderate/0010/1000000069",
+      "Fedramp-Control-High/0009/900000094",
+      "HIPAA/0002/200000053",
+      "PCI-DSS/0012/1200000068",
+      "PCI-DSS/0012/1200000069",
+      "SOC2/0017/1700000089"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ryutr",
+        "policy_id": "5ddbbd0a4a5ab775f11c7ecf",
+        "policy_name": "Azure_Audit_SQL_Managed_Instance_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xwysa",
+        "policy_id": "5d11d0644fda08405e94f10d",
+        "policy_name": "Azure_Audit_SQL_Servers_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/nk46s",
+        "policy_id": "5d11d0474fda08405e94f0f1",
+        "policy_name": "Azure_Monitor_OS_vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/sn4yt",
+        "policy_id": "5d11d02b4fda08405e94f0e3",
+        "policy_name": "Azure_Monitor_SQL_Vuln_Assessment_Results",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/velo4",
+        "policy_id": "5ddbbd024a5ab775f11c7eb6",
+        "policy_name": "Azure_Audit_OS_Vulnerabilities_in_Virtual_Machine_Scale_Set",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/izhd6",
+        "policy_id": "5d11d04f4fda08405e94f0f9",
+        "policy_name": "Azure_Monitor_VM_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/aicn",
+        "policy_name": "GCP_Audit_For_Library_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/kjcn",
+        "policy_name": "GCP_Audit_XSS_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/kpan",
+        "policy_name": "GCP_Monitor_XSS_Angular_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/loginv",
+        "policy_name": "GCP_Audit_Instance_OS_Login_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_VM_In_Inspector",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/kjo4s",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

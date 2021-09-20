@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000181",
+  "compliance_control_uri": "AWS-WAF/0016/160000181",
+  "Control Name": "REL 9.2 Secure and encrypt backups",
+  "Control Family": "Reliability",
+  "Control Statement": "Detect access using authentication and authorization, such as AWS IAM, and detect data integrity compromise by using encryption.",
+  "control_attributes": {
+    "Control": "REL 9.2 Secure and encrypt backups",
+    "Category": "Reliability",
+    "Subcategory": "How do you back up data?",
+    "question_id": "backing-up-data",
+    "choice_id": "rel_backing_up_data_secured_backups_data"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

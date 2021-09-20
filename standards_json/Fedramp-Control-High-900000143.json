@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000143", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000143", 
+  "Control Name": "USER-INSTALLED SOFTWARE", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization: a. Establishes [Assignment: organization-defined policies] governing the installation of software by users; b. Enforces software installation policies through [Assignment: organization-defined methods]; and c. Monitors policy compliance at [Assignment: organization-defined frequency].Supplemental Guidance:  If provided the necessary privileges, users have the ability to install software in organizational information systems. To maintain control over the types of software installed, organizations identify permitted and prohibited actions regarding software installation. Permitted software installations may include, for example, updates and security patches to existing software and downloading applications from organization-approved \u00e2\u20ac\u0153app stores.\u00e2\u20ac\u009d Prohibited software installations may include, for example, software with unknown or suspect pedigrees or software that organizations consider potentially malicious. The policies organizations select governing user-installed software may be organization-developed or provided by some external entity. Policy enforcement methods include procedural methods (e.g., periodic examination of user accounts), automated methods (e.g., configuration settings implemented on organizational information systems), or both. Related controls: AC-3, CM-2, CM-3, CM-5, CM-6, CM-7, PL-4.References: None.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization: a. Establishes [Assignment: organization-defined policies] governing the installation of software by users; b. Enforces software installation policies through [Assignment: organization-defined methods]; and c. Monitors policy compliance at [Assignment: organization-defined frequency].Supplemental Guidance:  If provided the necessary privileges, users have the ability to install software in organizational information systems. To maintain control over the types of software installed, organizations identify permitted and prohibited actions regarding software installation. Permitted software installations may include, for example, updates and security patches to existing software and downloading applications from organization-approved \u00e2\u20ac\u0153app stores.\u00e2\u20ac\u009d Prohibited software installations may include, for example, software with unknown or suspect pedigrees or software that organizations consider potentially malicious. The policies organizations select governing user-installed software may be organization-developed or provided by some external entity. Policy enforcement methods include procedural methods (e.g., periodic examination of user accounts), automated methods (e.g., configuration settings implemented on organizational information systems), or both. Related controls: AC-3, CM-2, CM-3, CM-5, CM-6, CM-7, PL-4.References: None.", 
+    "SelectionParam": "CM-11 (c) [Continuously (via CM-7 (5))]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-11", 
+    "CNTL NO": "CM-11", 
+    "AdditionalReq": " ", 
+    "Control Name": "USER-INSTALLED SOFTWARE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

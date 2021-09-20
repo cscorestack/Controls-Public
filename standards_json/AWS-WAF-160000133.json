@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000133",
+  "compliance_control_uri": "AWS-WAF/0016/160000133",
+  "Control Name": "SEC 10.2 Develop incident management plans",
+  "Control Family": "Security",
+  "Control Statement": "Create plans to help you respond to, communicate during, and recover from an incident. For example, you can start an incident response plan with the most likely scenarios for your workload and organization. Include how you would communicate and escalate both internally and externally.",
+  "control_attributes": {
+    "Control": "SEC 10.2 Develop incident management plans",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_develop_management_plans"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

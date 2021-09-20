@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000103", 
+  "compliance_control_uri": "CIS-Azure/0003/300000103", 
+  "Control Name": "7.4. Ensure that only approved extensions are installed ", 
+  "Control Family": "7. Virtual Machines", 
+  "Control Statement": "Azure virtual machine extensions are small applications that provide post-deployment configuration and automation tasks on Azure virtual machines. These extensions run with administrative privileges and could potentially access anything on a virtual machine. The Azure Portal and community provide several such extensions. Each organization should carefully evaluate these extensions and ensure that only those that are approved for use are actually implemented.", 
+  "control_attributes": {
+    "Control": "7.4. Ensure that only approved extensions are installed ", 
+    "Control_Clause": "7. Virtual Machines", 
+    "description": "Azure virtual machine extensions are small applications that provide post-deployment configuration and automation tasks on Azure virtual machines. These extensions run with administrative privileges and could potentially access anything on a virtual machine. The Azure Portal and community provide several such extensions. Each organization should carefully evaluate these extensions and ensure that only those that are approved for use are actually implemented."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

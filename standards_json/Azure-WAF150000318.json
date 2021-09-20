@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000318", 
+  "compliance_control_uri": "Azure-WAF/0015/150000318", 
+  "Control Name": "4.4.3 Traffic is routable to the application in the case of a regional failure.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "How is the traffic routed to the application in the case of region outage?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.3 Traffic is routable to the application in the case of a regional failure.", 
+    "Description": "How is the traffic routed to the application in the case of region outage?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

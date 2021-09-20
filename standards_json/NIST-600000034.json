@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000034", 
+  "control_attributes": {
+    "Control": "CM-7 (4) UNAUTHORIZED SOFTWARE / BLACKLISTING", 
+    "control_description": "The organization:(a) Identifies [Assignment: organization-defined software programs not authorized to execute on the information system];(b) Employs an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the information system; and(c) Reviews and updates the list of unauthorized software programs [Assignment: organization-defined frequency].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization:(a) Identifies [Assignment: organization-defined software programs not authorized to execute on the information system];(b) Employs an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the information system; and(c) Reviews and updates the list of unauthorized software programs [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-7 (4) UNAUTHORIZED SOFTWARE / BLACKLISTING", 
+  "compliance_control_number": "600000034"
+}

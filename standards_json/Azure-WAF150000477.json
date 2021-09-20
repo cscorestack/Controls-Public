@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000477", 
+  "compliance_control_uri": "Azure-WAF/0015/150000477", 
+  "Control Name": "5.10.7 Virtual disk files for virtual machines which are associated with this workload are encrypted.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Encrypting the virtual disk files helps prevent attackers from gaining access to the contents of the disk files in the event an attacker is able to download the files and mount the disk files offline on a separate system.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.7 Virtual disk files for virtual machines which are associated with this workload are encrypted.", 
+    "Description": "Encrypting the virtual disk files helps prevent attackers from gaining access to the contents of the disk files in the event an attacker is able to download the files and mount the disk files offline on a separate system."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

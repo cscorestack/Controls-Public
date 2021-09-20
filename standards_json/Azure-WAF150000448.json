@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000448", 
+  "compliance_control_uri": "Azure-WAF/0015/150000448", 
+  "Control Name": "5.7.4 Operational processes for incident response are defined and tested for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Actions executed during an incident and response investigation could impact application availability or performance. It is recommended to define these processes and align them with the responsible (and in most cases central) SecOps team. The impact of such an investigation on the application has to be analyzed.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.4 Operational processes for incident response are defined and tested for this workload.", 
+    "Description": "Actions executed during an incident and response investigation could impact application availability or performance. It is recommended to define these processes and align them with the responsible (and in most cases central) SecOps team. The impact of such an investigation on the application has to be analyzed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000100", 
+  "control_attributes": {
+    "Control": "CP-9 INFORMATION SYSTEM BACKUP", 
+    "control_description": "The organization: a. Conducts backups of user-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];b. Conducts backups of system-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];c. Conducts backups of information system documentation including security-related documentation [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]; and  d. Protects the confidentiality, integrity, and availability of backup information at storage locations", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system isolates security functions from nonsecurity functions."
+  }, 
+  "Control Statement": "The organization: a. Conducts backups of user-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];b. Conducts backups of system-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];c. Conducts backups of information system documentation including security-related documentation [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]; and  d. Protects the confidentiality, integrity, and availability of backup information at storage locations", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 INFORMATION SYSTEM BACKUP", 
+  "compliance_control_number": "600000100"
+}

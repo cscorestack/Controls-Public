@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000007", 
+  "compliance_control_uri": "CIS-AWS/0007/700000007", 
+  "Control Name": "1.7 Eliminate use of the root user for administrative and daily tasks", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "With the creation of an AWS account, a root user is created that cannot be disabled or deleted. That user has unrestricted access to and control over all resources in the AWS account. It is highly recommended that the use of this account be avoided for everyday tasks.", 
+  "control_attributes": {
+    "Control": "1.7 Eliminate use of the root user for administrative and daily tasks", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "With the creation of an AWS account, a root user is created that cannot be disabled or deleted. That user has unrestricted access to and control over all resources in the AWS account. It is highly recommended that the use of this account be avoided for everyday tasks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

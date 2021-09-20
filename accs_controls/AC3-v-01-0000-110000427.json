@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000427",
+  "compliance_control_uri": "AC3-v-01/0000/110000427",
+  "Control Name": "MP-6 (3) NONDESTRUCTIVE TECHNIQUES",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The organization applies nondestructive sanitization techniques to portable storage devices prior to connecting such devices to the information system under the following circumstances: [Assignment: organization-defined circumstances requiring sanitization of portable storage devices].",
+  "control_attributes": {
+    "Control Name": "MP-6 (3) NONDESTRUCTIVE TECHNIQUES",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The organization applies nondestructive sanitization techniques to portable storage devices prior to connecting such devices to the information system under the following circumstances: [Assignment: organization-defined circumstances requiring sanitization of portable storage devices]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000472",
+      "Fedramp-Control-High/0009/900000260"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

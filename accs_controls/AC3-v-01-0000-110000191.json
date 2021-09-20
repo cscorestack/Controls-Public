@@ -1,0 +1,117 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000191",
+  "compliance_control_uri": "AC3-v-01/0000/110000191",
+  "Control Name": "CA-3 SYSTEM INTERCONNECTIONS",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization: a. Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;b. Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; andc. Reviews and updates Interconnection Security Agreements [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "CA-3 SYSTEM INTERCONNECTIONS",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization: a. Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;b. Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; andc. Reviews and updates Interconnection Security Agreements [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Interfaces"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000050",
+      "ISO/0001/100000049",
+      "ISO/0001/100000047",
+      "NIST-SP800-53/0006/600000118",
+      "ISO-27001/0011/1100000072",
+      "ISO-27001/0011/1100000074",
+      "ISO-27001/0011/1100000075",
+      "Fedramp-Control-Moderate/0010/1000000073",
+      "Fedramp-Control-High/0009/900000098",
+      "HIPAA/0002/200000054",
+      "HIPAA/0002/200000034",
+      "HIPAA/0002/200000073"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vl5of",
+        "policy_name": "Azure_Audit_RDP_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/security_group/bmd2t",
+        "policy_name": "Azure_Network_SecurityGroup_Port_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/4ezeo",
+        "policy_name": "Azure_Monitor_Unprotected_Network_pts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9385a",
+        "policy_name": "AWS_Audit_S3_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/82bb0",
+        "policy_name": "AWS_Audit_Identify_Cross-Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/109ef",
+        "policy_name": "AWS_Audit_VPC_Endpoint_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tue23",
+        "policy_name": "Azure_Audit_External_Accounts_with_Write_Permissions_in_a_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ghjd4",
+        "policy_name": "Azure_Audit_External_Accounts_with_Owner_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/fhgck",
+        "policy_name": "Azure_Audit_External_Accounts_with_Read_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

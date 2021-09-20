@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000471", 
+  "control_attributes": {
+    "Control": "MP-6 (2) EQUIPMENT TESTING", 
+    "control_description": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-6 (2) EQUIPMENT TESTING", 
+  "compliance_control_number": "600000471"
+}

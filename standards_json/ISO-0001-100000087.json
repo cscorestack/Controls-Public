@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000087", 
+  "compliance_control_uri": "ISO/0001/100000062", 
+  "Control Name": "14.2.7 Outsourced development", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Outsourced software development shall be supervised and monitored by the organization", 
+  "control_attributes": {
+    "Control_Objective": "14.2.7 Outsourced development", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Outsourced software development shall be supervised and monitored by the organization"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

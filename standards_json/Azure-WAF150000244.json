@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000244", 
+  "compliance_control_uri": "Azure-WAF/0015/150000244", 
+  "Control Name": "3.4.7 There is a strategy in place to manage events that may cause a spike in load.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Knowing if there will be sudden spikes in traffic (Superbowl, Black Friday, or Marketing pushes) can allow you to prepare your infrastructure ahead of time.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.7 There is a strategy in place to manage events that may cause a spike in load.", 
+    "Description": "Knowing if there will be sudden spikes in traffic (Superbowl, Black Friday, or Marketing pushes) can allow you to prepare your infrastructure ahead of time."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

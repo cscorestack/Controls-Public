@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000100", 
+  "compliance_control_uri": "CIS-Azure/0003/300000100", 
+  "Control Name": "5.2.9 Ensure that Activity Log Alert exists for Update Security Policy (Scored) ", 
+  "Control Family": "5. Logging and Monitoring", 
+  "Control Statement": "Monitoring for Update Security Policy events gives insight into changes to security policy and may reduce the time it takes to detect suspicious activity.", 
+  "control_attributes": {
+    "Control": "5.2.9 Ensure that Activity Log Alert exists for Update Security Policy (Scored) ", 
+    "Control_Clause": "5. Logging and Monitoring", 
+    "description": "Monitoring for Update Security Policy events gives insight into changes to security policy and may reduce the time it takes to detect suspicious activity."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

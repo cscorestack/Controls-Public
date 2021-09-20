@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000432", 
+  "control_attributes": {
+    "Control": "IR-9 INFORMATION SPILLAGE RESPONSE", 
+    "control_description": "The organization responds to information spills by:a. Identifying the specific information involved in the information system contamination;b. Alerting [Assignment: organization-defined personnel or roles] of the information spill using a method of communication not associated with the spill;c. Isolating the contaminated information system or system component;d. Eradicating the information from the contaminated information system or component;e. Identifying other information systems or system components that may have been subsequently contaminated; andf. Performing other [Assignment: organization-defined actions].", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P3", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization approves, controls, and monitors information system maintenance tools."
+  }, 
+  "Control Statement": "The organization responds to information spills by:a. Identifying the specific information involved in the information system contamination;b. Alerting [Assignment: organization-defined personnel or roles] of the information spill using a method of communication not associated with the spill;c. Isolating the contaminated information system or system component;d. Eradicating the information from the contaminated information system or component;e. Identifying other information systems or system components that may have been subsequently contaminated; andf. Performing other [Assignment: organization-defined actions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-9 INFORMATION SPILLAGE RESPONSE", 
+  "compliance_control_number": "600000432"
+}

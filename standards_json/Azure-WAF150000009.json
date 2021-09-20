@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000009", 
+  "compliance_control_uri": "Azure-WAF/0015/150000009", 
+  "Control Name": "1.1.9 Azure Hybrid Use Benefit is used to drive down cost in the cloud.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Understanding your current spending on licenses can help you drive down cost in the cloud. A-HUB allows you to reuse licenses that you purchased for on-premises in Azure and via this drive down the cost as the license is already paid.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.9 Azure Hybrid Use Benefit is used to drive down cost in the cloud.", 
+    "Description": "Understanding your current spending on licenses can help you drive down cost in the cloud. A-HUB allows you to reuse licenses that you purchased for on-premises in Azure and via this drive down the cost as the license is already paid."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000204", 
+  "compliance_control_uri": "Azure-WAF/0015/150000204", 
+  "Control Name": "2.17.4 Performance requirements are well-defined.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Non-functional performance requirements, such as those relating to end-user experiences (e.g. average and maximum response times) are vital to assessing the overall health of an application. From the cost perspective, it's recommended to set a budget for extreme circumstances and indicate upper limit for cost (when it's not worth serving more traffic due to overall costs).", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.4 Performance requirements are well-defined.", 
+    "Description": "Non-functional performance requirements, such as those relating to end-user experiences (e.g. average and maximum response times) are vital to assessing the overall health of an application. From the cost perspective, it's recommended to set a budget for extreme circumstances and indicate upper limit for cost (when it's not worth serving more traffic due to overall costs)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

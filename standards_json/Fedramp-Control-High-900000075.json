@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000075", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000075", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CENTRAL REVIEW AND ANALYSIS", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system provides the capability to centrally review and analyze audit records from multiple components within the system.Supplemental Guidance:  Automated mechanisms for centralized reviews and analyses include, for example, Security Information Management products. Related controls: AU-2, AU-12.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system provides the capability to centrally review and analyze audit records from multiple components within the system.Supplemental Guidance:  Automated mechanisms for centralized reviews and analyses include, for example, Security Information Management products. Related controls: AU-2, AU-12.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AU-06 (04)", 
+    "CNTL NO": "AU-6 (4)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CENTRAL REVIEW AND ANALYSIS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

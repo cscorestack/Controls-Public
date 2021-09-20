@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000636", 
+  "control_attributes": {
+    "Control": "SA-17 (5) CONCEPTUALLY SIMPLE DESIGN", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to:", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization trains [Assignment: organization-defined personnel or roles] to detect counterfeit information system components (including hardware, software, and firmware)."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-17 (5) CONCEPTUALLY SIMPLE DESIGN", 
+  "compliance_control_number": "600000636"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000021", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000021", 
+  "Control Name": "2.6 Ensure that the log metric filter and alerts exist for Custom Role changes", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "It is recommended that a metric filter and alarm be established for changes to Identity and Access Management (IAM) role creation, deletion and updating activities.", 
+  "control_attributes": {
+    "Control": "2.6 Ensure that the log metric filter and alerts exist for Custom Role changes", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "It is recommended that a metric filter and alarm be established for changes to Identity and Access Management (IAM) role creation, deletion and updating activities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

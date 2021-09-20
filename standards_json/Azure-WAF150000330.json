@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000330", 
+  "compliance_control_uri": "Azure-WAF/0015/150000330", 
+  "Control Name": "4.5.6 Leveraged platform services are Availability Zone aware.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the underlying application platform service Availability Zone aware? Platform services that can leverage Availability Zones are deployed in either a zonal manner within a particular zone, and/or in a zone-redundant configuration across multiple zones", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.6 Leveraged platform services are Availability Zone aware.", 
+    "Description": "Is the underlying application platform service Availability Zone aware? Platform services that can leverage Availability Zones are deployed in either a zonal manner within a particular zone, and/or in a zone-redundant configuration across multiple zones"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

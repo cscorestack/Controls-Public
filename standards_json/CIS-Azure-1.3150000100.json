@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000100", 
+  "compliance_control_uri": "CIS-Azure/0015/150000100", 
+  "Control Name": "8.5 Enable role-based access control (RBAC) within Azure Kubernetes Services", 
+  "Control Family": "8 Other Security Considerations", 
+  "Control Statement": "Ensure that RBAC is enabled on all Azure Kubernetes Services Instances", 
+  "control_attributes": {
+    "Control": "8.5 Enable role-based access control (RBAC) within Azure Kubernetes Services", 
+    "Control_Clause": "8 Other Security Considerations", 
+    "description": "Ensure that RBAC is enabled on all Azure Kubernetes Services Instances"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

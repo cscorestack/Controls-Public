@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000013", 
+  "compliance_control_uri": "Azure-WAF/0015/150000013", 
+  "Control Name": "1.2.4 There is a monthly or yearly meeting where the budget is reviewed.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "As Azure changes and new services are introduced, it is recommended that key services are revisited to see if any new services offered in Azure can help drive down cost or if new SKUs can help drive down cost. It's recommended that this is done 1-4 times a year. Revisit key Azure services to see if there were any updates which could reduce spending.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.4 There is a monthly or yearly meeting where the budget is reviewed.", 
+    "Description": "As Azure changes and new services are introduced, it is recommended that key services are revisited to see if any new services offered in Azure can help drive down cost or if new SKUs can help drive down cost. It's recommended that this is done 1-4 times a year. Revisit key Azure services to see if there were any updates which could reduce spending."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

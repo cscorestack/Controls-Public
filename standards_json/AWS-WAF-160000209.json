@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000209",
+  "compliance_control_uri": "AWS-WAF/0016/160000209",
+  "Control Name": "PERF 1.7 Load test your workload",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Deploy your latest workload architecture on the cloud using diﬀerent resource types and sizes. Monitor the deployment to capture performance metrics that identify bottlenecks or excess capacity. Use this performance information to design or improve your architecture and resource selection.",
+  "control_attributes": {
+    "Control": "PERF 1.7 Load test your workload",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_load_test"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

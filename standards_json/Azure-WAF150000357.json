@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000357", 
+  "compliance_control_uri": "Azure-WAF/0015/150000357", 
+  "Control Name": "4.8.6 Zone redundant gateways are used for cross-premises connectivity (ExpressRoute or VPN).", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are ExpressRoute/VPN zone redundant gateways being used?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.6 Zone redundant gateways are used for cross-premises connectivity (ExpressRoute or VPN).", 
+    "Description": "Are ExpressRoute/VPN zone redundant gateways being used?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

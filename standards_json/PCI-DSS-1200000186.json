@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000186", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000186", 
+  "Control Name": "Ensure that security policies and operational procedures for monitoring all access to network resources and cardholder data are documented, in use, and known to all affected parties.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Ensure that security policies and operational procedures for monitoring all access to network resources and cardholder data are documented, in use, and known to all affected parties.", 
+    "Requirement": "10.9. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

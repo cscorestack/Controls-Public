@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000176",
+  "compliance_control_uri": "SOC2/0017/1700000176",
+  "Control Name": "Communicates Information About the Event—Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security events are made to management and others as appropriate (internal and external).   ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates Information About the Event—Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security events are made to management and others as appropriate (internal and external).   ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.5 The entity identifies, develops, and implements activities to recover from identified security incidents.",
+    "ControlNo": "CC7.5.2",
+    "TrustID": "CC7.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

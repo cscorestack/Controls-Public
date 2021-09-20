@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000465", 
+  "compliance_control_uri": "Azure-WAF/0015/150000465", 
+  "Control Name": "5.9.2 There are controls in place to ensure that security extends past the network boundaries of the workload in order to effectively prevent, detect, and respond to threats.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Traditional network controls based on a 'trusted intranet' approach will not be able to effectively provide security assurances for cloud applications.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.2 There are controls in place to ensure that security extends past the network boundaries of the workload in order to effectively prevent, detect, and respond to threats.", 
+    "Description": "Traditional network controls based on a 'trusted intranet' approach will not be able to effectively provide security assurances for cloud applications."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

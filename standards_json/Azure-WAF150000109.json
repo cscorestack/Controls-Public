@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000109", 
+  "compliance_control_uri": "Azure-WAF/0015/150000109", 
+  "Control Name": "2.6.2 Application level events are automatically correlated with resource-level metrics to quantify the current application state", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are application level events automatically correlated with resource level metrics to quantify the current application state?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.6 How do you visualize workload data and then alert relevant teams when issues occur?", 
+    "Control": "2.6.2 Application level events are automatically correlated with resource-level metrics to quantify the current application state", 
+    "Description": "Are application level events automatically correlated with resource level metrics to quantify the current application state?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

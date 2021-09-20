@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000259", 
+  "control_attributes": {
+    "Control": "AU-13 (2) REVIEW OF MONITORED SITES", 
+    "control_description": "The organization reviews the open source information sites being monitored [Assignment: organization-defined frequency].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization prohibits the direct connection of an [Assignment: organization-defined information system] to a public network."
+  }, 
+  "Control Statement": "The organization reviews the open source information sites being monitored [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-13 (2) REVIEW OF MONITORED SITES", 
+  "compliance_control_number": "600000259"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000058", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000058", 
+  "Control Name": "6.11 Ensure that the 'contained database authentication' database flag for Cloud SQL on the SQL Server instance is set to 'off' ", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to set contained database authentication database flag for Cloud SQL on the SQL Server instance is set to off", 
+  "control_attributes": {
+    "Control": "6.11 Ensure that the 'contained database authentication' database flag for Cloud SQL on the SQL Server instance is set to 'off' ", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to set contained database authentication database flag for Cloud SQL on the SQL Server instance is set to off"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

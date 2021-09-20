@@ -1,0 +1,68 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000053",
+  "compliance_control_uri": "AC3-v-01/0000/110000053",
+  "Control Name": "AC-21 (1) AUTOMATED DECISION SUPPORT",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system enforces information-sharing decisions by authorized users based on access authorizations of sharing partners and access restrictions on information to be shared.",
+  "control_attributes": {
+    "Control Name": "AC-21 (1) AUTOMATED DECISION SUPPORT",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system enforces information-sharing decisions by authorized users based on access authorizations of sharing partners and access restrictions on information to be shared."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000217",
+      "CIS-AWS/0007/700000021",
+      "SOC2/0017/1700000119"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Audit_IAM_Access_Analyzer_Findings",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9accc",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

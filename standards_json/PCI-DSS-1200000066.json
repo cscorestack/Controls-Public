@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000066", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000066", 
+  "Control Name": "5.3 Ensure that anti-virus mechanisms are actively running and cannot be disabled or altered by users, unless specifically authorized by management on a case-by-case basis for a limited time period.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "5.3 Ensure that anti-virus mechanisms are actively running and cannot be disabled or altered by users, unless specifically authorized by management on a case-by-case basis for a limited time period.", 
+    "Requirement": "Requirement 5. Protect all systems against malware and regularly update anti-virus software or programs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

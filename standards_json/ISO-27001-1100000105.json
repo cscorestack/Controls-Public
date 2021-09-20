@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000105", 
+  "compliance_control_uri": "ISO-27001/0011/1100000105", 
+  "Control Name": "17.1.3 Verify, review and evaluate information security continuity", 
+  "Control Family": "17. Information security aspects of business continuity management", 
+  "Control Statement": "The information security policy shall be reviewed at planned intervals or if significant changes occur to ensure its continuing suitability, adequacy, and effectiveness", 
+  "control_attributes": {
+    "Clause_Category": "17.1 Information Security Continuity", 
+    "description": "The information security policy shall be reviewed at planned intervals or if significant changes occur to ensure its continuing suitability, adequacy, and effectiveness", 
+    "Control_Title": "17.1.3 Verify, review and evaluate information security continuity", 
+    "Control_Clause": "17. Information security aspects of business continuity management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

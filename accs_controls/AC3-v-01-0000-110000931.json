@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000931",
+  "compliance_control_uri": "AC3-v-01/0000/110000931",
+  "Control Name": "Ensure a log metric filter and alarm exists for AWS Organizations changes",
+  "Control Family": "Logging and Monitoring",
+  "Control Statement": "Ensure a log metric filter and alarm exists for AWS Organizations changes",
+  "control_attributes": {
+    "Control Name": "Ensure a log metric filter and alarm exists for AWS Organizations changes",
+    "Control Family": "Logging and Monitoring",
+    "Control Statement": "Ensure a log metric filter and alarm exists for AWS Organizations changes"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-AWS/0007/700000051"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Audit_AWS_Organizations_Changes_Alarm",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e8f8c",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

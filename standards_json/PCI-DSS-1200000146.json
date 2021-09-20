@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000146", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000146", 
+  "Control Name": "Properly maintain inventory logs of all media and conduct media inventories at least annually.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Properly maintain inventory logs of all media and conduct media inventories at least annually.", 
+    "Requirement": "9.7.1. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

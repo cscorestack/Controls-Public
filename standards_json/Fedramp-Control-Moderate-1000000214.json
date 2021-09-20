@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000214", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000214", 
+  "Control Name": "TEMPERATURE AND HUMIDITY CONTROLS", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization: a. Maintains temperature and humidity levels within the facility where the information system resides at [Assignment: organization-defined acceptable levels]; and b. Monitors temperature and humidity levels [Assignment: organization-defined frequency].Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources, for example, data centers, server rooms, and mainframe computer rooms. Related control: AT-3.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization: a. Maintains temperature and humidity levels within the facility where the information system resides at [Assignment: organization-defined acceptable levels]; and b. Monitors temperature and humidity levels [Assignment: organization-defined frequency].Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources, for example, data centers, server rooms, and mainframe computer rooms. Related control: AT-3.References: None.", 
+    "SelectionParam": "PE-14 (a) [consistent with American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) document entitled Thermal Guidelines for Data Processing Environments]PE-14 (b) [continuously]", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-14", 
+    "CNTL NO": "PE-14", 
+    "AdditionalReq": "PE-14 (a) Requirements:  The service provider measures temperature at server inlets and humidity levels by dew point.", 
+    "Control Name": "TEMPERATURE AND HUMIDITY CONTROLS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000031", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000031", 
+  "Control Name": "3.5 Ensure that RSASHA1 is not used for the zone-signing key in Cloud DNS DNSSEC", 
+  "Control Family": "Networking", 
+  "Control Statement": "DNSSEC algorithm numbers in this registry may be used in CERT RRs. Zone signing (DNSSEC) and transaction security mechanisms (SIG(0) and TSIG) make use of particular subsets of these algorithms. The algorithm used for key signing should be a recommended one and it should be strong.", 
+  "control_attributes": {
+    "Control": "3.5 Ensure that RSASHA1 is not used for the zone-signing key in Cloud DNS DNSSEC", 
+    "Security_Category": "Networking", 
+    "Control_description": "DNSSEC algorithm numbers in this registry may be used in CERT RRs. Zone signing (DNSSEC) and transaction security mechanisms (SIG(0) and TSIG) make use of particular subsets of these algorithms. The algorithm used for key signing should be a recommended one and it should be strong."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

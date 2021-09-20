@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000234", 
+  "compliance_control_uri": "Azure-WAF/0015/150000234", 
+  "Control Name": "3.3.3 Configured scaling policies to use the appropriate metrics.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "By performing load testing you can evaluate the bottlenecks in your workload and then configure your autoscaling rules to trigger off of the metrics related to those bottlenecks.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.3 How are you ensuring that your workload is elastic and responsive to changes?", 
+    "Control": "3.3.3 Configured scaling policies to use the appropriate metrics.", 
+    "Description": "By performing load testing you can evaluate the bottlenecks in your workload and then configure your autoscaling rules to trigger off of the metrics related to those bottlenecks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

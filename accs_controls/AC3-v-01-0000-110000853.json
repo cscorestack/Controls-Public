@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000853",
+  "compliance_control_uri": "AC3-v-01/0000/110000853",
+  "Control Name": "COST 9.3 Supply resources dynamically",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Resources are provisioned in a planned manner. This can be demandbased, such as through automatic scaling, or time-based, where demand is predictable and resources are provided based on time. These methods result in the least amount of over or under provisioning.",
+  "control_attributes": {
+    "Control Name": "COST 9.3 Supply resources dynamically",
+    "Control Family": "Cost Optimization",
+    "Control Statement": "Resources are provisioned in a planned manner. This can be demandbased, such as through automatic scaling, or time-based, where demand is predictable and resources are provided based on time. These methods result in the least amount of over or under provisioning."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Account",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "AWS-WAF/0016/160000287"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

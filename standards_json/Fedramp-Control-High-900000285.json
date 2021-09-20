@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000285", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000285", 
+  "Control Name": "WATER DAMAGE PROTECTION", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization protects the information system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources including, for example, data centers, server rooms, and mainframe computer rooms. Isolation valves can be employed in addition to or in lieu of master shutoff valves to shut off water supplies in specific areas of concern, without affecting entire organizations. Related control: AT-3.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization protects the information system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources including, for example, data centers, server rooms, and mainframe computer rooms. Isolation valves can be employed in addition to or in lieu of master shutoff valves to shut off water supplies in specific areas of concern, without affecting entire organizations. Related control: AT-3.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-15", 
+    "CNTL NO": "PE-15", 
+    "AdditionalReq": " ", 
+    "Control Name": "WATER DAMAGE PROTECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

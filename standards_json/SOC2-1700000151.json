@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000151",
+  "compliance_control_uri": "SOC2/0017/1700000151",
+  "Control Name": "Detects Unknown or Unauthorized Components—Procedures are in place to detect the introduction of unknown or unauthorized components.  ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Detects Unknown or Unauthorized Components—Procedures are in place to detect the introduction of unknown or unauthorized components.  ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.1 To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities.",
+    "ControlNo": "CC7.1.4",
+    "TrustID": "CC7.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

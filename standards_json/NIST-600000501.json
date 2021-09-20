@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000501", 
+  "control_attributes": {
+    "Control": "PE-6 (1) INTRUSION ALARMS / SURVEILLANCE EQUIPMENT", 
+    "control_description": "The organization monitors physical intrusion alarms and surveillance equipment.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs redundant power cabling paths that are physically separated by [Assignment: organization-defined distance]."
+  }, 
+  "Control Statement": "The organization monitors physical intrusion alarms and surveillance equipment.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-6 (1) INTRUSION ALARMS / SURVEILLANCE EQUIPMENT", 
+  "compliance_control_number": "600000501"
+}

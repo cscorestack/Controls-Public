@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000502", 
+  "compliance_control_uri": "Azure-WAF/0015/150000502", 
+  "Control Name": "5.13.8 Current on-premises Active Directory is synchronized with Azure AD or other cloud identity system.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Consistency of identities across cloud and on-premises will reduce human errors and resulting security risk. Teams managing resources in both environments need a consistent authoritative source to achieve security assurances.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.8 Current on-premises Active Directory is synchronized with Azure AD or other cloud identity system.", 
+    "Description": "Consistency of identities across cloud and on-premises will reduce human errors and resulting security risk. Teams managing resources in both environments need a consistent authoritative source to achieve security assurances."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

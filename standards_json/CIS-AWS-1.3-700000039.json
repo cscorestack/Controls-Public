@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000039", 
+  "compliance_control_uri": "CIS-AWS/0007/700000039", 
+  "Control Name": "4.3 Ensure a log metric filter and alarm exist for usage of root account", 
+  "Control Family": "Monitoring", 
+  "Control Statement": "It isrecommended that a metric filter and alarm be established for root login attempts.", 
+  "control_attributes": {
+    "Control": "4.3 Ensure a log metric filter and alarm exist for usage of root account", 
+    "Category": "Monitoring", 
+    "Control_description": "It isrecommended that a metric filter and alarm be established for root login attempts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

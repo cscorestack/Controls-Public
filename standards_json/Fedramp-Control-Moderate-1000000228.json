@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000228", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000228", 
+  "Control Name": "PERSONNEL SCREENING | INFORMATION WITH SPECIAL PROTECTION MEASURES", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection: (a)   Have valid access authorizations that are demonstrated by assigned official government duties; and (b)   Satisfy [Assignment: organization-defined additional personnel screening criteria].Supplemental Guidance:  Organizational information requiring special protection includes, for example, Controlled Unclassified Information (CUI) and Sources and Methods Information (SAMI). Personnel security criteria include, for example, position sensitivity background screening requirements.", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection: (a)   Have valid access authorizations that are demonstrated by assigned official government duties; and (b)   Satisfy [Assignment: organization-defined additional personnel screening criteria].Supplemental Guidance:  Organizational information requiring special protection includes, for example, Controlled Unclassified Information (CUI) and Sources and Methods Information (SAMI). Personnel security criteria include, for example, position sensitivity background screening requirements.", 
+    "SelectionParam": "PS-3 (3) (b) [personnel screening criteria \u00e2\u20ac\u201c as required by specific information]", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-03 (03)", 
+    "CNTL NO": "PS-3 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "PERSONNEL SCREENING | INFORMATION WITH SPECIAL PROTECTION MEASURES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

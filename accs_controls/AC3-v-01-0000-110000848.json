@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000848",
+  "compliance_control_uri": "AC3-v-01/0000/110000848",
+  "Control Name": "COST 7.4 Implement pricing models for all components of this workload",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Permanently running resources should utilize reserved capacity such as Savings Plans or reserved Instances. Short term capacity is conﬁgured to use Spot Instances, or Spot Fleet. On demand is only used for short-term workloads that cannot be interrupted and do not run long enough for reserved capacity, between 25% to 75% of the period, depending on the resource type.",
+  "control_attributes": {
+    "Control Name": "COST 7.4 Implement pricing models for all components of this workload",
+    "Control Family": "Cost Optimization",
+    "Control Statement": "Permanently running resources should utilize reserved capacity such as Savings Plans or reserved Instances. Short term capacity is conﬁgured to use Spot Instances, or Spot Fleet. On demand is only used for short-term workloads that cannot be interrupted and do not run long enough for reserved capacity, between 25% to 75% of the period, depending on the resource type."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Account",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "AWS-WAF/0016/160000280"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000758",
+  "compliance_control_uri": "AC3-v-01/0000/110000758",
+  "Control Name": "SI-13 PREDICTABLE FAILURE PREVENTION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization:a. Determines mean time to failure (MTTF) for [Assignment: organization-defined information system components] in specific environments of operation; andb. Provides substitute information system components and a means to exchange active and standby components at [Assignment: organization-defined MTTF substitution criteria].",
+  "control_attributes": {
+    "Control Name": "SI-13 PREDICTABLE FAILURE PREVENTION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization:a. Determines mean time to failure (MTTF) for [Assignment: organization-defined information system components] in specific environments of operation; andb. Provides substitute information system components and a means to exchange active and standby components at [Assignment: organization-defined MTTF substitution criteria]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application,Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000107"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

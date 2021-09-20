@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000139", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000139", 
+  "Control Name": "A visitor log is used to maintain a physical audit trail of visitor activity to the facility as well as computer rooms and data centers where cardholder data is stored or transmitted.\\nDocument the visitor\\u2019s name, the firm represented, and the onsite personnel authorizing physical access on the log.\\nRetain this log for a minimum of three months, unless otherwise restricted by law.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "A visitor log is used to maintain a physical audit trail of visitor activity to the facility as well as computer rooms and data centers where cardholder data is stored or transmitted.\\nDocument the visitor\\u2019s name, the firm represented, and the onsite personnel authorizing physical access on the log.\\nRetain this log for a minimum of three months, unless otherwise restricted by law.", 
+    "Requirement": "9.4.4. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

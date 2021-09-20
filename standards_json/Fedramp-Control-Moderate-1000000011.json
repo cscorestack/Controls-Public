@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000011", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000011", 
+  "Control Name": "ACCOUNT MANAGEMENT | ACCOUNT MONITORING / ATYPICAL USAGE", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization: (a) Monitors information system accounts for [Assignment: organization-defined atypical use]; and (b) Reports atypical usage of information system accounts to [Assignment: organization-defined personnel or roles].Supplemental Guidance: Atypical usage includes, for example, accessing information systems at certain times of the day and from locations that are not consistent with the normal usage patterns of individuals working in organizations. Related control: CA-7.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization: (a) Monitors information system accounts for [Assignment: organization-defined atypical use]; and (b) Reports atypical usage of information system accounts to [Assignment: organization-defined personnel or roles].Supplemental Guidance: Atypical usage includes, for example, accessing information systems at certain times of the day and from locations that are not consistent with the normal usage patterns of individuals working in organizations. Related control: CA-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-02 (12)", 
+    "CNTL NO": "AC-2 (12)", 
+    "AdditionalReq": "AC-2 (12)(a) Guidance: Required for privileged accounts.AC-2 (12)(b) Guidance: Required for privileged accounts.", 
+    "Control Name": "ACCOUNT MANAGEMENT | ACCOUNT MONITORING / ATYPICAL USAGE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

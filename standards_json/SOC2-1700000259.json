@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000259",
+  "compliance_control_uri": "SOC2/0017/1700000259",
+  "Control Name": "Retains Personal Information—Personal information is retained for no longer than necessary to fulfill the stated purposes, unless a law or regulation specifically requires otherwise.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Retains Personal Information—Personal information is retained for no longer than necessary to fulfill the stated purposes, unless a law or regulation specifically requires otherwise.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P4.2 The entity retains personal information consistent with the entity’s objectives related to privacy.",
+    "ControlNo": "P4.2.1",
+    "TrustID": "P4.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

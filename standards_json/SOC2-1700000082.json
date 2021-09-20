@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000082",
+  "compliance_control_uri": "SOC2/0017/1700000082",
+  "Control Name": "Assesses Changes in the External Environment—The risk identification process considers changes to the regulatory, economic, and physical environment in which the entity operates.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Changes in the External Environment—The risk identification process considers changes to the regulatory, economic, and physical environment in which the entity operates.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.4 COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control.",
+    "ControlNo": "CC3.4.1",
+    "TrustID": "CC3.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

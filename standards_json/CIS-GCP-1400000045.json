@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000045", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000045", 
+  "Control Name": "4.10 Ensure that App Engine applications enforce HTTPS connections ", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "In order to maintain the highest level of security all connections to an application should be secure by default.", 
+  "control_attributes": {
+    "Control": "4.10 Ensure that App Engine applications enforce HTTPS connections ", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "In order to maintain the highest level of security all connections to an application should be secure by default."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

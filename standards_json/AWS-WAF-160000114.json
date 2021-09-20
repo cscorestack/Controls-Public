@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000114",
+  "compliance_control_uri": "AWS-WAF/0016/160000114",
+  "Control Name": "SEC 6.2 Reduce attack surface",
+  "Control Family": "Security",
+  "Control Statement": "Reduce your attack surface by hardening operating systems, minimizing components, libraries, and externally consumable services in use.",
+  "control_attributes": {
+    "Control": "SEC 6.2 Reduce attack surface",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_reduce_surface"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

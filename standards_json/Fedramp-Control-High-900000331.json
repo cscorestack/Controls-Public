@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000331", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000331", 
+  "Control Name": "EXTERNAL INFORMATION SYSTEMS | IDENTIFICATION OF FUNCTIONS / PORTS / PROTOCOLS / SERVICES", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization requires providers of [Assignment: organization-defined external information system services] to identify the functions, ports, protocols, and other services required for the use of such services.Supplemental Guidance:  Information from external service providers regarding the specific functions, ports, protocols, and services used in the provision of such services can be particularly useful when the need arises to understand the trade-offs involved in restricting certain functions/services or blocking certain ports/protocols. Related control: CM-7.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization requires providers of [Assignment: organization-defined external information system services] to identify the functions, ports, protocols, and other services required for the use of such services.Supplemental Guidance:  Information from external service providers regarding the specific functions, ports, protocols, and services used in the provision of such services can be particularly useful when the need arises to understand the trade-offs involved in restricting certain functions/services or blocking certain ports/protocols. Related control: CM-7.", 
+    "SelectionParam": "SA-9 (2) [all external systems where Federal information is processed or stored]", 
+    "FedRampParam": "x", 
+    "SORTID": "SA-09 (02)", 
+    "CNTL NO": "SA-9 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "EXTERNAL INFORMATION SYSTEMS | IDENTIFICATION OF FUNCTIONS / PORTS / PROTOCOLS / SERVICES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

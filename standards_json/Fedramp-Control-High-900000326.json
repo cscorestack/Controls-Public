@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000326", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000326", 
+  "Control Name": "ACQUISITION PROCESS | USE OF APPROVED PIV PRODUCTS", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization employs only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems.Supplemental Guidance:  Related controls: IA-2; IA-8.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization employs only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems.Supplemental Guidance:  Related controls: IA-2; IA-8.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SA-04 (10)", 
+    "CNTL NO": "SA-4 (10)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACQUISITION PROCESS | USE OF APPROVED PIV PRODUCTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

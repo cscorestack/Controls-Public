@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000197",
+  "compliance_control_uri": "AWS-WAF/0016/160000197",
+  "Control Name": "REL 12.6 Conduct game days regularly",
+  "Control Family": "Reliability",
+  "Control Statement": "Use game days to regularly exercise your failure procedures as close to production as possible (including in production environments) with the people who will be involved  in actual failure scenarios. Game days enforce measures to ensure that production testing does not impact users.",
+  "control_attributes": {
+    "Control": "REL 12.6 Conduct game days regularly",
+    "Category": "Reliability",
+    "Subcategory": "How do you test reliability?",
+    "question_id": "testing-resiliency",
+    "choice_id": "rel_testing_resiliency_game_days_resiliency"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

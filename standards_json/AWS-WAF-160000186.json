@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000186",
+  "compliance_control_uri": "AWS-WAF/0016/160000186",
+  "Control Name": "REL 10.3 Use bulkhead architectures",
+  "Control Family": "Reliability",
+  "Control Statement": "Like the bulkheads on a ship, this pattern ensures that a failure is contained to a small subset of requests/users so the number of impaired requests is limited, and most can continue without error. Bulkheads for data are usually called partitions or shards, while bulkheads for services are known as cells.",
+  "control_attributes": {
+    "Control": "REL 10.3 Use bulkhead architectures",
+    "Category": "Reliability",
+    "Subcategory": "How do you use fault isolation to protect your workload?",
+    "question_id": "fault-isolation",
+    "choice_id": "rel_fault_isolation_use_bulkhead"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

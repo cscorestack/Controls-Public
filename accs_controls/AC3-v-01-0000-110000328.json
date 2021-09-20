@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000328",
+  "compliance_control_uri": "AC3-v-01/0000/110000328",
+  "Control Name": "IA-4 (7) IN-PERSON REGISTRATION",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization requires that the registration process to receive an individual identifier be conducted in person before a designated registration authority.",
+  "control_attributes": {
+    "Control Name": "IA-4 (7) IN-PERSON REGISTRATION",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization requires that the registration process to receive an individual identifier be conducted in person before a designated registration authority."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000381"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000440", 
+  "compliance_control_uri": "Azure-WAF/0015/150000440", 
+  "Control Name": "5.6.5 Identity related risk events related to potentially compromised identities are actively monitored.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Most security incidents take place after an attacker initially gains access using a stolen identity. These identities can often start with low privileges, but attackers then use that identity to traverse laterally and gain access to more privileged identities. This repeats as needed until the attacker controls access to the ultimate target data or systems. Reported risk events for Azure AD can be viewed in Azure AD reporting, or Azure AD Identity Protection. Additionally, the Identity Protection risk events API can be used to programmatically access identity related security detections using Microsoft Graph.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.5 Identity related risk events related to potentially compromised identities are actively monitored.", 
+    "Description": "Most security incidents take place after an attacker initially gains access using a stolen identity. These identities can often start with low privileges, but attackers then use that identity to traverse laterally and gain access to more privileged identities. This repeats as needed until the attacker controls access to the ultimate target data or systems. Reported risk events for Azure AD can be viewed in Azure AD reporting, or Azure AD Identity Protection. Additionally, the Identity Protection risk events API can be used to programmatically access identity related security detections using Microsoft Graph."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

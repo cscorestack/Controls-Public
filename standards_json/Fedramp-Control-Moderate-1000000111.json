@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000111", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000111", 
+  "Control Name": "CONTINGENCY PLAN | COORDINATE WITH RELATED PLANS", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization coordinates contingency plan development with organizational elements responsible for related plans.Supplemental Guidance:  Plans related to contingency plans for organizational information systems include, for example, Business Continuity Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, Cyber Incident Response Plans, Insider Threat Implementation Plan, and Occupant Emergency Plans.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization coordinates contingency plan development with organizational elements responsible for related plans.Supplemental Guidance:  Plans related to contingency plans for organizational information systems include, for example, Business Continuity Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, Cyber Incident Response Plans, Insider Threat Implementation Plan, and Occupant Emergency Plans.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-02 (01)", 
+    "CNTL NO": "CP-2 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTINGENCY PLAN | COORDINATE WITH RELATED PLANS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000198",
+  "compliance_control_uri": "AWS-WAF/0016/160000198",
+  "Control Name": "REL 13.1 Deﬁne recovery objectives for downtime and data loss",
+  "Control Family": "Reliability",
+  "Control Statement": "The workload has a recovery time objective (RTO) and recovery point objective (RPO).",
+  "control_attributes": {
+    "Control": "REL 13.1 Deﬁne recovery objectives for downtime and data loss",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan for disaster recovery (DR)?",
+    "question_id": "planning-for-recovery",
+    "choice_id": "rel_planning_for_recovery_objective_defined_recovery"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

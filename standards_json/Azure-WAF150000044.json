@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000044", 
+  "compliance_control_uri": "Azure-WAF/0015/150000044", 
+  "Control Name": "1.6.2 There is a difference in configuration for production and non-production environments.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Understand the scope of the solution and distinguish between SKUs used in production and non-production environments. To drive down cost it might be possible to consolidate environments for applications that are not as critical to the business and not needing the same testing.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.6 What considerations for DevOps practices are you making in this workload?", 
+    "Control": "1.6.2 There is a difference in configuration for production and non-production environments.", 
+    "Description": "Understand the scope of the solution and distinguish between SKUs used in production and non-production environments. To drive down cost it might be possible to consolidate environments for applications that are not as critical to the business and not needing the same testing."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

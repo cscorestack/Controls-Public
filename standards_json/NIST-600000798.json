@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000798", 
+  "control_attributes": {
+    "Control": "SI-10 (1) MANUAL OVERRIDE CAPABILITY", 
+    "control_description": "The information system: (a) Provides a manual override capability for input validation of [Assignment: organization-defined inputs];(b) Restricts the use of the manual override capability to only [Assignment: organization-defined authorized individuals]; and(c) Audits the use of the manual override capability.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system: (a) Provides a manual override capability for input validation of [Assignment: organization-defined inputs];(b) Restricts the use of the manual override capability to only [Assignment: organization-defined authorized individuals]; and(c) Audits the use of the manual override capability.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-10 (1) MANUAL OVERRIDE CAPABILITY", 
+  "compliance_control_number": "600000798"
+}

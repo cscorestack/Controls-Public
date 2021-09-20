@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000099",
+  "compliance_control_uri": "AWS-WAF/0016/160000099",
+  "Control Name": "SEC 3.3 Establish emergency access process",
+  "Control Family": "Security",
+  "Control Statement": "A process that allows emergency access to your workload in the unlikely event of an automated process or pipeline issue. This will help you rely on least privilege access, but ensure users can obtain the right level of access when they require it. For example, establish a process for administrators to verify and approve their request.",
+  "control_attributes": {
+    "Control": "SEC 3.3 Establish emergency access process",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_emergency_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

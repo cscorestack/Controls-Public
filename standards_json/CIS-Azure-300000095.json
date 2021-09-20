@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000095", 
+  "compliance_control_uri": "CIS-Azure/0003/300000095", 
+  "Control Name": "5.2.4 Ensure that Activity Log Alert exists for Create or Update Network Security Group Rule (Scored)", 
+  "Control Family": "5. Logging and Monitoring", 
+  "Control Statement": "Monitoring for Create or Update Network Security Group Rule events gives insight into network access changes and may reduce the time it takes to detect suspicious activity.", 
+  "control_attributes": {
+    "Control": "5.2.4 Ensure that Activity Log Alert exists for Create or Update Network Security Group Rule (Scored)", 
+    "Control_Clause": "5. Logging and Monitoring", 
+    "description": "Monitoring for Create or Update Network Security Group Rule events gives insight into network access changes and may reduce the time it takes to detect suspicious activity."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000191",
+  "compliance_control_uri": "SOC2/0017/1700000191",
+  "Control Name": "Identifies Changes in Infrastructure, Data, Software, and Procedures Required to Remediate Incidents—Changes in infrastructure, data, software, and procedures required to remediate incidents to continue to meet objectives are identified, and the change process is initiated upon identification. ",
+  "Control Family": "Change Management",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Identifies Changes in Infrastructure, Data, Software, and Procedures Required to Remediate Incidents—Changes in infrastructure, data, software, and procedures required to remediate incidents to continue to meet objectives are identified, and the change process is initiated upon identification. ",
+    "Category": "Change Management",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC8.1 The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "ControlNo": "CC8.1.11",
+    "TrustID": "CC8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

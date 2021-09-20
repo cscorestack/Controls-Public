@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000470",
+  "compliance_control_uri": "AC3-v-01/0000/110000470",
+  "Control Name": "PE-3 (4) LOCKABLE CASINGS",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization uses lockable physical casings to protect [Assignment: organization-defined information system components] from unauthorized physical access.",
+  "control_attributes": {
+    "Control Name": "PE-3 (4) LOCKABLE CASINGS",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization uses lockable physical casings to protect [Assignment: organization-defined information system components] from unauthorized physical access."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000492",
+      "ISO-27001/0011/1100000042",
+      "ISO-27001/0011/1100000043",
+      "ISO-27001/0011/1100000044",
+      "ISO/0001/100000103",
+      "ISO/0001/100000104",
+      "ISO/0001/100000105"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

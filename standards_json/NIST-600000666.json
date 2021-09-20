@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000666", 
+  "control_attributes": {
+    "Control": "SC-7 (8) ROUTE TRAFFIC TO AUTHENTICATED PROXY SERVERS", 
+    "control_description": "The information system routes [Assignment: organization-defined internal communications traffic] to [Assignment: organization-defined external networks] through authenticated proxy servers at managed interfaces.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization protects against unauthorized physical connections at [Assignment: organization-defined managed interfaces]."
+  }, 
+  "Control Statement": "The information system routes [Assignment: organization-defined internal communications traffic] to [Assignment: organization-defined external networks] through authenticated proxy servers at managed interfaces.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (8) ROUTE TRAFFIC TO AUTHENTICATED PROXY SERVERS", 
+  "compliance_control_number": "600000666"
+}

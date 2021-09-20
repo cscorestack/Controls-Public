@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000050", 
+  "compliance_control_uri": "Azure-WAF/0015/150000050", 
+  "Control Name": "1.7.3 A recent review of SKUs that could benefit from Reserved Instances for 1 or 3 years or more has been performed.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Purchasing reserved instances is a way to reduce Azure costs for workloads with stable usage. You have to manage utilization: if it's too low then you are paying for resources that are not being used. One advice is to keep RI instances simple and not trying to have too much management overhead that has to be factored in as part of the cost.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.3 A recent review of SKUs that could benefit from Reserved Instances for 1 or 3 years or more has been performed.", 
+    "Description": "Purchasing reserved instances is a way to reduce Azure costs for workloads with stable usage. You have to manage utilization: if it's too low then you are paying for resources that are not being used. One advice is to keep RI instances simple and not trying to have too much management overhead that has to be factored in as part of the cost."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

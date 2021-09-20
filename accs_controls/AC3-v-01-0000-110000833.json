@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000833",
+  "compliance_control_uri": "AC3-v-01/0000/110000833",
+  "Control Name": "COST 1.3 Establish cloud budgets and forecasts",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Adjust existing organizational budgeting and forecasting processes to be compatible with the highly variable nature of cloud costs and usage. Processes must be dynamic using trend based or business driver-based algorithms, or a combination.",
+  "control_attributes": {
+    "Control Name": "COST 1.3 Establish cloud budgets and forecasts",
+    "Control Family": "Cost Optimization",
+    "Control Statement": "Adjust existing organizational budgeting and forecasting processes to be compatible with the highly variable nature of cloud costs and usage. Processes must be dynamic using trend based or business driver-based algorithms, or a combination."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Account",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "AWS-WAF/0016/160000247",
+      "CIS-GCP/0014/1400000028"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "GCP_Audit_For_Project_Legacy_Network",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/wssw",
+        "system_policy": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_new_policy"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000188",
+  "compliance_control_uri": "AWS-WAF/0016/160000188",
+  "Control Name": "REL 11.2 Fail over to healthy resources",
+  "Control Family": "Reliability",
+  "Control Statement": "Ensure that if a resource failure occurs, that healthy resources can continue to serve requests. For location failures (such as Availability Zone or AWS Region) ensure you have systems in place to failover to healthy resources in unimpaired locations.",
+  "control_attributes": {
+    "Control": "REL 11.2 Fail over to healthy resources",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to withstand component failures?",
+    "question_id": "withstand-component-failures",
+    "choice_id": "rel_withstand_component_failures_failover2good"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

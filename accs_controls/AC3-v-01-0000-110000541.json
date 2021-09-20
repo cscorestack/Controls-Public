@@ -1,0 +1,118 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000541",
+  "compliance_control_uri": "AC3-v-01/0000/110000541",
+  "Control Name": "RA-5 VULNERABILITY SCANNING",
+  "Control Family": "RISK ASSESSMENT",
+  "Control Statement": "The organization:a. Scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported;b. Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:1. Enumerating platforms, software flaws, and improper configurations;2. Formatting checklists and test procedures; and3. Measuring vulnerability impact; c. Analyzes vulnerability scan reports and results from security control assessments;d. Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational assessment of risk; ande. Shares information obtained from the vulnerability scanning process and security control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).",
+  "control_attributes": {
+    "Control Name": "RA-5 VULNERABILITY SCANNING",
+    "Control Family": "RISK ASSESSMENT",
+    "Control Statement": "The organization:a. Scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported;b. Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:1. Enumerating platforms, software flaws, and improper configurations;2. Formatting checklists and test procedures; and3. Measuring vulnerability impact; c. Analyzes vulnerability scan reports and results from security control assessments;d. Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational assessment of risk; ande. Shares information obtained from the vulnerability scanning process and security control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies)."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Workload",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000045",
+      "ISO-27001/0011/1100000068",
+      "PCI-DSS/0012/1200000094",
+      "PCI-DSS/0012/1200000187",
+      "PCI-DSS/0012/1200000190",
+      "PCI-DSS/0012/1200000191",
+      "PCI-DSS/0012/1200000192",
+      "PCI-DSS/0012/1200000193",
+      "Fedramp-Control-Moderate/0010/1000000234",
+      "Fedramp-Control-High/0009/900000308",
+      "ISO/0001/100000044",
+      "AWS-WAF/0016/160000113",
+      "AWS-WAF/0016/160000114",
+      "CIS-Azure/0003/300000003",
+      "CIS-Azure/0003/300000008",
+      "AWS-WAF/0016/160000113",
+      "SOC2/0017/1700000152"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/nk46s",
+        "policy_name": "Azure_Monitor_OS_vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xwysa",
+        "policy_name": "Azure_Audit_SQL_Servers_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ryutr",
+        "policy_name": "Azure_Audit_SQL_Managed_Instance_without_VA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/izhd6",
+        "policy_name": "Azure_Monitor_VM_Vulnerabilities",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/sn4yt",
+        "policy_name": "Azure_Monitor_SQL_Vuln_Assessment_Results",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/velo4",
+        "policy_name": "Azure_Audit_OS_Vulnerabilities_in_Virtual_Machine_Scale_Set",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/8017e",
+        "policy_name": "AWS_Audit_Amazon_Inspector_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/73d1d",
+        "policy_name": "AWS_Audit_Days_since_last_Amazon_Inspector_run",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

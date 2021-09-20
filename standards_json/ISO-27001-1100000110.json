@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000110", 
+  "compliance_control_uri": "ISO-27001/0011/1100000110", 
+  "Control Name": "18.1.4 Privacy and protection of personally identifiable information", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Data protection and privacy shall be ensured as required in relevant legislation, regulations, and, if applicable, contractual clauses", 
+  "control_attributes": {
+    "Clause_Category": "18.1 Compliance with legal and contractual requirements", 
+    "description": "Data protection and privacy shall be ensured as required in relevant legislation, regulations, and, if applicable, contractual clauses", 
+    "Control_Title": "18.1.4 Privacy and protection of personally identifiable information", 
+    "Control_Clause": "18. Compliance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

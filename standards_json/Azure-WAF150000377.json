@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000377", 
+  "compliance_control_uri": "Azure-WAF/0015/150000377", 
+  "Control Name": "4.11.2 Application deployments can be rolled-back and rolled-forward through automated deployment pipelines.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Can N-1 or N+1 be deployed via automated pipelines where N is current deployment in production?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.11 What reliability allowances for operations have you made?", 
+    "Control": "4.11.2 Application deployments can be rolled-back and rolled-forward through automated deployment pipelines.", 
+    "Description": "Can N-1 or N+1 be deployed via automated pipelines where N is current deployment in production?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

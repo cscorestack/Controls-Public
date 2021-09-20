@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000069", 
+  "control_attributes": {
+    "Control": "CA-5 (1) AUTOMATION SUPPORT FOR ACCURACY / CURRENCY", 
+    "control_description": "The organization employs automated mechanisms to help ensure that the plan of action and milestones for the information system is accurate, up to date, and readily available.", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "P3", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization retains audit records for [Assignment: organization-defined time period consistent with records retention policy] to provide support for after-the-fact investigations of security incidents and to meet regulatory and organizational information retention requirements."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to help ensure that the plan of action and milestones for the information system is accurate, up to date, and readily available.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-5 (1) AUTOMATION SUPPORT FOR ACCURACY / CURRENCY", 
+  "compliance_control_number": "600000069"
+}

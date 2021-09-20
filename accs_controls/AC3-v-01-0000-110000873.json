@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000873", 
+  "compliance_control_uri": "AC3-v-01/0000/110000873", 
+  "Control Name": "Ensure SQL server's TDE protector is encrypted with Customer-managed key", 
+  "Control Family": "Database Services", 
+  "Control Statement": "TDE with Customer-managed key support provides increased transparency and control over the TDE Protector, increased security with an HSM-backed external service, and promotion of separation of duties.", 
+  "control_attributes": {
+    "Control Name": "Ensure SQL server's TDE protector is encrypted with Customer-managed key", 
+    "Control Family": "Database Services", 
+    "Control Statement": "TDE with Customer-managed key support provides increased transparency and control over the TDE Protector, increased security with an HSM-backed external service, and promotion of separation of duties."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Databases/Servers",
+      "service_resource": "Azure/Databases/Servers/MSSQL"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000067"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_SQLserver_TDE_Encrypted_with_your_Own_Key",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/XpSzr",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

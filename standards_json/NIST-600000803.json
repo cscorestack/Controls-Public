@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000803", 
+  "control_attributes": {
+    "Control": "SI-11 ERROR HANDLING", 
+    "control_description": "The information system: a. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; andb. Reveals error messages only to [Assignment: organization-defined personnel or roles].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system: a. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; andb. Reveals error messages only to [Assignment: organization-defined personnel or roles].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-11 ERROR HANDLING", 
+  "compliance_control_number": "600000803"
+}

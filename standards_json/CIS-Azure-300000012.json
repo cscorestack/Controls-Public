@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000012", 
+  "compliance_control_uri": "CIS-Azure/0003/300000012", 
+  "Control Name": "2.14. Ensure ASC Default policy setting 'Monitor SQL Auditing' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "When this setting is enabled, it recommends that access auditing for the Azure Database be enabled for compliance, advanced threat detection, and for investigation purposes", 
+  "control_attributes": {
+    "Control": "2.14. Ensure ASC Default policy setting 'Monitor SQL Auditing' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "When this setting is enabled, it recommends that access auditing for the Azure Database be enabled for compliance, advanced threat detection, and for investigation purposes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

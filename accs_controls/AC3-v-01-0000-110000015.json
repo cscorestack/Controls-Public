@@ -1,0 +1,103 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000015",
+  "compliance_control_uri": "AC3-v-01/0000/110000015",
+  "Control Name": "AC-16 (7) CONSISTENT ATTRIBUTE INTERPRETATION",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization provides a consistent interpretation of security attributes transmitted between distributed information system components.",
+  "control_attributes": {
+    "Control Name": "AC-16 (7) CONSISTENT ATTRIBUTE INTERPRETATION",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization provides a consistent interpretation of security attributes transmitted between distributed information system components."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPN",
+      "service_resource": "AWS/Network/VPN/VPN_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancersv2"
+    },
+    {
+      "service_resource_type": "AWS/Container/ECS",
+      "service_resource": "AWS/Container/ECS/Cluster"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Container/Azure_Kubernetes_Service",
+      "service_resource": "Azure/Container/Azure_Kubernetes_Service/Cluster"
+    },
+    {
+      "service_resource_type": "Azure/Container/Container_Instances",
+      "service_resource": "Azure/Container/Container_Instances/Containers"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000194"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

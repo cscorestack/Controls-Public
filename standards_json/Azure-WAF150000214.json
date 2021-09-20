@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000214", 
+  "compliance_control_uri": "Azure-WAF/0015/150000214", 
+  "Control Name": "2.18.1 Regulatory and governance requirements of this workload are known and well understood", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": ".Regulatory requirements may mandate that operational data, such as application logs and metrics, remain within a certain geo-political region. This has obvious implications for how the application should be operationalized.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.18 What operational excellence allowances for security have you made?", 
+    "Control": "2.18.1 Regulatory and governance requirements of this workload are known and well understood", 
+    "Description": ".Regulatory requirements may mandate that operational data, such as application logs and metrics, remain within a certain geo-political region. This has obvious implications for how the application should be operationalized."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

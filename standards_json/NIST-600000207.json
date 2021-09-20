@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000207", 
+  "control_attributes": {
+    "Control": "AC-18 (4) RESTRICT CONFIGURATIONS BY USERS", 
+    "control_description": "The organization identifies and explicitly authorizes users allowed to independently configure wireless networking capabilities.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system transmits [Assignment: organization-defined access authorization information] using [Assignment: organization-defined security safeguards] to [Assignment: organization-defined information systems] that enforce access control decisions."
+  }, 
+  "Control Statement": "The organization identifies and explicitly authorizes users allowed to independently configure wireless networking capabilities.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-18 (4) RESTRICT CONFIGURATIONS BY USERS", 
+  "compliance_control_number": "600000207"
+}

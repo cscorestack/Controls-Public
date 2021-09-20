@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000784",
+  "compliance_control_uri": "AC3-v-01/0000/110000784",
+  "Control Name": "SI-4 (14) WIRELESS INTRUSION DETECTION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization employs a wireless intrusion detection system to identify rogue wireless devices and to detect attack attempts and potential compromises/breaches to the information system.",
+  "control_attributes": {
+    "Control Name": "SI-4 (14) WIRELESS INTRUSION DETECTION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization employs a wireless intrusion detection system to identify rogue wireless devices and to detect attack attempts and potential compromises/breaches to the information system."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000767",
+      "Fedramp-Control-Moderate/0010/1000000308",
+      "Fedramp-Control-High/0009/900000397"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

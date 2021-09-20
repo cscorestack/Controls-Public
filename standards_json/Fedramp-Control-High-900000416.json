@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000416", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000416", 
+  "Control Name": "SPAM PROTECTION | CENTRAL MANAGEMENT", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization centrally manages spam protection mechanisms.Supplemental Guidance:  Central management is the organization-wide management and implementation of spam protection mechanisms. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed spam protection security controls. Related controls: AU-3, SI-2, SI-7.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization centrally manages spam protection mechanisms.Supplemental Guidance:  Central management is the organization-wide management and implementation of spam protection mechanisms. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed spam protection security controls. Related controls: AU-3, SI-2, SI-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-08 (01)", 
+    "CNTL NO": "SI-8 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SPAM PROTECTION | CENTRAL MANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

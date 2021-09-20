@@ -1,0 +1,122 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000753",
+  "compliance_control_uri": "AC3-v-01/0000/110000753",
+  "Control Name": "SI-12 INFORMATION HANDLING AND RETENTION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.",
+  "control_attributes": {
+    "Control Name": "SI-12 INFORMATION HANDLING AND RETENTION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Storage",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Databases/DynamoDB",
+      "service_resource": "AWS/Databases/DynamoDB/Table"
+    },
+    {
+      "service_resource_type": "AWS/Databases/ElastiCache",
+      "service_resource": "AWS/Databases/ElastiCache/Cache_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Volumes"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EFS",
+      "service_resource": "AWS/Storage/EFS/FileSystem"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Snapshots"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000067",
+      "PCI-DSS/0012/1200000035",
+      "PCI-DSS/0012/1200000036",
+      "PCI-DSS/0012/1200000037",
+      "PCI-DSS/0012/1200000038",
+      "PCI-DSS/0012/1200000039",
+      "Fedramp-Control-Moderate/0010/1000000321",
+      "Fedramp-Control-High/0009/900000419",
+      "SOC2/0017/1700000236"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/bwc2q",
+        "policy_name": "Azure_Audit_LogProfile_Retention",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/3n3a3",
+        "policy_name": "Azure_Audit_VM_LogAnalyticsWorkSpace",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lkdcs",
+        "policy_name": "Azure_Audit_LogRetention_SQL_Server",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

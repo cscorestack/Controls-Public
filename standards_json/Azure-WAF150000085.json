@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000085", 
+  "compliance_control_uri": "Azure-WAF/0015/150000085", 
+  "Control Name": "2.2.6 All platform-level dependencies are identified and understood.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Examples of typical dependencies include Azure Active Directory, Express Route, or a central NVA (Network Virtual Appliance), as well as application dependencies such as APIs which may be in-house or externally owned by a third-party.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.2 What design considerations for operations have you made?", 
+    "Control": "2.2.6 All platform-level dependencies are identified and understood.", 
+    "Description": "Examples of typical dependencies include Azure Active Directory, Express Route, or a central NVA (Network Virtual Appliance), as well as application dependencies such as APIs which may be in-house or externally owned by a third-party."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

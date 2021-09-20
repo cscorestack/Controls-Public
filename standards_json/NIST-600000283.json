@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000283", 
+  "control_attributes": {
+    "Control": "CM-3 (1) AUTOMATED DOCUMENT / NOTIFICATION / PROHIBITION OF CHANGES", 
+    "control_description": "The organization employs automated mechanisms to:                                                                                   (a) Document proposed changes to the information system;(b) Notify [Assignment: organized-defined approval authorities] of proposed changes to the information system and request change approval;(c) Highlight proposed changes to the information system that have not been approved or disapproved by [Assignment: organization-defined time period];(d) Prohibit changes to the information system until designated approvals are received;(e) Document all changes to the information system; and(f) Notify [Assignment: organization-defined personnel] when approved changes to the information system are completed.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system enforces access restrictions and supports auditing of the enforcement actions."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to:                                                                                   (a) Document proposed changes to the information system;(b) Notify [Assignment: organized-defined approval authorities] of proposed changes to the information system and request change approval;(c) Highlight proposed changes to the information system that have not been approved or disapproved by [Assignment: organization-defined time period];(d) Prohibit changes to the information system until designated approvals are received;(e) Document all changes to the information system; and(f) Notify [Assignment: organization-defined personnel] when approved changes to the information system are completed.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-3 (1) AUTOMATED DOCUMENT / NOTIFICATION / PROHIBITION OF CHANGES", 
+  "compliance_control_number": "600000283"
+}

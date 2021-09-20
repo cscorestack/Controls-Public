@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000255",
+  "compliance_control_uri": "AWS-WAF/0016/160000255",
+  "Control Name": "COST 2.4 Implement groups and roles",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement groups and roles that align to your policies and control who can create, modify, or decommission instances and resources in each group. For example, implement development, test, and production groups. This applies to AWS services and third-party solutions.",
+  "control_attributes": {
+    "Control": "COST 2.4 Implement groups and roles",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_groups_roles"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000056", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000056", 
+  "Control Name": "3.6.8 Requirement for cryptographic key custodians to formally acknowledge that they understand and accept their key-custodian responsibilities.", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.6.8 Requirement for cryptographic key custodians to formally acknowledge that they understand and accept their key-custodian responsibilities.", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

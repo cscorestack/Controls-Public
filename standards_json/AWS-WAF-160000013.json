@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000013",
+  "compliance_control_uri": "AWS-WAF/0016/160000013",
+  "Control Name": "OPS 2.6 Mechanisms exist to request additions, changes, and exceptions",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "You are able to make requests to owners of processes, procedures, and resources. Make informed decisions to approve requests where viable and determined to be appropriate after an evaluation of beneﬁts and risks.",
+  "control_attributes": {
+    "Control": "OPS 2.6 Mechanisms exist to request additions, changes, and exceptions",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_req_add_chg_exception"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000081", 
+  "compliance_control_uri": "CIS-Azure/0003/300000081", 
+  "Control Name": "4.12. Ensure server parameter 'log_checkpoints' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling log_checkpoints helps the PostgreSQL Database to Log each checkpoint in turn generates query and error logs.", 
+  "control_attributes": {
+    "Control": "4.12. Ensure server parameter 'log_checkpoints' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling log_checkpoints helps the PostgreSQL Database to Log each checkpoint in turn generates query and error logs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

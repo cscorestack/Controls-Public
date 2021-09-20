@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000020", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000020", 
+  "Control Name": "2.5 Ensure that the log metric filter and alerts exist for Audit Configuration changes", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "Google Cloud Platform (GCP) services write audit log entries to the Admin Activity and Data Access logs to help answer the questions of, who did what, where, and when? within GCP projects.", 
+  "control_attributes": {
+    "Control": "2.5 Ensure that the log metric filter and alerts exist for Audit Configuration changes", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "Google Cloud Platform (GCP) services write audit log entries to the Admin Activity and Data Access logs to help answer the questions of, who did what, where, and when? within GCP projects."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

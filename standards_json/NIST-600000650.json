@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000650", 
+  "control_attributes": {
+    "Control": "SA-22 (1) ALTERNATIVE SOURCES FOR CONTINUED SUPPORT", 
+    "control_description": "The organization provides [Selection (one or more): in-house support; [Assignment: organization-defined support from external providers]] for unsupported information system components.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements security functions as largely independent modules that maximize internal cohesiveness within modules and minimize coupling between modules."
+  }, 
+  "Control Statement": "The organization provides [Selection (one or more): in-house support; [Assignment: organization-defined support from external providers]] for unsupported information system components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-22 (1) ALTERNATIVE SOURCES FOR CONTINUED SUPPORT", 
+  "compliance_control_number": "600000650"
+}

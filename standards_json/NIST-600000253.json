@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000253", 
+  "control_attributes": {
+    "Control": "AU-10 (3) CHAIN OF CUSTODY", 
+    "control_description": "The information system maintains reviewer/releaser identity and credentials within the established chain of custody for all information reviewed or released.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system maintains reviewer/releaser identity and credentials within the established chain of custody for all information reviewed or released.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-10 (3) CHAIN OF CUSTODY", 
+  "compliance_control_number": "600000253"
+}

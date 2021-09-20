@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000675", 
+  "control_attributes": {
+    "Control": "SC-7 (17) AUTOMATED ENFORCEMENT OF PROTOCOL FORMATS", 
+    "control_description": "The information system enforces adherence to protocol formats.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system disables feedback to senders on protocol format validation failure."
+  }, 
+  "Control Statement": "The information system enforces adherence to protocol formats.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (17) AUTOMATED ENFORCEMENT OF PROTOCOL FORMATS", 
+  "compliance_control_number": "600000675"
+}

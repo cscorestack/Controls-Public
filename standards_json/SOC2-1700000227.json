@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000227",
+  "compliance_control_uri": "SOC2/0017/1700000227",
+  "Control Name": "Identifies Confidential Information for Destruction—Procedures are in place to identify confidential information requiring destruction when the end of the retention period is reached. ",
+  "Control Family": "Additional Criteria For Confidentiality",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Identifies Confidential Information for Destruction—Procedures are in place to identify confidential information requiring destruction when the end of the retention period is reached. ",
+    "Category": "Additional Criteria For Confidentiality",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Confidentiality",
+    "SubCategory": "C1.2 The entity disposes of confidential information to meet the entity’s objectives related to confidentiality.",
+    "ControlNo": "C1.2.1",
+    "TrustID": "C1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,55 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000806",
+  "compliance_control_uri": "AC3-v-01/0000/110000806",
+  "Control Name": "SI-6 SECURITY FUNCTION VERIFICATION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.",
+  "control_attributes": {
+    "Control Name": "SI-6 SECURITY FUNCTION VERIFICATION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application, Databases",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000064",
+      "Fedramp-Control-Moderate/0010/1000000312",
+      "Fedramp-Control-High/0009/900000407",
+      "CIS-Azure/0003/300000088",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/podv",
+        "policy_name": "GCP_Audit_GKE_Cluster_POD_Security_Policy_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

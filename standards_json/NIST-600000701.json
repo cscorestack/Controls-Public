@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000701", 
+  "control_attributes": {
+    "Control": "SC-19 VOICE OVER INTERNET PROTOCOL", 
+    "control_description": "The organization: a. Establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously; andb. Authorizes, monitors, and controls the use of VoIP within the information system", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system only allows the use of [Assignment: organization-defined certificate authorities] for verification of the establishment of protected sessions."
+  }, 
+  "Control Statement": "The organization: a. Establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously; andb. Authorizes, monitors, and controls the use of VoIP within the information system", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-19 VOICE OVER INTERNET PROTOCOL", 
+  "compliance_control_number": "600000701"
+}

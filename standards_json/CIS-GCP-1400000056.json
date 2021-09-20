@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000056", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000056", 
+  "Control Name": "6.9 Ensure that the 'log_min_duration_statement' database flag for Cloud SQL PostgreSQL instance is set to '-1' (disabled) ", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "The log_min_duration_statement flag defines the minimum amount of execution time of a statement in milliseconds where the total duration of the statement is logged. Ensure that log_min_duration_statement is disabled, i.e., a value of -1 is set", 
+  "control_attributes": {
+    "Control": "6.9 Ensure that the 'log_min_duration_statement' database flag for Cloud SQL PostgreSQL instance is set to '-1' (disabled) ", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "The log_min_duration_statement flag defines the minimum amount of execution time of a statement in milliseconds where the total duration of the statement is logged. Ensure that log_min_duration_statement is disabled, i.e., a value of -1 is set"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

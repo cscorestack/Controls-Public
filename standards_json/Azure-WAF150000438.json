@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000438", 
+  "compliance_control_uri": "Azure-WAF/0015/150000438", 
+  "Control Name": "5.6.3 The security team has read-only access into all cloud environment resources for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Provide security teams read-only access to the security aspects of all technical resources in their purview. Security organizations require visibility into the technical environment to perform their duties of assessing and reporting on organizational risk. Without this visibility, security will have to rely on information provided from groups, operating the environment, who have a potential conflict of interest (and other priorities). Note that security teams may separately be granted additional privileges if they have operational responsibilities or a requirement to enforce compliance on Azure resources. For example in Azure, assign security teams to the Security Readers permission that provides access to measure security risk (without providing access to the data itself). Because security will have broad access to the environment (and visibility into potentially exploitable vulnerabilities), you should consider them critical impact accounts and apply the same protections as administrators.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.3 The security team has read-only access into all cloud environment resources for this workload.", 
+    "Description": "Provide security teams read-only access to the security aspects of all technical resources in their purview. Security organizations require visibility into the technical environment to perform their duties of assessing and reporting on organizational risk. Without this visibility, security will have to rely on information provided from groups, operating the environment, who have a potential conflict of interest (and other priorities). Note that security teams may separately be granted additional privileges if they have operational responsibilities or a requirement to enforce compliance on Azure resources. For example in Azure, assign security teams to the Security Readers permission that provides access to measure security risk (without providing access to the data itself). Because security will have broad access to the environment (and visibility into potentially exploitable vulnerabilities), you should consider them critical impact accounts and apply the same protections as administrators."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

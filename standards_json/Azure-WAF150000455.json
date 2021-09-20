@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000455", 
+  "compliance_control_uri": "Azure-WAF/0015/150000455", 
+  "Control Name": "5.8.4 Network security groups (NSG) are used to isolate and protect traffic within the workloads VNet.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "If NSGs are being used to isolate and protect the application, the rule set should be reviewed to confirm that required services are not unintentionally blocked.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.4 Network security groups (NSG) are used to isolate and protect traffic within the workloads VNet.", 
+    "Description": "If NSGs are being used to isolate and protect the application, the rule set should be reviewed to confirm that required services are not unintentionally blocked."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

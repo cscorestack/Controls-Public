@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000316",
+  "compliance_control_uri": "AC3-v-01/0000/110000316",
+  "Control Name": "IA-2 (9) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - REPLAY RESISTANT",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system implements replay-resistant authentication mechanisms for network access to non-privileged accounts.",
+  "control_attributes": {
+    "Control Name": "IA-2 (9) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - REPLAY RESISTANT",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system implements replay-resistant authentication mechanisms for network access to non-privileged accounts."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000367",
+      "ISO-27001/0011/1100000036",
+      "PCI-DSS/0012/1200000105",
+      "PCI-DSS/0012/1200000120",
+      "Fedramp-Control-High/0009/900000188",
+      "ISO-27001/0011/1100000071",
+      "CIS-Azure/0003/300000002",
+      "CIS-Azure/0015/150000002"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

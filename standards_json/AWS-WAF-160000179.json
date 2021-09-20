@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000179",
+  "compliance_control_uri": "AWS-WAF/0016/160000179",
+  "Control Name": "REL 8.5 Deploy changes with automation",
+  "Control Family": "Reliability",
+  "Control Statement": "Deployments and patching are automated to eliminate negative impact.",
+  "control_attributes": {
+    "Control": "REL 8.5 Deploy changes with automation",
+    "Category": "Reliability",
+    "Subcategory": "How do you implement change?",
+    "question_id": "tracking-change-management",
+    "choice_id": "rel_tracking_change_management_automated_changemgmt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000692", 
+  "control_attributes": {
+    "Control": "SC-15 (4) EXPLICITLY INDICATE CURRENT PARTICIPANTS", 
+    "control_description": "The information system provides an explicit indication of current participants in [Assignment: organization-defined online meetings and teleconferences].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that the acquisition, development, and use of mobile code to be deployed in the information system meets [Assignment: organization-defined mobile code requirements]."
+  }, 
+  "Control Statement": "The information system provides an explicit indication of current participants in [Assignment: organization-defined online meetings and teleconferences].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-15 (4) EXPLICITLY INDICATE CURRENT PARTICIPANTS", 
+  "compliance_control_number": "600000692"
+}

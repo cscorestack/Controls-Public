@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000438",
+  "compliance_control_uri": "AC3-v-01/0000/110000438",
+  "Control Name": "MP-8 MEDIA DOWNGRADING",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The organization: a. Establishes [Assignment: organization-defined information system media downgrading process] that includes employing downgrading mechanisms with [Assignment: organization-defined strength and integrity];b. Ensures that the information system media downgrading process is commensurate with the security category and/or classification level of the information to be removed and the access authorizations of the potential recipients of the downgraded information;c. Identifies [Assignment: organization-defined information system media requiring downgrading]; andd. Downgrades the identified information system media using the established process.",
+  "control_attributes": {
+    "Control Name": "MP-8 MEDIA DOWNGRADING",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The organization: a. Establishes [Assignment: organization-defined information system media downgrading process] that includes employing downgrading mechanisms with [Assignment: organization-defined strength and integrity];b. Ensures that the information system media downgrading process is commensurate with the security category and/or classification level of the information to be removed and the access authorizations of the potential recipients of the downgraded information;c. Identifies [Assignment: organization-defined information system media requiring downgrading]; andd. Downgrades the identified information system media using the established process."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000478"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

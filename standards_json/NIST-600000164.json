@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000164", 
+  "control_attributes": {
+    "Control": "AC-4 (22) ACCESS ONLY", 
+    "control_description": "The information system provides access from a single device to computing platforms, applications, or data residing on multiple different security domains, while preventing any information flow between the different security domains.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system provides access from a single device to computing platforms, applications, or data residing on multiple different security domains, while preventing any information flow between the different security domains.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (22) ACCESS ONLY", 
+  "compliance_control_number": "600000164"
+}

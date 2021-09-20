@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000262", 
+  "control_attributes": {
+    "Control": "AU-14 (3) REMOTE VIEWING / LISTENING", 
+    "control_description": "The information system provides the capability for authorized users to remotely view/hear all content related to an established user session in real time.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data."
+  }, 
+  "Control Statement": "The information system provides the capability for authorized users to remotely view/hear all content related to an established user session in real time.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-14 (3) REMOTE VIEWING / LISTENING", 
+  "compliance_control_number": "600000262"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000565", 
+  "control_attributes": {
+    "Control": "RA-5 (10) CORRELATE SCANNING INFORMATION", 
+    "control_description": "The organization correlates the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to provide a description of the functional properties of the security controls to be employed."
+  }, 
+  "Control Statement": "The organization correlates the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (10) CORRELATE SCANNING INFORMATION", 
+  "compliance_control_number": "600000565"
+}

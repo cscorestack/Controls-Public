@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000336", 
+  "control_attributes": {
+    "Control": "CP-7 (1) SEPARATION FROM PRIMARY SITE", 
+    "control_description": "The organization identifies an alternate processing site that is separated from the primary processing site to reduce susceptibility to the same threats.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization identifies an alternate processing site that is separated from the primary processing site to reduce susceptibility to the same threats.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-7 (1) SEPARATION FROM PRIMARY SITE", 
+  "compliance_control_number": "600000336"
+}

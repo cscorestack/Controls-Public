@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000026",
+  "compliance_control_uri": "AWS-WAF/0016/160000026",
+  "Control Name": "OPS 4.4 Implement dependency telemetry",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Design and conﬁgure your workload to emit information about the status (for example, reachability or response time) of resources it depends on. Examples of external dependencies can include, external databases, DNS, and network connectivity. Use this information to determine when a response is required.",
+  "control_attributes": {
+    "Control": "OPS 4.4 Implement dependency telemetry",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you design your workload so that you can understand its state?",
+    "question_id": "telemetry",
+    "choice_id": "ops_telemetry_dependency_telemetry"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

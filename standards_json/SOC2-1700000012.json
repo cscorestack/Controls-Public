@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000012",
+  "compliance_control_uri": "SOC2/0017/1700000012",
+  "Control Name": "Defines, Assigns, and Limits Authorities and Responsibilities—Management and the board of directors delegate authority, define responsibilities, and use appropriate processes and technology to assign responsibility and segregate duties as necessary at the various levels of the organization.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Defines, Assigns, and Limits Authorities and Responsibilities—Management and the board of directors delegate authority, define responsibilities, and use appropriate processes and technology to assign responsibility and segregate duties as necessary at the various levels of the organization.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.3 COSO Principle 3: Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "ControlNo": "CC1.3.3",
+    "TrustID": "CC1.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

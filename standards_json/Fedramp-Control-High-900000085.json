@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000085", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000085", 
+  "Control Name": "PROTECTION OF AUDIT INFORMATION | AUDIT BACKUP ON SEPARATE PHYSICAL SYSTEMS / COMPONENTS", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system backs up audit records [Assignment: organization-defined frequency] onto a physically different system or system component than the system or component being audited.Supplemental Guidance: This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records. Related controls: AU-4, AU-5, AU-11.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system backs up audit records [Assignment: organization-defined frequency] onto a physically different system or system component than the system or component being audited.Supplemental Guidance: This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records. Related controls: AU-4, AU-5, AU-11.", 
+    "SelectionParam": "AU-9 (2) [at least weekly] ", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-09 (02)", 
+    "CNTL NO": "AU-9 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "PROTECTION OF AUDIT INFORMATION | AUDIT BACKUP ON SEPARATE PHYSICAL SYSTEMS / COMPONENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000006", 
+  "compliance_control_uri": "Azure-WAF/0015/150000006", 
+  "Control Name": "1.1.6 Cost implications of each Azure service used by the application are understood.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "It is important to understand what Azure services, such as App Services and Event Hubs, are used by the application platform to host both application code and data. In a discussion around cost, this can drive decisions towards the right replacements (e.g. moving from Virtual Machines to containers to increase efficiency, or migrating to .NET Core to use cheaper SKUs etc.).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.6 Cost implications of each Azure service used by the application are understood.", 
+    "Description": "It is important to understand what Azure services, such as App Services and Event Hubs, are used by the application platform to host both application code and data. In a discussion around cost, this can drive decisions towards the right replacements (e.g. moving from Virtual Machines to containers to increase efficiency, or migrating to .NET Core to use cheaper SKUs etc.)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

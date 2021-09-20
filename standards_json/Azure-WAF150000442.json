@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000442", 
+  "compliance_control_uri": "Azure-WAF/0015/150000442", 
+  "Control Name": "5.6.7 Periodic & automated access reviews of the workload are conducted to ensure that only authorized people have access?", 
+  "Control Family": "5. Security", 
+  "Control Statement": "As people in the organization and on the project change, it is crucial to make sure that only the right people have access to the application infrastructure. Auditing and reviewing the access control reduces the attack vector to the application. Azure control plane depends on Azure AD and access reviews are often centrally performed often as part of internal or external audit activities. For the application specific access it is recommended to do the same at least twice a year.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.7 Periodic & automated access reviews of the workload are conducted to ensure that only authorized people have access?", 
+    "Description": "As people in the organization and on the project change, it is crucial to make sure that only the right people have access to the application infrastructure. Auditing and reviewing the access control reduces the attack vector to the application. Azure control plane depends on Azure AD and access reviews are often centrally performed often as part of internal or external audit activities. For the application specific access it is recommended to do the same at least twice a year."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000023",
+  "compliance_control_uri": "AWS-WAF/0016/160000023",
+  "Control Name": "OPS 4.1 Implement application telemetry",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Instrument your application code to emit information about its internal state, status, and achievement of business outcomes. For example, queue depth, error messages, and response times. Use this information to determine when a response is required.",
+  "control_attributes": {
+    "Control": "OPS 4.1 Implement application telemetry",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you design your workload so that you can understand its state?",
+    "question_id": "telemetry",
+    "choice_id": "ops_telemetry_application_telemetry"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

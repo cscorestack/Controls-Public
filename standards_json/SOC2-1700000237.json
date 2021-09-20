@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000237",
+  "compliance_control_uri": "SOC2/0017/1700000237",
+  "Control Name": "Processes Inputs—Inputs are processed completely, accurately, and timely as authorized in accordance with defined processing activities. ",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Processes Inputs—Inputs are processed completely, accurately, and timely as authorized in accordance with defined processing activities. ",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.3 The entity implements policies and procedures over system processing to result in products, services, and reporting to meet the entity’s objectives.",
+    "ControlNo": "PI1.3.5",
+    "TrustID": "PI1.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

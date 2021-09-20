@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000412", 
+  "compliance_control_uri": "Azure-WAF/0015/150000412", 
+  "Control Name": "5.3.3 Technologies and frameworks used in this workload are fully understood, including their vulnerabilities.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "It is important to understand what technologies are used by the application and must be managed, such as .NET Core , Spring, or Node.js. Each choice of technology also has consequences for security.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.3 Technologies and frameworks used in this workload are fully understood, including their vulnerabilities.", 
+    "Description": "It is important to understand what technologies are used by the application and must be managed, such as .NET Core , Spring, or Node.js. Each choice of technology also has consequences for security."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

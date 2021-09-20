@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000020", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000020", 
+  "Control Name": "LEAST PRIVILEGE | AUTHORIZE ACCESS TO SECURITY FUNCTIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].Supplemental Guidance:  Security functions include, for example, establishing system accounts, configuring access authorizations (i.e., permissions, privileges), setting events to be audited, and setting intrusion detection parameters. Security-relevant information includes, for example, filtering rules for routers/firewalls, cryptographic key management information, configuration parameters for security services, and access control lists. Explicitly authorized personnel include, for example, security administrators, system and network administrators, system security officers, system maintenance personnel, system programmers, and other privileged users. Related controls: AC-17, AC-18, AC-19.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].Supplemental Guidance:  Security functions include, for example, establishing system accounts, configuring access authorizations (i.e., permissions, privileges), setting events to be audited, and setting intrusion detection parameters. Security-relevant information includes, for example, filtering rules for routers/firewalls, cryptographic key management information, configuration parameters for security services, and access control lists. Explicitly authorized personnel include, for example, security administrators, system and network administrators, system security officers, system maintenance personnel, system programmers, and other privileged users. Related controls: AC-17, AC-18, AC-19.", 
+    "SelectionParam": "AC-6 (1) [all functions not publicly accessible and all security-relevant information not publicly available]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-06 (01)", 
+    "CNTL NO": "AC-6 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "LEAST PRIVILEGE | AUTHORIZE ACCESS TO SECURITY FUNCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

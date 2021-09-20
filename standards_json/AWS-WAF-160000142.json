@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000142",
+  "compliance_control_uri": "AWS-WAF/0016/160000142",
+  "Control Name": "REL 1.4 Monitor and manage quotas",
+  "Control Family": "Reliability",
+  "Control Statement": "Evaluate your potential usage and increase your quotas appropriately allowing for planned growth in usage.",
+  "control_attributes": {
+    "Control": "REL 1.4 Monitor and manage quotas",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_monitor_manage_limits"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

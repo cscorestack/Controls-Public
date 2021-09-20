@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000513", 
+  "control_attributes": {
+    "Control": "PE-11 (2) LONG-TERM ALTERNATE POWER SUPPLY - SELF-CONTAINED", 
+    "control_description": "The organization provides a long-term alternate power supply for the information system that is:                                                                                                                                                                                          (a) Self-contained;(b) Not reliant on external power generation; and(c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that the facility undergoes [Assignment: organization-defined frequency] inspections by authorized and qualified inspectors and resolves identified deficiencies within [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The organization provides a long-term alternate power supply for the information system that is:                                                                                                                                                                                          (a) Self-contained;(b) Not reliant on external power generation; and(c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-11 (2) LONG-TERM ALTERNATE POWER SUPPLY - SELF-CONTAINED", 
+  "compliance_control_number": "600000513"
+}

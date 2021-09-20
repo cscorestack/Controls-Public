@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000084", 
+  "compliance_control_uri": "CIS-Azure/0003/300000084", 
+  "Control Name": "4.15. Ensure server parameter 'log_disconnections' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling log_disconnections helps PostgreSQL Database to Logs end of a session , including duration, which in turn generates query and error logs. Query and error logs can be used to identify, troubleshoot, and repair configuration errors and sub-optimal performance", 
+  "control_attributes": {
+    "Control": "4.15. Ensure server parameter 'log_disconnections' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling log_disconnections helps PostgreSQL Database to Logs end of a session , including duration, which in turn generates query and error logs. Query and error logs can be used to identify, troubleshoot, and repair configuration errors and sub-optimal performance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

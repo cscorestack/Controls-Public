@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000074", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000074", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CORRELATE AUDIT REPOSITORIES", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.Supplemental Guidance:  Organization-wide situational awareness includes awareness across all three tiers of risk management (i.e., organizational, mission/business process, and information system) and supports cross-organization awareness. Related controls: AU-12, IR-4.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.Supplemental Guidance:  Organization-wide situational awareness includes awareness across all three tiers of risk management (i.e., organizational, mission/business process, and information system) and supports cross-organization awareness. Related controls: AU-12, IR-4.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AU-06 (03)", 
+    "CNTL NO": "AU-6 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CORRELATE AUDIT REPOSITORIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

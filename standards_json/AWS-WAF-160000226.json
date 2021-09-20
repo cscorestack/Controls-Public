@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000226",
+  "compliance_control_uri": "AWS-WAF/0016/160000226",
+  "Control Name": "PERF 5.3 Choose appropriately sized dedicated connectivity or VPN for hybrid workloads",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "When there is a requirement for on-premise communication, ensure that you have adequate bandwidth for workload performance. Based on bandwidth requirements, a single dedicated connection or a single VPN might not be enough, and you must enable traﬃc load balancing across multiple connections.",
+  "control_attributes": {
+    "Control": "PERF 5.3 Choose appropriately sized dedicated connectivity or VPN for hybrid workloads",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_hybrid"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

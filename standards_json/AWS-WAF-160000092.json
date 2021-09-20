@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000092",
+  "compliance_control_uri": "AWS-WAF/0016/160000092",
+  "Control Name": "SEC 2.2 Use temporary credentials",
+  "Control Family": "Security",
+  "Control Statement": "Require identities to dynamically acquire temporary credentials. For workforce identities, use AWS Single Sign-On, or federation with IAM roles to access AWS accounts. For machine identities, require the use of IAM roles instead of long-term access keys.",
+  "control_attributes": {
+    "Control": "SEC 2.2 Use temporary credentials",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_unique"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000404", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000404", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | HOST-BASED DEVICES", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization implements [Assignment: organization-defined host-based monitoring mechanisms] at [Assignment: organization-defined information system components].Supplemental Guidance:  Information system components where host-based monitoring can be implemented include, for example, servers, workstations, and mobile devices. Organizations consider employing host-based monitoring mechanisms from multiple information technology product developers.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization implements [Assignment: organization-defined host-based monitoring mechanisms] at [Assignment: organization-defined information system components].Supplemental Guidance:  Information system components where host-based monitoring can be implemented include, for example, servers, workstations, and mobile devices. Organizations consider employing host-based monitoring mechanisms from multiple information technology product developers.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (23)", 
+    "CNTL NO": "SI-4 (23)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | HOST-BASED DEVICES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

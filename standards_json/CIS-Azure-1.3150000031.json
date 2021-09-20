@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000031", 
+  "compliance_control_uri": "CIS-Azure/0015/150000031", 
+  "Control Name": "2.8 Ensure that Azure Defender is set to On for Key Vault", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "Enabling Azure Defender for Key Vault allows for greater defense-in-depth, with threat detection provided by the Microsoft Security Response Center (MSRC).", 
+  "control_attributes": {
+    "Control": "2.8 Ensure that Azure Defender is set to On for Key Vault", 
+    "Control_Clause": "2 Security Center", 
+    "description": "Enabling Azure Defender for Key Vault allows for greater defense-in-depth, with threat detection provided by the Microsoft Security Response Center (MSRC)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

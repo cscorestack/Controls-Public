@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000129", 
+  "control_attributes": {
+    "Control": "AC-2 (7) ROLE-BASED SCHEMES", 
+    "control_description": "The organization:  The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system does not release information outside of the established system boundary unless:"
+  }, 
+  "Control Statement": "The organization:  The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (7) ROLE-BASED SCHEMES", 
+  "compliance_control_number": "600000129"
+}

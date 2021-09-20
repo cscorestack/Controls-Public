@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000110", 
+  "compliance_control_uri": "CIS-Azure/0015/150000110", 
+  "Control Name": "9.10 Ensure FTP deployments are disabled", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "By default, Azure Functions, Web and API Services can be deployed over FTP. If FTP is required for an essential deployment workflow, FTPS should be required for FTP login for all App Service Apps and Functions.", 
+  "control_attributes": {
+    "Control": "9.10 Ensure FTP deployments are disabled", 
+    "Control_Clause": "9 AppService", 
+    "description": "By default, Azure Functions, Web and API Services can be deployed over FTP. If FTP is required for an essential deployment workflow, FTPS should be required for FTP login for all App Service Apps and Functions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

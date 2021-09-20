@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000155", 
+  "compliance_control_uri": "Azure-WAF/0015/150000155", 
+  "Control Name": "2.11.7 Releases to production are gated by having it successfully deployed and tested in other environments", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are releases to production gated by having it successfully deployed and tested in other environments?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.7 Releases to production are gated by having it successfully deployed and tested in other environments", 
+    "Description": "Are releases to production gated by having it successfully deployed and tested in other environments?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

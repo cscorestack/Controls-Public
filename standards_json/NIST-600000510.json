@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000510", 
+  "control_attributes": {
+    "Control": "PE-10 EMERGENCY SHUTOFF", 
+    "control_description": "The organization: a. Provides the capability of shutting off power to the information system or individual system components in emergency situations;b. Places emergency shutoff switches or devices in [Assignment: organization-defined location by information system or system component] to facilitate safe and easy access for personnel; andc. Protects emergency power shutoff capability from unauthorized activation.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs fire detection devices/systems for the information system that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire."
+  }, 
+  "Control Statement": "The organization: a. Provides the capability of shutting off power to the information system or individual system components in emergency situations;b. Places emergency shutoff switches or devices in [Assignment: organization-defined location by information system or system component] to facilitate safe and easy access for personnel; andc. Protects emergency power shutoff capability from unauthorized activation.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-10 EMERGENCY SHUTOFF", 
+  "compliance_control_number": "600000510"
+}

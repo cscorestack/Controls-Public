@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000035", 
+  "compliance_control_uri": "CIS-Azure/0015/150000035", 
+  "Control Name": "2.12 Ensure any of the ASC Default policy setting is not set to \"Disabled\"", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "None of the settings offered by ASC Default policy should be set to effect \"Disabled\".", 
+  "control_attributes": {
+    "Control": "2.12 Ensure any of the ASC Default policy setting is not set to \"Disabled\"", 
+    "Control_Clause": "2 Security Center", 
+    "description": "None of the settings offered by ASC Default policy should be set to effect \"Disabled\"."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

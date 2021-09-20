@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000005", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000005", 
+  "Control Name": "ACCOUNT MANAGEMENT | DISABLE INACTIVE ACCOUNTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system automatically disables inactive accounts after [Assignment: organization-defined time period].", 
+    "SelectionParam": "AC-2 (3) [35 days for user accounts]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (03)", 
+    "CNTL NO": "AC-2 (3)", 
+    "AdditionalReq": "AC-2 (3) Requirement: The service provider defines the time period for non-user accounts (e.g., accounts associated with devices).  The time periods are approved and accepted by the JAB/AO. Where user management is a function of the service, reports of activity of consumer users shall be made available.", 
+    "Control Name": "ACCOUNT MANAGEMENT | DISABLE INACTIVE ACCOUNTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

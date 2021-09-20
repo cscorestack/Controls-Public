@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000070", 
+  "compliance_control_uri": "ISO-27001/0011/1100000070", 
+  "Control Name": "12.7.1 Information system audit controls", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Audit requirements and activities involving checks on operational systems shall be carefully planned and agreed to minimize the risk of disruptions to business processes", 
+  "control_attributes": {
+    "Clause_Category": "12.7 Information system audit considerations", 
+    "description": "Audit requirements and activities involving checks on operational systems shall be carefully planned and agreed to minimize the risk of disruptions to business processes", 
+    "Control_Title": "12.7.1 Information system audit controls", 
+    "Control_Clause": "12. Operations security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

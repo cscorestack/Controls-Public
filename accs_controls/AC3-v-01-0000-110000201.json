@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000201",
+  "compliance_control_uri": "AC3-v-01/0000/110000201",
+  "Control Name": "CA-9 (1) SECURITY COMPLIANCE CHECKS",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The information system performs security compliance checks on constituent system components prior to the establishment of the internal connection.",
+  "control_attributes": {
+    "Control Name": "CA-9 (1) SECURITY COMPLIANCE CHECKS",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The information system performs security compliance checks on constituent system components prior to the establishment of the internal connection."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000278"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

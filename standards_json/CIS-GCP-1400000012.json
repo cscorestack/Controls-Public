@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000012", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000012", 
+  "Control Name": "1.12 Ensure API keys are not created for a project", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to use standard authentication flow instead.", 
+  "control_attributes": {
+    "Control": "1.12 Ensure API keys are not created for a project", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to use standard authentication flow instead."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

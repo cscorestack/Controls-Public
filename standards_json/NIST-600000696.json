@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000696", 
+  "control_attributes": {
+    "Control": "SC-18 (1) IDENTIFY UNACCEPTABLE CODE / TAKE CORRECTIVE ACTIONS", 
+    "control_description": "The information system identifies [Assignment: organization-defined unacceptable mobile code] and takes [Assignment: organization-defined corrective actions].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system identifies [Assignment: organization-defined unacceptable mobile code] and takes [Assignment: organization-defined corrective actions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-18 (1) IDENTIFY UNACCEPTABLE CODE / TAKE CORRECTIVE ACTIONS", 
+  "compliance_control_number": "600000696"
+}

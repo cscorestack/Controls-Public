@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000026", 
+  "compliance_control_uri": "CIS-Azure/0015/150000026", 
+  "Control Name": "2.3 Ensure that Azure Defender is set to On for Azure SQL database servers", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "Turning on Azure Defender enables threat detection for Azure SQL database servers, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center.", 
+  "control_attributes": {
+    "Control": "2.3 Ensure that Azure Defender is set to On for Azure SQL database servers", 
+    "Control_Clause": "2 Security Center", 
+    "description": "Turning on Azure Defender enables threat detection for Azure SQL database servers, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

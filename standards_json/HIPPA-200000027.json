@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000027", 
+  "compliance_control_uri": "HIPAA/0002/200000027", 
+  "Control Name": "Access Control  Encryption and Decryption - 164.312(a)(2)(iv)", 
+  "Control Family": "Access Control", 
+  "Control Statement": "Implement a mechanism to encrypt and decrypt electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Access Control  Encryption and Decryption - 164.312(a)(2)(iv)", 
+    "Security_Category": "Access Control", 
+    "Control_description": "Implement a mechanism to encrypt and decrypt electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

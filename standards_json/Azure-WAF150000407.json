@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000407", 
+  "compliance_control_uri": "Azure-WAF/0015/150000407", 
+  "Control Name": "5.2.8 Best practices and guidelines, based on industry recommendations, are reviewed and applied proactively.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Security best practices are ideally applied proactively and completely to all systems as a cloud program is implemented.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.8 Best practices and guidelines, based on industry recommendations, are reviewed and applied proactively.", 
+    "Description": "Security best practices are ideally applied proactively and completely to all systems as a cloud program is implemented."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

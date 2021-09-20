@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000130", 
+  "control_attributes": {
+    "Control": "AC-2 (8) DYNAMIC ACCOUNT CREATION", 
+    "control_description": "The information system creates [Assignment: organization-defined information system accounts] dynamically.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs an audited override of automated access control mechanisms under [Assignment: organization-defined conditions]."
+  }, 
+  "Control Statement": "The information system creates [Assignment: organization-defined information system accounts] dynamically.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (8) DYNAMIC ACCOUNT CREATION", 
+  "compliance_control_number": "600000130"
+}

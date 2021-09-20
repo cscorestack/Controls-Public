@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000379", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000379", 
+  "Control Name": "FAIL IN KNOWN STATE", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system fails to a [Assignment: organization-defined known-state] for [Assignment: organization-defined types of failures] preserving [Assignment: organization-defined system state information] in failure.Supplemental Guidance:  Failure in a known state addresses security concerns in accordance with the mission/business needs of organizations. Failure in a known secure state helps to prevent the loss of confidentiality, integrity, or availability of information in the event of failures of organizational information systems or system components. Failure in a known safe state helps to prevent systems from failing to a state that may cause injury to individuals or destruction to property. Preserving information system state information facilitates system restart and return to the operational mode of organizations with less disruption of mission/business processes. Related controls: CP-2, CP- 10, CP-12, SC-7, SC-22. Control Enhancements:  None. References:  None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system fails to a [Assignment: organization-defined known-state] for [Assignment: organization-defined types of failures] preserving [Assignment: organization-defined system state information] in failure.Supplemental Guidance:  Failure in a known state addresses security concerns in accordance with the mission/business needs of organizations. Failure in a known secure state helps to prevent the loss of confidentiality, integrity, or availability of information in the event of failures of organizational information systems or system components. Failure in a known safe state helps to prevent systems from failing to a state that may cause injury to individuals or destruction to property. Preserving information system state information facilitates system restart and return to the operational mode of organizations with less disruption of mission/business processes. Related controls: CP-2, CP- 10, CP-12, SC-7, SC-22. Control Enhancements:  None. References:  None.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "SC-24", 
+    "CNTL NO": "SC-24", 
+    "AdditionalReq": "", 
+    "Control Name": "FAIL IN KNOWN STATE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

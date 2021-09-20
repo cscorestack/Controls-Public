@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000012", 
+  "compliance_control_uri": "CIS-AWS/0007/700000012", 
+  "Control Name": "1.12 Ensure credentials unused for 90 days or greater are disabled", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS IAM users can access AWS resources using different types of credentials, such as passwords or access keys. It is recommended that all credentials that have been unused in 90 or greater days be removed or deactivated.", 
+  "control_attributes": {
+    "Control": "1.12 Ensure credentials unused for 90 days or greater are disabled", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS IAM users can access AWS resources using different types of credentials, such as passwords or access keys. It is recommended that all credentials that have been unused in 90 or greater days be removed or deactivated."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

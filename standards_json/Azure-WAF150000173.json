@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000173", 
+  "compliance_control_uri": "Azure-WAF/0015/150000173", 
+  "Control Name": "2.14.8 Failing tests at least temporarily block a deployment and lead to a deeper analysis of what has happened", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What happens when a test fails?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.8 Failing tests at least temporarily block a deployment and lead to a deeper analysis of what has happened", 
+    "Description": "What happens when a test fails?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

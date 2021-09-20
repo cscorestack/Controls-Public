@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000402", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000402", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | PRIVILEGED USER", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization implements [Assignment: organization-defined additional monitoring] of privileged users.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (20)", 
+    "CNTL NO": "SI-4 (20)", 
+    "AdditionalReq": "", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | PRIVILEGED USER"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

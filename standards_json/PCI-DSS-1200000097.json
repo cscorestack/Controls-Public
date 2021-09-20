@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000097", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000097", 
+  "Control Name": "Define access needs for each role, including: System components and data resources that each role needs to access for their job function\\n- Level of privilege required (for example, user, administrator, etc.) for accessing resources.",
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Define access needs for each role, including: System components and data resources that each role needs to access for their job function\\n- Level of privilege required (for example, user, administrator, etc.) for accessing resources.",
+    "Requirement": "7.1.1. Restrict access to cardholder data by business need to know"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000022", 
+  "compliance_control_uri": "CIS-AWS/0007/700000022", 
+  "Control Name": "1.22 Ensure IAM users are managed centrally via identity federation or AWS Organizations for multi-account environments", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "In multi-account environments, IAM user centralization facilitates greater user control. User access beyond the initial account is then provide via role assumption. Centralization of users can be accomplished through federation with an external identity provider or through the use of AWS Organizations.", 
+  "control_attributes": {
+    "Control": "1.22 Ensure IAM users are managed centrally via identity federation or AWS Organizations for multi-account environments", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "In multi-account environments, IAM user centralization facilitates greater user control. User access beyond the initial account is then provide via role assumption. Centralization of users can be accomplished through federation with an external identity provider or through the use of AWS Organizations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

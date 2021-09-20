@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000364", 
+  "compliance_control_uri": "Azure-WAF/0015/150000364", 
+  "Control Name": "4.9.6 Autoscaling has been tested and the time to scale in/out has been measured.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has autoscaling been tested? and has the time to scale in/out been measured?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.6 Autoscaling has been tested and the time to scale in/out has been measured.", 
+    "Description": "Has autoscaling been tested? and has the time to scale in/out been measured?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000201", 
+  "compliance_control_uri": "Azure-WAF/0015/150000201", 
+  "Control Name": "2.17.1 The application was built natively for the cloud.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "While cloud-native workloads are preferred, migrated or modernized applications are reality and they might not utilize the available cloud functionality like auto-scaling, platform notifications and other features the underlying cloud platform can offer. Understanding if the application is cloud-native or not provides a very useful high level indication about potential technical debt for operability and cost efficiency.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.1 The application was built natively for the cloud.", 
+    "Description": "While cloud-native workloads are preferred, migrated or modernized applications are reality and they might not utilize the available cloud functionality like auto-scaling, platform notifications and other features the underlying cloud platform can offer. Understanding if the application is cloud-native or not provides a very useful high level indication about potential technical debt for operability and cost efficiency."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000084", 
+  "compliance_control_uri": "ISO/0001/100000059", 
+  "Control Name": "14.2.4 Restrictions on changes to software packages", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled", 
+  "control_attributes": {
+    "Control_Objective": "14.2.4 Restrictions on changes to software packages", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

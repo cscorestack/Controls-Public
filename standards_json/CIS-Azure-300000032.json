@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000032", 
+  "compliance_control_uri": "CIS-Azure/0003/300000032", 
+  "Control Name": "7.2. Ensure that 'Data disks' are encrypted", 
+  "Control Family": "7. Virtual Machines", 
+  "Control Statement": "Encrypting the IaaS VM's Data disks (non-boot volume) ensures that its entire content is fully unrecoverable without a key and thus protects the volume from unwarranted reads.", 
+  "control_attributes": {
+    "Control": "7.2. Ensure that 'Data disks' are encrypted", 
+    "Control_Clause": "7. Virtual Machines", 
+    "description": "Encrypting the IaaS VM's Data disks (non-boot volume) ensures that its entire content is fully unrecoverable without a key and thus protects the volume from unwarranted reads."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

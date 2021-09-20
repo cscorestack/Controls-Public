@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000809", 
+  "control_attributes": {
+    "Control": "SI-14 (1) REFRESH FROM TRUSTED SOURCES", 
+    "control_description": "The organization ensures that software and data employed during information system component and service refreshes are obtained from [Assignment: organization-defined trusted sources].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements non-persistent [Assignment: organization-defined information system components and services] that are initiated in a known state and terminated [Selection (one or more): upon end of session of use; periodically at [Assignment: organization-defined frequency]]."
+  }, 
+  "Control Statement": "The organization ensures that software and data employed during information system component and service refreshes are obtained from [Assignment: organization-defined trusted sources].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-14 (1) REFRESH FROM TRUSTED SOURCES", 
+  "compliance_control_number": "600000809"
+}

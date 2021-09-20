@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000778", 
+  "control_attributes": {
+    "Control": "SI-5 SECURITY ALERTS, ADVISORIES, AND DIRECTIVES", 
+    "control_description": "The organization: a. Receives information system security alerts, advisories, and directives from [Assignment: organization-defined external organizations] on an ongoing basis;b. Generates internal security alerts, advisories, and directives as deemed necessary;c. Disseminates security alerts, advisories, and directives to: [Selection (one or more): [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined elements within the organization]; [Assignment: organization-defined external organizations]]; andd. Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization reports the results of security function verification to [Assignment: organization-defined personnel or roles]."
+  }, 
+  "Control Statement": "The organization: a. Receives information system security alerts, advisories, and directives from [Assignment: organization-defined external organizations] on an ongoing basis;b. Generates internal security alerts, advisories, and directives as deemed necessary;c. Disseminates security alerts, advisories, and directives to: [Selection (one or more): [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined elements within the organization]; [Assignment: organization-defined external organizations]]; andd. Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-5 SECURITY ALERTS, ADVISORIES, AND DIRECTIVES", 
+  "compliance_control_number": "600000778"
+}

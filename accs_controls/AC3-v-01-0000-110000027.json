@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000027",
+  "compliance_control_uri": "AC3-v-01/0000/110000027",
+  "Control Name": "AC-18 (3) DISABLE WIRELESS NETWORKING",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment.",
+  "control_attributes": {
+    "Control Name": "AC-18 (3) DISABLE WIRELESS NETWORKING",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Network",
+    "action_method": "Document",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000046",
+      "NIST-SP800-53/0006/600000206",
+      "ISO-27001/0011/1100000071",
+      "Fedramp-Control-High/0009/900000045"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

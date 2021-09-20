@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000278", 
+  "control_attributes": {
+    "Control": "CA-9 (1) SECURITY COMPLIANCE CHECKS", 
+    "control_description": "The information system performs security compliance checks on constituent system components prior to the establishment of the internal connection.", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that cryptographic mechanisms used to provide [Assignment: organization-defined security safeguards] are under configuration management."
+  }, 
+  "Control Statement": "The information system performs security compliance checks on constituent system components prior to the establishment of the internal connection.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-9 (1) SECURITY COMPLIANCE CHECKS", 
+  "compliance_control_number": "600000278"
+}

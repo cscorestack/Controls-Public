@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000082", 
+  "compliance_control_uri": "HIPAA/0002/200000082", 
+  "Control Name": "Documentation -Time Limit - 164.316(b)(2)(i)", 
+  "Control Family": "Documentation", 
+  "Control Statement": "Retain the documentation required by paragraph (b)(1) of this section for 6 years from the date of its creation or the date when it last was in effect, whichever is later.", 
+  "control_attributes": {
+    "Control": "Documentation -Time Limit - 164.316(b)(2)(i)", 
+    "Security_Category": "Documentation", 
+    "Control_description": "Retain the documentation required by paragraph (b)(1) of this section for 6 years from the date of its creation or the date when it last was in effect, whichever is later."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

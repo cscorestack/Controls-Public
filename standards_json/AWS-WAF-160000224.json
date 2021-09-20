@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000224",
+  "compliance_control_uri": "AWS-WAF/0016/160000224",
+  "Control Name": "PERF 5.1 Understand how networking impacts performance",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Analyze and understand how network-related decisions impact workload performance. For example, network latency often impacts the user experience, and using the wrong protocols can starve network capacity through excessive overhead.",
+  "control_attributes": {
+    "Control": "PERF 5.1 Understand how networking impacts performance",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_understand_impact"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

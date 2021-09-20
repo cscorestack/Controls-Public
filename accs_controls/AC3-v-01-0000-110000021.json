@@ -1,0 +1,140 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000021",
+  "compliance_control_uri": "AC3-v-01/0000/110000021",
+  "Control Name": "AC-17 (3) MANAGED ACCESS CONTROL POINTS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system routes all remote accesses through [Assignment: organization-defined number] managed network access control points.",
+  "control_attributes": {
+    "Control Name": "AC-17 (3) MANAGED ACCESS CONTROL POINTS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system routes all remote accesses through [Assignment: organization-defined number] managed network access control points."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/VPC"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Gateways"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000200",
+      "ISO-27001/0011/1100000009",
+      "PCI-DSS/0012/1200000109",
+      "Fedramp-Control-Moderate/0010/1000000032",
+      "Fedramp-Control-High/0009/900000040",
+      "ISO/0001/100000097",
+      "AWS-WAF/0016/160000109",
+      "AWS-WAF/0016/160000110",
+      "SOC2/0017/1700000138"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App-Svcs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/WIFiA",
+        "policy_name": "Azure_Audit_VM_Connected_Approved_Virtual_Network",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/kD7vV",
+        "policy_name": "AWS_VPC_SG_Open_Only_to_Authorized_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/OHa2D",
+        "policy_name": "AWS_Internet_Gateway_Authorized_VPC_Only",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/asdde",
+        "policy_name": "AWS_Peering_VPC_Least_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3f5b4",
+        "policy_name": "AWS_Audit_Specific_Gateway_Attached_To_Specific_VPC",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/109ef",
+        "policy_name": "AWS_Audit_VPC_Endpoint_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22631",
+        "policy_name": "AWS_Audit_VPC_Peer_Connections_Acc_Outside_Organization",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App_Services",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/asdf",
+        "policy_name": "GCP_Monitor_Rotation_Configuration_For_KMS_Key",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/rotv",
+        "policy_name": "GCP_Audit_API_Keys_Not_Rotated",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000034", 
+  "compliance_control_uri": "CIS-AWS/0007/700000034", 
+  "Control Name": "3.9 Ensure VPC flow logging is enabled in all VPCs", 
+  "Control Family": "Logging", 
+  "Control Statement": "VPC Flow Logs provide visibility into network traffic that traverses the VPC and can be used to detect anomalous traffic or insight during security workflows.", 
+  "control_attributes": {
+    "Control": "3.9 Ensure VPC flow logging is enabled in all VPCs", 
+    "Category": "Logging", 
+    "Control_description": "VPC Flow Logs provide visibility into network traffic that traverses the VPC and can be used to detect anomalous traffic or insight during security workflows."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

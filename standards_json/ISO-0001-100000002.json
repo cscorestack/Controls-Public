@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000002", 
+  "compliance_control_uri": "ISO/0001/100000002", 
+  "Control Name": "5.1.2 Review of the policies for information security", 
+  "Control Family": "5. Security policy", 
+  "Control Statement": "The information security policy shall be reviewed at planned intervals or if significant changes occur to ensure its continuing suitability, adequacy, and effectiveness", 
+  "control_attributes": {
+    "Control_Objective": "5.1.2 Review of the policies for information security", 
+    "Security_Control_Clause": "5. Security policy", 
+    "Security_Category": "5.1 Information Security Policy", 
+    "description": "The information security policy shall be reviewed at planned intervals or if significant changes occur to ensure its continuing suitability, adequacy, and effectiveness"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000377", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000377", 
+  "Control Name": "SESSION AUTHENTICITY", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system protects the authenticity of communications sessions.Supplemental Guidance:  This control addresses communications protection at the session, versus packet level (e.g., sessions in service-oriented architectures providing web-based services) and establishes grounds for confidence at both ends of communications sessions in ongoing identities of other parties and in the validity of information transmitted. Authenticity protection includes, for example, protecting against man-in-the-middle attacks/session hijacking and the insertion of false information into sessions. Related controls: SC-8, SC-10, SC-11.References: NIST Special Publications 800-52, 800-77, 800-95.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system protects the authenticity of communications sessions.Supplemental Guidance:  This control addresses communications protection at the session, versus packet level (e.g., sessions in service-oriented architectures providing web-based services) and establishes grounds for confidence at both ends of communications sessions in ongoing identities of other parties and in the validity of information transmitted. Authenticity protection includes, for example, protecting against man-in-the-middle attacks/session hijacking and the insertion of false information into sessions. Related controls: SC-8, SC-10, SC-11.References: NIST Special Publications 800-52, 800-77, 800-95.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-23", 
+    "CNTL NO": "SC-23", 
+    "AdditionalReq": " ", 
+    "Control Name": "SESSION AUTHENTICITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

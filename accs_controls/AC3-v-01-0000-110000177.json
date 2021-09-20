@@ -1,0 +1,47 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000177",
+  "compliance_control_uri": "AC3-v-01/0000/110000177",
+  "Control Name": "AU-9 (4) ACCESS BY SUBSET OF PRIVILEGED USERS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization authorizes access to management of audit functionality to only [Assignment: organization-defined subset of privileged users].",
+  "control_attributes": {
+    "Control Name": "AU-9 (4) ACCESS BY SUBSET OF PRIVILEGED USERS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization authorizes access to management of audit functionality to only [Assignment: organization-defined subset of privileged users]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000041",
+      "NIST-SP800-53/0006/600000248",
+      "ISO-27001/0011/1100000065",
+      "PCI-DSS/0012/1200000173",
+      "PCI-DSS/0012/1200000174",
+      "PCI-DSS/0012/1200000175",
+      "PCI-DSS/0012/1200000176",
+      "PCI-DSS/0012/1200000177",
+      "Fedramp-Control-Moderate/0010/1000000065",
+      "Fedramp-Control-High/0009/900000087"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

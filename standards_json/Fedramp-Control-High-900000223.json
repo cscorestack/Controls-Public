@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000223", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000223", 
+  "Control Name": "INCIDENT HANDLING | CORRELATION WITH EXTERNAL ORGANIZATIONS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization coordinates with [Assignment: organization-defined external organizations] to correlate and share [Assignment: organization-defined incident information] to achieve a cross- organization perspective on incident awareness and more effective incident responses.Supplemental Guidance:  The coordination of incident information with external organizations including, for example, mission/business partners, military/coalition partners, customers, and multitiered developers, can provide significant benefits. Cross-organizational coordination with respect to incident handling can serve as an important risk management capability. This capability allows organizations to leverage critical information from a variety of sources to effectively respond to information security-related incidents potentially affecting the organization\u00e2\u20ac\u2122s operations, assets, and individuals.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization coordinates with [Assignment: organization-defined external organizations] to correlate and share [Assignment: organization-defined incident information] to achieve a cross- organization perspective on incident awareness and more effective incident responses.Supplemental Guidance:  The coordination of incident information with external organizations including, for example, mission/business partners, military/coalition partners, customers, and multitiered developers, can provide significant benefits. Cross-organizational coordination with respect to incident handling can serve as an important risk management capability. This capability allows organizations to leverage critical information from a variety of sources to effectively respond to information security-related incidents potentially affecting the organization\u00e2\u20ac\u2122s operations, assets, and individuals.", 
+    "SelectionParam": "IR-4 (8) [external organizations including consumer incident responders and network defenders and the appropriate CIRT/CERT (such as US-CERT, DOD CERT, IC CERT)]", 
+    "FedRampParam": "x", 
+    "SORTID": "IR-04 (08)", 
+    "CNTL NO": "IR-4 (8)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT HANDLING | CORRELATION WITH EXTERNAL ORGANIZATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

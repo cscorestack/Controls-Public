@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000154", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000154", 
+  "Control Name": "CONTINGENCY TRAINING | SIMULATED EVENTS", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization incorporates simulated events into contingency training to facilitate effective response by personnel in crisis situations.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization incorporates simulated events into contingency training to facilitate effective response by personnel in crisis situations.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-03 (01)", 
+    "CNTL NO": "CP-3 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTINGENCY TRAINING | SIMULATED EVENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

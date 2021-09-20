@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000196",
+  "compliance_control_uri": "SOC2/0017/1700000196",
+  "Control Name": "Considers Mitigation of Risks of Business Disruption—Risk mitigation activities include the development of planned policies, procedures, communications, and alternative processing solutions to respond to, mitigate, and recover from security events that disrupt business operations. Those policies and procedures include monitoring processes and information and communications to meet the entity's objectives during response, mitigation, and recovery efforts.  ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Mitigation of Risks of Business Disruption—Risk mitigation activities include the development of planned policies, procedures, communications, and alternative processing solutions to respond to, mitigate, and recover from security events that disrupt business operations. Those policies and procedures include monitoring processes and information and communications to meet the entity's objectives during response, mitigation, and recovery efforts.  ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.1 The entity identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions.",
+    "ControlNo": "CC9.1.1",
+    "TrustID": "CC9.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

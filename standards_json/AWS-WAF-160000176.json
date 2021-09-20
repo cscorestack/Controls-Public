@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000176",
+  "compliance_control_uri": "AWS-WAF/0016/160000176",
+  "Control Name": "REL 8.2 Integrate functional testing as part of your deployment",
+  "Control Family": "Reliability",
+  "Control Statement": "Functional tests are run as part of automated deployment. If success criteria are not met, the pipeline is halted or rolled back.",
+  "control_attributes": {
+    "Control": "REL 8.2 Integrate functional testing as part of your deployment",
+    "Category": "Reliability",
+    "Subcategory": "How do you implement change?",
+    "question_id": "tracking-change-management",
+    "choice_id": "rel_tracking_change_management_functional_testing"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

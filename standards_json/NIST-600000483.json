@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000483", 
+  "control_attributes": {
+    "Control": "PE-1 PHYSICAL AND ENVIRONMENTAL PROTECTION POLICY AND PROCEDURES", 
+    "control_description": "The organization:                                                                                                                                                                           a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; andb. Reviews and updates the current:1. Physical and environmental protection  policy [Assignment: organization-defined frequency]; and2. Physical and environmental protection procedures [Assignment: organization-defined frequency].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization performs security checks [Assignment: organization-defined frequency] at the physical boundary of the facility or information system for unauthorized exfiltration of information or removal of information system components."
+  }, 
+  "Control Statement": "The organization:                                                                                                                                                                           a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; andb. Reviews and updates the current:1. Physical and environmental protection  policy [Assignment: organization-defined frequency]; and2. Physical and environmental protection procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-1 PHYSICAL AND ENVIRONMENTAL PROTECTION POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000483"
+}

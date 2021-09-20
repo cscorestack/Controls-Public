@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000401", 
+  "compliance_control_uri": "Azure-WAF/0015/150000401", 
+  "Control Name": "5.2.2 Landing Zone concept is implemented for this workload using Azure Blueprints and/or Azure Policies.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Landing Zone refers to components that are already defined and in place before the workloads are getting deployed by the workload owners, e.g. network topology with Hub/Spoke concept. The purpose of the \"Landing Zone\" is to ensure that when a workload lands on Azure, the required \"plumbing\" is already in place, providing greater agility and compliance with enterprise security and governance requirements. It is crucial that a Landing Zone will be handed over to the workload owner with the security guardrails deployed.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.2 Landing Zone concept is implemented for this workload using Azure Blueprints and/or Azure Policies.", 
+    "Description": "Landing Zone refers to components that are already defined and in place before the workloads are getting deployed by the workload owners, e.g. network topology with Hub/Spoke concept. The purpose of the \"Landing Zone\" is to ensure that when a workload lands on Azure, the required \"plumbing\" is already in place, providing greater agility and compliance with enterprise security and governance requirements. It is crucial that a Landing Zone will be handed over to the workload owner with the security guardrails deployed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

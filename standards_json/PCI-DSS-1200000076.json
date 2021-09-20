@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000076", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000076", 
+  "Control Name": "6.4.3 Production data (live PANs) are not used for testing or development.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.4.3 Production data (live PANs) are not used for testing or development.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

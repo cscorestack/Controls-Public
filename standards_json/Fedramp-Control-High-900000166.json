@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000166", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000166", 
+  "Control Name": "ALTERNATE PROCESSING SITE | PREPARATION FOR USE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization prepares the alternate processing site so that the site is ready to be used as the operational site supporting essential missions and business functions.Supplemental Guidance:  Site preparation includes, for example, establishing configuration settings for information system components at the alternate processing site consistent with the requirements for such settings at the primary site and ensuring that essential supplies and other logistical considerations are in place. Related controls: CM-2, CM-6.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization prepares the alternate processing site so that the site is ready to be used as the operational site supporting essential missions and business functions.Supplemental Guidance:  Site preparation includes, for example, establishing configuration settings for information system components at the alternate processing site consistent with the requirements for such settings at the primary site and ensuring that essential supplies and other logistical considerations are in place. Related controls: CM-2, CM-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-07 (04)", 
+    "CNTL NO": "CP-7 (4)", 
+    "AdditionalReq": "", 
+    "Control Name": "ALTERNATE PROCESSING SITE | PREPARATION FOR USE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

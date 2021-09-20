@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000280", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000280", 
+  "Control Name": "FIRE PROTECTION | DETECTION DEVICES / SYSTEMS", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization employs fire detection devices/systems for the information system that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire.Supplemental Guidance:  Organizations can identify specific personnel, roles, and emergency responders in the event that individuals on the notification list must have appropriate access authorizations and/or clearances, for example, to obtain access to facilities where classified operations are taking place or where there are information systems containing classified information.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization employs fire detection devices/systems for the information system that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire.Supplemental Guidance:  Organizations can identify specific personnel, roles, and emergency responders in the event that individuals on the notification list must have appropriate access authorizations and/or clearances, for example, to obtain access to facilities where classified operations are taking place or where there are information systems containing classified information.", 
+    "SelectionParam": "PE-13 (1) -1 [service provider building maintenance/physical security personnel]PE-13 (1) -2 [service provider emergency responders with incident response responsibilities] ", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-13 (01)", 
+    "CNTL NO": "PE-13 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "FIRE PROTECTION | DETECTION DEVICES / SYSTEMS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

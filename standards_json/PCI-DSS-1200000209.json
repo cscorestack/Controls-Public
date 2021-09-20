@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000209", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000209", 
+  "Control Name": "Develop usage policies for critical technologies and define proper use of these technologies.\\n\\nNote: Examples of critical technologies include, but are not limited to, remote access and wireless technologies, laptops, tablets, removable electronic media, e-mail usage and Internet usage.\\n\\nEnsure these usage policies require the following:\\nA list of all such devices and personnel with access.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Develop usage policies for critical technologies and define proper use of these technologies.\\n\\nNote: Examples of critical technologies include, but are not limited to, remote access and wireless technologies, laptops, tablets, removable electronic media, e-mail usage and Internet usage.\\n\\nEnsure these usage policies require the following:\\nA list of all such devices and personnel with access.", 
+    "Requirement": "12.3.3.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

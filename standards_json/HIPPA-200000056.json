@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000056", 
+  "compliance_control_uri": "HIPAA/0002/200000056", 
+  "Control Name": "Facility Access Controls - 164.310(a)(1)", 
+  "Control Family": "Facility Access Controls", 
+  "Control Statement": "Implement policies and procedures to limit physical access to [an entity\\u0080\\u0099s] electronic information systems and the facility or facilities in which they are housed, while ensuring that properly authorized access is allowed.", 
+  "control_attributes": {
+    "Control": "Facility Access Controls - 164.310(a)(1)", 
+    "Security_Category": "Facility Access Controls", 
+    "Control_description": "Implement policies and procedures to limit physical access to [an entity\\u0080\\u0099s] electronic information systems and the facility or facilities in which they are housed, while ensuring that properly authorized access is allowed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

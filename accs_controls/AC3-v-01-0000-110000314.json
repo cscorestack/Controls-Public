@@ -1,0 +1,82 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000314",
+  "compliance_control_uri": "AC3-v-01/0000/110000314",
+  "Control Name": "IA-2 (7) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - SEPARATE DEVICE",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system implements multifactor authentication for network access to non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [Assignment: organization-defined strength of mechanism requirements].",
+  "control_attributes": {
+    "Control Name": "IA-2 (7) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - SEPARATE DEVICE",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system implements multifactor authentication for network access to non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [Assignment: organization-defined strength of mechanism requirements]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000365",
+      "ISO-27001/0011/1100000036",
+      "ISO/0001/100000095",
+      "CIS-Azure/0015/150000020",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/#23po1",
+        "policy_name": "Azure_Audit_Write_Permissions_who_not_MFA_Enabled_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/awsqi",
+        "policy_name": "Azure_Audit_Accounts_Read_Permission_without_MFA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/nvbmg",
+        "policy_name": "Chef_Check_Yubikey_Manager_Configuration",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

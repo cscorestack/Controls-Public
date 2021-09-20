@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000016", 
+  "compliance_control_uri": "ISO-27001/0011/1100000016", 
+  "Control Name": "8.1.1 Inventory of assets", 
+  "Control Family": "8. Asset management", 
+  "Control Statement": "All assets shall be clearly identified and an inventory of all important assets drawn up and maintained. The cloud service customer's inventory of assets should\\naccount for information and associated assets stored in the cloud computing environment. The records of the inventory\\nshould indicate where the assets are maintained, e.g., identification of the cloud service.", 
+  "control_attributes": {
+    "Clause_Category": "8.1 Responsibility for assets", 
+    "description": "All assets shall be clearly identified and an inventory of all important assets drawn up and maintained. The cloud service customer's inventory of assets should\\naccount for information and associated assets stored in the cloud computing environment. The records of the inventory\\nshould indicate where the assets are maintained, e.g., identification of the cloud service.", 
+    "Control_Title": "8.1.1 Inventory of assets", 
+    "Control_Clause": "8. Asset management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

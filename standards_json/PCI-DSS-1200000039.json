@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000039", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000039", 
+  "Control Name": "3.2.3 Do not store the personal identification number (PIN) or the encrypted PIN block after authorization.", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.2.3 Do not store the personal identification number (PIN) or the encrypted PIN block after authorization.", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

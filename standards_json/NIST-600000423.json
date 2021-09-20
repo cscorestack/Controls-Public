@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000423", 
+  "control_attributes": {
+    "Control": "IR-4 (7) INSIDER THREATS - INTRA-ORGANIZATION COORDINATION", 
+    "control_description": "The organization coordinates incident handling capability for insider threats across [Assignment: organization-defined components or elements of the organization].", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization responds to information spills by:"
+  }, 
+  "Control Statement": "The organization coordinates incident handling capability for insider threats across [Assignment: organization-defined components or elements of the organization].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 (7) INSIDER THREATS - INTRA-ORGANIZATION COORDINATION", 
+  "compliance_control_number": "600000423"
+}

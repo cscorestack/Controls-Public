@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000202", 
+  "control_attributes": {
+    "Control": "AC-17 (6) PROTECTION OF INFORMATION", 
+    "control_description": "The organization ensures that users protect information about remote access mechanisms from unauthorized use and disclosure.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization [Selection: restricts; prohibits] the use of non-organizationally owned information systems, system components, or devices to process, store, or transmit organizational information."
+  }, 
+  "Control Statement": "The organization ensures that users protect information about remote access mechanisms from unauthorized use and disclosure.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-17 (6) PROTECTION OF INFORMATION", 
+  "compliance_control_number": "600000202"
+}

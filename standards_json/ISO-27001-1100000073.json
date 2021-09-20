@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000073", 
+  "compliance_control_uri": "ISO-27001/0011/1100000073", 
+  "Control Name": "13.1.3 Segregation in networks", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Groups of information services, users, and information systems shall be segregated on networks. The cloud service customer should define its requirements for\\nsegregating networks to achieve tenant isolation in the shared environment of a cloud service and verify that the cloud service provider meets those requirements.", 
+  "control_attributes": {
+    "Clause_Category": "13.1 Network security management", 
+    "description": "Groups of information services, users, and information systems shall be segregated on networks. The cloud service customer should define its requirements for\\nsegregating networks to achieve tenant isolation in the shared environment of a cloud service and verify that the cloud service provider meets those requirements.", 
+    "Control_Title": "13.1.3 Segregation in networks", 
+    "Control_Clause": "13. Communications security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

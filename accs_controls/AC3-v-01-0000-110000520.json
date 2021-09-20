@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000520",
+  "compliance_control_uri": "AC3-v-01/0000/110000520",
+  "Control Name": "PS-3 PERSONNEL SCREENING",
+  "Control Family": "PERSONNEL SECURITY",
+  "Control Statement": "The organization: a. Screens individuals prior to authorizing access to the information system; andb. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].",
+  "control_attributes": {
+    "Control Name": "PS-3 PERSONNEL SCREENING",
+    "Control Family": "PERSONNEL SECURITY",
+    "Control Statement": "The organization: a. Screens individuals prior to authorizing access to the information system; andb. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000544",
+      "ISO-27001/0011/1100000010",
+      "PCI-DSS/0012/1200000227",
+      "Fedramp-Control-Moderate/0010/1000000224",
+      "Fedramp-Control-High/0009/900000297",
+      "HIPAA/0002/200000041",
+      "ISO/0001/100000009"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

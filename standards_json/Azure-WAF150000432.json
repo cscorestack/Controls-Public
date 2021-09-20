@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000432", 
+  "compliance_control_uri": "Azure-WAF/0015/150000432", 
+  "Control Name": "5.5.5 Application configuration is stored using a dedicated configuration management system (Azure App Configuration, Azure Key Vault etc.)", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Application configuration information can be stored together with the application itself or preferably using a dedicated configuration management system like Azure App Configuration or Azure Key Vault. Keys and secrets shouldn't be included in application configuration.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.5 Application configuration is stored using a dedicated configuration management system (Azure App Configuration, Azure Key Vault etc.)", 
+    "Description": "Application configuration information can be stored together with the application itself or preferably using a dedicated configuration management system like Azure App Configuration or Azure Key Vault. Keys and secrets shouldn't be included in application configuration."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

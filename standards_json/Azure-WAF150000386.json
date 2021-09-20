@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000386", 
+  "compliance_control_uri": "Azure-WAF/0015/150000386", 
+  "Control Name": "4.13.2 Application logs are correlated across components.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are application logs correlated across components to ensure end-to-end system flows and component dependencies are monitored?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.2 Application logs are correlated across components.", 
+    "Description": "Are application logs correlated across components to ensure end-to-end system flows and component dependencies are monitored?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

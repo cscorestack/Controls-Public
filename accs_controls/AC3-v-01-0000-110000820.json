@@ -1,0 +1,146 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000820",
+  "compliance_control_uri": "AC3-v-01/0000/110000820",
+  "Control Name": "SI-7 (8) AUDITING CAPABILITY FOR SIGNIFICANT EVENTS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system, upon detection of a potential integrity violation, provides the capability to audit the event and initiates the following actions: [Selection (one or more): generates an audit record; alerts current user; alerts [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined other actions]].",
+  "control_attributes": {
+    "Control Name": "SI-7 (8) AUDITING CAPABILITY FOR SIGNIFICANT EVENTS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system, upon detection of a potential integrity violation, provides the capability to audit the event and initiates the following actions: [Selection (one or more): generates an audit record; alerts current user; alerts [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined other actions]]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application, Databases",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000786",
+      "CIS-Azure/0003/300000069",
+      "CIS-Azure/0003/300000092",
+      "CIS-Azure/0003/300000093",
+      "CIS-Azure/0003/300000094",
+      "CIS-Azure/0003/300000095",
+      "CIS-Azure/0003/300000096",
+      "CIS-Azure/0003/300000097",
+      "CIS-Azure/0003/300000098",
+      "CIS-Azure/0003/300000099",
+      "CIS-Azure/0003/300000100",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zg73w",
+        "policy_name": "Azure_Audit_Email_Alerts_SQLInstance",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hYRfU",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Security_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lPSNi",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Policy_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yhetg",
+        "policy_name": "Azure_Audit_SecurityAlert_SubsOwner",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hxl3x",
+        "policy_name": "Azure_Audit_SecurityContact_Alert",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/oyj2b",
+        "policy_name": "Azure_Audit_Email_Alerts_SQL_Servers",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/3n3a3",
+        "policy_name": "Azure_Audit_VM_LogAnalyticsWorkSpace",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/86526",
+        "policy_name": "AWS_Audit_API_Gateway_Integrated_With_AWS_WAF",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cd449",
+        "policy_name": "AWS_Audit_Web_Application_Firewall_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/disv",
+        "policy_name": "GCP_Audit_GKE_Cluster_Logging_Not_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/hjkl",
+        "policy_name": "GCP_Audit_Resources_Without_Log_Sink_Configuration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/laiv",
+        "policy_name": "GCP_Audit_Log_Sink_Storage_Buckets_Public_Accessibility",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/lkja",
+        "policy_name": "GCP_Audit_VPC_Subnetwork_With_Flow_Logs_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/qasw",
+        "policy_name": "GCP_Audit_Cloud_SQL_Instances_Without_Log_Metrics_And_Alerts_Configuration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/xcvb",
+        "policy_name": "GCP_Audit_Log_Metrics_And_Alerts_For_Cloud_Storage",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000136",
+  "compliance_control_uri": "SOC2/0017/1700000136",
+  "Control Name": "Protects Identification and Authentication Credentials—Identification and authentication credentials are protected during transmission outside its system boundaries.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Protects Identification and Authentication Credentials—Identification and authentication credentials are protected during transmission outside its system boundaries.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.6 The entity implements logical access security measures to protect against threats from sources outside its system boundaries.",
+    "ControlNo": "CC6.6.2",
+    "TrustID": "CC6.6"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

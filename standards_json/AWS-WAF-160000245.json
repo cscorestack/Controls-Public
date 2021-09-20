@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000245",
+  "compliance_control_uri": "AWS-WAF/0016/160000245",
+  "Control Name": "COST 1.1 Establish a cost optimization function",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Create a team that is responsible for establishing and maintaining cost awareness across your organization. The team requires people from ﬁnance, technology, and business roles across the organization.",
+  "control_attributes": {
+    "Control": "COST 1.1 Establish a cost optimization function",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_function"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

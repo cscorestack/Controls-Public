@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000069", 
+  "compliance_control_uri": "Azure-WAF/0015/150000069", 
+  "Control Name": "1.9.4 Shared disks are leveraged for suitable workloads.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "You can leverage shared disks to enable cost-effective clustering instead of setting up own shared disks via S2D (Storage Spaces Direct). Sample workloads that would benefit from shared disks are: SQL Server Failover Cluster Instances (FCI), Scale-out File Server (SoFS), File Server for General Use (IW workload) and SAP ASCS/SCS.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.4 Shared disks are leveraged for suitable workloads.", 
+    "Description": "You can leverage shared disks to enable cost-effective clustering instead of setting up own shared disks via S2D (Storage Spaces Direct). Sample workloads that would benefit from shared disks are: SQL Server Failover Cluster Instances (FCI), Scale-out File Server (SoFS), File Server for General Use (IW workload) and SAP ASCS/SCS."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

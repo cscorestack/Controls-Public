@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000818",
+  "compliance_control_uri": "AC3-v-01/0000/110000818",
+  "Control Name": "SI-7 (6) CRYPTOGRAPHIC PROTECTION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system implements cryptographic mechanisms to detect unauthorized changes to software, firmware, and information.",
+  "control_attributes": {
+    "Control Name": "SI-7 (6) CRYPTOGRAPHIC PROTECTION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system implements cryptographic mechanisms to detect unauthorized changes to software, firmware, and information."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000076",
+      "ISO-27001/0011/1100000090",
+      "ISO-27001/0011/1100000110",
+      "ISO/0001/100000065",
+      "ISO/0001/100000086"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

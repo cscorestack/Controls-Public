@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000040", 
+  "compliance_control_uri": "ISO/0001/100000029", 
+  "Control Name": "10.1.1 Policy on the use of cryptographic controls", 
+  "Control Family": "10. Cryptography", 
+  "Control Statement": " A policy on the use of cryptographic controls for protection of information shall be developed and implemented", 
+  "control_attributes": {
+    "Control_Objective": "10.1.1 Policy on the use of cryptographic controls", 
+    "Security_Control_Clause": "10. Cryptography", 
+    "Security_Category": "10.1 Cryptography controls", 
+    "description": " A policy on the use of cryptographic controls for protection of information shall be developed and implemented"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

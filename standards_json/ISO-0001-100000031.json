@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000031", 
+  "compliance_control_uri": "ISO/0001/100000024", 
+  "Control Name": "9.2.4 Management of secret authentication information of users", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "The allocation of passwords shall be controlled through a formal management process", 
+  "control_attributes": {
+    "Control_Objective": "9.2.4 Management of secret authentication information of users", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.2 User access management", 
+    "description": "The allocation of passwords shall be controlled through a formal management process"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

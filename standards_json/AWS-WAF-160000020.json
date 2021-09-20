@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000020",
+  "compliance_control_uri": "AWS-WAF/0016/160000020",
+  "Control Name": "OPS 3.6 Team members are enabled and encouraged to maintain and grow their skill sets",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Teams must grow their skill sets to adopt new technologies, and to support changes in demand and responsibilities in support of your workloads. Growth of skills in new technologies is frequently a source of team member satisfaction and supports innovation. Support your team members’ pursuit and maintenance of industry certiﬁcations that validate and acknowledge their growing skills. Cross train to promote knowledge transfer and reduce the risk of signiﬁcant impact when you lose skilled and experienced team members with institutional knowledge. Provide dedicated structured time for learning.",
+  "control_attributes": {
+    "Control": "OPS 3.6 Team members are enabled and encouraged to maintain and grow their skill sets",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_team_enc_learn"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

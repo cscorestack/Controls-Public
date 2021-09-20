@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000164", 
+  "compliance_control_uri": "Azure-WAF/0015/150000164", 
+  "Control Name": "2.13.2 You have a defined rollback strategy for patches.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "It is recommended to have a defined strategy in place to rollback patches in case of an error or unexpected side effects.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.13 How are you managing and distributing your patches", 
+    "Control": "2.13.2 You have a defined rollback strategy for patches.", 
+    "Description": "It is recommended to have a defined strategy in place to rollback patches in case of an error or unexpected side effects."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,57 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000384",
+  "compliance_control_uri": "AC3-v-01/0000/110000384",
+  "Control Name": "IR-7 INCIDENT RESPONSE ASSISTANCE",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.",
+  "control_attributes": {
+    "Control Name": "IR-7 INCIDENT RESPONSE ASSISTANCE",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Identity, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000097",
+      "PCI-DSS/0012/1200000237",
+      "Fedramp-Control-Moderate/0010/1000000167",
+      "Fedramp-Control-High/0009/900000228",
+      "HIPAA/0002/200000018",
+      "AWS-WAF/0016/160000132",
+      "SOC2/0017/1700000162"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yhetg",
+        "policy_name": "Azure_Audit_SecurityAlert_SubsOwner",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hxl3x",
+        "policy_name": "Azure_Audit_SecurityContact_Alert",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

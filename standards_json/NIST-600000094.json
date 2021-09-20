@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000094", 
+  "control_attributes": {
+    "Control": "IA-4 IDENTIFIER MANAGEMENT", 
+    "control_description": "The organization manages information system identifiers by:", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P3", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization manages information system identifiers by:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-4 IDENTIFIER MANAGEMENT", 
+  "compliance_control_number": "600000094"
+}

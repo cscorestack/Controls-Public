@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000153", 
+  "compliance_control_uri": "Azure-WAF/0015/150000153", 
+  "Control Name": "2.11.5 There is a defined hotfix process which bypasses normal deployment procedures", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is there a defined hotfix process which bypasses normal deployment procedures?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.5 There is a defined hotfix process which bypasses normal deployment procedures", 
+    "Description": "Is there a defined hotfix process which bypasses normal deployment procedures?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

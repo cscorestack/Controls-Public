@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000474", 
+  "compliance_control_uri": "Azure-WAF/0015/150000474", 
+  "Control Name": "5.10.4 Secure modern hashing algorithms (SHA-2 family) are used.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Applications should use the SHA-2 family of hash algorithms (SHA-256, SHA-384, SHA-512).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.4 Secure modern hashing algorithms (SHA-2 family) are used.", 
+    "Description": "Applications should use the SHA-2 family of hash algorithms (SHA-256, SHA-384, SHA-512)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

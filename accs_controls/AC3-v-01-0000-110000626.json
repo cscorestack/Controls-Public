@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000626",
+  "compliance_control_uri": "AC3-v-01/0000/110000626",
+  "Control Name": "SA-9 (4) CONSISTENT INTERESTS OF CONSUMERS AND PROVIDERS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] to ensure that the interests of [Assignment: organization-defined external service providers] are consistent with and reflect organizational interests.",
+  "control_attributes": {
+    "Control Name": "SA-9 (4) CONSISTENT INTERESTS OF CONSUMERS AND PROVIDERS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization employs [Assignment: organization-defined security safeguards] to ensure that the interests of [Assignment: organization-defined external service providers] are consistent with and reflect organizational interests."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000586",
+      "ISO-27001/0011/1100000094",
+      "ISO-27001/0011/1100000095",
+      "Fedramp-Control-Moderate/0010/1000000255",
+      "Fedramp-Control-High/0009/900000331",
+      "ISO/0001/100000069",
+      "ISO/0001/100000070"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

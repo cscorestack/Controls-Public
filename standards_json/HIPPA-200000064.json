@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000064", 
+  "compliance_control_uri": "HIPAA/0002/200000064", 
+  "Control Name": "Device and Media Controls  Disposal - 164.310(d)(2)(i)", 
+  "Control Family": "Device and Media Controls", 
+  "Control Statement": "Implement policies and procedures to address the final disposition of electronic protected health information and/or the hardware or electronic media on which it is stored.", 
+  "control_attributes": {
+    "Control": "Device and Media Controls  Disposal - 164.310(d)(2)(i)", 
+    "Security_Category": "Device and Media Controls", 
+    "Control_description": "Implement policies and procedures to address the final disposition of electronic protected health information and/or the hardware or electronic media on which it is stored."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

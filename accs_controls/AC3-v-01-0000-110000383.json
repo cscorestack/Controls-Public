@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000383",
+  "compliance_control_uri": "AC3-v-01/0000/110000383",
+  "Control Name": "IR-7 (2) COORDINATION WITH EXTERNAL PROVIDERS",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization: (a) Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and(b) Identifies organizational incident response team members to the external providers.",
+  "control_attributes": {
+    "Control Name": "IR-7 (2) COORDINATION WITH EXTERNAL PROVIDERS",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization: (a) Establishes a direct, cooperative relationship between its incident response capability and external providers of information system protection capability; and(b) Identifies organizational incident response team members to the external providers."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000430",
+      "Fedramp-Control-Moderate/0010/1000000169",
+      "Fedramp-Control-High/0009/900000230",
+      "AWS-WAF/0005/500000130",
+      "CIS-Azure/0015/150000036",
+      "SOC2/0017/1700000162"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "Azure_Audit_SecurityContact_Email",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/qsamu",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

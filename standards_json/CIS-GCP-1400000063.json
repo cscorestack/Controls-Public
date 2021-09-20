@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000063", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000063", 
+  "Control Name": "7.1 Ensure that BigQuery datasets are not anonymously or publicly accessible", 
+  "Control Family": "BigQuery", 
+  "Control Statement": "It is recommended that the IAM policy on BigQuery datasets does not allow anonymous and/or public access.", 
+  "control_attributes": {
+    "Control": "7.1 Ensure that BigQuery datasets are not anonymously or publicly accessible", 
+    "Security_Category": "BigQuery", 
+    "Control_description": "It is recommended that the IAM policy on BigQuery datasets does not allow anonymous and/or public access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

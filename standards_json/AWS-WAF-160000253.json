@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000253",
+  "compliance_control_uri": "AWS-WAF/0016/160000253",
+  "Control Name": "COST 2.2 Implement goals and targets",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement both cost and usage goals for your workload. Goals provide direction to your organization on cost and usage, and targets provide measurable outcomes for your workloads.",
+  "control_attributes": {
+    "Control": "COST 2.2 Implement goals and targets",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_goal_target"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

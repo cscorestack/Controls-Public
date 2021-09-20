@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000049", 
+  "compliance_control_uri": "CIS-Azure/0003/300000049", 
+  "Control Name": "1.12. Ensure that 'Guest users permissions are limited' is set to 'Yes'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Limiting guest access ensures that guest accounts do not have permission for certain directory tasks, such as enumerating users, groups or other directory resources, and cannot be assigned to administrative roles in your directory", 
+  "control_attributes": {
+    "Control": "1.12. Ensure that 'Guest users permissions are limited' is set to 'Yes'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Limiting guest access ensures that guest accounts do not have permission for certain directory tasks, such as enumerating users, groups or other directory resources, and cannot be assigned to administrative roles in your directory"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

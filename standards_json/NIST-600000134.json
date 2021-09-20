@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000134", 
+  "control_attributes": {
+    "Control": "AC-2 (12) ACCOUNT MONITORING / ATYPICAL USAGE", 
+    "control_description": "The organization (a) Monitors information system accounts for [Assignment: organization-defined atypical usage]; and(b) Reports atypical usage of information system accounts to [Assignment: organization-defined personnel or roles].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]]."
+  }, 
+  "Control Statement": "The organization (a) Monitors information system accounts for [Assignment: organization-defined atypical usage]; and(b) Reports atypical usage of information system accounts to [Assignment: organization-defined personnel or roles].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (12) ACCOUNT MONITORING / ATYPICAL USAGE", 
+  "compliance_control_number": "600000134"
+}

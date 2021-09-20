@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000014", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000014", 
+  "Control Name": "INFORMATION FLOW ENFORCEMENT | PHYSICAL / LOGICAL SEPARATION OF INFORMATION FLOWS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system separates information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization- defined required separations by types of information].Supplemental Guidance:  Enforcing the separation of information flows by type can enhance protection by ensuring that information is not commingled while in transit and by enabling flow control by transmission paths perhaps not otherwise achievable. Types of separable information include, for example, inbound and outbound communications traffic, service requests and responses, and information of differing security categories.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system separates information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization- defined required separations by types of information].Supplemental Guidance:  Enforcing the separation of information flows by type can enhance protection by ensuring that information is not commingled while in transit and by enabling flow control by transmission paths perhaps not otherwise achievable. Types of separable information include, for example, inbound and outbound communications traffic, service requests and responses, and information of differing security categories.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-04 (21)", 
+    "CNTL NO": "AC-4 (21)", 
+    "AdditionalReq": "", 
+    "Control Name": "INFORMATION FLOW ENFORCEMENT | PHYSICAL / LOGICAL SEPARATION OF INFORMATION FLOWS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

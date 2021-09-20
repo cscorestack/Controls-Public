@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000390", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000390", 
+  "Control Name": "MALICIOUS CODE PROTECTION | AUTOMATIC UPDATES", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system automatically updates malicious code protection mechanisms.Supplemental Guidance:  Malicious code protection mechanisms include, for example, signature definitions. Due to information system integrity and availability concerns, organizations give careful consideration to the methodology used to carry out automatic updates. Related control: SI-8.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system automatically updates malicious code protection mechanisms.Supplemental Guidance:  Malicious code protection mechanisms include, for example, signature definitions. Due to information system integrity and availability concerns, organizations give careful consideration to the methodology used to carry out automatic updates. Related control: SI-8.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-03 (02)", 
+    "CNTL NO": "SI-3 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "MALICIOUS CODE PROTECTION | AUTOMATIC UPDATES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

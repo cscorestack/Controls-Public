@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000095",
+  "compliance_control_uri": "AWS-WAF/0016/160000095",
+  "Control Name": "SEC 2.5 Audit and rotate credentials periodically",
+  "Control Family": "Security",
+  "Control Statement": "When you cannot rely on temporary credentials and require long term credentials, audit credentials to ensure that the deﬁned controls (for example, MFA) are enforced, rotated regularly, and have appropriate access level.",
+  "control_attributes": {
+    "Control": "SEC 2.5 Audit and rotate credentials periodically",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_audit"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

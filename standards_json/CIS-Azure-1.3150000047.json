@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000047", 
+  "compliance_control_uri": "CIS-Azure/0015/150000047", 
+  "Control Name": "3.9 Ensure storage for critical data are encrypted with Customer Managed Key", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Enable sensitive data encryption at rest using Customer Managed Keys rather than Microsoft Managed keys", 
+  "control_attributes": {
+    "Control": "3.9 Ensure storage for critical data are encrypted with Customer Managed Key", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Enable sensitive data encryption at rest using Customer Managed Keys rather than Microsoft Managed keys"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

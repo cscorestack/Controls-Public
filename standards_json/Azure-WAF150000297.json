@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000297", 
+  "compliance_control_uri": "Azure-WAF/0015/150000297", 
+  "Control Name": "4.1.1 Recovery targets to identify how long the workload can be unavailable (Recovery Time Objective) and how much data is acceptable to lose during a disaster (Recovery Point Objective).", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have RPO/RTO targets been defined for the application and key scenarios? Recovery time objective (RTO) - the maximum acceptable time an application is unavailable after an incident. Recovery point objective (RPO) - the maximum duration of data loss that is acceptable during a disaster.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.1 Recovery targets to identify how long the workload can be unavailable (Recovery Time Objective) and how much data is acceptable to lose during a disaster (Recovery Point Objective).", 
+    "Description": "Have RPO/RTO targets been defined for the application and key scenarios? Recovery time objective (RTO) - the maximum acceptable time an application is unavailable after an incident. Recovery point objective (RPO) - the maximum duration of data loss that is acceptable during a disaster."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

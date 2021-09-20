@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000244",
+  "compliance_control_uri": "AWS-WAF/0016/160000244",
+  "Control Name": "PERF 8.5 Use various performance-related strategies",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Where applicable, utilize multiple strategies to improve performance. For example, using strategies like caching data to prevent excessive network or database calls, using read-replicas for database engines to improve read rates, sharding or compressing data where possible to reduce data volumes, and buﬀering and streaming of results as they are available to avoid blocking.",
+  "control_attributes": {
+    "Control": "PERF 8.5 Use various performance-related strategies",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you use tradeoﬀs to improve performance?",
+    "question_id": "tradeoffs-performance",
+    "choice_id": "perf_tradeoffs_performance_implement_strategy"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000281",
+  "compliance_control_uri": "SOC2/0017/1700000281",
+  "Control Name": "Remediates Misuse of Personal Information by a Third Party—The entity takes remedial action in response to misuse of personal information by a third party to whom the entity has transferred such information.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Remediates Misuse of Personal Information by a Third Party—The entity takes remedial action in response to misuse of personal information by a third party to whom the entity has transferred such information.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.6 The entity provides notification of breaches and incidents to affected data subjects, regulators, and others to meet the entity’s objectives related to privacy.",
+    "ControlNo": "P6.6.1",
+    "TrustID": "P6.6"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

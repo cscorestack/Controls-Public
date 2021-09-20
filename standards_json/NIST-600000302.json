@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000302", 
+  "control_attributes": {
+    "Control": "CM-8 (4) ACCOUNTABILITY INFORMATION", 
+    "control_description": "The organization includes in the information system component inventory information, a means for identifying by [Selection (one or more): name; position; role], individuals responsible/accountable for administering those components.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization establishes the following restrictions on the use of open source software: [Assignment: organization-defined restrictions]."
+  }, 
+  "Control Statement": "The organization includes in the information system component inventory information, a means for identifying by [Selection (one or more): name; position; role], individuals responsible/accountable for administering those components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (4) ACCOUNTABILITY INFORMATION", 
+  "compliance_control_number": "600000302"
+}

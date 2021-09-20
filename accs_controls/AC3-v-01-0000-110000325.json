@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000325",
+  "compliance_control_uri": "AC3-v-01/0000/110000325",
+  "Control Name": "IA-4 (4) IDENTIFY USER STATUS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization manages individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristic identifying individual status].",
+  "control_attributes": {
+    "Control Name": "IA-4 (4) IDENTIFY USER STATUS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization manages individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristic identifying individual status]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000378",
+      "ISO-27001/0011/1100000028",
+      "Fedramp-Control-High/0009/900000193",
+      "ISO-27001/0011/1100000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

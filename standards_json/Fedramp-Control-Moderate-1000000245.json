@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000245", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000245", 
+  "Control Name": "ALLOCATION OF RESOURCES", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization: a. Determines information security requirements for the information system or information system service in mission/business process planning; b. Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; and c. Establishes a discrete line item for information security in organizational programming and budgeting documentation.Supplemental Guidance:  Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service. Related controls: PM-3, PM-11.Control Enhancements:  None. References:  NIST Special Publication 800-65.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization: a. Determines information security requirements for the information system or information system service in mission/business process planning; b. Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; and c. Establishes a discrete line item for information security in organizational programming and budgeting documentation.Supplemental Guidance:  Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service. Related controls: PM-3, PM-11.Control Enhancements:  None. References:  NIST Special Publication 800-65.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SA-02", 
+    "CNTL NO": "SA-2", 
+    "AdditionalReq": "", 
+    "Control Name": "ALLOCATION OF RESOURCES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

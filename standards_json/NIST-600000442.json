@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000442", 
+  "control_attributes": {
+    "Control": "MA-3 (1) INSPECT TOOLS", 
+    "control_description": "The organization inspects the maintenance tools carried into a facility by maintenance personnel for improper or unauthorized modifications.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization inspects the maintenance tools carried into a facility by maintenance personnel for improper or unauthorized modifications.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-3 (1) INSPECT TOOLS", 
+  "compliance_control_number": "600000442"
+}

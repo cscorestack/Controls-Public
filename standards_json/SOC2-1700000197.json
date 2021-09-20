@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000197",
+  "compliance_control_uri": "SOC2/0017/1700000197",
+  "Control Name": "Considers the Use of Insurance to Mitigate Financial Impact Risks—The risk management activities consider the use of insurance to offset the financial impact of loss events that would otherwise impair the ability of the entity to meet its objectives.",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers the Use of Insurance to Mitigate Financial Impact Risks—The risk management activities consider the use of insurance to offset the financial impact of loss events that would otherwise impair the ability of the entity to meet its objectives.",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.1 The entity identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions.",
+    "ControlNo": "CC9.1.2",
+    "TrustID": "CC9.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

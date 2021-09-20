@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000208",
+  "compliance_control_uri": "SOC2/0017/1700000208",
+  "Control Name": "Obtains Privacy Commitments from Vendors and Business Partners—The entity obtains privacy commitments, consistent with the entity’s privacy commitments and requirements, from vendors and business partners who have access to personal information. ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Obtains Privacy Commitments from Vendors and Business Partners—The entity obtains privacy commitments, consistent with the entity’s privacy commitments and requirements, from vendors and business partners who have access to personal information. ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.11",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

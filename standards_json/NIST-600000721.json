@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000721", 
+  "control_attributes": {
+    "Control": "SC-31 (2) MAXIMUM BANDWIDTH", 
+    "control_description": "The organization reduces the maximum bandwidth for identified covert [Selection (one or more); storage; timing] channels to [Assignment: organization-defined values].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization protects the integrity of information prior to storage on read-only media and controls the media after such information has been recorded onto the media."
+  }, 
+  "Control Statement": "The organization reduces the maximum bandwidth for identified covert [Selection (one or more); storage; timing] channels to [Assignment: organization-defined values].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-31 (2) MAXIMUM BANDWIDTH", 
+  "compliance_control_number": "600000721"
+}

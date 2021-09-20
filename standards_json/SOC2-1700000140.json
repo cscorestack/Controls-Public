@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000140",
+  "compliance_control_uri": "SOC2/0017/1700000140",
+  "Control Name": "Uses Encryption Technologies or Secure Communication Channels to Protect Data—Encryption technologies or secured communication channels are used to protect transmission of data and other communications beyond connectivity access points.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Uses Encryption Technologies or Secure Communication Channels to Protect Data—Encryption technologies or secured communication channels are used to protect transmission of data and other communications beyond connectivity access points.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.7 The entity restricts the transmission, movement, and removal of information to authorized internal and external users and processes, and protects it during transmission, movement, or removal to meet the entity’s objectives.",
+    "ControlNo": "CC6.7.2",
+    "TrustID": "CC6.7"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

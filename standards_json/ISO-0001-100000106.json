@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000106", 
+  "compliance_control_uri": "ISO/0001/100000082", 
+  "Control Name": "17.2.1 Availability of information processing facilities", 
+  "Control Family": "17. Information security aspects of business continuity management", 
+  "Control Statement": "A management authorization process for new information processing facilities shall be defined and implemented", 
+  "control_attributes": {
+    "Control_Objective": "17.2.1 Availability of information processing facilities", 
+    "Security_Control_Clause": "17. Information security aspects of business continuity management", 
+    "Security_Category": "17.2 Redundancies", 
+    "description": "A management authorization process for new information processing facilities shall be defined and implemented"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

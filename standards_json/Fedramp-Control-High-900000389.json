@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000389", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000389", 
+  "Control Name": "MALICIOUS CODE PROTECTION | CENTRAL MANAGEMENT", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization centrally manages malicious code protection mechanisms.Supplemental Guidance:  Central management is the organization-wide management and implementation of malicious code protection mechanisms. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed flaw malicious code protection security controls. Related controls: AU-2, SI-8.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization centrally manages malicious code protection mechanisms.Supplemental Guidance:  Central management is the organization-wide management and implementation of malicious code protection mechanisms. Central management includes planning, implementing, assessing, authorizing, and monitoring the organization-defined, centrally managed flaw malicious code protection security controls. Related controls: AU-2, SI-8.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-03 (01)", 
+    "CNTL NO": "SI-3 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "MALICIOUS CODE PROTECTION | CENTRAL MANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

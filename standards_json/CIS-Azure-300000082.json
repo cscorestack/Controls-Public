@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000082", 
+  "compliance_control_uri": "CIS-Azure/0003/300000082", 
+  "Control Name": "4.13. Ensure 'Enforce SSL connection' is set to 'ENABLED' for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enforcing SSL connections between database server and client applications helps protect against man in the middle attacks by encrypting the data stream between the server and application.", 
+  "control_attributes": {
+    "Control": "4.13. Ensure 'Enforce SSL connection' is set to 'ENABLED' for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enforcing SSL connections between database server and client applications helps protect against man in the middle attacks by encrypting the data stream between the server and application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

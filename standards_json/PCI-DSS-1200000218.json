@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000218", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000218", 
+  "Control Name": "Additional requirement for service providers only: Executive management shall establish responsibility for the protection of cardholder data and a PCI DSS compliance program to include:\\n- Overall accountability for maintaining PCI DSS compliance\\n- Defining a charter for a PCI DSS compliance program and communication to executive management", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Additional requirement for service providers only: Executive management shall establish responsibility for the protection of cardholder data and a PCI DSS compliance program to include:\\n- Overall accountability for maintaining PCI DSS compliance\\n- Defining a charter for a PCI DSS compliance program and communication to executive management", 
+    "Requirement": "12.4.1.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

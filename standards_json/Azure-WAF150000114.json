@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000114", 
+  "compliance_control_uri": "Azure-WAF/0015/150000114", 
+  "Control Name": "2.6.7 Retention times for logs and metrics have been defined and with housekeeping mechanisms configured", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Have retention times for logs and metrics been defined and with housekeeping mechanisms configured?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.6 How do you visualize workload data and then alert relevant teams when issues occur?", 
+    "Control": "2.6.7 Retention times for logs and metrics have been defined and with housekeeping mechanisms configured", 
+    "Description": "Have retention times for logs and metrics been defined and with housekeeping mechanisms configured?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

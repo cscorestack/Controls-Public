@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000054", 
+  "compliance_control_uri": "ISO/0001/100000115", 
+  "Control Name": "11.2.7 Secure disposal or reuse of equipment", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "All items of equipment containing storage media shall be verified to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal or re-use.", 
+  "control_attributes": {
+    "Control_Objective": "11.2.7 Secure disposal or reuse of equipment", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.2 - Equipment", 
+    "description": "All items of equipment containing storage media shall be verified to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal or re-use."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000025",
+  "compliance_control_uri": "AWS-WAF/0016/160000025",
+  "Control Name": "OPS 4.3 Implement user activity telemetry",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Instrument your application code to emit information about user activity, for example, click streams, or started, abandoned, and completed transactions. Use this information to help understand how the application is used, patterns of usage, and to determine when a response is required.",
+  "control_attributes": {
+    "Control": "OPS 4.3 Implement user activity telemetry",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you design your workload so that you can understand its state?",
+    "question_id": "telemetry",
+    "choice_id": "ops_telemetry_customer_telemetry"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

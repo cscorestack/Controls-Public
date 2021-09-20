@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000044", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000044", 
+  "Control Name": "4.9 Ensure that Compute instances do not have public IP addresses ", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "Compute instances should not be configured to have external IP addresses.", 
+  "control_attributes": {
+    "Control": "4.9 Ensure that Compute instances do not have public IP addresses ", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "Compute instances should not be configured to have external IP addresses."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

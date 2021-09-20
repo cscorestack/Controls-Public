@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000080",
+  "compliance_control_uri": "SOC2/0017/1700000080",
+  "Control Name": "Assesses Attitudes and Rationalizations—The assessment of fraud risk considers how management and other personnel might engage in or justify inappropriate actions.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Attitudes and Rationalizations—The assessment of fraud risk considers how management and other personnel might engage in or justify inappropriate actions.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.3 COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives",
+    "ControlNo": "CC3.3.4",
+    "TrustID": "CC3.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

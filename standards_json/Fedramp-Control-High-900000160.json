@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000160", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000160", 
+  "Control Name": "ALTERNATE STORAGE SITE | RECOVERY TIME / POINT OBJECTIVES", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization configures the alternate storage site to facilitate recovery operations in accordance with recovery time and recovery point objectives.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization configures the alternate storage site to facilitate recovery operations in accordance with recovery time and recovery point objectives.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-06 (02)", 
+    "CNTL NO": "CP-6 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "ALTERNATE STORAGE SITE | RECOVERY TIME / POINT OBJECTIVES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

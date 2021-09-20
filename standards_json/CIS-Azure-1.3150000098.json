@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000098", 
+  "compliance_control_uri": "CIS-Azure/0015/150000098", 
+  "Control Name": "8.3 Ensure that Resource Locks are set for mission critical Azure resources", 
+  "Control Family": "8 Other Security Considerations", 
+  "Control Statement": "Resource Manager Locks provide a way for administrators to lock down Azure resources to prevent deletion of, or modifications to, a resource.", 
+  "control_attributes": {
+    "Control": "8.3 Ensure that Resource Locks are set for mission critical Azure resources", 
+    "Control_Clause": "8 Other Security Considerations", 
+    "description": "Resource Manager Locks provide a way for administrators to lock down Azure resources to prevent deletion of, or modifications to, a resource."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

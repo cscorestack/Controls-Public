@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000258",
+  "compliance_control_uri": "AWS-WAF/0016/160000258",
+  "Control Name": "COST 3.1 Conﬁgure detailed information sources",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Conﬁgure the AWS Cost and Usage Report, and Cost Explorer hourly granularity, to provide detailed cost and usage information. Conﬁgure your workload to have log entries for every delivered business outcome.",
+  "control_attributes": {
+    "Control": "COST 3.1 Conﬁgure detailed information sources",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_detailed_source"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

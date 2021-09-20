@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000350",
+  "compliance_control_uri": "AC3-v-01/0000/110000350",
+  "Control Name": "IA-8 (3) USE OF FICAM-APPROVED PRODUCTS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization employs only FICAM-approved information system components in [Assignment: organization-defined information systems] to accept third-party credentials.",
+  "control_attributes": {
+    "Control Name": "IA-8 (3) USE OF FICAM-APPROVED PRODUCTS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization employs only FICAM-approved information system components in [Assignment: organization-defined information systems] to accept third-party credentials."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000402",
+      "Fedramp-Control-Moderate/0010/1000000156",
+      "Fedramp-Control-High/0009/900000209"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

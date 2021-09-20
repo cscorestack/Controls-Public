@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000183", 
+  "compliance_control_uri": "Azure-WAF/0015/150000183", 
+  "Control Name": "2.15.5 No users have long-standing write-access to production environments", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Does anyone have long-standing write-access to production environments?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.5 No users have long-standing write-access to production environments", 
+    "Description": "Does anyone have long-standing write-access to production environments?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

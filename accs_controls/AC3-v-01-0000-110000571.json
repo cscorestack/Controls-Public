@@ -1,0 +1,46 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000571",
+  "compliance_control_uri": "AC3-v-01/0000/110000571",
+  "Control Name": "SA-12 (9) OPERATIONS SECURITY",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization employs [Assignment: organization-defined Operations Security (OPSEC) safeguards] in accordance with classification guides to protect supply chain-related information for the information system, system component, or information system service.",
+  "control_attributes": {
+    "Control Name": "SA-12 (9) OPERATIONS SECURITY",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization employs [Assignment: organization-defined Operations Security (OPSEC) safeguards] in accordance with classification guides to protect supply chain-related information for the information system, system component, or information system service."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Compute, Storage, Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000105",
+      "ISO-27001/0011/1100000091",
+      "ISO-27001/0011/1100000092",
+      "ISO-27001/0011/1100000093",
+      "ISO/0001/100000066",
+      "ISO/0001/100000067",
+      "ISO/0001/100000068",
+      "AWS-WAF/0005/500000110",
+      "AWS-WAF/0005/500000119"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

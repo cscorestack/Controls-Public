@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000096",
+  "compliance_control_uri": "AWS-WAF/0016/160000096",
+  "Control Name": "SEC 2.6 Leverage user groups and attributes",
+  "Control Family": "Security",
+  "Control Statement": "Place users with common security requirements in groups deﬁned by your identity provider, and put mechanisms in place to ensure that user attributes that may be used for access control (e.g., department or location) are correct and updated. Use these groups and attributes, rather than individual users, to control access. This allows you to manage access centrally by changing a user’s group membership or attributes once, rather than updating many individual policies when a user’s access needs change.",
+  "control_attributes": {
+    "Control": "SEC 2.6 Leverage user groups and attributes",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_groups_attributes"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

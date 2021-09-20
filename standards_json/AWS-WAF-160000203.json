@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000203",
+  "compliance_control_uri": "AWS-WAF/0016/160000203",
+  "Control Name": "PERF 1.1 Understand the available services and resources",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Learn about and understand the wide range of services and resources available in the cloud. Identify the relevant services and conﬁguration options for your workload, and understand how to achieve optimal performance.",
+  "control_attributes": {
+    "Control": "PERF 1.1 Understand the available services and resources",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_evaluate_resources"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

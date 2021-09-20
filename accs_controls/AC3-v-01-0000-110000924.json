@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000924", 
+  "compliance_control_uri": "AC3-v-01/0000/110000924", 
+  "Control Name": "Ensure Azure Keyvaults are used to store secrets", 
+  "Control Family": "AppService", 
+  "Control Statement": "Encryption keys ,Certificate thumbprints and Managed Identity Credentials can be coded into the APP service, this renders them visible as part of the configuration, to maintain security of these keys it is better to store in an Azure Keyvault and reference them from the Keyvault.", 
+  "control_attributes": {
+    "Control Name": "Ensure Azure Keyvaults are used to store secrets", 
+    "Control Family": "AppService", 
+    "Control Statement": "Encryption keys ,Certificate thumbprints and Managed Identity Credentials can be coded into the APP service, this renders them visible as part of the configuration, to maintain security of these keys it is better to store in an Azure Keyvault and reference them from the Keyvault."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Compute", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Security/Key_Vault",
+      "service_resource": "Azure/Security/Key_Vault/Vaults"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000111"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": []
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

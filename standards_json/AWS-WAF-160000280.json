@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000280",
+  "compliance_control_uri": "AWS-WAF/0016/160000280",
+  "Control Name": "COST 7.4 Implement pricing models for all components of this workload",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Permanently running resources should utilize reserved capacity such as Savings Plans or reserved Instances. Short term capacity is conﬁgured to use Spot Instances, or Spot Fleet. On demand is only used for short-term workloads that cannot be interrupted and do not run long enough for reserved capacity, between 25% to 75% of the period, depending on the resource type.",
+  "control_attributes": {
+    "Control": "COST 7.4 Implement pricing models for all components of this workload",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you use pricing models to reduce cost?",
+    "question_id": "pricing-model",
+    "choice_id": "cost_pricing_model_implement_models"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

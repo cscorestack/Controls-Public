@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000123", 
+  "compliance_control_uri": "Azure-WAF/0015/150000123", 
+  "Control Name": "2.7.9 Azure Resource Health alerts been created to respond to Resource-level events.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Azure Resource Health Alerts should be configured for specific resource groups and resource types, and should be adjusted to maximize signal to noise ratios, i.e. only distribute a notification when a resource becomes unhealthy according to the application health model or due to an Azure platform-initiated event. It is therefore important to consider transient issues when setting an appropriate threshold for resource unavailability, such as configuring an alert for a virtual machine with a threshold of 1 minute for unavailability before an alert is triggered.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.9 Azure Resource Health alerts been created to respond to Resource-level events.", 
+    "Description": "Azure Resource Health Alerts should be configured for specific resource groups and resource types, and should be adjusted to maximize signal to noise ratios, i.e. only distribute a notification when a resource becomes unhealthy according to the application health model or due to an Azure platform-initiated event. It is therefore important to consider transient issues when setting an appropriate threshold for resource unavailability, such as configuring an alert for a virtual machine with a threshold of 1 minute for unavailability before an alert is triggered."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

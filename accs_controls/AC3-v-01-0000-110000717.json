@@ -1,0 +1,102 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000717",
+  "compliance_control_uri": "AC3-v-01/0000/110000717",
+  "Control Name": "SC-5 DENIAL OF SERVICE PROTECTION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system protects against or limits the effects of the following types of denial of service attacks: [Assignment: organization-defined types of denial of service attacks or references to sources for such information] by employing [Assignment: organization-defined security safeguards].",
+  "control_attributes": {
+    "Control Name": "SC-5 DENIAL OF SERVICE PROTECTION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system protects against or limits the effects of the following types of denial of service attacks: [Assignment: organization-defined types of denial of service attacks or references to sources for such information] by employing [Assignment: organization-defined security safeguards]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Workload",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000047",
+      "Fedramp-Control-Moderate/0010/1000000266",
+      "Fedramp-Control-High/0009/900000347",
+      "Azure-WAF/0015/150000463",
+      "AWS-WAF/0016/160000087",
+      "Azure-WAF/0015/150000459",
+      "SOC2/0017/1700000118"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ixh6k",
+        "policy_name": "Azure_Audit_Std_Tier_DDOS_Protection_Enabled_Virtual_Network",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/28c50",
+        "policy_name": "AWS_Audit_SecurityHub_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

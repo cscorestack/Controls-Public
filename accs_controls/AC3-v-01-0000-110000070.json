@@ -1,0 +1,230 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000070",
+  "compliance_control_uri": "AC3-v-01/0000/110000070",
+  "Control Name": "AC-3 ACCESS ENFORCEMENT",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system enforces approved authorizations for logical access to information           and system resources in accordance with applicable access control policies.",
+  "control_attributes": {
+    "Control Name": "AC-3 ACCESS ENFORCEMENT",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system enforces approved authorizations for logical access to information           and system resources in accordance with applicable access control policies."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000078",
+      "ISO-27001/0011/1100000027",
+      "ISO-27001/0011/1100000035",
+      "ISO-27001/0011/1100000038",
+      "ISO-27001/0011/1100000071",
+      "ISO-27001/0011/1100000079",
+      "ISO-27001/0011/1100000080",
+      "ISO-27001/0011/1100000109",
+      "Fedramp-Control-Moderate/0010/1000000012",
+      "Fedramp-Control-High/0009/900000014",
+      "HIPAA/0002/200000040",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000046",
+      "HIPAA/0002/200000059",
+      "HIPAA/0002/200000061",
+      "HIPAA/0002/200000024",
+      "ISO/0001/100000020",
+      "ISO/0001/100000094",
+      "ISO/0001/100000118",
+      "ISO/0001/100000046",
+      "ISO/0001/100000054",
+      "ISO/0001/100000055",
+      "ISO/0001/100000085",
+      "AWS-WAF/0016/160000103",
+      "SOC2/0017/1700000119"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LjgiO",
+        "policy_name": "Azure_Audit_APIApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lKMjK",
+        "policy_name": "Azure_Audit_WebApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/nktwp",
+        "policy_name": "Audit_Provisioning_Azure_AD_Admin_for_SQLserver",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/BpJCr",
+        "policy_name": "Azure_Audit_APIApp_Registered_With_AzureAD",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5a01a",
+        "policy_name": "AWS_Audit_Repository_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/844e6",
+        "policy_name": "AWS_Audit_EventBus_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/54e5d",
+        "policy_name": "AWS_Audit_KMS_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/db597",
+        "policy_name": "AWS_Audit_Lambda_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/znfdx",
+        "policy_name": "AWS_S3_Bucket_ACL_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/o7wrv",
+        "policy_name": "AWS_Audit_S3_Full_Control_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/lhjoR",
+        "policy_name": "AWS_S3_Bucket_Public_Read_Prohibited",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/buckets/0d912",
+        "policy_name": "AWS_Audit_S3_Authenticated_READ_ACP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9742c",
+        "policy_name": "AWS_Audit_S3_Bucket_Authenticated_Users_READ_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ab792",
+        "policy_name": "AWS_Audit_S3_Bucket_MFA_Delete_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5d4d3",
+        "policy_name": "AWS_Audit_S3_Buckets_with_Website_Configuration_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/962e7",
+        "policy_name": "AWS_Audit_DNS_Compliant_S3_Bucket_Names",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9385a",
+        "policy_name": "AWS_Audit_S3_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/caf91",
+        "policy_name": "AWS_Audit_S3_Transfer_Acceleration",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/82bb0",
+        "policy_name": "AWS_Audit_Identify_Cross-Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/a3531",
+        "policy_name": "AWS_Audit_SNS_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/a2c7b",
+        "policy_name": "AWS_Audit_SQS_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/109ef",
+        "policy_name": "AWS_Audit_VPC_Endpoint_Cross_Account_Access",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

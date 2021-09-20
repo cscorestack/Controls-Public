@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000473", 
+  "control_attributes": {
+    "Control": "MP-6 (7) DUAL AUTHORIZATION", 
+    "control_description": "The organization enforces dual authorization for the sanitization of [Assignment: organization-defined information system media].", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined tests] of downgrading equipment and procedures to verify correct performance [Assignment: organization-defined frequency]."
+  }, 
+  "Control Statement": "The organization enforces dual authorization for the sanitization of [Assignment: organization-defined information system media].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-6 (7) DUAL AUTHORIZATION", 
+  "compliance_control_number": "600000473"
+}

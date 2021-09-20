@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000038", 
+  "compliance_control_uri": "Azure-WAF/0015/150000038", 
+  "Control Name": "1.5.6 Tools (such as Azure Advisor) are being used to optimise SKUs discovered in this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Azure Advisor helps to optimize and improve efficiency of the workload by identifying idle and underutilized resources. It analyzes your configurations and usage telemetry and consolidates it into personalized, actionable recommendations to help you optimise your resources.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.6 Tools (such as Azure Advisor) are being used to optimise SKUs discovered in this workload.", 
+    "Description": "Azure Advisor helps to optimize and improve efficiency of the workload by identifying idle and underutilized resources. It analyzes your configurations and usage telemetry and consolidates it into personalized, actionable recommendations to help you optimise your resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

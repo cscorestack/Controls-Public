@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000197", 
+  "compliance_control_uri": "Azure-WAF/0015/150000197", 
+  "Control Name": "2.16.11 Autoscaling is enabled for application components and integrated with Azure Monitor.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Autoscaling can be leveraged to address unanticipated peak loads to help prevent application outages caused by overloading.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.11 Autoscaling is enabled for application components and integrated with Azure Monitor.", 
+    "Description": "Autoscaling can be leveraged to address unanticipated peak loads to help prevent application outages caused by overloading."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

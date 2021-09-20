@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000310", 
+  "compliance_control_uri": "Azure-WAF/0015/150000310", 
+  "Control Name": "4.3.2 Planned for expected usage patterns.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has sufficient capacity been provisioned to handle expected usage patterns?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.2 Planned for expected usage patterns.", 
+    "Description": "Has sufficient capacity been provisioned to handle expected usage patterns?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

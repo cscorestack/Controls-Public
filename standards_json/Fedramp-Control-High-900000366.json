@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000366", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000366", 
+  "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT | AVAILABILITY", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization maintains availability of information in the event of the loss of cryptographic keys by users.Supplemental Guidance:  Escrowing of encryption keys is a common practice for ensuring availability in the event of loss of keys (e.g., due to forgotten passphrase).", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization maintains availability of information in the event of the loss of cryptographic keys by users.Supplemental Guidance:  Escrowing of encryption keys is a common practice for ensuring availability in the event of loss of keys (e.g., due to forgotten passphrase).", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "SC-12 (01)", 
+    "CNTL NO": "SC-12 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT | AVAILABILITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

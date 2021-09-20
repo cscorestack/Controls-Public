@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000456", 
+  "compliance_control_uri": "Azure-WAF/0015/150000456", 
+  "Control Name": "5.8.5 NSG flow logs are configured to get insights about incoming and outgoing traffic of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "NSG flow logs should be captured and analyzed to monitor performance and security. The NSG flow logs enables Traffic Analytics to gain insights into internal and external traffic flows of the application.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.5 NSG flow logs are configured to get insights about incoming and outgoing traffic of this workload.", 
+    "Description": "NSG flow logs should be captured and analyzed to monitor performance and security. The NSG flow logs enables Traffic Analytics to gain insights into internal and external traffic flows of the application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

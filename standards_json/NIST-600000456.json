@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000456", 
+  "control_attributes": {
+    "Control": "MA-5 (3) CITIZENSHIP REQUIREMENTS FOR CLASSIFIED SYSTEMS", 
+    "control_description": "The organization ensures that personnel performing maintenance and diagnostic activities on an information system processing, storing, or transmitting classified information are U.S. citizens.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization ensures that personnel performing maintenance and diagnostic activities on an information system processing, storing, or transmitting classified information are U.S. citizens.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-5 (3) CITIZENSHIP REQUIREMENTS FOR CLASSIFIED SYSTEMS", 
+  "compliance_control_number": "600000456"
+}

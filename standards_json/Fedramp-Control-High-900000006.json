@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000006", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000006", 
+  "Control Name": "ACCOUNT MANAGEMENT | AUTOMATED AUDIT ACTIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [Assignment: organization-defined personnel or roles].Supplemental Guidance: Related controls: AU-2, AU-12.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [Assignment: organization-defined personnel or roles].Supplemental Guidance: Related controls: AU-2, AU-12.", 
+    "SelectionParam": "AC-2 (4) [organization and/or service provider system owner]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (04)", 
+    "CNTL NO": "AC-2 (4)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCOUNT MANAGEMENT | AUTOMATED AUDIT ACTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

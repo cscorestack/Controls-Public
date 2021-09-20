@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000222", 
+  "control_attributes": {
+    "Control": "AT-2 SECURITY AWARENESS TRAINING", 
+    "control_description": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces configurable network communications traffic volume thresholds reflecting limits on auditing capacity and [Selection: rejects; delays] network traffic above those thresholds."
+  }, 
+  "Control Statement": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-2 SECURITY AWARENESS TRAINING", 
+  "compliance_control_number": "600000222"
+}

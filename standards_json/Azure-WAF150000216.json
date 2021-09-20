@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000216", 
+  "compliance_control_uri": "Azure-WAF/0015/150000216", 
+  "Control Name": "2.18.3 Appropriate emergency access accounts are configured for this workload.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "While rare, sometimes extreme circumstances arise where all normal means of administrative access are unavailable and for this reason emergency access accounts (also refered to as 'break glass' accounts) should be available. These accounts are strictly controlled in accordance with best practice guidance, and they are closely monitored for unsanctioned use to ensure they are not compromised or used for nefarious purposes.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.18 What operational excellence allowances for security have you made?", 
+    "Control": "2.18.3 Appropriate emergency access accounts are configured for this workload.", 
+    "Description": "While rare, sometimes extreme circumstances arise where all normal means of administrative access are unavailable and for this reason emergency access accounts (also refered to as 'break glass' accounts) should be available. These accounts are strictly controlled in accordance with best practice guidance, and they are closely monitored for unsanctioned use to ensure they are not compromised or used for nefarious purposes."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

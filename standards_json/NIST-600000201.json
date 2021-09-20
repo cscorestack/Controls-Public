@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000201", 
+  "control_attributes": {
+    "Control": "AC-17 (4) PRIVILEGED COMMANDS / ACCESS", 
+    "control_description": "The organization: (a) Authorizes the execution of privileged commands and access to security-relevant information via remote access only for [Assignment: organization-defined needs]; and(b) Documents the rationale for such access in the security plan for the information system.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization [Selection: restricts; prohibits] the use of organization-controlled portable storage devices by authorized individuals on external information systems."
+  }, 
+  "Control Statement": "The organization: (a) Authorizes the execution of privileged commands and access to security-relevant information via remote access only for [Assignment: organization-defined needs]; and(b) Documents the rationale for such access in the security plan for the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-17 (4) PRIVILEGED COMMANDS / ACCESS", 
+  "compliance_control_number": "600000201"
+}

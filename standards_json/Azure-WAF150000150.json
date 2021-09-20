@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000150", 
+  "compliance_control_uri": "Azure-WAF/0015/150000150", 
+  "Control Name": "2.11.2 The application can be deployed automatically from scratch without any manual operations", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Can the application be deployed automatically from scratch without any manual operations?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.2 The application can be deployed automatically from scratch without any manual operations", 
+    "Description": "Can the application be deployed automatically from scratch without any manual operations?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

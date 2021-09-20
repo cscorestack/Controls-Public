@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000156",
+  "compliance_control_uri": "AWS-WAF/0016/160000156",
+  "Control Name": "REL 4.4 Do constant work",
+  "Control Family": "Reliability",
+  "Control Statement": "Systems can fail when there are large, rapid changes in load. For example, a health check system that monitors the health of thousands of servers should send the same size payload (a full snapshot of the current state) each time. Whether no servers are failing, or all of them, the health check system is doing constant work with no large, rapid changes.",
+  "control_attributes": {
+    "Control": "REL 4.4 Do constant work",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to prevent failures?",
+    "question_id": "prevent-interaction-failure",
+    "choice_id": "rel_prevent_interaction_failure_constant_work"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000046", 
+  "compliance_control_uri": "Azure-WAF/0015/150000046", 
+  "Control Name": "1.6.4 There is awareness around how the application has been built and is being maintained (in house or via an external partner).", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Exploring where technical delivery capabilities reside helps to qualify operational model boundaries and estimate the cost of operating the application as well as defining a budget and cost model.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.6 What considerations for DevOps practices are you making in this workload?", 
+    "Control": "1.6.4 There is awareness around how the application has been built and is being maintained (in house or via an external partner).", 
+    "Description": "Exploring where technical delivery capabilities reside helps to qualify operational model boundaries and estimate the cost of operating the application as well as defining a budget and cost model."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

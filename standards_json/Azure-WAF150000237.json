@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000237", 
+  "compliance_control_uri": "Azure-WAF/0015/150000237", 
+  "Control Name": "3.3.6 You have measured the time it takes to scale in and out.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Time to scale-in and scale-out can vary between Azure services and instance sizes and should be assessed to determine if a certain amount of pre-scaling is required to handle scale requirements and expected traffic patterns, such as seasonal load variations.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.3 How are you ensuring that your workload is elastic and responsive to changes?", 
+    "Control": "3.3.6 You have measured the time it takes to scale in and out.", 
+    "Description": "Time to scale-in and scale-out can vary between Azure services and instance sizes and should be assessed to determine if a certain amount of pre-scaling is required to handle scale requirements and expected traffic patterns, such as seasonal load variations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000369", 
+  "compliance_control_uri": "Azure-WAF/0015/150000369", 
+  "Control Name": "4.9.11 Throttling is implemented to govern inbound application calls and inter-component calls.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you implemented throttling for all inbound and inter-component calls?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.11 Throttling is implemented to govern inbound application calls and inter-component calls.", 
+    "Description": "Have you implemented throttling for all inbound and inter-component calls?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

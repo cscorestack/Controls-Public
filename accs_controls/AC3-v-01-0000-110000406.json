@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000406",
+  "compliance_control_uri": "AC3-v-01/0000/110000406",
+  "Control Name": "MA-4 NONLOCAL MAINTENANCE",
+  "Control Family": "MAINTENANCE",
+  "Control Statement": "The organization: a. Approves and monitors nonlocal maintenance and diagnostic activities;b. Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;c. Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;d. Maintains records for nonlocal maintenance and diagnostic activities; ande. Terminates session and network connections when nonlocal maintenance is completed.",
+  "control_attributes": {
+    "Control Name": "MA-4 NONLOCAL MAINTENANCE",
+    "Control Family": "MAINTENANCE",
+    "Control Statement": "The organization: a. Approves and monitors nonlocal maintenance and diagnostic activities;b. Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;c. Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;d. Maintains records for nonlocal maintenance and diagnostic activities; ande. Terminates session and network connections when nonlocal maintenance is completed."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000446",
+      "Fedramp-Control-Moderate/0010/1000000182",
+      "Fedramp-Control-High/0009/900000244"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

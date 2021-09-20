@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000499", 
+  "control_attributes": {
+    "Control": "PE-5 (3) MARKING OUTPUT DEVICES", 
+    "control_description": "The organization marks [Assignment: organization-defined information system output devices] indicating the appropriate security marking of the information permitted to be output from the device.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs automated mechanisms to facilitate the maintenance and review of visitor access records."
+  }, 
+  "Control Statement": "The organization marks [Assignment: organization-defined information system output devices] indicating the appropriate security marking of the information permitted to be output from the device.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-5 (3) MARKING OUTPUT DEVICES", 
+  "compliance_control_number": "600000499"
+}

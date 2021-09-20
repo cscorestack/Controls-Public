@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000135", 
+  "control_attributes": {
+    "Control": "AC-2 (13) DISABLE ACCOUNTS FOR HIGH-RISK INDIVIDUALS", 
+    "control_description": "The organization disables accounts of users posing a significant risk within [Assignment: organization-defined time period] of discovery of the risk.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces [Assignment: organization-defined limitations] on embedding data types within other data types."
+  }, 
+  "Control Statement": "The organization disables accounts of users posing a significant risk within [Assignment: organization-defined time period] of discovery of the risk.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (13) DISABLE ACCOUNTS FOR HIGH-RISK INDIVIDUALS", 
+  "compliance_control_number": "600000135"
+}

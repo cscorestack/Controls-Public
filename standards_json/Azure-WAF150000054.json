@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000054", 
+  "compliance_control_uri": "Azure-WAF/0015/150000054", 
+  "Control Name": "1.7.7 PaaS is used as an alternative to buying virtual machines.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "When you use the Platform-as-a-service (PaaS) model, operational and maintenance costs are included in the pricing and in some cases can be cheaper than managing VMs on your own.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.7 PaaS is used as an alternative to buying virtual machines.", 
+    "Description": "When you use the Platform-as-a-service (PaaS) model, operational and maintenance costs are included in the pricing and in some cases can be cheaper than managing VMs on your own."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

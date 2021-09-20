@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000264", 
+  "compliance_control_uri": "Azure-WAF/0015/150000264", 
+  "Control Name": "3.7.6 You have identified all services being utilized in Azure (and on-premise) that need to be measured.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Identifying and then monitoring all of the services and resources that make up a given workload helps ensure that you can respond quickly to any issues.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.6 You have identified all services being utilized in Azure (and on-premise) that need to be measured.", 
+    "Description": "Identifying and then monitoring all of the services and resources that make up a given workload helps ensure that you can respond quickly to any issues."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

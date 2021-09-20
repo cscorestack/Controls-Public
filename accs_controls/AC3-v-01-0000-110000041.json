@@ -1,0 +1,172 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000041",
+  "compliance_control_uri": "AC3-v-01/0000/110000041",
+  "Control Name": "AC-2 (4) AUTOMATED AUDIT ACTIONS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [Assignment: organization-defined personnel or roles].",
+  "control_attributes": {
+    "Control Name": "AC-2 (4) AUTOMATED AUDIT ACTIONS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [Assignment: organization-defined personnel or roles]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    },
+    {
+      "service_resource": "GCP/Compute/App_Engine/Firewall_Rules",
+      "service_resource_type": "GCP/Compute/App_Engine"
+    },
+    {
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans",
+      "service_resource_type": "GCP/Compute/App_Engine"
+    },
+    {
+      "service_resource": "GCP/Compute/App_Engine/Services",
+      "service_resource_type": "GCP/Compute/App_Engine"
+    },
+    {
+      "service_resource": "GCP/Compute/Compute_Engine/VM_Instances",
+      "service_resource_type": "GCP/Compute/Compute_Engine"
+    },
+    {
+      "service_resource": "GCP/Databases/SQL/SQL_Instances",
+      "service_resource_type": "GCP/Databases/SQL"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000002",
+      "PCI-DSS/0012/1200000106",
+      "PCI-DSS/0012/1200000107",
+      "PCI-DSS/0012/1200000108",
+      "PCI-DSS/0012/1200000127",
+      "Fedramp-Control-Moderate/0010/1000000006",
+      "Fedramp-Control-High/0009/900000006",
+      "HIPAA/0002/200000041",
+      "HIPAA/0002/200000043",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000046",
+      "HIPAA/0002/200000016",
+      "AWS-WAF/0005/500000073"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mazt4",
+        "policy_name": "Azure_Audit_LogProfile",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hiCzu",
+        "policy_name": "Azure_Monitor_Collect_Activity_Logs_All_Regions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/3n3a3",
+        "policy_name": "Azure_Audit_VM_LogAnalyticsWorkSpace",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/bnmm",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_VPC_Network_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/bvbn",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_Cloud_SQL_Configuration_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/fghj",
+        "policy_name": "GCP_Audit_Log_Status",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/klzx",
+        "policy_name": "GCP_Audit_Retention_Policy_For_Logs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/qazx",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_Project_Ownership",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/qmul",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_VPC_Network_Route_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/vbnm",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_VPC_Firewall_Rule_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/yale",
+        "policy_name": "GCP_Monitor_Locked_Retention_Status",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/zxcv",
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_Audit_Configuration_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "delete_control_uri_policy"
+}

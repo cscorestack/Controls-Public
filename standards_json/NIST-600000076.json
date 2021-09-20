@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000076", 
+  "control_attributes": {
+    "Control": "SI-7 (6) CRYPTOGRAPHIC PROTECTION", 
+    "control_description": "The information system implements cryptographic mechanisms to detect unauthorized changes to software, firmware, and information.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations."
+  }, 
+  "Control Statement": "The information system implements cryptographic mechanisms to detect unauthorized changes to software, firmware, and information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (6) CRYPTOGRAPHIC PROTECTION", 
+  "compliance_control_number": "600000076"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000074", 
+  "compliance_control_uri": "HIPAA/0002/200000074", 
+  "Control Name": "Business associate contracts with subcontractors - 164.314(a)(2)(iii)", 
+  "Control Family": "Business associate contracts with subcontractors", 
+  "Control Statement": "The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate.", 
+  "control_attributes": {
+    "Control": "Business associate contracts with subcontractors - 164.314(a)(2)(iii)", 
+    "Security_Category": "Business associate contracts with subcontractors", 
+    "Control_description": "The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

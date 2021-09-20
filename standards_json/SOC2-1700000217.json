@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000217",
+  "compliance_control_uri": "SOC2/0017/1700000217",
+  "Control Name": "Responds to Environmental Threat Events—Procedures are in place for responding to environmental threat events and for evaluating the effectiveness of those policies and procedures on a periodic basis. This includes automatic mitigation systems (for example, uninterruptable power system and generator back-up subsystem).",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Responds to Environmental Threat Events—Procedures are in place for responding to environmental threat events and for evaluating the effectiveness of those policies and procedures on a periodic basis. This includes automatic mitigation systems (for example, uninterruptable power system and generator back-up subsystem).",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.2 The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.",
+    "ControlNo": "A1.2.5",
+    "TrustID": "A1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

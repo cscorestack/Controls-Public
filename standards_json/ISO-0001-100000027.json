@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000027", 
+  "compliance_control_uri": "ISO/0001/100000020", 
+  "Control Name": "9.1.2 Access to networks and network services", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Users shall only be provided with access to the services that they have been specifically authorized to use", 
+  "control_attributes": {
+    "Control_Objective": "9.1.2 Access to networks and network services", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.1 Business requirements of access control", 
+    "description": "Users shall only be provided with access to the services that they have been specifically authorized to use"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000096",
+  "compliance_control_uri": "SOC2/0017/1700000096",
+  "Control Name": "Communicates Deficiencies—Deficiencies are communicated to parties responsible for taking corrective action and to senior management and the board of directors, as appropriate.",
+  "Control Family": "Monitoring Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates Deficiencies—Deficiencies are communicated to parties responsible for taking corrective action and to senior management and the board of directors, as appropriate.",
+    "Category": "Monitoring Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC4.2 COSO Principle 17: The entity evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate.",
+    "ControlNo": "CC4.2.2",
+    "TrustID": "CC4.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

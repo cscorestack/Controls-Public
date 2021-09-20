@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000357", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000357", 
+  "Control Name": "BOUNDARY PROTECTION | HOST-BASED PROTECTION", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization implements [Assignment: organization-defined host-based boundary protection mechanisms] at [Assignment: organization-defined information system components].Supplemental Guidance:  Host-based boundary protection mechanisms include, for example, host-based firewalls. Information system components employing host-based boundary protection mechanisms include, for example, servers, workstations, and mobile devices.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization implements [Assignment: organization-defined host-based boundary protection mechanisms] at [Assignment: organization-defined information system components].Supplemental Guidance:  Host-based boundary protection mechanisms include, for example, host-based firewalls. Information system components employing host-based boundary protection mechanisms include, for example, servers, workstations, and mobile devices.", 
+    "SelectionParam": "SC-7(12)-1 [Host Intrusion Prevention System (HIPS), Host Intrusion Detection System (HIDS), or minimally a host-based firewall] ", 
+    "FedRampParam": "x", 
+    "SORTID": "SC-07 (12)", 
+    "CNTL NO": "SC-7 (12)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BOUNDARY PROTECTION | HOST-BASED PROTECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

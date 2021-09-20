@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000362", 
+  "control_attributes": {
+    "Control": "IA-2 (4) LOCAL ACCESS TO NON-PRIVILEGED ACCOUNTS", 
+    "control_description": "The information system implements multifactor authentication for local access to non-privileged accounts.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements [Assignment: organization-defined out-of-band authentication] under [Assignment: organization-defined conditions]."
+  }, 
+  "Control Statement": "The information system implements multifactor authentication for local access to non-privileged accounts.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (4) LOCAL ACCESS TO NON-PRIVILEGED ACCOUNTS", 
+  "compliance_control_number": "600000362"
+}

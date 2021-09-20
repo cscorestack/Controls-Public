@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000039", 
+  "compliance_control_uri": "HIPAA/0002/200000039", 
+  "Control Name": "Assigned Security Responsibility - 164.308(a)(2)", 
+  "Control Family": "Assigned Security Responsibility", 
+  "Control Statement": "Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate.", 
+  "control_attributes": {
+    "Control": "Assigned Security Responsibility - 164.308(a)(2)", 
+    "Security_Category": "Assigned Security Responsibility", 
+    "Control_description": "Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

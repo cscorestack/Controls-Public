@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000544",
+  "compliance_control_uri": "AC3-v-01/0000/110000544",
+  "Control Name": "SA-10 (1) SOFTWARE / FIRMWARE INTEGRITY VERIFICATION",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of software and firmware components.",
+  "control_attributes": {
+    "Control Name": "SA-10 (1) SOFTWARE / FIRMWARE INTEGRITY VERIFICATION",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of software and firmware components."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000589",
+      "Fedramp-Control-Moderate/0010/1000000258",
+      "Fedramp-Control-High/0009/900000334"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

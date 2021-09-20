@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000087", 
+  "compliance_control_uri": "Azure-WAF/0015/150000087", 
+  "Control Name": "2.3.2 Availability targets such as SLAs, SLIs and SLOs for all leveraged dependencies are understood and monitored", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are SLAs/SLOs/SLIs for all leveraged dependencies understood?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.2 Availability targets such as SLAs, SLIs and SLOs for all leveraged dependencies are understood and monitored", 
+    "Description": "Are SLAs/SLOs/SLIs for all leveraged dependencies understood?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

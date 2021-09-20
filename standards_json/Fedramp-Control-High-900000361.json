@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000361", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000361", 
+  "Control Name": "BOUNDARY PROTECTION | ISOLATION OF INFORMATION SYSTEM COMPONENTS", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization employs boundary protection mechanisms to separate [Assignment: organization-defined information system components] supporting [Assignment: organization- defined missions and/or business functions].Supplemental Guidance:  Organizations can isolate information system components performing different missions and/or business functions. Such isolation limits unauthorized information flows among system components and also provides the opportunity to deploy greater levels of protection for selected components. Separating system components with boundary protection mechanisms provides the capability for increased protection of individual components and to more effectively control information flows between those components. This type of enhanced protection limits the potential harm from cyber attacks and errors. The degree of separation provided varies depending upon the mechanisms chosen. Boundary protection mechanisms include, for example, routers, gateways, and firewalls separating system components into physically separate networks or subnetworks, cross-domain devices separating subnetworks, virtualization techniques, and encrypting information flows among system components using distinct encryption keys. Related controls: CA-9, SC-3.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization employs boundary protection mechanisms to separate [Assignment: organization-defined information system components] supporting [Assignment: organization- defined missions and/or business functions].Supplemental Guidance:  Organizations can isolate information system components performing different missions and/or business functions. Such isolation limits unauthorized information flows among system components and also provides the opportunity to deploy greater levels of protection for selected components. Separating system components with boundary protection mechanisms provides the capability for increased protection of individual components and to more effectively control information flows between those components. This type of enhanced protection limits the potential harm from cyber attacks and errors. The degree of separation provided varies depending upon the mechanisms chosen. Boundary protection mechanisms include, for example, routers, gateways, and firewalls separating system components into physically separate networks or subnetworks, cross-domain devices separating subnetworks, virtualization techniques, and encrypting information flows among system components using distinct encryption keys. Related controls: CA-9, SC-3.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (21)", 
+    "CNTL NO": "SC-7 (21)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BOUNDARY PROTECTION | ISOLATION OF INFORMATION SYSTEM COMPONENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000005",
+  "compliance_control_uri": "AWS-WAF/0016/160000005",
+  "Control Name": "OPS 1.5 Evaluate threat landscape",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Evaluate threats to the business (for example, competition, business risk and liabilities, operational risks, and information security threats) and maintain current information in a risk registry. Include the impact of risks when determining where to focus eﬀorts.",
+  "control_attributes": {
+    "Control": "OPS 1.5 Evaluate threat landscape",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_eval_threat_landscape"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

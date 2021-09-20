@@ -1,0 +1,134 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000149",
+  "compliance_control_uri": "AC3-v-01/0000/110000149",
+  "Control Name": "AU-3 CONTENT OF AUDIT RECORDS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system generates audit records containing information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event.",
+  "control_attributes": {
+    "Control Name": "AU-3 CONTENT OF AUDIT RECORDS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system generates audit records containing information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Network/APIGateway",
+      "service_resource": "AWS/Network/APIGateway/ApiGatewayV2_Api"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MS-SQL_DB"
+    },
+    {
+      "service_resource_type": "Azure/Integration/API_Management",
+      "service_resource": "Azure/Integration/API_Management/Management_API"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Security_Rule"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000006",
+      "PCI-DSS/0012/1200000163",
+      "PCI-DSS/0012/1200000164",
+      "PCI-DSS/0012/1200000165",
+      "PCI-DSS/0012/1200000166",
+      "PCI-DSS/0012/1200000167",
+      "PCI-DSS/0012/1200000168",
+      "Fedramp-Control-Moderate/0010/1000000052",
+      "Fedramp-Control-High/0009/900000065",
+      "HIPAA/0002/200000028",
+      "AWS-WAF/0016/160000105",
+      "AWS-WAF/0016/160000106",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ovKPS",
+        "policy_name": "Azure_Monitor_LogProfile_Collect_All_Categories",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/73070",
+        "policy_name": "AWS_Audit_API_Detailed_CloudWatch_Metrics",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/t2VUV",
+        "policy_name": "AWS_CLOUDWATCH_Alarm_Action_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3xXGV",
+        "policy_name": "AWS_CLOUDWATCH_Alarm_Resource_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/IYCyV",
+        "policy_name": "AWS_CLOUDWATCH_Alarm_Settings_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

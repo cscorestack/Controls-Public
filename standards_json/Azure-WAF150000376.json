@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000376", 
+  "compliance_control_uri": "Azure-WAF/0015/150000376", 
+  "Control Name": "4.11.1 Application can be automatically deployed to a new region without any manual operations to recover from disaster scenarios.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Can the application be deployed automatically from scratch without any manual operations?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.11 What reliability allowances for operations have you made?", 
+    "Control": "4.11.1 Application can be automatically deployed to a new region without any manual operations to recover from disaster scenarios.", 
+    "Description": "Can the application be deployed automatically from scratch without any manual operations?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

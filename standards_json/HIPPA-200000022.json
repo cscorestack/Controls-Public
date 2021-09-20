@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000022", 
+  "compliance_control_uri": "HIPAA/0002/200000022", 
+  "Control Name": "Contingency Plan  Emergency Mode Operation Plan - 164.308(a)(7)(ii)(C)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Establish (and implement as needed) procedures to enable continuation of critical business processes for protection of the security of electronic protected health information while operating in emergency mode.", 
+  "control_attributes": {
+    "Control": "Contingency Plan  Emergency Mode Operation Plan - 164.308(a)(7)(ii)(C)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Establish (and implement as needed) procedures to enable continuation of critical business processes for protection of the security of electronic protected health information while operating in emergency mode."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

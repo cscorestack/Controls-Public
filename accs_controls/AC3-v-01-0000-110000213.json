@@ -1,0 +1,58 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000213",
+  "compliance_control_uri": "AC3-v-01/0000/110000213",
+  "Control Name": "CM-2 (7) CONFIGURE SYSTEMS, COMPONENTS, OR DEVICES FOR HIGH-RISK AREAS",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization:                                                                                          (a) Issues [Assignment: organization-defined information systems, system components, or devices] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and(b) Applies [Assignment: organization-defined security safeguards] to the devices when the individuals return.",
+  "control_attributes": {
+    "Control Name": "CM-2 (7) CONFIGURE SYSTEMS, COMPONENTS, OR DEVICES FOR HIGH-RISK AREAS",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization:                                                                                          (a) Issues [Assignment: organization-defined information systems, system components, or devices] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and(b) Applies [Assignment: organization-defined security safeguards] to the devices when the individuals return."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000282",
+      "PCI-DSS/0012/1200000008",
+      "Fedramp-Control-Moderate/0010/1000000088",
+      "Fedramp-Control-High/0009/900000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

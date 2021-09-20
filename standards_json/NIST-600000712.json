@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000712", 
+  "control_attributes": {
+    "Control": "SC-29 HETEROGENEITY", 
+    "control_description": "The organization employs a diverse set of information technologies for [Assignment: organization-defined information system components] in the implementation of the information system.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization changes the location of [Assignment: organization-defined processing and/or storage] [Selection: [Assignment: organization-defined time frequency]; at random time intervals]]."
+  }, 
+  "Control Statement": "The organization employs a diverse set of information technologies for [Assignment: organization-defined information system components] in the implementation of the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-29 HETEROGENEITY", 
+  "compliance_control_number": "600000712"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000112",
+  "compliance_control_uri": "AWS-WAF/0016/160000112",
+  "Control Name": "SEC 5.4 Implement inspection and protection",
+  "Control Family": "Security",
+  "Control Statement": "Inspect and ﬁlter your traﬃc at each layer. For example, use a web application ﬁrewall to help protect against inadvertent access at the application network layer. For Lambda functions, third-party tools can add application-layer ﬁrewalling to your runtime environment.",
+  "control_attributes": {
+    "Control": "SEC 5.4 Implement inspection and protection",
+    "Category": "Security",
+    "Subcategory": "How do you protect your network resources?",
+    "question_id": "network-protection",
+    "choice_id": "sec_network_protection_inspection"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

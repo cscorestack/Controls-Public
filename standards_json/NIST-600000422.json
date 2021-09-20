@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000422", 
+  "control_attributes": {
+    "Control": "IR-4 (6) INSIDER THREATS - SPECIFIC CAPABILITIES", 
+    "control_description": "The organization implements incident handling capability for insider threats.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization implements incident handling capability for insider threats.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 (6) INSIDER THREATS - SPECIFIC CAPABILITIES", 
+  "compliance_control_number": "600000422"
+}

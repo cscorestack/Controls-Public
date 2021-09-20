@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000011", 
+  "compliance_control_uri": "CIS-AWS/0007/700000011", 
+  "Control Name": "1.11 Do not setup access keys during initial user setup for all IAM users that have a console password", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS console defaults the checkbox for creating access keys to enabled. This results in many access keys being generated unnecessarily. In addition to unnecessary credentials, it also generates unnecessary management work in auditing and rotating these keys.", 
+  "control_attributes": {
+    "Control": "1.11 Do not setup access keys during initial user setup for all IAM users that have a console password", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS console defaults the checkbox for creating access keys to enabled. This results in many access keys being generated unnecessarily. In addition to unnecessary credentials, it also generates unnecessary management work in auditing and rotating these keys."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

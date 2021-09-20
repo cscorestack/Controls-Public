@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000183", 
+  "control_attributes": {
+    "Control": "AC-11 SESSION LOCK", 
+    "control_description": "The information system: a. Prevents further access to the system by initiating a session lock after [Assignment: organization-defined time period] of inactivity or upon receiving a request from a user; andb. Retains the session lock until the user reestablishes access using established identification and authentication procedures.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements [Assignment: organization-defined techniques or technologies] with [Assignment: organization-defined level of assurance] in associating security attributes to information."
+  }, 
+  "Control Statement": "The information system: a. Prevents further access to the system by initiating a session lock after [Assignment: organization-defined time period] of inactivity or upon receiving a request from a user; andb. Retains the session lock until the user reestablishes access using established identification and authentication procedures.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-11 SESSION LOCK", 
+  "compliance_control_number": "600000183"
+}

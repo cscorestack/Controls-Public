@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000693", 
+  "control_attributes": {
+    "Control": "SC-16 (1) INTEGRITY VALIDATION", 
+    "control_description": "The information system validates the integrity of transmitted security attributes.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prevents the download and execution of [Assignment: organization-defined unacceptable mobile code]."
+  }, 
+  "Control Statement": "The information system validates the integrity of transmitted security attributes.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-16 (1) INTEGRITY VALIDATION", 
+  "compliance_control_number": "600000693"
+}

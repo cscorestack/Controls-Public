@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000131", 
+  "compliance_control_uri": "Azure-WAF/0015/150000131", 
+  "Control Name": "2.9.1 There is a capacity model for the workload", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is there a capacity model for the application?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.1 There is a capacity model for the workload", 
+    "Description": "Is there a capacity model for the application?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

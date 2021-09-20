@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000042", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000042", 
+  "Control Name": "REMOTE ACCESS | DISCONNECT / DISABLE ACCESS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization provides the capability to expeditiously disconnect or disable remote access to the information system within [Assignment: organization-defined time period].Supplemental Guidance:  This control enhancement requires organizations to have the capability to rapidly disconnect current users remotely accessing the information system and/or disable further remote access. The speed of disconnect or disablement varies based on the criticality of missions/business functions and the need to eliminate immediate or future remote access to organizational information systems.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization provides the capability to expeditiously disconnect or disable remote access to the information system within [Assignment: organization-defined time period].Supplemental Guidance:  This control enhancement requires organizations to have the capability to rapidly disconnect current users remotely accessing the information system and/or disable further remote access. The speed of disconnect or disablement varies based on the criticality of missions/business functions and the need to eliminate immediate or future remote access to organizational information systems.", 
+    "SelectionParam": "AC-17 (9) [fifteen (15) minutes]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-17 (09)", 
+    "CNTL NO": "AC-17 (9)", 
+    "AdditionalReq": "", 
+    "Control Name": "REMOTE ACCESS | DISCONNECT / DISABLE ACCESS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

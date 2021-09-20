@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000077", 
+  "compliance_control_uri": "CIS-Azure/0003/300000077", 
+  "Control Name": "4.6. Ensure that 'Send alerts to' is set", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Provide the email address where alerts will be sent when anomalous activities are detected on SQL servers", 
+  "control_attributes": {
+    "Control": "4.6. Ensure that 'Send alerts to' is set", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Provide the email address where alerts will be sent when anomalous activities are detected on SQL servers"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

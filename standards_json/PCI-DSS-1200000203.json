@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000203", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000203", 
+  "Control Name": "Ensure that security policies and operational procedures for security monitoring and testing are documented, in use, and known to all affected parties.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Ensure that security policies and operational procedures for security monitoring and testing are documented, in use, and known to all affected parties.", 
+    "Requirement": "11.6.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

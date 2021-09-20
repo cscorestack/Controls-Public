@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000072", 
+  "compliance_control_uri": "ISO/0001/100000047", 
+  "Control Name": "13.1.2 Security of Network services", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Security features, service levels, and management requirements of all network services shall be identified and included in any network services agreement, whether these services are provided in-house or outsourced", 
+  "control_attributes": {
+    "Control_Objective": "13.1.2 Security of Network services", 
+    "Security_Control_Clause": "13. Communications security", 
+    "Security_Category": "13.1 Network security management", 
+    "description": "Security features, service levels, and management requirements of all network services shall be identified and included in any network services agreement, whether these services are provided in-house or outsourced"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

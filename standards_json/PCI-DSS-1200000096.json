@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000096", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000096", 
+  "Control Name": "Limit access to system components and cardholder data to only those individuals whose job requires such access.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Limit access to system components and cardholder data to only those individuals whose job requires such access.", 
+    "Requirement": "7.1.Restrict access to cardholder data by business need to know"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000005", 
+  "compliance_control_uri": "CIS-GCP/0014/140000005", 
+  "Control Name": "1.5 Ensure that Service Account has no Admin privileges", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "A service account is a special Google account that belongs to an application or a VM, instead of to an individual end-user.", 
+  "control_attributes": {
+    "Control": "1.5 Ensure that Service Account has no Admin privileges", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "A service account is a special Google account that belongs to an application or a VM, instead of to an individual end-user."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

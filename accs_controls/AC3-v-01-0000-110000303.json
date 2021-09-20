@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000303",
+  "compliance_control_uri": "AC3-v-01/0000/110000303",
+  "Control Name": "IA-11 RE-AUTHENTICATION",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization requires users and devices to re-authenticate when [Assignment: organization-defined circumstances or situations requiring re-authentication].",
+  "control_attributes": {
+    "Control Name": "IA-11 RE-AUTHENTICATION",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization requires users and devices to re-authenticate when [Assignment: organization-defined circumstances or situations requiring re-authentication]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000409"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

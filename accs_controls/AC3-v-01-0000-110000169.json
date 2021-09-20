@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000169",
+  "compliance_control_uri": "AC3-v-01/0000/110000169",
+  "Control Name": "AU-7 (2) AUTOMATIC SORT AND SEARCH",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system provides the capability to sort and search audit records for events of interest based on the content of [Assignment: organization-defined audit fields within audit records].",
+  "control_attributes": {
+    "Control Name": "AU-7 (2) AUTOMATIC SORT AND SEARCH",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system provides the capability to sort and search audit records for events of interest based on the content of [Assignment: organization-defined audit fields within audit records]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000243"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

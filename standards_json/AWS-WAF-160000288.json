@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000288",
+  "compliance_control_uri": "AWS-WAF/0016/160000288",
+  "Control Name": "COST 10.1 Develop a workload review process",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Develop a process that deﬁnes the criteria and process for workload review. The review eﬀort should reﬂect potential beneﬁt: for example, core workloads or workloads with a value of over 10% of the bill are reviewed quarterly, while workloads below 10% are reviewed annually.",
+  "control_attributes": {
+    "Control": "COST 10.1 Develop a workload review process",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate new services?",
+    "question_id": "evaluate-new-services",
+    "choice_id": "cost_evaluate_new_services_review_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

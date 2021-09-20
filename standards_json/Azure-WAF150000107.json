@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000107", 
+  "compliance_control_uri": "Azure-WAF/0015/150000107", 
+  "Control Name": "2.5.7 The workload is instrumented to measure customer experience", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": ".Effective instrumentation is vital to detecting and resolving performance anomalies that can impact customer experience and application availability.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.7 The workload is instrumented to measure customer experience", 
+    "Description": ".Effective instrumentation is vital to detecting and resolving performance anomalies that can impact customer experience and application availability."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

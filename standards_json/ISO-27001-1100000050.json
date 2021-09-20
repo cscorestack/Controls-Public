@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000050", 
+  "compliance_control_uri": "ISO-27001/0011/1100000050", 
+  "Control Name": "11.2.3 Cabling security", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Power and telecommunications cabling carrying data or supporting information services shall be protected from interception, interference or damage.", 
+  "control_attributes": {
+    "Clause_Category": "11.2 - Equipment", 
+    "description": "Power and telecommunications cabling carrying data or supporting information services shall be protected from interception, interference or damage.", 
+    "Control_Title": "11.2.3 Cabling security", 
+    "Control_Clause": "11. Physical and environmental security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

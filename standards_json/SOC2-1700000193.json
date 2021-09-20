@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000193",
+  "compliance_control_uri": "SOC2/0017/1700000193",
+  "Control Name": "Provides for Changes Necessary in Emergency Situations —A process is in place for authorizing, designing, testing, approving and implementing changes necessary in emergency situations (that is, changes that need to be implemented in an urgent timeframe). ",
+  "Control Family": "Change Management",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Provides for Changes Necessary in Emergency Situations —A process is in place for authorizing, designing, testing, approving and implementing changes necessary in emergency situations (that is, changes that need to be implemented in an urgent timeframe). ",
+    "Category": "Change Management",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC8.1 The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "ControlNo": "CC8.1.13",
+    "TrustID": "CC8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

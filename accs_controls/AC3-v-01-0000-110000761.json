@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000761",
+  "compliance_control_uri": "AC3-v-01/0000/110000761",
+  "Control Name": "SI-15 INFORMATION OUTPUT FILTERING",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system validates information output from [Assignment: organization-defined software programs and/or applications] to ensure that the information is consistent with the expected content.",
+  "control_attributes": {
+    "Control Name": "SI-15 INFORMATION OUTPUT FILTERING",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system validates information output from [Assignment: organization-defined software programs and/or applications] to ensure that the information is consistent with the expected content."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application,Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000099",
+      "Azure-WAF/0015/150000428",
+      "Azure-WAF/0015/150000429",
+      "PCI-DSS/0012/1200000040"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

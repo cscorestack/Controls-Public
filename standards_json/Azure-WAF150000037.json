@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000037", 
+  "compliance_control_uri": "Azure-WAF/0015/150000037", 
+  "Control Name": "1.5.5 Application components and data are split into groups as part of your disaster recovery strategy.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "A disaster recovery strategy should capture how the application responds to a disaster situation such as a regional outage or the loss of a critical platform service, using either a re-deployment, warm-spare active-passive, or hot-spare active-active approach. To drive cost down consider splitting application components and data into groups. For example: 1) must protect, 2) nice to protect, 3) ephemeral/can be rebuilt/lost, instead of protecting all data with the same policy.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.5 Application components and data are split into groups as part of your disaster recovery strategy.", 
+    "Description": "A disaster recovery strategy should capture how the application responds to a disaster situation such as a regional outage or the loss of a critical platform service, using either a re-deployment, warm-spare active-passive, or hot-spare active-active approach. To drive cost down consider splitting application components and data into groups. For example: 1) must protect, 2) nice to protect, 3) ephemeral/can be rebuilt/lost, instead of protecting all data with the same policy."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

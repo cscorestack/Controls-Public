@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000235",
+  "compliance_control_uri": "AWS-WAF/0016/160000235",
+  "Control Name": "PERF 7.2 Analyze metrics when events or incidents occur",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "In response to (or during) an event or incident, use monitoring dashboards or reports to understand and diagnose the impact. These views provide insight into which portions of the workload are not performing as expected.",
+  "control_attributes": {
+    "Control": "PERF 7.2 Analyze metrics when events or incidents occur",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_review_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

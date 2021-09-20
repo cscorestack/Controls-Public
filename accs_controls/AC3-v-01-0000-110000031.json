@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000031",
+  "compliance_control_uri": "AC3-v-01/0000/110000031",
+  "Control Name": "AC-19 (4) RESTRICTIONS FOR CLASSIFIED INFORMATION",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization: (a) Prohibits the use of unclassified mobile devices in facilities containing information systems processing, storing, or transmitting classified information unless specifically permitted by the authorizing official; and(b) Enforces the following restrictions on individuals permitted by the authorizing official to use unclassified mobile devices in facilities containing information systems processing, storing, or transmitting classified information:(1) Connection of unclassified mobile devices to classified information systems is prohibited;(2) Connection of unclassified mobile devices to unclassified information systems requires approval from the authorizing official;(3) Use of internal or external modems or wireless interfaces within the unclassified mobile devices is prohibited; and(4) Unclassified mobile devices and the information stored on those devices are subject to random reviews and inspections by [Assignment: organization-defined security officials], and if classified information is found, the incident handling policy is followed.(c) Restricts the connection of classified mobile devices to classified information systems in accordance with [Assignment: organization-defined security policies].",
+  "control_attributes": {
+    "Control Name": "AC-19 (4) RESTRICTIONS FOR CLASSIFIED INFORMATION",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization: (a) Prohibits the use of unclassified mobile devices in facilities containing information systems processing, storing, or transmitting classified information unless specifically permitted by the authorizing official; and(b) Enforces the following restrictions on individuals permitted by the authorizing official to use unclassified mobile devices in facilities containing information systems processing, storing, or transmitting classified information:(1) Connection of unclassified mobile devices to classified information systems is prohibited;(2) Connection of unclassified mobile devices to unclassified information systems requires approval from the authorizing official;(3) Use of internal or external modems or wireless interfaces within the unclassified mobile devices is prohibited; and(4) Unclassified mobile devices and the information stored on those devices are subject to random reviews and inspections by [Assignment: organization-defined security officials], and if classified information is found, the incident handling policy is followed.(c) Restricts the connection of classified mobile devices to classified information systems in accordance with [Assignment: organization-defined security policies]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000008",
+      "NIST-SP800-53/0006/600000210",
+      "ISO-27001/0011/1100000008",
+      "AWS-WAF/0005/500000118"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

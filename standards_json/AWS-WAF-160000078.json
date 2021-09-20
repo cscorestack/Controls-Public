@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000078",
+  "compliance_control_uri": "AWS-WAF/0016/160000078",
+  "Control Name": "OPS 11.5 Deﬁne drivers for improvement",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Identify drivers for improvement to help you evaluate and prioritize opportunities.",
+  "control_attributes": {
+    "Control": "OPS 11.5 Deﬁne drivers for improvement",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_drivers_for_imp"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

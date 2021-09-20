@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000020", 
+  "compliance_control_uri": "ISO/0001/100000098", 
+  "Control Name": "8.2.1 Classification of information", 
+  "Control Family": "8. Asset Management", 
+  "Control Statement": "Information shall be classified in terms of legal requirements, value, criticality and sensitivity to unauthorised disclosure or modification.", 
+  "control_attributes": {
+    "Control_Objective": "8.2.1 Classification of information", 
+    "Security_Control_Clause": "8. Asset Management", 
+    "Security_Category": "8.2 Information classification", 
+    "description": "Information shall be classified in terms of legal requirements, value, criticality and sensitivity to unauthorised disclosure or modification."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

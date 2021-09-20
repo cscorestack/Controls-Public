@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000213", 
+  "control_attributes": {
+    "Control": "AC-20 (2) PORTABLE STORAGE DEVICES", 
+    "control_description": "The organization [Selection: restricts; prohibits] the use of organization-controlled portable storage devices by authorized individuals on external information systems.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization provides role-based security training to personnel with assigned security roles and responsibilities:"
+  }, 
+  "Control Statement": "The organization [Selection: restricts; prohibits] the use of organization-controlled portable storage devices by authorized individuals on external information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-20 (2) PORTABLE STORAGE DEVICES", 
+  "compliance_control_number": "600000213"
+}

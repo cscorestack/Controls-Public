@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000757", 
+  "control_attributes": {
+    "Control": "SI-3 (10) MALICIOUS CODE ANALYSIS", 
+    "control_description": "The organization: (a) Employs [Assignment: organization-defined tools and techniques] to analyze the characteristics and behavior of malicious code; and(b) Incorporates the results from malicious code analysis into organizational incident response and flaw remediation processes", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated tools to integrate intrusion detection tools into access control and flow control mechanisms for rapid response to attacks by enabling reconfiguration of these mechanisms in support of attack isolation and elimination."
+  }, 
+  "Control Statement": "The organization: (a) Employs [Assignment: organization-defined tools and techniques] to analyze the characteristics and behavior of malicious code; and(b) Incorporates the results from malicious code analysis into organizational incident response and flaw remediation processes", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-3 (10) MALICIOUS CODE ANALYSIS", 
+  "compliance_control_number": "600000757"
+}

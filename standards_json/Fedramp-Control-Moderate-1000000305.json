@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000305", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000305", 
+  "Control Name": "MALICIOUS CODE PROTECTION | NONSIGNATURE-BASED DETECTION", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system implements nonsignature-based malicious code detection mechanisms.Supplemental Guidance:  Nonsignature-based detection mechanisms include, for example, the use of heuristics to detect, analyze, and describe the characteristics or behavior of malicious code and to provide safeguards against malicious code for which signatures do not yet exist or for which existing signatures may not be effective. This includes polymorphic malicious code (i.e., code that changes signatures when it replicates). This control enhancement does not preclude the use of signature-based detection mechanisms.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system implements nonsignature-based malicious code detection mechanisms.Supplemental Guidance:  Nonsignature-based detection mechanisms include, for example, the use of heuristics to detect, analyze, and describe the characteristics or behavior of malicious code and to provide safeguards against malicious code for which signatures do not yet exist or for which existing signatures may not be effective. This includes polymorphic malicious code (i.e., code that changes signatures when it replicates). This control enhancement does not preclude the use of signature-based detection mechanisms.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-03 (07)", 
+    "CNTL NO": "SI-3 (7)", 
+    "AdditionalReq": "", 
+    "Control Name": "MALICIOUS CODE PROTECTION | NONSIGNATURE-BASED DETECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

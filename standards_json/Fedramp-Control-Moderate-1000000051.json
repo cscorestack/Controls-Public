@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000051", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000051", 
+  "Control Name": "AUDIT EVENTS | REVIEWS AND UPDATES", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization reviews and updates the audited events [Assignment: organization-defined frequency].Supplemental Guidance:  Over time, the events that organizations believe should be audited may change. Reviewing and updating the set of audited events periodically is necessary to ensure that the current set is still necessary and sufficient.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization reviews and updates the audited events [Assignment: organization-defined frequency].Supplemental Guidance:  Over time, the events that organizations believe should be audited may change. Reviewing and updating the set of audited events periodically is necessary to ensure that the current set is still necessary and sufficient.", 
+    "SelectionParam": "AU-2 (3) [annually or whenever there is a change in the threat environment] ", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-02 (03)", 
+    "CNTL NO": "AU-2 (3)", 
+    "AdditionalReq": "AU-2 (3) Guidance: Annually or whenever changes in the threat environment are communicated to the service provider by the JAB. ", 
+    "Control Name": "AUDIT EVENTS | REVIEWS AND UPDATES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

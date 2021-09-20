@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000497", 
+  "control_attributes": {
+    "Control": "PE-5 (1) ACCESS TO OUTPUT BY AUTHORIZED INDIVIDUALS", 
+    "control_description": "The organization: (a) Controls physical access to output from [Assignment: organization-defined output devices]; and(b) Ensures that only authorized individuals receive output from the device.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization monitors physical access to the information system in addition to the physical access monitoring of the facility as [Assignment: organization-defined physical spaces containing one or more components of the information system]."
+  }, 
+  "Control Statement": "The organization: (a) Controls physical access to output from [Assignment: organization-defined output devices]; and(b) Ensures that only authorized individuals receive output from the device.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-5 (1) ACCESS TO OUTPUT BY AUTHORIZED INDIVIDUALS", 
+  "compliance_control_number": "600000497"
+}

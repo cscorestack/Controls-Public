@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000059", 
+  "compliance_control_uri": "CIS-Azure/0015/150000059", 
+  "Control Name": "4.3.2 Ensure 'Enforce SSL connection' is set to 'ENABLED' for MySQL Database Server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable SSL connection on MYSQL Servers.", 
+  "control_attributes": {
+    "Control": "4.3.2 Ensure 'Enforce SSL connection' is set to 'ENABLED' for MySQL Database Server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable SSL connection on MYSQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

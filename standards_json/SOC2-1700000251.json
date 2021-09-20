@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000251",
+  "compliance_control_uri": "SOC2/0017/1700000251",
+  "Control Name": "Obtains Consent for Data Transfers—Consent is obtained before personal information is transferred to or from an individual’s computer or other similar device. ",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Obtains Consent for Data Transfers—Consent is obtained before personal information is transferred to or from an individual’s computer or other similar device. ",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P2.1 The entity communicates choices available regarding the collection, use, retention, disclosure, and disposal of personal information to the data subjects and the consequences, if any, of each choice. Explicit consent for the collection, use, retention, disclosure, and disposal of personal information is obtained from data subjects or other authorized persons, if required. Such consent is obtained only for the intended purpose of the information to meet the entity’s objectives related to privacy. The entity’s basis for determining implicit consent for the collection, use, retention, disclosure, and disposal of personal information is documented.",
+    "ControlNo": "P2.1.6",
+    "TrustID": "P2.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

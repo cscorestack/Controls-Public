@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000078", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000078", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | PERMITTED ACTIONS", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization specifies the permitted actions for each [Selection (one or more): information system process; role; user] associated with the review, analysis, and reporting of audit information.Supplemental Guidance:  Organizations specify permitted actions for information system processes, roles, and/or users associated with the review, analysis, and reporting of audit records through account management techniques. Specifying permitted actions on audit information is a way to enforce the principle of least privilege. Permitted actions are enforced by the information system and include, for example, read, write, execute, append, and delete.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization specifies the permitted actions for each [Selection (one or more): information system process; role; user] associated with the review, analysis, and reporting of audit information.Supplemental Guidance:  Organizations specify permitted actions for information system processes, roles, and/or users associated with the review, analysis, and reporting of audit records through account management techniques. Specifying permitted actions on audit information is a way to enforce the principle of least privilege. Permitted actions are enforced by the information system and include, for example, read, write, execute, append, and delete.", 
+    "SelectionParam": "AU-6 (7) [information system process; role; user] ", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-06 (07)", 
+    "CNTL NO": "AU-6 (7)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | PERMITTED ACTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000476", 
+  "compliance_control_uri": "Azure-WAF/0015/150000476", 
+  "Control Name": "5.10.6 Data in transit is encrypted.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "When data is being transferred between components, locations, or programs, it's in transit. Data in transit should be encrypted using a common encryption standard at all points to ensure data integrity. For example: web applications and APIs should use HTTPS/SSL for all communication with clients and also between each other (in micro-services architecture). Determine if all components in the solution are using a consistent standard. There are times when encryption is not possible due to technical limitations, but the reason needs to be clear and valid.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.6 Data in transit is encrypted.", 
+    "Description": "When data is being transferred between components, locations, or programs, it's in transit. Data in transit should be encrypted using a common encryption standard at all points to ensure data integrity. For example: web applications and APIs should use HTTPS/SSL for all communication with clients and also between each other (in micro-services architecture). Determine if all components in the solution are using a consistent standard. There are times when encryption is not possible due to technical limitations, but the reason needs to be clear and valid."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

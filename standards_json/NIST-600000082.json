@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000082", 
+  "control_attributes": {
+    "Control": "SC-2 APPLICATION PARTITIONING", 
+    "control_description": "The information system separates user functionality (including user interface services) from information system management functionality.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents."
+  }, 
+  "Control Statement": "The information system separates user functionality (including user interface services) from information system management functionality.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-2 APPLICATION PARTITIONING", 
+  "compliance_control_number": "600000082"
+}

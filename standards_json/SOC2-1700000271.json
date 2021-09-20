@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000271",
+  "compliance_control_uri": "SOC2/0017/1700000271",
+  "Control Name": "Communicates Privacy Policies to Third Parties—Privacy policies or other specific instructions or requirements for handling personal information are communicated to third parties to whom personal information is disclosed.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates Privacy Policies to Third Parties—Privacy policies or other specific instructions or requirements for handling personal information are communicated to third parties to whom personal information is disclosed.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.1 The entity discloses personal information to third parties with the explicit consent of data subjects, and such consent is obtained prior to disclosure to meet the entity’s objectives related to privacy",
+    "ControlNo": "P6.1.1",
+    "TrustID": "P6.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

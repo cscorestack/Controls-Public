@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000353", 
+  "compliance_control_uri": "Azure-WAF/0015/150000353", 
+  "Control Name": "4.8.2 Health probes are configured for Azure Load Balancer(s) to assess application traffic flows and compound health.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are Azure Load Balancer health probes configured to assess traffic flows and compound application health?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.2 Health probes are configured for Azure Load Balancer(s) to assess application traffic flows and compound health.", 
+    "Description": "Are Azure Load Balancer health probes configured to assess traffic flows and compound application health?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

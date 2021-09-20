@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000268",
+  "compliance_control_uri": "AWS-WAF/0016/160000268",
+  "Control Name": "COST 5.1 Identify organization requirements for cost",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Work with team members to deﬁne the balance between cost optimization and other pillars, such as performance and reliability, for this workload.",
+  "control_attributes": {
+    "Control": "COST 5.1 Identify organization requirements for cost",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_requirements"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

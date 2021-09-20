@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000325", 
+  "control_attributes": {
+    "Control": "CP-3 (1) SIMULATED EVENTS", 
+    "control_description": "The organization incorporates simulated events into contingency training to facilitate effective response by personnel in crisis situations.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization identifies potential accessibility problems to the alternate storage site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions."
+  }, 
+  "Control Statement": "The organization incorporates simulated events into contingency training to facilitate effective response by personnel in crisis situations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-3 (1) SIMULATED EVENTS", 
+  "compliance_control_number": "600000325"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000218",
+  "compliance_control_uri": "SOC2/0017/1700000218",
+  "Control Name": "Communicates and Reviews Detected Environmental Threat Events—Detected environmental threat events are communicated to and reviewed by the individuals responsible for the management of the system, and actions are taken, if necessary.",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates and Reviews Detected Environmental Threat Events—Detected environmental threat events are communicated to and reviewed by the individuals responsible for the management of the system, and actions are taken, if necessary.",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.2 The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.",
+    "ControlNo": "A1.2.6",
+    "TrustID": "A1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

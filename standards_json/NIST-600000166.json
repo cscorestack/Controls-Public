@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000166", 
+  "control_attributes": {
+    "Control": "AC-6 (2) NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS", 
+    "control_description": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non-privileged accounts or roles, when accessing nonsecurity functions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system notifies the user, upon successful logon/access, of the number of unsuccessful logon/access attempts since the last successful logon/access."
+  }, 
+  "Control Statement": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non-privileged accounts or roles, when accessing nonsecurity functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (2) NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS", 
+  "compliance_control_number": "600000166"
+}

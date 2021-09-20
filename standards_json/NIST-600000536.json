@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000536", 
+  "control_attributes": {
+    "Control": "PL-4 RULES OF BEHAVIOR", 
+    "control_description": "The organization: a. Establishes and makes readily available to individuals requiring access to the information system, the rules that describe their responsibilities and expected behavior with regard to information and information system usage;b. Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;c. Reviews and updates the rules of behavior [Assignment: organization-defined frequency]; andd. Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated", 
+    "Family": "PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Establishes and makes readily available to individuals requiring access to the information system, the rules that describe their responsibilities and expected behavior with regard to information and information system usage;b. Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;c. Reviews and updates the rules of behavior [Assignment: organization-defined frequency]; andd. Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-4 RULES OF BEHAVIOR", 
+  "compliance_control_number": "600000536"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000129",
+  "compliance_control_uri": "AWS-WAF/0016/160000129",
+  "Control Name": "SEC 9.2 Enforce encryption in transit",
+  "Control Family": "Security",
+  "Control Statement": "Enforce your deﬁned encryption requirements based on appropriate standards and recommendations to help you meet your organizational, legal, and compliance requirements.",
+  "control_attributes": {
+    "Control": "SEC 9.2 Enforce encryption in transit",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data in transit?",
+    "question_id": "protect-data-transit",
+    "choice_id": "sec_protect_data_transit_encrypt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

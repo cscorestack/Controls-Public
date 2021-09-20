@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000053", 
+  "compliance_control_uri": "CIS-Azure/0015/150000053", 
+  "Control Name": "4.2.1 Ensure that Advanced Threat Protection (ATP) on a SQL server is set to 'Enabled'", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable Azure Defender for SQL on critical SQL Servers.", 
+  "control_attributes": {
+    "Control": "4.2.1 Ensure that Advanced Threat Protection (ATP) on a SQL server is set to 'Enabled'", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable Azure Defender for SQL on critical SQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

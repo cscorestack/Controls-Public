@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000348", 
+  "compliance_control_uri": "Azure-WAF/0015/150000348", 
+  "Control Name": "4.7.1 Have a method to handle faults that might take a variable amount of time to recover from.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "There can also be situations where faults are due to unanticipated events, and that might take much longer to fix. These faults can range in severity from a partial loss of connectivity to the complete failure of a service.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.7 How does your application logic handle exceptions and errors?", 
+    "Control": "4.7.1 Have a method to handle faults that might take a variable amount of time to recover from.", 
+    "Description": "There can also be situations where faults are due to unanticipated events, and that might take much longer to fix. These faults can range in severity from a partial loss of connectivity to the complete failure of a service."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

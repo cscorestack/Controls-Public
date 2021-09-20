@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000014", 
+  "compliance_control_uri": "CIS-Azure/0003/300000014", 
+  "Control Name": "2.16. Ensure that 'Security contact emails' is set", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "This ensures that the designated security contact are aware of any potential compromise in order to mitigate the risk in a timely fashion.", 
+  "control_attributes": {
+    "Control": "2.16. Ensure that 'Security contact emails' is set", 
+    "Control_Clause": "2. Security Center", 
+    "description": "This ensures that the designated security contact are aware of any potential compromise in order to mitigate the risk in a timely fashion."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

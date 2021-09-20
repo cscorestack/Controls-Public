@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000241", 
+  "compliance_control_uri": "Azure-WAF/0015/150000241", 
+  "Control Name": "3.4.4 You have enabled auto-scaling for all PaaS and IaaS services that support it.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Leveraging built-in Auto-scaling capabilities can help to maintain system reliability in times of increased demand while not needing to overprovision resources up-front, by letting a service automatically scale within a pre-configured range of resources.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.4 You have enabled auto-scaling for all PaaS and IaaS services that support it.", 
+    "Description": "Leveraging built-in Auto-scaling capabilities can help to maintain system reliability in times of increased demand while not needing to overprovision resources up-front, by letting a service automatically scale within a pre-configured range of resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000067",
+  "compliance_control_uri": "SOC2/0017/1700000067",
+  "Control Name": "Considers Tolerances for Risk—Management considers the acceptable levels of variation relative to the achievement of operations objectives.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Tolerances for Risk—Management considers the acceptable levels of variation relative to the achievement of operations objectives.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.1 COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "ControlNo": "CC3.1.15",
+    "TrustID": "CC3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

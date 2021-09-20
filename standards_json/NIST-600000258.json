@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000258", 
+  "control_attributes": {
+    "Control": "AU-13 (1) USE OF AUTOMATED TOOLS", 
+    "control_description": "The organization employs automated mechanisms to determine if organizational information has been disclosed in an unauthorized manner.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization prohibits the direct connection of an [Assignment: organization-defined unclassified, non-national security system] to an external network without the use of [Assignment; organization-defined boundary protection device]."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to determine if organizational information has been disclosed in an unauthorized manner.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-13 (1) USE OF AUTOMATED TOOLS", 
+  "compliance_control_number": "600000258"
+}

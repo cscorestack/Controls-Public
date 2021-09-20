@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000193", 
+  "control_attributes": {
+    "Control": "AC-16 (6) MAINTENANCE OF ATTRIBUTE ASSOCIATION BY ORGANIZATION", 
+    "control_description": "The organization allows personnel to associate, and maintain the association of [Assignment: organization-defined security attributes] with [Assignment: organization-defined subjects and objects] in accordance with [Assignment: organization-defined security policies].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system protects wireless access to the system using authentication of [Selection (one or more): users; devices] and encryption."
+  }, 
+  "Control Statement": "The organization allows personnel to associate, and maintain the association of [Assignment: organization-defined security attributes] with [Assignment: organization-defined subjects and objects] in accordance with [Assignment: organization-defined security policies].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (6) MAINTENANCE OF ATTRIBUTE ASSOCIATION BY ORGANIZATION", 
+  "compliance_control_number": "600000193"
+}

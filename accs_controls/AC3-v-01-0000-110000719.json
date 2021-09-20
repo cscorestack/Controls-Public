@@ -1,0 +1,56 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000719",
+  "compliance_control_uri": "AC3-v-01/0000/110000719",
+  "Control Name": "SC-7 (10) PREVENT UNAUTHORIZED EXFILTRATION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization prevents the unauthorized exfiltration of information across managed interfaces.",
+  "control_attributes": {
+    "Control Name": "SC-7 (10) PREVENT UNAUTHORIZED EXFILTRATION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization prevents the unauthorized exfiltration of information across managed interfaces."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000668",
+      "ISO-27001/0011/1100000071",
+      "ISO-27001/0011/1100000073",
+      "ISO-27001/0011/1100000074",
+      "ISO-27001/0011/1100000080",
+      "Fedramp-Control-High/0009/900000355",
+      "ISO/0001/100000046",
+      "ISO/0001/100000048",
+      "ISO/0001/100000049",
+      "ISO/0001/100000055"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

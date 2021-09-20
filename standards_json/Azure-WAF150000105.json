@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000105", 
+  "compliance_control_uri": "Azure-WAF/0015/150000105", 
+  "Control Name": "2.5.5 Critical external dependencies are monitored their health and availability using probes.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "It's common for applications to depend on other services or libraries. Despite these are external, it is still possible to monitor", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.5 Critical external dependencies are monitored their health and availability using probes.", 
+    "Description": "It's common for applications to depend on other services or libraries. Despite these are external, it is still possible to monitor"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

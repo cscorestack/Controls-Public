@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000403", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000403", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | UNAUTHORIZED NETWORK SERVICES", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]].Supplemental Guidance:  Unauthorized or unapproved network services include, for example, services in service-oriented architectures that lack organizational verification or validation and therefore may be unreliable or serve as malicious rogues for valid services. Related controls: AC-6, CM-7, SA-5, SA-9.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]].Supplemental Guidance:  Unauthorized or unapproved network services include, for example, services in service-oriented architectures that lack organizational verification or validation and therefore may be unreliable or serve as malicious rogues for valid services. Related controls: AC-6, CM-7, SA-5, SA-9.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (22)", 
+    "CNTL NO": "SI-4 (22)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | UNAUTHORIZED NETWORK SERVICES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

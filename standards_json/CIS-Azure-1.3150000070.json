@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000070", 
+  "compliance_control_uri": "CIS-Azure/0015/150000070", 
+  "Control Name": "5.1.3 Ensure the storage container storing the activity logs is not publicly accessible", 
+  "Control Family": "5 Logging and Monitoring", 
+  "Control Statement": "The storage account container containing the activity log export should not be publicly accessible.", 
+  "control_attributes": {
+    "Control": "5.1.3 Ensure the storage container storing the activity logs is not publicly accessible", 
+    "Control_Clause": "5 Logging and Monitoring", 
+    "description": "The storage account container containing the activity log export should not be publicly accessible."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

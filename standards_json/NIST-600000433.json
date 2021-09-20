@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000433", 
+  "control_attributes": {
+    "Control": "IR-9 (1) RESPONSIBLE PERSONNEL", 
+    "control_description": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization inspects the maintenance tools carried into a facility by maintenance personnel for improper or unauthorized modifications."
+  }, 
+  "Control Statement": "The organization assigns [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-9 (1) RESPONSIBLE PERSONNEL", 
+  "compliance_control_number": "600000433"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000220", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000220", 
+  "Control Name": "Assign to an individual or team the following information security management responsibilities:\\nMonitor and analyze security alerts and information, and distribute to appropriate personnel.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Assign to an individual or team the following information security management responsibilities:\\nMonitor and analyze security alerts and information, and distribute to appropriate personnel.", 
+    "Requirement": "12.5.2.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

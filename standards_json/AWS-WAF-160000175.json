@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000175",
+  "compliance_control_uri": "AWS-WAF/0016/160000175",
+  "Control Name": "REL 8.1 Use runbooks for standard activities such as deployment",
+  "Control Family": "Reliability",
+  "Control Statement": "Runbooks are the predeﬁned steps used to achieve speciﬁc outcomes. Use runbooks to perform standard activities, whether done manually or automatically. Examples include deploying a workload, patching it, or making DNS modiﬁcations.",
+  "control_attributes": {
+    "Control": "REL 8.1 Use runbooks for standard activities such as deployment",
+    "Category": "Reliability",
+    "Subcategory": "How do you implement change?",
+    "question_id": "tracking-change-management",
+    "choice_id": "rel_tracking_change_management_planned_changemgmt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000727", 
+  "control_attributes": {
+    "Control": "SC-35 HONEYCLIENTS", 
+    "control_description": "The information system includes components that proactively seek to identify malicious websites and/or web-based malicious code.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined operations security safeguards] to protect key organizational information throughout the system development life cycle."
+  }, 
+  "Control Statement": "The information system includes components that proactively seek to identify malicious websites and/or web-based malicious code.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-35 HONEYCLIENTS", 
+  "compliance_control_number": "600000727"
+}

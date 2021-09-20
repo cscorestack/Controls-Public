@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000539", 
+  "control_attributes": {
+    "Control": "PL-8 INFORMATION SECURITY ARCHITECTURE", 
+    "control_description": "The organization: a. Develops an information security architecture for the information system that:1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and3. Describes any information security assumptions about, and dependencies on, external services;b. Reviews and updates the information security architecture [Assignment: organization-defined frequency] to reflect updates in the enterprise architecture; andc. Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.", 
+    "Family": "PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting classified information are cleared and indoctrinated to the highest classification level of the information to which they have access on the system."
+  }, 
+  "Control Statement": "The organization: a. Develops an information security architecture for the information system that:1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and3. Describes any information security assumptions about, and dependencies on, external services;b. Reviews and updates the information security architecture [Assignment: organization-defined frequency] to reflect updates in the enterprise architecture; andc. Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-8 INFORMATION SECURITY ARCHITECTURE", 
+  "compliance_control_number": "600000539"
+}

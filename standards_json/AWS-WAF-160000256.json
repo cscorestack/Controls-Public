@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000256",
+  "compliance_control_uri": "AWS-WAF/0016/160000256",
+  "Control Name": "COST 2.5 Implement cost controls",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement controls based on organization policies and deﬁned groups and roles. These ensure that costs are only incurred as deﬁned by organization requirements: for example, control access to regions or resource types with IAM policies.",
+  "control_attributes": {
+    "Control": "COST 2.5 Implement cost controls",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you govern usage?",
+    "question_id": "govern-usage",
+    "choice_id": "cost_govern_usage_controls"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

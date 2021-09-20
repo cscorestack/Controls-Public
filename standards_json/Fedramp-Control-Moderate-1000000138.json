@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000138", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000138", 
+  "Control Name": "IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS) |GROUP AUTHENTICATION", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The organization requires individuals to be authenticated with an individual authenticator when a group authenticator is employed.Supplemental Guidance:  Requiring individuals to use individual authenticators as a second level of authentication helps organizations to mitigate the risk of using group authenticators.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The organization requires individuals to be authenticated with an individual authenticator when a group authenticator is employed.Supplemental Guidance:  Requiring individuals to use individual authenticators as a second level of authentication helps organizations to mitigate the risk of using group authenticators.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-02 (05)", 
+    "CNTL NO": "IA-2 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS) |GROUP AUTHENTICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

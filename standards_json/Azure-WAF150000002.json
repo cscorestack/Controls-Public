@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000002", 
+  "compliance_control_uri": "Azure-WAF/0015/150000002", 
+  "Control Name": "1.1.2 The price model of the workload is clear.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "As part of driving a good behavior it's important to understand what the price of a service consists of and also that the cost is transparent and fair to the user of the service.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.2 The price model of the workload is clear.", 
+    "Description": "As part of driving a good behavior it's important to understand what the price of a service consists of and also that the cost is transparent and fair to the user of the service."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

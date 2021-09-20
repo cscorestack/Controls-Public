@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000094", 
+  "compliance_control_uri": "ISO/0001/100000069", 
+  "Control Name": "15.2.1 Monitoring and review of supplier services", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "The services, reports and records provided by the third party shall be regularly monitored and reviewed, and audits shall be carried out regularly", 
+  "control_attributes": {
+    "Control_Objective": "15.2.1 Monitoring and review of supplier services", 
+    "Security_Control_Clause": "15. Supplier relationships", 
+    "Security_Category": "15.2 Supplier service delivery management", 
+    "description": "The services, reports and records provided by the third party shall be regularly monitored and reviewed, and audits shall be carried out regularly"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

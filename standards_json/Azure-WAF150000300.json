@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000300", 
+  "compliance_control_uri": "Azure-WAF/0015/150000300", 
+  "Control Name": "4.1.4 Composite SLA for the workload derived using the Azure SLAs for all relevant resources.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has a composite SLA been calculated for the application and/or key scenarios using Azure SLAs?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.4 Composite SLA for the workload derived using the Azure SLAs for all relevant resources.", 
+    "Description": "Has a composite SLA been calculated for the application and/or key scenarios using Azure SLAs?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

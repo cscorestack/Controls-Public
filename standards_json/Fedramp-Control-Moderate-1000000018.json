@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000018", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000018", 
+  "Control Name": "LEAST PRIVILEGE | NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non- privileged accounts or roles, when accessing nonsecurity functions.Supplemental Guidance:  This control enhancement limits exposure when operating from within privileged accounts or roles. The inclusion of roles addresses situations where organizations implement access control policies such as role-based access control and where a change of role provides the same degree of assurance in the change of access authorizations for both the user and all processes acting on behalf of the user as would be provided by a change between a privileged and non-privileged account. Related control: PL-4.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization requires that users of information system accounts, or roles, with access to [Assignment: organization-defined security functions or security-relevant information], use non- privileged accounts or roles, when accessing nonsecurity functions.Supplemental Guidance:  This control enhancement limits exposure when operating from within privileged accounts or roles. The inclusion of roles addresses situations where organizations implement access control policies such as role-based access control and where a change of role provides the same degree of assurance in the change of access authorizations for both the user and all processes acting on behalf of the user as would be provided by a change between a privileged and non-privileged account. Related control: PL-4.", 
+    "SelectionParam": "AC-6 (2) [all security functions]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-06 (02)", 
+    "CNTL NO": "AC-6 (2)", 
+    "AdditionalReq": "AC-6 (2) Guidance:  Examples of security functions include but are not limited to: establishing system accounts, configuring access authorizations (i.e., permissions, privileges), setting events to be audited, and setting intrusion detection parameters, system programming, system and security administration, other privileged functions.                            ", 
+    "Control Name": "LEAST PRIVILEGE | NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

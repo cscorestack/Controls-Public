@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000273",
+  "compliance_control_uri": "AWS-WAF/0016/160000273",
+  "Control Name": "COST 5.6 Perform cost analysis for diﬀerent usage over time",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Workloads can change over time. Some services or features are more cost eﬀective at diﬀerent usage levels. By performing the analysis on each component over time and at projected usage, you ensure the workload remains cost eﬀective over its lifetime.",
+  "control_attributes": {
+    "Control": "COST 5.6 Perform cost analysis for diﬀerent usage over time",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_analyze_over_time"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

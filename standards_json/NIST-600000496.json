@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000496", 
+  "control_attributes": {
+    "Control": "PE-5 ACCESS CONTROL FOR OUTPUT DEVICES", 
+    "control_description": "The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs video surveillance of [Assignment: organization-defined operational areas] and retains video recordings for [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-5 ACCESS CONTROL FOR OUTPUT DEVICES", 
+  "compliance_control_number": "600000496"
+}

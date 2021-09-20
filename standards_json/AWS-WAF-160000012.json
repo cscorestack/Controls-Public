@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000012",
+  "compliance_control_uri": "AWS-WAF/0016/160000012",
+  "Control Name": "OPS 2.5 Mechanisms exist to identify responsibility and ownership",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Where no individual or team is identiﬁed, there are deﬁned escalation paths to someone with the authority to assign ownership or plan for that need to be addressed.",
+  "control_attributes": {
+    "Control": "OPS 2.5 Mechanisms exist to identify responsibility and ownership",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_find_owner"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

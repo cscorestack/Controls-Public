@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000324", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000324", 
+  "Control Name": "INFORMATION HANDLING AND RETENTION", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.Supplemental Guidance:  Information handling and retention requirements cover the full life cycle of information, in some cases extending beyond the disposal of information systems. The National Archives and Records Administration provides guidance on records retention. Related controls: AC-16, AU-5, AU-11, MP-2, MP-4.Control Enhancements: None.References: None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.Supplemental Guidance:  Information handling and retention requirements cover the full life cycle of information, in some cases extending beyond the disposal of information systems. The National Archives and Records Administration provides guidance on records retention. Related controls: AC-16, AU-5, AU-11, MP-2, MP-4.Control Enhancements: None.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-12", 
+    "CNTL NO": "SI-12", 
+    "AdditionalReq": "", 
+    "Control Name": "INFORMATION HANDLING AND RETENTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

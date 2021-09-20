@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000116", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000116", 
+  "Control Name": "CONFIGURATION CHANGE CONTROL | AUTOMATED DOCUMENT / NOTIFICATION / PROHIBITION OF CHANGES", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization employs automated mechanisms to: (a)   Document proposed changes to the information system; (b)   Notify [Assignment: organized-defined approval authorities] of proposed changes to the information system and request change approval; (c)   Highlight proposed changes to the information system that have not been approved or disapproved by [Assignment: organization-defined time period]; (d)   Prohibit changes to the information system until designated approvals are received;  (e)   Document all changes to the information system; and (f) Notify [Assignment: organization-defined personnel] when approved changes to the information system are completed.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization employs automated mechanisms to: (a)   Document proposed changes to the information system; (b)   Notify [Assignment: organized-defined approval authorities] of proposed changes to the information system and request change approval; (c)   Highlight proposed changes to the information system that have not been approved or disapproved by [Assignment: organization-defined time period]; (d)   Prohibit changes to the information system until designated approvals are received;  (e)   Document all changes to the information system; and (f) Notify [Assignment: organization-defined personnel] when approved changes to the information system are completed.", 
+    "SelectionParam": "CM-3 (1) (c)  [organization agreed upon time period] CM-3 (1) (f) [organization defined configuration management approval authorities] ", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-03 (01)", 
+    "CNTL NO": "CM-3 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONFIGURATION CHANGE CONTROL | AUTOMATED DOCUMENT / NOTIFICATION / PROHIBITION OF CHANGES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

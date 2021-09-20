@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000056",
+  "compliance_control_uri": "AWS-WAF/0016/160000056",
+  "Control Name": "OPS 8.6 Alert when workload outcomes are at risk",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Raise an alert when workload outcomes are at risk so that you can respond appropriately if necessary.",
+  "control_attributes": {
+    "Control": "OPS 8.6 Alert when workload outcomes are at risk",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_workload_outcome_alerts"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

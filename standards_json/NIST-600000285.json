@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000285", 
+  "control_attributes": {
+    "Control": "CM-3 (3) AUTOMATED CHANGE IMPLEMENTATION", 
+    "control_description": "The organization employs automated mechanisms to implement changes to the current information system baseline and deploys the updated baseline across the installed base.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization enforces dual authorization for implementing changes to [Assignment: organization-defined information system components and system-level information]."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to implement changes to the current information system baseline and deploys the updated baseline across the installed base.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-3 (3) AUTOMATED CHANGE IMPLEMENTATION", 
+  "compliance_control_number": "600000285"
+}

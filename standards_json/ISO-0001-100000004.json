@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000004", 
+  "compliance_control_uri": "ISO/0001/100000004", 
+  "Control Name": "6.1.2 Segregation of duties", 
+  "Control Family": "6. Organization of information security", 
+  "Control Statement": "Check that operational duties or tasks that are critically important to information security have been identified, particularly those performed by information risk and security professionals plus IT personnel with elevated privileges on major information systems.", 
+  "control_attributes": {
+    "Control_Objective": "6.1.2 Segregation of duties", 
+    "Security_Control_Clause": "6. Organization of information security", 
+    "Security_Category": "6.1 internal organization", 
+    "description": "Check that operational duties or tasks that are critically important to information security have been identified, particularly those performed by information risk and security professionals plus IT personnel with elevated privileges on major information systems."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

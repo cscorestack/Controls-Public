@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000399", 
+  "control_attributes": {
+    "Control": "IA-8 IDENTIFICATION AND AUTHENTICATION (NON-ORGANIZATIONAL USERS)", 
+    "control_description": "The information system uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that individuals accessing the information system employ [Assignment: organization-defined supplemental authentication techniques or mechanisms] under specific [Assignment: organization-defined circumstances or situations]."
+  }, 
+  "Control Statement": "The information system uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-8 IDENTIFICATION AND AUTHENTICATION (NON-ORGANIZATIONAL USERS)", 
+  "compliance_control_number": "600000399"
+}

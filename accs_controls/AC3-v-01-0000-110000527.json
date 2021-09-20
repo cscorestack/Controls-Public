@@ -1,0 +1,53 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000527",
+  "compliance_control_uri": "AC3-v-01/0000/110000527",
+  "Control Name": "PS-6 ACCESS AGREEMENTS",
+  "Control Family": "PERSONNEL SECURITY",
+  "Control Statement": "The organization: a. Develops and documents access agreements for organizational information systems;b. Reviews and updates the access agreements [Assignment: organization-defined frequency]; andc. Ensures that individuals requiring access to organizational information and information systems: 1. Sign appropriate access agreements prior to being granted access; and2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "PS-6 ACCESS AGREEMENTS",
+    "Control Family": "PERSONNEL SECURITY",
+    "Control Statement": "The organization: a. Develops and documents access agreements for organizational information systems;b. Reviews and updates the access agreements [Assignment: organization-defined frequency]; andc. Ensures that individuals requiring access to organizational information and information systems: 1. Sign appropriate access agreements prior to being granted access; and2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000551",
+      "ISO-27001/0011/1100000011",
+      "ISO-27001/0011/1100000012",
+      "ISO-27001/0011/1100000077",
+      "Fedramp-Control-Moderate/0010/1000000228",
+      "Fedramp-Control-High/0009/900000302",
+      "HIPAA/0002/200000040",
+      "HIPAA/0002/200000041",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000061",
+      "HIPAA/0002/200000066",
+      "HIPAA/0002/200000069",
+      "HIPAA/0002/200000073",
+      "ISO/0001/100000010",
+      "ISO/0001/100000011",
+      "ISO/0001/100000052"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

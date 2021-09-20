@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000003", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000003", 
+  "Control Name": "1.1.2 Current network diagram that identifies all connections between the cardholder data environment and other networks, including any wireless networks.", 
+  "Control Family": "Build and Maintain a Secure a Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "1.1.2 Current network diagram that identifies all connections between the cardholder data environment and other networks, including any wireless networks.", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

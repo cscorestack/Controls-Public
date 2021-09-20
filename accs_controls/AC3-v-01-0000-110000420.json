@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000420",
+  "compliance_control_uri": "AC3-v-01/0000/110000420",
+  "Control Name": "MP-4 (2) AUTOMATED RESTRICTED ACCESS",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The organization employs automated mechanisms to restrict access to media storage areas and to audit access attempts and access granted.",
+  "control_attributes": {
+    "Control Name": "MP-4 (2) AUTOMATED RESTRICTED ACCESS",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The organization employs automated mechanisms to restrict access to media storage areas and to audit access attempts and access granted."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000466"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

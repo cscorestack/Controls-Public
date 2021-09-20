@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000212",
+  "compliance_control_uri": "AWS-WAF/0016/160000212",
+  "Control Name": "PERF 2.3 Collect compute-related metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "One of the best ways to understand how your compute systems are performing is to record and track the true utilization of various resources. This data can be used to make more accurate determinations about resource requirements.",
+  "control_attributes": {
+    "Control": "PERF 2.3 Collect compute-related metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_collect_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

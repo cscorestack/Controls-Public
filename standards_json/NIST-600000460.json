@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000460", 
+  "control_attributes": {
+    "Control": "MA-6 (2) PREDICTIVE MAINTENANCE", 
+    "control_description": "The organization performs predictive maintenance on [Assignment: organization-defined information system components] at [Assignment: organization-defined time intervals].", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs an identified custodian during transport of information system media outside of controlled areas."
+  }, 
+  "Control Statement": "The organization performs predictive maintenance on [Assignment: organization-defined information system components] at [Assignment: organization-defined time intervals].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-6 (2) PREDICTIVE MAINTENANCE", 
+  "compliance_control_number": "600000460"
+}

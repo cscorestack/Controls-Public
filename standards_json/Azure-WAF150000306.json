@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000306", 
+  "compliance_control_uri": "Azure-WAF/0015/150000306", 
+  "Control Name": "4.2.4 Performed Failure Mode Analysis (FMA) to identify fault-points and fault-modes.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you performed FMA?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.4 Performed Failure Mode Analysis (FMA) to identify fault-points and fault-modes.", 
+    "Description": "Have you performed FMA?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

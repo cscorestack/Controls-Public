@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000112", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000112", 
+  "Control Name": "CONTINGENCY PLAN | CAPACITY PLANNING", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.Supplemental Guidance:  Capacity planning is needed because different types of threats (e.g., natural disasters, targeted cyber attacks) can result in a reduction of the available processing, telecommunications, and support services originally intended to support the organizational missions/business functions. Organizations may need to anticipate degraded operations during contingency operations and factor such degradation into capacity planning.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.Supplemental Guidance:  Capacity planning is needed because different types of threats (e.g., natural disasters, targeted cyber attacks) can result in a reduction of the available processing, telecommunications, and support services originally intended to support the organizational missions/business functions. Organizations may need to anticipate degraded operations during contingency operations and factor such degradation into capacity planning.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-02 (02)", 
+    "CNTL NO": "CP-2 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTINGENCY PLAN | CAPACITY PLANNING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

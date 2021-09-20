@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000008", 
+  "compliance_control_uri": "Azure-WAF/0015/150000008", 
+  "Control Name": "1.1.8 Special discounts given to services or licenses are factored in when calculating new cost models for services being moved to the cloud.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "When alternative cost options are considered it should be understood first if any special offers or deals are given for the existing SKUs to verify that the correct prices are being used to build a business case.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.8 Special discounts given to services or licenses are factored in when calculating new cost models for services being moved to the cloud.", 
+    "Description": "When alternative cost options are considered it should be understood first if any special offers or deals are given for the existing SKUs to verify that the correct prices are being used to build a business case."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

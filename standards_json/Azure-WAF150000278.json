@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000278", 
+  "compliance_control_uri": "Azure-WAF/0015/150000278", 
+  "Control Name": "3.9.3 Critical system flows are used to inform the health model.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "The health model should be able to surface the respective health of critical system flows or key subsystems to ensure appropriate operational prioritization is applied. For example, the health model should be able to represent the current state of the user login transaction flow.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.3 Critical system flows are used to inform the health model.", 
+    "Description": "The health model should be able to surface the respective health of critical system flows or key subsystems to ensure appropriate operational prioritization is applied. For example, the health model should be able to represent the current state of the user login transaction flow."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

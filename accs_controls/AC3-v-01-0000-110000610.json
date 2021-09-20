@@ -1,0 +1,53 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000610",
+  "compliance_control_uri": "AC3-v-01/0000/110000610",
+  "Control Name": "SA-3 SYSTEM DEVELOPMENT LIFE CYCLE",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization: a. Manages the information system using [Assignment: organization-defined system development life cycle] that incorporates information security considerations;b. Defines and documents information security roles and responsibilities throughout the system development life cycle;c. Identifies individuals having information security roles and responsibilities; andd. Integrates the organizational information security risk management process into system development life cycle activities. ",
+  "control_attributes": {
+    "Control Name": "SA-3 SYSTEM DEVELOPMENT LIFE CYCLE",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization: a. Manages the information system using [Assignment: organization-defined system development life cycle] that incorporates information security considerations;b. Defines and documents information security roles and responsibilities throughout the system development life cycle;c. Identifies individuals having information security roles and responsibilities; andd. Integrates the organizational information security risk management process into system development life cycle activities. "
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Computer, Storage, Network, Identity, Databases, Storage, Application, Container",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000569",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000007",
+      "ISO-27001/0011/1100000081",
+      "ISO-27001/0011/1100000086",
+      "ISO-27001/0011/1100000078",
+      "PCI-DSS/0012/1200000070",
+      "Fedramp-Control-Moderate/0010/1000000243",
+      "Fedramp-Control-High/0009/900000319",
+      "HIPAA/0002/200000070",
+      "ISO/0001/100000003",
+      "ISO/0001/100000007",
+      "ISO/0001/100000053",
+      "ISO/0001/100000056",
+      "ISO/0001/100000061",
+      "Azure-WAF/0015/150000418"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

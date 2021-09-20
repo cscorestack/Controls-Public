@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000405", 
+  "control_attributes": {
+    "Control": "IA-9 SERVICE IDENTIFICATION AND AUTHENTICATION", 
+    "control_description": "The organization identifies and authenticates [Assignment: organization-defined information system services] using [Assignment: organization-defined security safeguards].", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results."
+  }, 
+  "Control Statement": "The organization identifies and authenticates [Assignment: organization-defined information system services] using [Assignment: organization-defined security safeguards].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-9 SERVICE IDENTIFICATION AND AUTHENTICATION", 
+  "compliance_control_number": "600000405"
+}

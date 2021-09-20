@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000164", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000164", 
+  "Control Name": "ALTERNATE PROCESSING SITE | ACCESSIBILITY", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization identifies potential accessibility problems to the alternate processing site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.Supplemental Guidance:  Area-wide disruptions refer to those types of disruptions that are broad in geographic scope (e.g., hurricane, regional power outage) with such determinations made by organizations based on organizational assessments of risk. Related control: RA-3.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization identifies potential accessibility problems to the alternate processing site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.Supplemental Guidance:  Area-wide disruptions refer to those types of disruptions that are broad in geographic scope (e.g., hurricane, regional power outage) with such determinations made by organizations based on organizational assessments of risk. Related control: RA-3.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-07 (02)", 
+    "CNTL NO": "CP-7 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ALTERNATE PROCESSING SITE | ACCESSIBILITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

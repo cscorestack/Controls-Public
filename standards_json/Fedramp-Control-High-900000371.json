@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000371", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000371", 
+  "Control Name": "PUBLIC KEY INFRASTRUCTURE CERTIFICATES", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization issues public key certificates under an [Assignment: organization- defined certificate policy] or obtains public key certificates from an approved service provider.Supplemental Guidance:  For all certificates, organizations manage information system trust stores to ensure only approved trust anchors are in the trust stores. This control addresses both certificates with visibility external to organizational information systems and certificates related to the internal operations of systems, for example, application-specific time services. Related control: SC-12.Control Enhancements:  None.References:  OMB Memorandum 05-24; NIST Special Publications 800-32, 800-63.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization issues public key certificates under an [Assignment: organization- defined certificate policy] or obtains public key certificates from an approved service provider.Supplemental Guidance:  For all certificates, organizations manage information system trust stores to ensure only approved trust anchors are in the trust stores. This control addresses both certificates with visibility external to organizational information systems and certificates related to the internal operations of systems, for example, application-specific time services. Related control: SC-12.Control Enhancements:  None.References:  OMB Memorandum 05-24; NIST Special Publications 800-32, 800-63.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-17", 
+    "CNTL NO": "SC-17", 
+    "AdditionalReq": " ", 
+    "Control Name": "PUBLIC KEY INFRASTRUCTURE CERTIFICATES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

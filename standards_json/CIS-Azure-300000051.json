@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000051", 
+  "compliance_control_uri": "CIS-Azure/0003/300000051", 
+  "Control Name": "1.14. Ensure that 'Guests can invite' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Restricting invitations to administrators ensures that only authorized accounts have access to cloud resources", 
+  "control_attributes": {
+    "Control": "1.14. Ensure that 'Guests can invite' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Restricting invitations to administrators ensures that only authorized accounts have access to cloud resources"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

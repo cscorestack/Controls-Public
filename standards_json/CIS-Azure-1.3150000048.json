@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000048", 
+  "compliance_control_uri": "CIS-Azure/0015/150000048", 
+  "Control Name": "3.10 Ensure Storage logging is enabled for Blob service for read, write, and delete requests", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "These logs allow users to see the details of read, write, and delete operations against the blobs", 
+  "control_attributes": {
+    "Control": "3.10 Ensure Storage logging is enabled for Blob service for read, write, and delete requests", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "These logs allow users to see the details of read, write, and delete operations against the blobs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

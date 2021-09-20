@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000113", 
+  "control_attributes": {
+    "Control": "AC-5 SEPARATION OF DUTIES", 
+    "control_description": "The organization: a. Separates [Assignment: organization-defined duties of individuals];b. Documents separation of duties of individuals; and c. Defines information system access authorizations to support separation of duties.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system automatically [Selection: removes; disables] temporary and emergency accounts after [Assignment: organization-defined time period for each type of account]."
+  }, 
+  "Control Statement": "The organization: a. Separates [Assignment: organization-defined duties of individuals];b. Documents separation of duties of individuals; and c. Defines information system access authorizations to support separation of duties.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-5 SEPARATION OF DUTIES", 
+  "compliance_control_number": "600000113"
+}

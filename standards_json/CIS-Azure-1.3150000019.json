@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000019", 
+  "compliance_control_uri": "CIS-Azure/0015/150000019", 
+  "Control Name": "1.19 Ensure that 'Users can create Microsoft 365 groups in Azure Portals' is set to 'No'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Restrict Microsoft 365 group creation to administrators only.", 
+  "control_attributes": {
+    "Control": "1.19 Ensure that 'Users can create Microsoft 365 groups in Azure Portals' is set to 'No'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Restrict Microsoft 365 group creation to administrators only."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000089", 
+  "compliance_control_uri": "Azure-WAF/0015/150000089", 
+  "Control Name": "2.3.4 The consequences if availability and recovery targets are not satisfied are well understood", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What are the consequences if availability targets are not satisfied?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.4 The consequences if availability and recovery targets are not satisfied are well understood", 
+    "Description": "What are the consequences if availability targets are not satisfied?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

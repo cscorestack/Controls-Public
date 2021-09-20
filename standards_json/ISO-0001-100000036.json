@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000036", 
+  "compliance_control_uri": "ISO/0001/100000095", 
+  "Control Name": "9.4.2 Secure log-on procedures", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Where required by the access control policy, access to systems and applications shall be controlled by a secure log-on procedure.", 
+  "control_attributes": {
+    "Control_Objective": "9.4.2 Secure log-on procedures", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.4 - System and application access control", 
+    "description": "Where required by the access control policy, access to systems and applications shall be controlled by a secure log-on procedure."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000409", 
+  "compliance_control_uri": "Azure-WAF/0015/150000409", 
+  "Control Name": "5.2.10 Attacker access containment is considered when making investments into security solutions.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "The actual security risk for an organization is heavily influenced by how much access an adversary can or does obtain to valuable systems and data. When each user has focused scope of permissions, the impact of compromising an account will be limited.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.10 Attacker access containment is considered when making investments into security solutions.", 
+    "Description": "The actual security risk for an organization is heavily influenced by how much access an adversary can or does obtain to valuable systems and data. When each user has focused scope of permissions, the impact of compromising an account will be limited."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

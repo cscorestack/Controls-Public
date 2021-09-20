@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000314", 
+  "compliance_control_uri": "Azure-WAF/0015/150000314", 
+  "Control Name": "4.3.6 Validated all APIs/SDKs against target runtimes and languages for required functionality.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are all APIs/SDKs validated against target runtime/languages for required functionality?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.6 Validated all APIs/SDKs against target runtimes and languages for required functionality.", 
+    "Description": "Are all APIs/SDKs validated against target runtime/languages for required functionality?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

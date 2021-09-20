@@ -1,0 +1,57 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000523",
+  "compliance_control_uri": "AC3-v-01/0000/110000523",
+  "Control Name": "PS-4 PERSONNEL TERMINATION",
+  "Control Family": "PERSONNEL SECURITY",
+  "Control Statement": "The organization, upon termination of individual employment:                                              a. Disables information system access within [Assignment: organization-defined time period];b. Terminates/revokes any authenticators/credentials associated with the individual;c. Conducts exit interviews that include a discussion of [Assignment: organization-defined information security topics];d. Retrieves all security-related organizational information system-related property;e. Retains access to organizational information and information systems formerly controlled by terminated individual; andf. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period",
+  "control_attributes": {
+    "Control Name": "PS-4 PERSONNEL TERMINATION",
+    "Control Family": "PERSONNEL SECURITY",
+    "Control Statement": "The organization, upon termination of individual employment:                                              a. Disables information system access within [Assignment: organization-defined time period];b. Terminates/revokes any authenticators/credentials associated with the individual;c. Conducts exit interviews that include a discussion of [Assignment: organization-defined information security topics];d. Retrieves all security-related organizational information system-related property;e. Retains access to organizational information and information systems formerly controlled by terminated individual; andf. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000106",
+      "ISO-27001/0011/1100000015",
+      "Fedramp-Control-Moderate/0010/1000000226",
+      "Fedramp-Control-High/0009/900000299",
+      "HIPAA/0002/200000042",
+      "ISO/0001/100000014",
+      "SOC2/0017/1700000128"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ajooz",
+        "policy_name": "Azure_Audit_Deprecated_Accounts_on_a_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/arlno",
+        "policy_name": "Azure_Audit_Deprecated_Accounts_With_Owner_Permission",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000061",
+  "compliance_control_uri": "AWS-WAF/0016/160000061",
+  "Control Name": "OPS 9.3 Collect and analyze operations metrics",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Perform regular, proactive reviews of metrics to identify trends and determine where appropriate responses are needed.",
+  "control_attributes": {
+    "Control": "OPS 9.3 Collect and analyze operations metrics",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_collect_analyze_ops_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

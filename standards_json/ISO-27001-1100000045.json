@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000045", 
+  "compliance_control_uri": "ISO-27001/0011/1100000045", 
+  "Control Name": "11.1.4 Protecting against\\nexternal and environmental\\nthreats", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Physical protection against natural disasters, malicious attack or accidents shall be designed and applied.", 
+  "control_attributes": {
+    "Clause_Category": "11.1 - Secure areas", 
+    "description": "Physical protection against natural disasters, malicious attack or accidents shall be designed and applied.", 
+    "Control_Title": "11.1.4 Protecting against\\nexternal and environmental\\nthreats", 
+    "Control_Clause": "11. Physical and environmental security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

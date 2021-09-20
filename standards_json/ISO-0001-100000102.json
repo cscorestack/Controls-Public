@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000102", 
+  "compliance_control_uri": "ISO/0001/100000077", 
+  "Control Name": "16.1.7 Collection of evidence", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "Where a follow-up action against a person or organization after an information security incident involves legal action (either civil or criminal), evidence shall be collected, retained, and presented to conform to the rules for evidence laid down in the relevant jurisdiction(s)", 
+  "control_attributes": {
+    "Control_Objective": "16.1.7 Collection of evidence", 
+    "Security_Control_Clause": "16. Information security incident management", 
+    "Security_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "Where a follow-up action against a person or organization after an information security incident involves legal action (either civil or criminal), evidence shall be collected, retained, and presented to conform to the rules for evidence laid down in the relevant jurisdiction(s)"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

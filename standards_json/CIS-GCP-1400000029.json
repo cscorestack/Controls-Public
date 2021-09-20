@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000029", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000029", 
+  "Control Name": "3.3 Ensure that DNSSEC is enabled for Cloud DNS", 
+  "Control Family": "Networking", 
+  "Control Statement": "Cloud Domain Name System (DNS) is a fast, reliable and cost-effective domain name system that powers millions of domains on the internet. Domain Name System Security Extensions (DNSSEC) in Cloud DNS enables domain owners to take easy steps to protect their domains against DNS hijacking and man-in-the-middle and other attacks.", 
+  "control_attributes": {
+    "Control": "3.3 Ensure that DNSSEC is enabled for Cloud DNS", 
+    "Security_Category": "Networking", 
+    "Control_description": "Cloud Domain Name System (DNS) is a fast, reliable and cost-effective domain name system that powers millions of domains on the internet. Domain Name System Security Extensions (DNSSEC) in Cloud DNS enables domain owners to take easy steps to protect their domains against DNS hijacking and man-in-the-middle and other attacks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

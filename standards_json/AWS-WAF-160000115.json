@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000115",
+  "compliance_control_uri": "AWS-WAF/0016/160000115",
+  "Control Name": "SEC 6.3 Implement managed services",
+  "Control Family": "Security",
+  "Control Statement": "Implement services that manage resources, such as Amazon RDS, AWS Lambda, and Amazon ECS, to reduce your security maintenance tasks as part of the shared responsibility model.",
+  "control_attributes": {
+    "Control": "SEC 6.3 Implement managed services",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_implement_managed_services"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

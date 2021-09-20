@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000072", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000072", 
+  "Control Name": "6.3.2 Review custom code prior to release to production or customers in order to identify any potential coding vulnerability (using either manual or automated processes) to include at least the following:\\n", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.3.2 Review custom code prior to release to production or customers in order to identify any potential coding vulnerability (using either manual or automated processes) to include at least the following:\\n", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

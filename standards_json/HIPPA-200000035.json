@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000035", 
+  "compliance_control_uri": "HIPAA/0002/200000035", 
+  "Control Name": "Flexibility of approach - 164.306(b)", 
+  "Control Family": "Flexibility of approach", 
+  "Control Statement": "Flexibility of approach.t(1) Covered entities and business associates may use any security measures that allow the covered entity or business associate to reasonably and appropriately implement the standards and implementation specifications as specified in this subpart. (2) In deciding which security measures to use, a covered entity or business associate must take into account the following factors: (i) The size, complexity, and capabilities of the covered entity or business associate. (ii) The covered entity's or the business associate's technical infrastructure, hardware, and software security capabilities. (iii) The costs of security measures. (iv) The probability and criticality of potential risks to electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Flexibility of approach - 164.306(b)", 
+    "Security_Category": "Flexibility of approach", 
+    "Control_description": "Flexibility of approach. t(1) Covered entities and business associates may use any security measures that allow the covered entity or business associate to reasonably and appropriately implement the standards and implementation specifications as specified in this subpart. (2) In deciding which security measures to use, a covered entity or business associate must take into account the following factors: (i) The size, complexity, and capabilities of the covered entity or business associate. (ii) The covered entity's or the business associate's technical infrastructure, hardware, and software security capabilities. (iii) The costs of security measures. (iv) The probability and criticality of potential risks to electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

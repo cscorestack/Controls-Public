@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000213",
+  "compliance_control_uri": "AWS-WAF/0016/160000213",
+  "Control Name": "PERF 2.4 Determine the required conﬁguration by right-sizing",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Analyze the various performance characteristics of your workload and how these characteristics relate to memory, network, and CPU usage. Use this data to choose resources that best match your workload's proﬁle. For example, a memory-intensive workload, such as a database, could be served best by the r-family of instances. However, a bursting workload can beneﬁt more from an elastic container system.",
+  "control_attributes": {
+    "Control": "PERF 2.4 Determine the required conﬁguration by right-sizing",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_right_sizing"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

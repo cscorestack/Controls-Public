@@ -1,0 +1,73 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000793",
+  "compliance_control_uri": "AC3-v-01/0000/110000793",
+  "Control Name": "SI-4 (22) UNAUTHORIZED NETWORK SERVICES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]].",
+  "control_attributes": {
+    "Control Name": "SI-4 (22) UNAUTHORIZED NETWORK SERVICES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system detects network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes] and [Selection (one or more): audits; alerts [Assignment: organization-defined personnel or roles]]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000775",
+      "Fedramp-Control-High/0009/900000402",
+      "CIS-AWS/0007/700000054",
+      "CIS-GCP/0014/1400000027",
+      "SOC2/0017/1700000154"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/qTqPp",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Linux",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/WIFiA",
+        "policy_name": "Azure_Audit_VM_Connected_Approved_Virtual_Network",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/4ezeo",
+        "policy_name": "Azure_Monitor_Unprotected_Network_pts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Default_Security_Group_Closed",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/eulb4",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Audit_Projects_With_Default_Networks",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/umaa",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

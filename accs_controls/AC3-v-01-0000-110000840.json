@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000840",
+  "compliance_control_uri": "AC3-v-01/0000/110000840",
+  "Control Name": "COST 3.5 Add organization information to cost and usage",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Deﬁne a tagging schema based on organization, and workload attributes, and cost allocation categories. Implement tagging across all resources. Use Cost Categories to group costs and usage according to organization attributes.",
+  "control_attributes": {
+    "Control Name": "COST 3.5 Add organization information to cost and usage",
+    "Control Family": "Cost Optimization",
+    "Control Statement": "Deﬁne a tagging schema based on organization, and workload attributes, and cost allocation categories. Implement tagging across all resources. Use Cost Categories to group costs and usage according to organization attributes."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Account",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/General/Account",
+      "service_resource": "AWS/General/Account/Account"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "AWS-WAF/0016/160000262"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

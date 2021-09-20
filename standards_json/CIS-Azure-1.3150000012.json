@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000012", 
+  "compliance_control_uri": "CIS-Azure/0015/150000012", 
+  "Control Name": "1.12 Ensure that 'Guest user permissions are limited' is set to 'Yes'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Limit guest user permissions", 
+  "control_attributes": {
+    "Control": "1.12 Ensure that 'Guest user permissions are limited' is set to 'Yes'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Limit guest user permissions"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

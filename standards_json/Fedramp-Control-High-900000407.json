@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000407", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000407", 
+  "Control Name": "SECURITY ALERTS, ADVISORIES, AND DIRECTIVES | AUTOMATED ALERTS AND ADVISORIES", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization.Supplemental Guidance:  The significant number of changes to organizational information systems and the environments in which those systems operate requires the dissemination of security-related information to a variety of organizational entities that have a direct interest in the success of organizational missions and business functions. Based on the information provided by the security alerts and advisories, changes may be required at one or more of the three tiers related to the management of information security risk including the governance level, mission/business process/enterprise architecture level, and the information system level.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization.Supplemental Guidance:  The significant number of changes to organizational information systems and the environments in which those systems operate requires the dissemination of security-related information to a variety of organizational entities that have a direct interest in the success of organizational missions and business functions. Based on the information provided by the security alerts and advisories, changes may be required at one or more of the three tiers related to the management of information security risk including the governance level, mission/business process/enterprise architecture level, and the information system level.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-05 (01)", 
+    "CNTL NO": "SI-5 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY ALERTS, ADVISORIES, AND DIRECTIVES | AUTOMATED ALERTS AND ADVISORIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

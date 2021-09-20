@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000170",
+  "compliance_control_uri": "AWS-WAF/0016/160000170",
+  "Control Name": "REL 6.7 Monitor end-to-end tracing of requests through your system",
+  "Control Family": "Reliability",
+  "Control Statement": "Use AWS X-Ray or third-party tools so that developers can more easily analyze and debug distributed systems to understand how their applications and its underlying services are performing",
+  "control_attributes": {
+    "Control": "REL 6.7 Monitor end-to-end tracing of requests through your system",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_end_to_end"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

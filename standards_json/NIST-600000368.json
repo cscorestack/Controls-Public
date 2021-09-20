@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000368", 
+  "control_attributes": {
+    "Control": "IA-2 (10) SINGLE SIGN-ON", 
+    "control_description": "The information system provides a single sign-on capability for [Assignment: organization-defined information system accounts and services].", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires multiple forms of certification of individual identification be presented to the registration authority."
+  }, 
+  "Control Statement": "The information system provides a single sign-on capability for [Assignment: organization-defined information system accounts and services].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (10) SINGLE SIGN-ON", 
+  "compliance_control_number": "600000368"
+}

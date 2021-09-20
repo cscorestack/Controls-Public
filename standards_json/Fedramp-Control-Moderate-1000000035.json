@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000035", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000035", 
+  "Control Name": "WIRELESS ACCESS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization: a. Establishes usage restrictions, configuration/connection requirements, and implementation guidance for wireless access; and b. Authorizes wireless access to the information system prior to allowing such connections.Supplemental Guidance:  Wireless technologies include, for example, microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth. Wireless networks use authentication protocols (e.g., EAP/TLS, PEAP), which provide credential protection and mutual authentication. Related controls: AC-2, AC-3, AC-17, AC-19, CA-3, CA-7, CM-8, IA-2, IA-3, IA-8, PL-4, SI-4.References: NIST Special Publications 800-48, 800-94, 800-97.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization: a. Establishes usage restrictions, configuration/connection requirements, and implementation guidance for wireless access; and b. Authorizes wireless access to the information system prior to allowing such connections.Supplemental Guidance:  Wireless technologies include, for example, microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth. Wireless networks use authentication protocols (e.g., EAP/TLS, PEAP), which provide credential protection and mutual authentication. Related controls: AC-2, AC-3, AC-17, AC-19, CA-3, CA-7, CM-8, IA-2, IA-3, IA-8, PL-4, SI-4.References: NIST Special Publications 800-48, 800-94, 800-97.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-18", 
+    "CNTL NO": "AC-18", 
+    "AdditionalReq": "", 
+    "Control Name": "WIRELESS ACCESS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

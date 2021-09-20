@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000147",
+  "compliance_control_uri": "SOC2/0017/1700000147",
+  "Control Name": "Scans Information Assets from Outside the Entity for Malware and Other Unauthorized Software—Procedures are in place to scan information assets that have been transferred or returned to the entity’s custody for malware and other unauthorized software and to remove any items detected prior to its implementation on the network. ",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Scans Information Assets from Outside the Entity for Malware and Other Unauthorized Software—Procedures are in place to scan information assets that have been transferred or returned to the entity’s custody for malware and other unauthorized software and to remove any items detected prior to its implementation on the network. ",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.8 The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity’s objectives.",
+    "ControlNo": "CC6.8.5",
+    "TrustID": "CC6.8"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

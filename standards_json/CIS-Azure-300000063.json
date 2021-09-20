@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000063", 
+  "compliance_control_uri": "CIS-Azure/0003/300000063", 
+  "Control Name": "2.3. Ensure ASC Default policy setting 'Monitor System Updates' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Enable system updates recommendations for virtual machines", 
+  "control_attributes": {
+    "Control": "2.3. Ensure ASC Default policy setting 'Monitor System Updates' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Enable system updates recommendations for virtual machines"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

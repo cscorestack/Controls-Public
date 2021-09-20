@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000226",
+  "compliance_control_uri": "AC3-v-01/0000/110000226",
+  "Control Name": "CM-5 (2) REVIEW SYSTEM CHANGES",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization reviews information system changes [Assignment: organization-defined frequency] and [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred.",
+  "control_attributes": {
+    "Control Name": "CM-5 (2) REVIEW SYSTEM CHANGES",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization reviews information system changes [Assignment: organization-defined frequency] and [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Workload",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000029",
+      "ISO-27001/0011/1100000058",
+      "Fedramp-Control-High/0009/900000124",
+      "ISO/0001/100000032",
+      "AWS-WAF/0016/160000116",
+      "AWS-WAF/0016/160000088",
+      "SOC2/0017/1700000188"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ovKPS",
+        "policy_name": "Azure_Monitor_LogProfile_Collect_All_Categories",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

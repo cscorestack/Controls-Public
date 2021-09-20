@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000272", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000272", 
+  "Control Name": "VISITOR ACCESS RECORDS", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization: a. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; and b. Reviews visitor access records [Assignment: organization-defined frequency].Supplemental Guidance:  Visitor access records include, for example, names and organizations of persons visiting, visitor signatures, forms of identification, dates of access, entry and departure times, purposes of visits, and names and organizations of persons visited. Visitor access records are not required for publicly accessible areas.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization: a. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; and b. Reviews visitor access records [Assignment: organization-defined frequency].Supplemental Guidance:  Visitor access records include, for example, names and organizations of persons visiting, visitor signatures, forms of identification, dates of access, entry and departure times, purposes of visits, and names and organizations of persons visited. Visitor access records are not required for publicly accessible areas.References: None.", 
+    "SelectionParam": "PE-8 (a) [for a minimum of one (1) year]PE-8 (b) [at least monthly]", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-08", 
+    "CNTL NO": "PE-8", 
+    "AdditionalReq": " ", 
+    "Control Name": "VISITOR ACCESS RECORDS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

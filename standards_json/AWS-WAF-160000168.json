@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000168",
+  "compliance_control_uri": "AWS-WAF/0016/160000168",
+  "Control Name": "REL 6.5 Storage and Analytics",
+  "Control Family": "Reliability",
+  "Control Statement": "Collect log ﬁles and metrics histories and analyze these for broader trends and workload insights",
+  "control_attributes": {
+    "Control": "REL 6.5 Storage and Analytics",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_storage_analytics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

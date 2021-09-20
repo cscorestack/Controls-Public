@@ -1,0 +1,64 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000056",
+  "compliance_control_uri": "AC3-v-01/0000/110000056",
+  "Control Name": "AC-22 PUBLICLY ACCESSIBLE CONTENT",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system;b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information;c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; andd. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.",
+  "control_attributes": {
+    "Control Name": "AC-22 PUBLICLY ACCESSIBLE CONTENT",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system;b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information;c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; andd. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000108",
+      "Fedramp-Control-Moderate/0010/1000000043",
+      "Fedramp-Control-High/0009/900000053",
+      "CIS-AWS/0007/700000020",
+      "CIS-Azure/0003/300000072",
+      "CIS-Azure/0003/300000090",
+      "CIS-GCP/0014/1400000063",
+      "CIS-Azure/0015/150000070"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/licv",
+        "policy_name": "GCP_Audit_Dataset_Configured_Open_Public_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/azdisalpastac",
+        "policy_name": "Azure_Audit_Disallow_PublicAccess_on_StorageAccount",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_S3_Account_Level_Public_Access_Blocks",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e93a4",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "delete_control_uri_policy"
+}

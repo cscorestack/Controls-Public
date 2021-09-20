@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000527", 
+  "control_attributes": {
+    "Control": "PE-17 ALTERNATE WORK SITE", 
+    "control_description": "The organization: a. Employs [Assignment: organization-defined security controls] at alternate work sites;b. Assesses as feasible, the effectiveness of security controls at alternate work sites; andc. Provides a means for employees to communicate with information security personnel in case of security incidents or problems.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Employs [Assignment: organization-defined security controls] at alternate work sites;b. Assesses as feasible, the effectiveness of security controls at alternate work sites; andc. Provides a means for employees to communicate with information security personnel in case of security incidents or problems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-17 ALTERNATE WORK SITE", 
+  "compliance_control_number": "600000527"
+}

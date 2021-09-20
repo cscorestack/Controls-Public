@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000153",
+  "compliance_control_uri": "AWS-WAF/0016/160000153",
+  "Control Name": "REL 4.1 Identify which kind of distributed system is required",
+  "Control Family": "Reliability",
+  "Control Statement": "Hard real-time distributed systems require responses to be given synchronously and rapidly, while soft real-time systems have a more generous time window of minutes or more for response. Oﬄine systems handle responses through batch or asynchronous processing. Hard real-time distributed systems have the most stringent reliability requirements.",
+  "control_attributes": {
+    "Control": "REL 4.1 Identify which kind of distributed system is required",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to prevent failures?",
+    "question_id": "prevent-interaction-failure",
+    "choice_id": "rel_prevent_interaction_failure_identify"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

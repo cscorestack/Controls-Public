@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000330", 
+  "control_attributes": {
+    "Control": "CP-4 (3) AUTOMATED TESTING", 
+    "control_description": "The organization employs automated mechanisms to more thoroughly and effectively test the contingency plan.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization prepares the alternate processing site so that the site is ready to be used as the operational site supporting essential missions and business functions."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to more thoroughly and effectively test the contingency plan.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-4 (3) AUTOMATED TESTING", 
+  "compliance_control_number": "600000330"
+}

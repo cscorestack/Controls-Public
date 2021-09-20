@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000068", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000068", 
+  "Control Name": "AUDIT STORAGE CAPACITY", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization allocates audit record storage capacity in accordance with [Assignment:organization-defined audit record storage requirements].Supplemental Guidance:  Organizations consider the types of auditing to be performed and the audit processing requirements when allocating audit storage capacity. Allocating sufficient audit storage capacity reduces the likelihood of such capacity being exceeded and resulting in the potential loss or reduction of auditing capability. Related controls: AU-2, AU-5, AU-6, AU-7, AU-11, SI-4.References: None.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization allocates audit record storage capacity in accordance with [Assignment:organization-defined audit record storage requirements].Supplemental Guidance:  Organizations consider the types of auditing to be performed and the audit processing requirements when allocating audit storage capacity. Allocating sufficient audit storage capacity reduces the likelihood of such capacity being exceeded and resulting in the potential loss or reduction of auditing capability. Related controls: AU-2, AU-5, AU-6, AU-7, AU-11, SI-4.References: None.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AU-04", 
+    "CNTL NO": "AU-4", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT STORAGE CAPACITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

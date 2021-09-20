@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000609", 
+  "control_attributes": {
+    "Control": "SA-12 (8) USE OF ALL-SOURCE INTELLIGENCE", 
+    "control_description": "The organization uses all-source intelligence analysis of suppliers and potential suppliers of the information system, system component, or information system service.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization establishes a process to address weaknesses or deficiencies in supply chain elements identified during independent or organizational assessments of such elements."
+  }, 
+  "Control Statement": "The organization uses all-source intelligence analysis of suppliers and potential suppliers of the information system, system component, or information system service.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-12 (8) USE OF ALL-SOURCE INTELLIGENCE", 
+  "compliance_control_number": "600000609"
+}

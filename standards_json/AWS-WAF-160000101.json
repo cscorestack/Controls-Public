@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000101",
+  "compliance_control_uri": "AWS-WAF/0016/160000101",
+  "Control Name": "SEC 3.5 Deﬁne permission guardrails for your organization",
+  "Control Family": "Security",
+  "Control Statement": "Establish common controls that restrict access to all identities in your organization. For example, you can restrict access to speciﬁc AWS Regions, or prevent your operators from deleting common resources, such as an IAM role used for your central security team.",
+  "control_attributes": {
+    "Control": "SEC 3.5 Deﬁne permission guardrails for your organization",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_define_guardrails"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

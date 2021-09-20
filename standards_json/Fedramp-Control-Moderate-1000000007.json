@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000007", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000007", 
+  "Control Name": "ACCOUNT MANAGEMENT | INACTIVITY LOGOUT", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization requires that users log out when [Assignment: organization-defined time-period of expected inactivity or description of when to log out].Supplemental Guidance: Related control: SC-23.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization requires that users log out when [Assignment: organization-defined time-period of expected inactivity or description of when to log out].Supplemental Guidance: Related control: SC-23.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-02 (05)", 
+    "CNTL NO": "AC-2 (5)", 
+    "AdditionalReq": "AC-2 (5) Guidance: Should use a shorter timeframe than AC-12.", 
+    "Control Name": "ACCOUNT MANAGEMENT | INACTIVITY LOGOUT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

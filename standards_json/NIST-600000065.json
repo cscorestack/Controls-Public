@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000065", 
+  "control_attributes": {
+    "Control": "SI-7 (1) INTEGRITY CHECKS", 
+    "control_description": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides an alternate audit capability in the event of a failure in primary audit capability that provides [Assignment: organization-defined alternate audit functionality]."
+  }, 
+  "Control Statement": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (1) INTEGRITY CHECKS", 
+  "compliance_control_number": "600000065"
+}

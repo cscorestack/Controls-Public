@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000025", 
+  "compliance_control_uri": "ISO-27001/0011/1100000025", 
+  "Control Name": "8.3.3 Physical media transfer", 
+  "Control Family": "8. Asset Management", 
+  "Control Statement": "Media containing information shall be protected against unauthorized access, misuse or corruption during transportation.", 
+  "control_attributes": {
+    "Clause_Category": "8.3\\u00a0Media handling", 
+    "description": "Media containing information shall be protected against unauthorized access, misuse or corruption during transportation.", 
+    "Control_Title": "8.3.3 Physical media transfer", 
+    "Control_Clause": "8. Asset Management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

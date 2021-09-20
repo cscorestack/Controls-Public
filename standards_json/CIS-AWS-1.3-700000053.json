@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000053", 
+  "compliance_control_uri": "CIS-AWS/0007/700000053", 
+  "Control Name": "5.2 Ensure no security groups allow ingress from 0.0.0.0/0 to remote server administration ports", 
+  "Control Family": "Networking", 
+  "Control Statement": "It is recommended that no security group allows unrestricted ingress access to remote server administration ports, such as SSH to port 22 and RDP to port 3389.", 
+  "control_attributes": {
+    "Control": "5.2 Ensure no security groups allow ingress from 0.0.0.0/0 to remote server administration ports", 
+    "Category": "Networking", 
+    "Control_description": "It is recommended that no security group allows unrestricted ingress access to remote server administration ports, such as SSH to port 22 and RDP to port 3389."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

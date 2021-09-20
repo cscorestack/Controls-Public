@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000013", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000013", 
+  "Control Name": "1.13 Ensure API keys are restricted to use by only specified Hosts and Apps", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Unrestricted keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to restrict API key usage to trusted hosts, HTTP referrers and apps.", 
+  "control_attributes": {
+    "Control": "1.13 Ensure API keys are restricted to use by only specified Hosts and Apps", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Unrestricted keys are insecure because they can be viewed publicly, such as from within a browser, or they can be accessed on a device where the key resides. It is recommended to restrict API key usage to trusted hosts, HTTP referrers and apps."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

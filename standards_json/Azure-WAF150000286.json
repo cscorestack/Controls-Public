@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000286", 
+  "compliance_control_uri": "Azure-WAF/0015/150000286", 
+  "Control Name": "3.10.4 Logs are captured in a structured format.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Structured format, following well-known schema can help in parsing and analyzing logs.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.4 Logs are captured in a structured format.", 
+    "Description": "Structured format, following well-known schema can help in parsing and analyzing logs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

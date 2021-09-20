@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000379", 
+  "compliance_control_uri": "Azure-WAF/0015/150000379", 
+  "Control Name": "4.11.4 The time it takes to deploy an entire production environment is tested and validated.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the time it takes to deploy an entire end-to-end production environment understood and validated?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.11 What reliability allowances for operations have you made?", 
+    "Control": "4.11.4 The time it takes to deploy an entire production environment is tested and validated.", 
+    "Description": "Is the time it takes to deploy an entire end-to-end production environment understood and validated?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

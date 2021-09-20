@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000041", 
+  "compliance_control_uri": "ISO/0001/100000030", 
+  "Control Name": "10.1.2 Key Management", 
+  "Control Family": "10. Cryptography", 
+  "Control Statement": "Key management shall be in place to support the organization's use of cryptographic techniques", 
+  "control_attributes": {
+    "Control_Objective": "10.1.2 Key Management", 
+    "Security_Control_Clause": "10. Cryptography", 
+    "Security_Category": "10.1 Cryptography controls", 
+    "description": "Key management shall be in place to support the organization's use of cryptographic techniques"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

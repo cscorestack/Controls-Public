@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000013",
+  "compliance_control_uri": "SOC2/0017/1700000013",
+  "Control Name": "Addresses Specific Requirements When Defining Authorities and Responsibilities—Management and the board of directors consider requirements relevant to security, availability, processing integrity, confidentiality, and privacy when defining authorities and responsibilities. ",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Addresses Specific Requirements When Defining Authorities and Responsibilities—Management and the board of directors consider requirements relevant to security, availability, processing integrity, confidentiality, and privacy when defining authorities and responsibilities. ",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.3 COSO Principle 3: Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "ControlNo": "CC1.3.4",
+    "TrustID": "CC1.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

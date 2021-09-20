@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000064", 
+  "compliance_control_uri": "CIS-Azure/0015/150000064", 
+  "Control Name": "4.3.7 Ensure server parameter 'log_retention_days' is greater than 3 days for PostgreSQL Database Server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable log_retention_days on PostgreSQL Servers.", 
+  "control_attributes": {
+    "Control": "4.3.7 Ensure server parameter 'log_retention_days' is greater than 3 days for PostgreSQL Database Server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable log_retention_days on PostgreSQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000081", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000081", 
+  "Control Name": "6.4.5.3 Change control procedures for the implementation of security patches and software modifications must include the following:\\nFunctionality testing to verify that the change does not adversely impact the security of the system.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.4.5.3 Change control procedures for the implementation of security patches and software modifications must include the following:\\nFunctionality testing to verify that the change does not adversely impact the security of the system.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

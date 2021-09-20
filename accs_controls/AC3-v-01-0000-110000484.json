@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000484",
+  "compliance_control_uri": "AC3-v-01/0000/110000484",
+  "Control Name": "PE-8 (1) AUTOMATED RECORDS MAINTENANCE / REVIEW",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization employs automated mechanisms to facilitate the maintenance and review of visitor access records.",
+  "control_attributes": {
+    "Control Name": "PE-8 (1) AUTOMATED RECORDS MAINTENANCE / REVIEW",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization employs automated mechanisms to facilitate the maintenance and review of visitor access records."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000506",
+      "PCI-DSS/0012/1200000133",
+      "PCI-DSS/0012/1200000135",
+      "PCI-DSS/0012/1200000137",
+      "PCI-DSS/0012/1200000138",
+      "PCI-DSS/0012/1200000139",
+      "Fedramp-Control-High/0009/900000272"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

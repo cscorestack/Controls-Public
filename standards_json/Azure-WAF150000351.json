@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000351", 
+  "compliance_control_uri": "Azure-WAF/0015/150000351", 
+  "Control Name": "4.7.4 The application is instrumented with semantic logs and metrics.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application instrumented with semantic logs to capture, alert and respond to errors?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.7 How does your application logic handle exceptions and errors?", 
+    "Control": "4.7.4 The application is instrumented with semantic logs and metrics.", 
+    "Description": "Is the application instrumented with semantic logs to capture, alert and respond to errors?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

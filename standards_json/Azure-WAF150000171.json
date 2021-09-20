@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000171", 
+  "compliance_control_uri": "Azure-WAF/0015/150000171", 
+  "Control Name": "2.14.6 Unit and Integration testing is performed as part of the application deployment process", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "When is integration testing performed?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.6 Unit and Integration testing is performed as part of the application deployment process", 
+    "Description": "When is integration testing performed?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

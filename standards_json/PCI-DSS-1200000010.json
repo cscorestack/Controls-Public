@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000010", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000010", 
+  "Control Name": "1.2.1 Restrict inbound and outbound traffic to that which is necessary for the cardholder data environment, and specifically deny all other traffic.", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "1.2.1 Restrict inbound and outbound traffic to that which is necessary for the cardholder data environment, and specifically deny all other traffic.", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

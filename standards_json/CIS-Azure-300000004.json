@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000004", 
+  "compliance_control_uri": "CIS-Azure/0003/300000004", 
+  "Control Name": "2.5. Ensure ASC Default policy setting 'Monitor Endpoint Protection' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "When this setting is enabled, it recommends endpoint protection be provisioned for all Windows virtual machines to help identify and remove viruses, spyware, and other malicious software", 
+  "control_attributes": {
+    "Control": "2.5. Ensure ASC Default policy setting 'Monitor Endpoint Protection' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "When this setting is enabled, it recommends endpoint protection be provisioned for all Windows virtual machines to help identify and remove viruses, spyware, and other malicious software"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

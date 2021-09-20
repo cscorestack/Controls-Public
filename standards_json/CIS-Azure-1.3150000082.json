@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000082", 
+  "compliance_control_uri": "CIS-Azure/0015/150000082", 
+  "Control Name": "5.3 Ensure that Diagnostic Logs are enabled for all services which support it", 
+  "Control Family": "5 Logging and Monitoring", 
+  "Control Statement": "Diagnostic Logs capture activity to the data access plane while the Activity log is a subscription-level log for the control plane. Resource-level diagnostic logs provide insight into operations that were performed within that resource itself", 
+  "control_attributes": {
+    "Control": "5.3 Ensure that Diagnostic Logs are enabled for all services which support it", 
+    "Control_Clause": "5 Logging and Monitoring", 
+    "description": "Diagnostic Logs capture activity to the data access plane while the Activity log is a subscription-level log for the control plane. Resource-level diagnostic logs provide insight into operations that were performed within that resource itself"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

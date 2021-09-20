@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000266", 
+  "control_attributes": {
+    "Control": "CA-2 (1) INDEPENDENT ASSESSORS", 
+    "control_description": "The organization employs assessors or assessment teams with [Assignment: organization-defined level of independence] to conduct security control assessments.", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs assessors or assessment teams with [Assignment: organization-defined level of independence] to conduct security control assessments.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-2 (1) INDEPENDENT ASSESSORS", 
+  "compliance_control_number": "600000266"
+}

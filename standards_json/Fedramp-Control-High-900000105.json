@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000105", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000105", 
+  "Control Name": "CONTINUOUS MONITORING | TREND ANALYSES", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization employs trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data.Supplemental Guidance:  Trend analyses can include, for example, examining recent threat information regarding the types of threat events that have occurred within the organization or across the federal government, success rates of certain types of cyber attacks, emerging vulnerabilities in information technologies, evolving social engineering techniques, results from multiple security control assessments, the effectiveness of configuration settings, and findings from Inspectors General or auditors.", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization employs trend analyses to determine if security control implementations, the frequency of continuous monitoring activities, and/or the types of activities used in the continuous monitoring process need to be modified based on empirical data.Supplemental Guidance:  Trend analyses can include, for example, examining recent threat information regarding the types of threat events that have occurred within the organization or across the federal government, success rates of certain types of cyber attacks, emerging vulnerabilities in information technologies, evolving social engineering techniques, results from multiple security control assessments, the effectiveness of configuration settings, and findings from Inspectors General or auditors.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "CA-07 (03)", 
+    "CNTL NO": "CA-7 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONTINUOUS MONITORING | TREND ANALYSES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

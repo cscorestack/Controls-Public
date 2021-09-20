@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000285", 
+  "compliance_control_uri": "Azure-WAF/0015/150000285", 
+  "Control Name": "3.10.3 Application logs are collected from different application environments.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Application logs support the end-to-end application lifecycle. Logging is essential in understanding how the application operates in various environments and what events occur and under which conditions.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.3 Application logs are collected from different application environments.", 
+    "Description": "Application logs support the end-to-end application lifecycle. Logging is essential in understanding how the application operates in various environments and what events occur and under which conditions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

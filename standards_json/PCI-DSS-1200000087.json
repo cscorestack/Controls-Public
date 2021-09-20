@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000087", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000087", 
+  "Control Name": "6.5.4 Address common coding vulnerabilities in software-development processes as follows:\\n- Train developers in secure coding techniques, including how to avoid common coding vulnerabilities, and understanding how sensitive data is handled in memory.\\n- Develop applications based on secure coding guidelines. \\nVulnerabilities include:\\nInsecure communications.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.5.4 Address common coding vulnerabilities in software-development processes as follows:\\n- Train developers in secure coding techniques, including how to avoid common coding vulnerabilities, and understanding how sensitive data is handled in memory.\\n- Develop applications based on secure coding guidelines. \\nVulnerabilities include:\\nInsecure communications.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000345", 
+  "control_attributes": {
+    "Control": "CP-8 (4) PROVIDER CONTINGENCY PLAN", 
+    "control_description": "The organization: (a) Requires primary and alternate telecommunications service providers to have contingency plans;(b) Reviews provider contingency plans to ensure that the plans meet organizational contingency requirements; and(c) Obtains evidence of contingency testing/training by providers [Assignment: organization-defined frequency].", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements transaction recovery for systems that are transaction-based."
+  }, 
+  "Control Statement": "The organization: (a) Requires primary and alternate telecommunications service providers to have contingency plans;(b) Reviews provider contingency plans to ensure that the plans meet organizational contingency requirements; and(c) Obtains evidence of contingency testing/training by providers [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-8 (4) PROVIDER CONTINGENCY PLAN", 
+  "compliance_control_number": "600000345"
+}

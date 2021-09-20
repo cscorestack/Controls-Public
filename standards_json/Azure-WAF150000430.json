@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000430", 
+  "compliance_control_uri": "Azure-WAF/0015/150000430", 
+  "Control Name": "5.5.3 Platform specific information (e.g. web server version) is removed from server-client communication channels.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Information revealing the application platform, such as HTTP banners containing framework information (\"X-Powered-By\", \"X-ASPNET-VERSION\"), are commonly used by malicious actors when mapping attack vectors of the application. HTTP headers, error messages, website footers etc. should not contain information about the application platform. Azure CDN or Cloudflare can be used to separate the hosting platform from end users, Azure API Management offers transformation policies that allow to modify HTTP headers and remove sensitive information.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.3 Platform specific information (e.g. web server version) is removed from server-client communication channels.", 
+    "Description": "Information revealing the application platform, such as HTTP banners containing framework information (\"X-Powered-By\", \"X-ASPNET-VERSION\"), are commonly used by malicious actors when mapping attack vectors of the application. HTTP headers, error messages, website footers etc. should not contain information about the application platform. Azure CDN or Cloudflare can be used to separate the hosting platform from end users, Azure API Management offers transformation policies that allow to modify HTTP headers and remove sensitive information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

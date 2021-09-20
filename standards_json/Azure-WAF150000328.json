@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000328", 
+  "compliance_control_uri": "Azure-WAF/0015/150000328", 
+  "Control Name": "4.5.4 Application platform services are running in a highly available configuration/SKU.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are all application platform services running in a HA configuration/SKU? e.g. Service Bus Premium.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.4 Application platform services are running in a highly available configuration/SKU.", 
+    "Description": "Are all application platform services running in a HA configuration/SKU? e.g. Service Bus Premium."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

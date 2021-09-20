@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000224", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000224", 
+  "Control Name": "Implement a formal security awareness program to make all personnel aware of the importance of cardholder data security.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Implement a formal security awareness program to make all personnel aware of the importance of cardholder data security.", 
+    "Requirement": "12.6.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

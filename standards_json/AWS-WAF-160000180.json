@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000180",
+  "compliance_control_uri": "AWS-WAF/0016/160000180",
+  "Control Name": "REL 9.1 Identify and back up all data that needs to be backed up, or reproduce the data from sources",
+  "Control Family": "Reliability",
+  "Control Statement": "Amazon S3 can be used as a backup destination for multiple data sources. AWS services such as Amazon EBS, Amazon RDS, and Amazon DynamoDB have built in capabilities to create backups.\nThird-party backup software can also be used. Alternatively, if the data can be reproduced from other sources to meet RPO, you might not require a backup",
+  "control_attributes": {
+    "Control": "REL 9.1 Identify and back up all data that needs to be backed up, or reproduce the data from sources",
+    "Category": "Reliability",
+    "Subcategory": "How do you back up data?",
+    "question_id": "backing-up-data",
+    "choice_id": "rel_backing_up_data_identified_backups_data"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

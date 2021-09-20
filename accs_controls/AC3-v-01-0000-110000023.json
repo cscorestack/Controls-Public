@@ -1,0 +1,148 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000023",
+  "compliance_control_uri": "AC3-v-01/0000/110000023",
+  "Control Name": "AC-17 (6) PROTECTION OF INFORMATION",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization ensures that users protect information about remote access mechanisms from unauthorized use and disclosure.",
+  "control_attributes": {
+    "Control Name": "AC-17 (6) PROTECTION OF INFORMATION",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization ensures that users protect information about remote access mechanisms from unauthorized use and disclosure."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/VPC"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Gateways"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Firewall_Rules"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000097",
+      "NIST-SP800-53/0006/600000202",
+      "ISO-27001/0011/1100000009",
+      "CIS-GCP/0014/1400000047",
+      "SOC2/0017/1700000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/inFIw",
+        "policy_name": "AWS_DMS_Replication_Not_Public",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fb8c3",
+        "policy_name": "AWS_Audit_EMR_Master_No_Public_IP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ju67f",
+        "policy_name": "AWS_S3_Bucket_Policy_Not_More_Permissive",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/5mkoo",
+        "policy_name": "AWS_S3_Bucket_Policy_Grantee_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mfjng",
+        "policy_name": "AWS_S3_Bucket_Public_Write_Prohibited",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/lsew7",
+        "policy_name": "AWS_S3_Blacklisted_Actions_Prohibited",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/buckets/1c71f",
+        "policy_name": "AWS_Audit_S3_Bucket_LifeCycle_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/b469e",
+        "policy_name": "AWS_Audit_S3_Bucket_Authenticated_Users_WRITE_ACP_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/32bd4",
+        "policy_name": "AWS_Audit_S3_Bucket_Authenticated_Users_WRITE_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/e93a4",
+        "policy_name": "AWS_Audit_S3_Account_Level_Public_Access_Blocks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/awkc",
+        "policy_name": "GCP_Audit_Bucket_Level_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ghjk",
+        "policy_name": "GCP_Monitor_Storage_Bucket_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

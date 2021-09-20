@@ -1,0 +1,75 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000240",
+  "compliance_control_uri": "AC3-v-01/0000/110000240",
+  "Control Name": "CM-7 LEAST FUNCTIONALITY",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization:a. Configures the information system to provide only essential capabilities; andb. Prohibits or restricts the use of the following functions, ports, protocols, and/or services: [Assignment: organization-defined prohibited or restricted functions, ports, protocols, and/or services].",
+  "control_attributes": {
+    "Control Name": "CM-7 LEAST FUNCTIONALITY",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization:a. Configures the information system to provide only essential capabilities; andb. Prohibits or restricts the use of the following functions, ports, protocols, and/or services: [Assignment: organization-defined prohibited or restricted functions, ports, protocols, and/or services]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000032",
+      "PCI-DSS/0012/1200000007",
+      "PCI-DSS/0012/1200000027",
+      "PCI-DSS/0012/1200000028",
+      "PCI-DSS/0012/1200000029",
+      "PCI-DSS/0012/1200000030",
+      "Fedramp-Control-Moderate/0010/1000000097",
+      "Fedramp-Control-High/0009/900000130",
+      "CIS-Azure/0015/150000021",
+      "SOC2/0017/1700000118"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/BEaQN",
+        "policy_name": "Azure_Audit_Custom_Owner_Role_Exists",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000116", 
+  "compliance_control_uri": "Azure-WAF/0015/150000116", 
+  "Control Name": "2.7.2 Dashboards are tailored to a specific audience such as developers, security or networking teams", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are dashboards tailored to a specific audience?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.2 Dashboards are tailored to a specific audience such as developers, security or networking teams", 
+    "Description": "Are dashboards tailored to a specific audience?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

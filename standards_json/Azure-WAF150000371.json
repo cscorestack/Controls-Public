@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000371", 
+  "compliance_control_uri": "Azure-WAF/0015/150000371", 
+  "Control Name": "4.10.2 All external application endpoints are secured? i.e. Firewall, WAF, DDoS Protection Standard Plan, etc.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are all external application endpoints secured using security services? Such as Azure Firewall, Application Gateway and Azure Front Door WAF, or DDoS Protection Standard Plan. How threat vectors such as DDoS attacks are mitigated ultimately has a bearing on application reliability", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.2 All external application endpoints are secured? i.e. Firewall, WAF, DDoS Protection Standard Plan, etc.", 
+    "Description": "Are all external application endpoints secured using security services? Such as Azure Firewall, Application Gateway and Azure Front Door WAF, or DDoS Protection Standard Plan. How threat vectors such as DDoS attacks are mitigated ultimately has a bearing on application reliability"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

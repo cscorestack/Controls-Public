@@ -1,0 +1,134 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000874", 
+  "compliance_control_uri": "AC3-v-01/0000/110000874", 
+  "Control Name": "Ensure Diagnostic Setting captures appropriate categories", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "The diagnostic setting should be configured to log the appropriate activities from the control/management plane.", 
+  "control_attributes": {
+    "Control Name": "Ensure Diagnostic Setting captures appropriate categories", 
+    "Control Family": "Logging and Monitoring", 
+    "Control Statement": "The diagnostic setting should be configured to log the appropriate activities from the control/management plane."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Account", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "cloud account", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Subscription/Subscription",
+      "service_resource": "Azure/Subscription/Subscription/Subscription"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000069"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Logic_Apps",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/jto23",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Batch_Accounts",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/gejnk",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_ServiceBus_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/eiGhM",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Eventhub_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/OooUI",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_IOT_Hubs",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/juff3",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_App_Service",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/udxse",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagonistic_Settings",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/ced90",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Key_Vault",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/zppwh",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_AzureStreamAnalytics_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/jHbgD",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Data_Lake_Store",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/#hu%1",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagonisticlogs_ServiceFabric_VMSS",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/dr5it",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Network_Data_Collection_Linux",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/qTqPp",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_PostgreSQLDB_Log_Duration",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/lMQZH",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_Data_Lake_Analytics",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/mp@30",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Diagnostic_Logs_SearchServices_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/aINGH",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

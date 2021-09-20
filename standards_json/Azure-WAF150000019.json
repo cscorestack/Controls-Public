@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000019", 
+  "compliance_control_uri": "Azure-WAF/0015/150000019", 
+  "Control Name": "1.2.10 There is a plan to modernize the workload", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Is there a plan to change the execution model to Serverless? The reasoning for this is to move as far as you can up the stack towards cloud-native. When the workload is serverless, it's charged only for actual use, whereas with traditional infrastructure there are many underlying things that need to be factored into the price. By applying an end date to the application it encourages you to discuss the goal of re-designing the application to make even better use of the cloud. It might be more expensive from an Azure cost point of view but factoring in other things like licenses, people, time to deploy can drive down cost.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.10 There is a plan to modernize the workload", 
+    "Description": "Is there a plan to change the execution model to Serverless? The reasoning for this is to move as far as you can up the stack towards cloud-native. When the workload is serverless, it's charged only for actual use, whereas with traditional infrastructure there are many underlying things that need to be factored into the price. By applying an end date to the application it encourages you to discuss the goal of re-designing the application to make even better use of the cloud. It might be more expensive from an Azure cost point of view but factoring in other things like licenses, people, time to deploy can drive down cost."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

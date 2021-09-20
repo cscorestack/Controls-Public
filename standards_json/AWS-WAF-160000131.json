@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000131",
+  "compliance_control_uri": "AWS-WAF/0016/160000131",
+  "Control Name": "SEC 9.4 Authenticate network communications",
+  "Control Family": "Security",
+  "Control Statement": "Verify the identity of communications by using protocols that support authentication, such as Transport Layer Security (TLS) or IPsec.",
+  "control_attributes": {
+    "Control": "SEC 9.4 Authenticate network communications",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data in transit?",
+    "question_id": "protect-data-transit",
+    "choice_id": "sec_protect_data_transit_authentication"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

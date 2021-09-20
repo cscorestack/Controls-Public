@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000537", 
+  "control_attributes": {
+    "Control": "PL-4 (1) SOCIAL MEDIA AND NETWORKING RESTRICTIONS", 
+    "control_description": "The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.", 
+    "Family": "PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-4 (1) SOCIAL MEDIA AND NETWORKING RESTRICTIONS", 
+  "compliance_control_number": "600000537"
+}

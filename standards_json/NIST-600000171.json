@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000171", 
+  "control_attributes": {
+    "Control": "AC-6 (7) REVIEW OF USER PRIVILEGES", 
+    "control_description": "The organization: (a) Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and(b) Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system conceals, via the session lock, information previously visible on the display with a publicly viewable image."
+  }, 
+  "Control Statement": "The organization: (a) Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and(b) Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (7) REVIEW OF USER PRIVILEGES", 
+  "compliance_control_number": "600000171"
+}

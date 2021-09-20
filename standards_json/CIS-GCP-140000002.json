@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000002", 
+  "compliance_control_uri": "CIS-GCP/0014/140000002", 
+  "Control Name": "1.2 Ensure that multi-factor authentication is enabled for all non-service accounts", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Setup multi-factor authentication for Google Cloud Platform accounts.", 
+  "control_attributes": {
+    "Control": "1.2 Ensure that multi-factor authentication is enabled for all non-service accounts", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Setup multi-factor authentication for Google Cloud Platform accounts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

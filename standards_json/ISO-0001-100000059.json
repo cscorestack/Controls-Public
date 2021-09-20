@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000059", 
+  "compliance_control_uri": "ISO/0001/100000033", 
+  "Control Name": "12.1.3 Capacity management", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "The use of resources shall be monitored, tuned, and projections made of future capacity requirements to ensure the required system performance", 
+  "control_attributes": {
+    "Control_Objective": "12.1.3 Capacity management", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.1 Operational procedures and responsibiities", 
+    "description": "The use of resources shall be monitored, tuned, and projections made of future capacity requirements to ensure the required system performance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

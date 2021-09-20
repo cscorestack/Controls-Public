@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000090", 
+  "compliance_control_uri": "ISO-27001/0011/1100000090", 
+  "Control Name": "14.3.1 Protection of test data", 
+  "Control Family": "14. System acquisition, development and maintenance", 
+  "Control Statement": "Test data shall be selected carefully, and protected and controlled", 
+  "control_attributes": {
+    "Clause_Category": "14.3 Test Data", 
+    "description": "Test data shall be selected carefully, and protected and controlled", 
+    "Control_Title": "14.3.1 Protection of test data", 
+    "Control_Clause": "14. System acquisition, development and maintenance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

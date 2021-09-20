@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000140", 
+  "compliance_control_uri": "Azure-WAF/0015/150000140", 
+  "Control Name": "2.10.3 Soft-Delete is enabled for your keys and credentials such as things stored in Key Vaults and Key Vault objects.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "The Soft-Delete feature retains resources for a given retention period after a DELETE operation has been performed, while giving the appearance that the object is deleted. It helps to mitigate scenarios where resources are unintentionally, maliciously or incorrectly deleted.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.3 Soft-Delete is enabled for your keys and credentials such as things stored in Key Vaults and Key Vault objects.", 
+    "Description": "The Soft-Delete feature retains resources for a given retention period after a DELETE operation has been performed, while giving the appearance that the object is deleted. It helps to mitigate scenarios where resources are unintentionally, maliciously or incorrectly deleted."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000393", 
+  "compliance_control_uri": "Azure-WAF/0015/150000393", 
+  "Control Name": "5.1.1 Threat modeling processes are adopted, identified threats are ranked based on organizational impact, mapped to mitigations and communicated to stakeholders.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Threat modeling is an engineering technique which can be used to help identify threats, attacks, vulnerabilities and countermeasures that could affect an application. Threat modeling consists of: defining security requirements, identifying threats, mitigating threats, validating threat mitigation. Microsoft uses STRIDE for threat modeling. Tools like Microsoft Threat Modeling Tool can help.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.1 Have you done a threat analysis of your workload?", 
+    "Control": "5.1.1 Threat modeling processes are adopted, identified threats are ranked based on organizational impact, mapped to mitigations and communicated to stakeholders.", 
+    "Description": "Threat modeling is an engineering technique which can be used to help identify threats, attacks, vulnerabilities and countermeasures that could affect an application. Threat modeling consists of: defining security requirements, identifying threats, mitigating threats, validating threat mitigation. Microsoft uses STRIDE for threat modeling. Tools like Microsoft Threat Modeling Tool can help."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

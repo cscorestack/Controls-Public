@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000041", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000041", 
+  "Control Name": "4.6 Ensure that IP forwarding is not enabled on Instances ", 
+  "Control Family": "Virtual Machines", 
+  "Control Statement": "Compute Engine instance cannot forward a packet unless the source IP address of the packet matches the IP address of the instance. Similarly, GCP won't deliver a packet whose destination IP address is different than the IP address of the instance receiving the packet. However, both capabilities are required if you want to use instances to help route packets.", 
+  "control_attributes": {
+    "Control": "4.6 Ensure that IP forwarding is not enabled on Instances ", 
+    "Security_Category": "Virtual Machines", 
+    "Control_description": "Compute Engine instance cannot forward a packet unless the source IP address of the packet matches the IP address of the instance. Similarly, GCP won't deliver a packet whose destination IP address is different than the IP address of the instance receiving the packet. However, both capabilities are required if you want to use instances to help route packets."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

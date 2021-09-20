@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000099", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000099", 
+  "Control Name": "Assign access based on individual personnel job classification and function.",
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Assign access based on individual personnel job classification and function.",
+    "Requirement": "7.1.3.Restrict access to cardholder data by business need to know"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

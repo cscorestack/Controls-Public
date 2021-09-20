@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000584", 
+  "control_attributes": {
+    "Control": "SA-9 (2) IDENTIFICATION OF FUNCTIONS / PORTS / PROTOCOLS / SERVICES", 
+    "control_description": "The organization requires providers of [Assignment: organization-defined external information system services] to identify the functions, ports, protocols, and other services required for the use of such services.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides an alternate configuration management process using organizational personnel in the absence of a dedicated developer configuration management team."
+  }, 
+  "Control Statement": "The organization requires providers of [Assignment: organization-defined external information system services] to identify the functions, ports, protocols, and other services required for the use of such services.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-9 (2) IDENTIFICATION OF FUNCTIONS / PORTS / PROTOCOLS / SERVICES", 
+  "compliance_control_number": "600000584"
+}

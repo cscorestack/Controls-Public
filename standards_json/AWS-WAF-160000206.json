@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000206",
+  "compliance_control_uri": "AWS-WAF/0016/160000206",
+  "Control Name": "PERF 1.4 Use policies or reference architectures",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Maximize performance and eﬃciency by evaluating internal policies and existing reference architectures and using your analysis to select services and conﬁgurations for your workload.",
+  "control_attributes": {
+    "Control": "PERF 1.4 Use policies or reference architectures",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_use_policies"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

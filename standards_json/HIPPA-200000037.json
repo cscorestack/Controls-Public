@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000037", 
+  "compliance_control_uri": "HIPAA/0002/200000037", 
+  "Control Name": "Security Management Process  Risk Management - 164.308(a)(1)(ii)(B)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with \\u00a7164.306(a).", 
+  "control_attributes": {
+    "Control": "Security Management Process  Risk Management - 164.308(a)(1)(ii)(B)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with \\u00a7164.306(a)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

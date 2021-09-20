@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000214", 
+  "control_attributes": {
+    "Control": "AC-20 (3) NON-ORGANIZATIONALLY OWNED SYSTEMS / COMPONENTS / DEVICES", 
+    "control_description": "The organization [Selection: restricts; prohibits] the use of non-organizationally owned information systems, system components, or devices to process, store, or transmit organizational information.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of environmental controls."
+  }, 
+  "Control Statement": "The organization [Selection: restricts; prohibits] the use of non-organizationally owned information systems, system components, or devices to process, store, or transmit organizational information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-20 (3) NON-ORGANIZATIONALLY OWNED SYSTEMS / COMPONENTS / DEVICES", 
+  "compliance_control_number": "600000214"
+}

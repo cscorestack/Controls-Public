@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000092", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000092", 
+  "Control Name": "AUDIT GENERATION | CHANGES BY AUTHORIZED INDIVIDUALS", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds].Supplemental Guidance:  This control enhancement enables organizations to extend or limit auditing as necessary to meet organizational requirements. Auditing that is limited to conserve information system resources may be extended to address certain threat situations. In addition, auditing may be limited to a specific set of events to facilitate audit reduction, analysis, and reporting. Organizations can establish time thresholds in which audit actions are changed, for example, near real-time, within minutes, or within hours. Related control: AU-7.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds].Supplemental Guidance:  This control enhancement enables organizations to extend or limit auditing as necessary to meet organizational requirements. Auditing that is limited to conserve information system resources may be extended to address certain threat situations. In addition, auditing may be limited to a specific set of events to facilitate audit reduction, analysis, and reporting. Organizations can establish time thresholds in which audit actions are changed, for example, near real-time, within minutes, or within hours. Related control: AU-7.", 
+    "SelectionParam": "AU-12 (3) (1) [service provider-defined individuals or roles with audit configuration responsibilities]  AU-12 (3) (2) [all network, data storage, and computing devices]", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-12 (03)", 
+    "CNTL NO": "AU-12 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT GENERATION | CHANGES BY AUTHORIZED INDIVIDUALS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

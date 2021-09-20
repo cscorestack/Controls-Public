@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000074",
+  "compliance_control_uri": "AWS-WAF/0016/160000074",
+  "Control Name": "OPS 11.1 Have a process for continuous improvement",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Regularly evaluate and prioritize opportunities for improvement to focus eﬀorts where they can provide the greatest beneﬁts.",
+  "control_attributes": {
+    "Control": "OPS 11.1 Have a process for continuous improvement",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_process_cont_imp"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

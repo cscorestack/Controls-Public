@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000062", 
+  "compliance_control_uri": "ISO/0001/100000038", 
+  "Control Name": "12.3.1 Information backup", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Back-up copies of information and software shall be taken and tested regularly in accordance with the agreed backup policy", 
+  "control_attributes": {
+    "Control_Objective": "12.3.1 Information backup", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.3 Backup", 
+    "description": "Back-up copies of information and software shall be taken and tested regularly in accordance with the agreed backup policy"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

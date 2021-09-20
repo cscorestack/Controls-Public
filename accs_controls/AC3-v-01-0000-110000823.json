@@ -1,0 +1,49 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000823",
+  "compliance_control_uri": "AC3-v-01/0000/110000823",
+  "Control Name": "SI-8 (1) CENTRAL MANAGEMENT",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization centrally manages spam protection mechanisms.",
+  "control_attributes": {
+    "Control Name": "SI-8 (1) CENTRAL MANAGEMENT",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization centrally manages spam protection mechanisms."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000072",
+      "Fedramp-Control-Moderate/0010/1000000317",
+      "Fedramp-Control-High/0009/900000415"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

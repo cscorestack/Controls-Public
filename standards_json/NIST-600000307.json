@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000307", 
+  "control_attributes": {
+    "Control": "CM-8 (9) ASSIGNMENT OF COMPONENTS TO SYSTEMS", 
+    "control_description": "The organization: (a) Assigns [Assignment: organization-defined acquired information system components] to an information system; and (b) Receives an acknowledgement from the information system owner of this assignment.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization coordinates contingency plan development with organizational elements responsible for related plans."
+  }, 
+  "Control Statement": "The organization: (a) Assigns [Assignment: organization-defined acquired information system components] to an information system; and (b) Receives an acknowledgement from the information system owner of this assignment.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (9) ASSIGNMENT OF COMPONENTS TO SYSTEMS", 
+  "compliance_control_number": "600000307"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000036", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000036", 
+  "Control Name": "WIRELESS ACCESS | AUTHENTICATION AND ENCRYPTION", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system protects wireless access to the system using authentication of [Selection(one or more): users; devices] and encryption.Supplemental Guidance:  Related controls: SC-8, SC-13.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system protects wireless access to the system using authentication of [Selection(one or more): users; devices] and encryption.Supplemental Guidance:  Related controls: SC-8, SC-13.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-18 (01)", 
+    "CNTL NO": "AC-18 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "WIRELESS ACCESS | AUTHENTICATION AND ENCRYPTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

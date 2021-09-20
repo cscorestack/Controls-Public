@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000928",
+  "compliance_control_uri": "AC3-v-01/0000/110000928",
+  "Control Name": "Ensure a log metric filter and alarm exist for changes to network gateways",
+  "Control Family": "Logging and Monitoring",
+  "Control Statement": "Ensure a log metric filter and alarm exist for changes to network gateways",
+  "control_attributes": {
+    "Control Name": "Ensure a log metric filter and alarm exist for changes to network gateways",
+    "Control Family": "Logging and Monitoring",
+    "Control Statement": "Ensure a log metric filter and alarm exist for changes to network gateways"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-AWS/0007/700000048"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Alert_Configuration_For_Network_Gateways_Changes",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/adfdf",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

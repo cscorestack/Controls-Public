@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000219", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000219", 
+  "Control Name": "INCIDENT HANDLING | DYNAMIC RECONFIGURATION", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization includes dynamic reconfiguration of [Assignment: organization-defined information system components] as part of the incident response capability.Supplemental Guidance:  Dynamic reconfiguration includes, for example, changes to router rules, access control lists, intrusion detection/prevention system parameters, and filter rules for firewalls and gateways. Organizations perform dynamic reconfiguration of information systems, for example, to stop attacks, to misdirect attackers, and to isolate components of systems, thus limiting the extent of the damage from breaches or compromises. Organizations include time frames for achieving the reconfiguration of information systems in the definition of the reconfiguration capability, considering the potential need for rapid response in order to effectively address sophisticated cyber threats. Related controls: AC-2, AC-4, AC-16, CM-2, CM-3, CM-4.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization includes dynamic reconfiguration of [Assignment: organization-defined information system components] as part of the incident response capability.Supplemental Guidance:  Dynamic reconfiguration includes, for example, changes to router rules, access control lists, intrusion detection/prevention system parameters, and filter rules for firewalls and gateways. Organizations perform dynamic reconfiguration of information systems, for example, to stop attacks, to misdirect attackers, and to isolate components of systems, thus limiting the extent of the damage from breaches or compromises. Organizations include time frames for achieving the reconfiguration of information systems in the definition of the reconfiguration capability, considering the potential need for rapid response in order to effectively address sophisticated cyber threats. Related controls: AC-2, AC-4, AC-16, CM-2, CM-3, CM-4.", 
+    "SelectionParam": "IR-4 (2) [all network, data storage, and computing devices]", 
+    "FedRampParam": "x", 
+    "SORTID": "IR-04 (02)", 
+    "CNTL NO": "IR-4 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT HANDLING | DYNAMIC RECONFIGURATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

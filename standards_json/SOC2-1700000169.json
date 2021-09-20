@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000169",
+  "compliance_control_uri": "SOC2/0017/1700000169",
+  "Control Name": "Remediates Identified Vulnerabilities—Identified vulnerabilities are remediated through the development and execution of remediation activities.  ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Remediates Identified Vulnerabilities—Identified vulnerabilities are remediated through the development and execution of remediation activities.  ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.4 The entity responds to identified security incidents by executing a defined incident response program to understand, contain, remediate, and communicate security incidents, as appropriate.",
+    "ControlNo": "CC7.4.8",
+    "TrustID": "CC7.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

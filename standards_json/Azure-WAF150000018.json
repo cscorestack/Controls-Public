@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000018", 
+  "compliance_control_uri": "Azure-WAF/0015/150000018", 
+  "Control Name": "1.2.9 There is an ongoing conversation between the app owner and the business.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Is what is delivered from IT and what the business is expecting from IT mapped to the cost of the application? Communication between the app owner and business should be constant in order to ensure a management of expectations and cost.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.9 There is an ongoing conversation between the app owner and the business.", 
+    "Description": "Is what is delivered from IT and what the business is expecting from IT mapped to the cost of the application? Communication between the app owner and business should be constant in order to ensure a management of expectations and cost."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

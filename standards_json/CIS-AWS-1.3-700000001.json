@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000001", 
+  "compliance_control_uri": "CIS-AWS/0007/700000001", 
+  "Control Name": "1.1 Maintain current contact details", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "Ensure contact email and telephone details for AWS accounts are current and map to more than one individual in your organization.", 
+  "control_attributes": {
+    "Control": "1.1 Maintain current contact details", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "Ensure contact email and telephone details for AWS accounts are current and map to more than one individual in your organization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

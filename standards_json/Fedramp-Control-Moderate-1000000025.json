@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000025", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000025", 
+  "Control Name": "SESSION LOCK", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system: a. Prevents further access to the system by initiating a session lock after [Assignment: organization-defined time period] of inactivity or upon receiving a request from a user; and b. Retains the session lock until the user reestablishes access using established identification and authentication procedures.Supplemental Guidance:  Session locks are temporary actions taken when users stop work and move away from the immediate vicinity of information systems but do not want to log out because of the temporary nature of their absences. Session locks are implemented where session activities can be determined. This is typically at the operating system level, but can also be at the application level. Session locks are not an acceptable substitute for logging out of information systems, for example, if organizations require users to log out at the end of workdays. Related control: AC-7.References: OMB Memorandum 06-16.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system: a. Prevents further access to the system by initiating a session lock after [Assignment: organization-defined time period] of inactivity or upon receiving a request from a user; and b. Retains the session lock until the user reestablishes access using established identification and authentication procedures.Supplemental Guidance:  Session locks are temporary actions taken when users stop work and move away from the immediate vicinity of information systems but do not want to log out because of the temporary nature of their absences. Session locks are implemented where session activities can be determined. This is typically at the operating system level, but can also be at the application level. Session locks are not an acceptable substitute for logging out of information systems, for example, if organizations require users to log out at the end of workdays. Related control: AC-7.References: OMB Memorandum 06-16.", 
+    "SelectionParam": "AC-11(a) [fifteen (15) minutes]  ", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-11", 
+    "CNTL NO": "AC-11", 
+    "AdditionalReq": " ", 
+    "Control Name": "SESSION LOCK"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

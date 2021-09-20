@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000233", 
+  "compliance_control_uri": "Azure-WAF/0015/150000233", 
+  "Control Name": "3.3.2 Have policies to scale in and scale down when the load decreases.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Scaling in removes unused resources when they become idle.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.3 How are you ensuring that your workload is elastic and responsive to changes?", 
+    "Control": "3.3.2 Have policies to scale in and scale down when the load decreases.", 
+    "Description": "Scaling in removes unused resources when they become idle."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

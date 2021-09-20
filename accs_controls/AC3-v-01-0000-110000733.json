@@ -1,0 +1,117 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000733",
+  "compliance_control_uri": "AC3-v-01/0000/110000733",
+  "Control Name": "SC-7 (3) ACCESS POINTS",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization limits the number of external network connections to the information system.",
+  "control_attributes": {
+    "Control Name": "SC-7 (3) ACCESS POINTS",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization limits the number of external network connections to the information system."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "Azure/Security_Compliance/Azure_Security_Center",
+      "service_resource": "Azure/Security_Compliance/Azure_Security_Center/Tasks"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Firewall_Rules"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000049",
+      "PCI-DSS/0012/1200000005",
+      "PCI-DSS/0012/1200000009",
+      "PCI-DSS/0012/1200000010",
+      "PCI-DSS/0012/1200000013",
+      "PCI-DSS/0012/1200000014",
+      "PCI-DSS/0012/1200000015",
+      "PCI-DSS/0012/1200000016",
+      "PCI-DSS/0012/1200000017",
+      "PCI-DSS/0012/1200000018",
+      "PCI-DSS/0012/1200000019",
+      "PCI-DSS/0012/1200000020",
+      "Fedramp-Control-Moderate/0010/1000000269",
+      "Fedramp-Control-High/0009/900000350",
+      "AWS-WAF/0016/160000111",
+      "Azure-WAF/0015/150000452",
+      "Azure-WAF/0015/150000457",
+      "SOC2/0017/1700000135"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/6bffd",
+        "policy_name": "Azure_Audit_VM_NSGRules_Inbound",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tgn2q",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/liwlj",
+        "policy_name": "Azure_Monitor_Permissive_NetworkAccess_VM_Web_Apps",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App-Svcs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/mxis",
+        "policy_name": "GCP_Audit_Cloud_SQL_Database_With_Public_IP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/sshv",
+        "policy_name": "GCP_Audit_Instances_With_IP_Forwarding_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

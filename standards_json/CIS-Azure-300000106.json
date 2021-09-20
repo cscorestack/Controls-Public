@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000106", 
+  "compliance_control_uri": "CIS-Azure/0003/300000106", 
+  "Control Name": "8.4. Ensure the key vault is recoverable", 
+  "Control Family": "8. Other Security Considerations", 
+  "Control Statement": "It is recommended the key vault be made recoverable by enabling the Do Not Purge and Soft Delete functions. This is in order to prevent loss of encrypted data including storage accounts, SQL databases, and/or dependent services provided by key vault objects (Keys,Secrets, Certificates) etc., as may happen in the case of accidental deletion by a user or from disruptive activity by a malicious user.", 
+  "control_attributes": {
+    "Control": "8.4. Ensure the key vault is recoverable", 
+    "Control_Clause": "8. Other Security Considerations", 
+    "description": "It is recommended the key vault be made recoverable by enabling the Do Not Purge and Soft Delete functions. This is in order to prevent loss of encrypted data including storage accounts, SQL databases, and/or dependent services provided by key vault objects (Keys,Secrets, Certificates) etc., as may happen in the case of accidental deletion by a user or from disruptive activity by a malicious user."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

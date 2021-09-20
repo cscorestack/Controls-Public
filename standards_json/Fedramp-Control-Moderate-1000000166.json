@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000166", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000166", 
+  "Control Name": "INCIDENT MONITORING", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization tracks and documents information system security incidents.Supplemental Guidance:  Documenting information system security incidents includes, for example, maintaining records about each incident, the status of the incident, and other pertinent information necessary for forensics, evaluating incident details, trends, and handling. Incident information can be obtained from  a variety of sources including, for example, incident reports, incident response teams, audit monitoring, network monitoring, physical access monitoring, and user/administrator reports. Related controls: AU-6, IR-8, PE-6, SC-5, SC-7, SI-3, SI-4, SI-7.References: NIST Special Publication 800-61.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization tracks and documents information system security incidents.Supplemental Guidance:  Documenting information system security incidents includes, for example, maintaining records about each incident, the status of the incident, and other pertinent information necessary for forensics, evaluating incident details, trends, and handling. Incident information can be obtained from  a variety of sources including, for example, incident reports, incident response teams, audit monitoring, network monitoring, physical access monitoring, and user/administrator reports. Related controls: AU-6, IR-8, PE-6, SC-5, SC-7, SI-3, SI-4, SI-7.References: NIST Special Publication 800-61.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-05", 
+    "CNTL NO": "IR-5", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT MONITORING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

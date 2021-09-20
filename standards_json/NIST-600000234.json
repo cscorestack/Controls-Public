@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000234", 
+  "control_attributes": {
+    "Control": "AU-5 (3) CONFIGURABLE TRAFFIC VOLUME THRESHOLDS", 
+    "control_description": "The information system enforces configurable network communications traffic volume thresholds reflecting limits on auditing capacity and [Selection: rejects; delays] network traffic above those thresholds.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system writes audit trails to hardware-enforced, write-once media."
+  }, 
+  "Control Statement": "The information system enforces configurable network communications traffic volume thresholds reflecting limits on auditing capacity and [Selection: rejects; delays] network traffic above those thresholds.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-5 (3) CONFIGURABLE TRAFFIC VOLUME THRESHOLDS", 
+  "compliance_control_number": "600000234"
+}

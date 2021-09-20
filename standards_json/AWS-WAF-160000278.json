@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000278",
+  "compliance_control_uri": "AWS-WAF/0016/160000278",
+  "Control Name": "COST 7.2 Implement regions based on cost",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Resource pricing can be diﬀerent in each region. Factoring in region cost ensures you pay the lowest overall price for this workload",
+  "control_attributes": {
+    "Control": "COST 7.2 Implement regions based on cost",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you use pricing models to reduce cost?",
+    "question_id": "pricing-model",
+    "choice_id": "cost_pricing_model_region_cost"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

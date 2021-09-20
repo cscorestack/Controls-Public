@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000091",
+  "compliance_control_uri": "SOC2/0017/1700000091",
+  "Control Name": "Integrates With Business Processes—Ongoing evaluations are built into the business processes and adjust to changing conditions.",
+  "Control Family": "Monitoring Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Integrates With Business Processes—Ongoing evaluations are built into the business processes and adjust to changing conditions.",
+    "Category": "Monitoring Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC4.1 COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning.",
+    "ControlNo": "CC4.1.5",
+    "TrustID": "CC4.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

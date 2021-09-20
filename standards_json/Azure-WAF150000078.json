@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000078", 
+  "compliance_control_uri": "Azure-WAF/0015/150000078", 
+  "Control Name": "2.1.4 Features and development tasks for the application are prioritized and executed on in a consistent fashion.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "It is important to understand how business features are prioritized relative to engineering fundamentals, especially if operations is a separate function.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.1 Have you identified and planned out the roles and responsibilities to ensure your workload follows operational excellence best practices?", 
+    "Control": "2.1.4 Features and development tasks for the application are prioritized and executed on in a consistent fashion.", 
+    "Description": "It is important to understand how business features are prioritized relative to engineering fundamentals, especially if operations is a separate function."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

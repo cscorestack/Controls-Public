@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000141", 
+  "compliance_control_uri": "Azure-WAF/0015/150000141", 
+  "Control Name": "2.10.4 Configuration settings can be changed or modified without rebuilding or redeploying the application", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Can configuration settings be changed or modified without rebuilding or redeploying the application?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.4 Configuration settings can be changed or modified without rebuilding or redeploying the application", 
+    "Description": "Can configuration settings be changed or modified without rebuilding or redeploying the application?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

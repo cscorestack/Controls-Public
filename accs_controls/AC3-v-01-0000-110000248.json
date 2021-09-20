@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000248",
+  "compliance_control_uri": "AC3-v-01/0000/110000248",
+  "Control Name": "CM-8 (8) AUTOMATED LOCATION TRACKING",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization employs automated mechanisms to support tracking of information system components by geographic location.",
+  "control_attributes": {
+    "Control Name": "CM-8 (8) AUTOMATED LOCATION TRACKING",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization employs automated mechanisms to support tracking of information system components by geographic location."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000306"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

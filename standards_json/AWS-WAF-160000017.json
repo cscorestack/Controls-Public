@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000017",
+  "compliance_control_uri": "AWS-WAF/0016/160000017",
+  "Control Name": "OPS 3.3 Escalation is encouraged",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Team members have mechanisms and are encouraged to escalate concerns to decision makers and stakeholders if they believe outcomes are at risk. Escalation should be performed early and often so that risks can be identiﬁed, and prevented from causing incidents.",
+  "control_attributes": {
+    "Control": "OPS 3.3 Escalation is encouraged",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_team_enc_escalation"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,93 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000100",
+  "compliance_control_uri": "AC3-v-01/0000/110000100",
+  "Control Name": "AC-6 (6) PRIVILEGED ACCESS BY NON-ORGANIZATIONAL USERS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization prohibits privileged access to the information system by non-organizational users.",
+  "control_attributes": {
+    "Control Name": "AC-6 (6) PRIVILEGED ACCESS BY NON-ORGANIZATIONAL USERS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization prohibits privileged access to the information system by non-organizational users."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_AWSManagedPolicy"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Objects"
+    },
+    {
+      "service_resource_type": "Azure/Identity/Azure Active Directory",
+      "service_resource": "Azure/Identity/Azure Active Directory/Groups"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000025",
+      "NIST-SP800-53/0006/600000170",
+      "ISO-27001/0011/1100000032",
+      "PCI-DSS/0012/1200000098",
+      "PCI-DSS/0012/1200000100",
+      "SOC2/0017/1700000129"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ghjd4",
+        "policy_name": "Azure_Audit_External_Accounts_with_Owner_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tue23",
+        "policy_name": "Azure_Audit_External_Accounts_with_Write_Permissions_in_a_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

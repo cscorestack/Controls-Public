@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000049", 
+  "compliance_control_uri": "CIS-Azure/0015/150000049", 
+  "Control Name": "3.11 Ensure Storage logging is enabled for Table service for read, write, and delete requests", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "These logs allow users to see the details of read, write, and delete operations against the tables.", 
+  "control_attributes": {
+    "Control": "3.11 Ensure Storage logging is enabled for Table service for read, write, and delete requests", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "These logs allow users to see the details of read, write, and delete operations against the tables."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

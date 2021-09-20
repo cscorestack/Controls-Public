@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000082", 
+  "compliance_control_uri": "ISO/0001/100000057", 
+  "Control Name": "14.2.2 System change control procedures", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": " Review IT system change management policies, procedures, standards, practices and related records.  Do they include planning and testing of changes, impact assessments, installation verification checks and fall-back/back-out/reversion procedures, both standard (production and non-production) and emergency changes etc", 
+  "control_attributes": {
+    "Control_Objective": "14.2.2 System change control procedures", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": " Review IT system change management policies, procedures, standards, practices and related records.  Do they include planning and testing of changes, impact assessments, installation verification checks and fall-back/back-out/reversion procedures, both standard (production and non-production) and emergency changes etc"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

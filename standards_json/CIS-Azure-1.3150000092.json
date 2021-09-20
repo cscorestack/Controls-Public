@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000092", 
+  "compliance_control_uri": "CIS-Azure/0015/150000092", 
+  "Control Name": "7.4 Ensure that only approved extensions are installed", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Only install organization-approved extensions on VMs.", 
+  "control_attributes": {
+    "Control": "7.4 Ensure that only approved extensions are installed", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Only install organization-approved extensions on VMs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000498", 
+  "compliance_control_uri": "Azure-WAF/0015/150000498", 
+  "Control Name": "5.13.4 Azure Active Directory or other managed identity provider (Microsoft Account, Azure B2C etc.) is used for user authentication.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "If possible, applications should utilize Azure Active Directory or other managed identity providers (such as Microsoft Account, Azure B2C...) to avoid managing user credentials with custom implementation. Modern protocols like OAuth 2.0 use token-based authentication with limited timespan, identity providers offer additional functionality like multi-factor authentication, password reset etc.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.4 Azure Active Directory or other managed identity provider (Microsoft Account, Azure B2C etc.) is used for user authentication.", 
+    "Description": "If possible, applications should utilize Azure Active Directory or other managed identity providers (such as Microsoft Account, Azure B2C...) to avoid managing user credentials with custom implementation. Modern protocols like OAuth 2.0 use token-based authentication with limited timespan, identity providers offer additional functionality like multi-factor authentication, password reset etc."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

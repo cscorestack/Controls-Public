@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000088",
+  "compliance_control_uri": "AWS-WAF/0016/160000088",
+  "Control Name": "SEC 1.6 Automate testing and validation of security controls in pipelines",
+  "Control Family": "Security",
+  "Control Statement": "Establish secure baselines and templates for security mechanisms that are tested and validated as part of your build, pipelines, and processes. Use tools and automation to test and validate all security controls continuously. For example, scan items such as machine images and infrastructure as code templates for security vulnerabilities, irregularities, and drift from an established baseline at each stage.",
+  "control_attributes": {
+    "Control": "SEC 1.6 Automate testing and validation of security controls in pipelines",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_test_validate_pipeline"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

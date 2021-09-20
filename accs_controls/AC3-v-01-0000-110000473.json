@@ -1,0 +1,52 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000473",
+  "compliance_control_uri": "AC3-v-01/0000/110000473",
+  "Control Name": "PE-3 PHYSICAL ACCESS CONTROL",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization: a. Enforces physical access authorizations at [Assignment: organization-defined entry/exit points to the facility where the information system resides] by;1. Verifying individual access authorizations before granting access to the facility; and2. Controlling ingress/egress to the facility using [Selection (one or more): [Assignment: organization-defined physical access control systems/devices]; guards];b. Maintains physical access audit logs for [Assignment: organization-defined entry/exit points];c. Provides [Assignment: organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;d. Escorts visitors and monitors visitor activity [Assignment: organization-defined circumstances requiring visitor escorts and monitoring];e. Secures keys, combinations, and other physical access devices;f. Inventories [Assignment: organization-defined physical access devices] every [Assignment: organization-defined frequency]; andg. Changes combinations and keys [Assignment: organization-defined frequency] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.",
+  "control_attributes": {
+    "Control Name": "PE-3 PHYSICAL ACCESS CONTROL",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization: a. Enforces physical access authorizations at [Assignment: organization-defined entry/exit points to the facility where the information system resides] by;1. Verifying individual access authorizations before granting access to the facility; and2. Controlling ingress/egress to the facility using [Selection (one or more): [Assignment: organization-defined physical access control systems/devices]; guards];b. Maintains physical access audit logs for [Assignment: organization-defined entry/exit points];c. Provides [Assignment: organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;d. Escorts visitors and monitors visitor activity [Assignment: organization-defined circumstances requiring visitor escorts and monitoring];e. Secures keys, combinations, and other physical access devices;f. Inventories [Assignment: organization-defined physical access devices] every [Assignment: organization-defined frequency]; andg. Changes combinations and keys [Assignment: organization-defined frequency] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000488",
+      "ISO-27001/0011/1100000042",
+      "ISO-27001/0011/1100000043",
+      "ISO-27001/0011/1100000044",
+      "PCI-DSS/0012/1200000129",
+      "PCI-DSS/0012/1200000136",
+      "Fedramp-Control-Moderate/0010/1000000198",
+      "Fedramp-Control-High/0009/900000264",
+      "HIPAA/0002/200000056",
+      "HIPAA/0002/200000059",
+      "HIPAA/0002/200000061",
+      "HIPAA/0002/200000062",
+      "ISO/0001/100000103",
+      "ISO/0001/100000104",
+      "ISO/0001/100000105"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

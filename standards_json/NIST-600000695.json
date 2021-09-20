@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000695", 
+  "control_attributes": {
+    "Control": "SC-18 MOBILE CODE", 
+    "control_description": "The organization: a. Defines acceptable and unacceptable mobile code and mobile code technologies;b. Establishes usage restrictions and implementation guidance for acceptable mobile code and mobile code technologies; andc. Authorizes, monitors, and controls the use of mobile code within the information system.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization allows execution of permitted mobile code only in confined virtual machine environments."
+  }, 
+  "Control Statement": "The organization: a. Defines acceptable and unacceptable mobile code and mobile code technologies;b. Establishes usage restrictions and implementation guidance for acceptable mobile code and mobile code technologies; andc. Authorizes, monitors, and controls the use of mobile code within the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-18 MOBILE CODE", 
+  "compliance_control_number": "600000695"
+}

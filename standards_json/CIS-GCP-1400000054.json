@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000054", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000054", 
+  "Control Name": "6.7 Ensure that the 'log_min_messages' database flag for Cloud SQL PostgreSQL instance is set appropriately", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "The log_min_error_statement flag defines the minimum message severity level that is considered as an error statement. Messages for error statements are logged with the SQL statement. Valid values include DEBUG5, DEBUG4, DEBUG3, DEBUG2, DEBUG1, INFO, NOTICE, WARNING, ERROR, LOG, FATAL, and PANIC. Each severity level includes the subsequent levels mentioned above.", 
+  "control_attributes": {
+    "Control": "6.7 Ensure that the 'log_min_messages' database flag for Cloud SQL PostgreSQL instance is set appropriately", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "The log_min_error_statement flag defines the minimum message severity level that is considered as an error statement. Messages for error statements are logged with the SQL statement. Valid values include DEBUG5, DEBUG4, DEBUG3, DEBUG2, DEBUG1, INFO, NOTICE, WARNING, ERROR, LOG, FATAL, and PANIC. Each severity level includes the subsequent levels mentioned above."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

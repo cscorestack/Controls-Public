@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000648", 
+  "control_attributes": {
+    "Control": "SA-21 (1) VALIDATION OF SCREENING", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service take [Assignment: organization-defined actions] to ensure that the required access authorizations and screening criteria are satisfied.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system isolates security functions enforcing access and information flow control from nonsecurity functions and from other security functions."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service take [Assignment: organization-defined actions] to ensure that the required access authorizations and screening criteria are satisfied.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-21 (1) VALIDATION OF SCREENING", 
+  "compliance_control_number": "600000648"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000073", 
+  "compliance_control_uri": "HIPAA/0002/200000073", 
+  "Control Name": "Other Arrangements - 164.314(a)(2)(ii)", 
+  "Control Family": "Other Arrangements", 
+  "Control Statement": " The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of 164.504(e)(3).", 
+  "control_attributes": {
+    "Control": "Other Arrangements - 164.314(a)(2)(ii)", 
+    "Security_Category": "Other Arrangements", 
+    "Control_description": " The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of 164.504(e)(3)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

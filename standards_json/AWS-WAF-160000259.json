@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000259",
+  "compliance_control_uri": "AWS-WAF/0016/160000259",
+  "Control Name": "COST 3.2 Identify cost attribution categories",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Identify organization categories that could be used to allocate cost within your organization.",
+  "control_attributes": {
+    "Control": "COST 3.2 Identify cost attribution categories",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_define_attribution"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

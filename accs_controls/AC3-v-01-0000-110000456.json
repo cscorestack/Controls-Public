@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000456",
+  "compliance_control_uri": "AC3-v-01/0000/110000456",
+  "Control Name": "PE-16 DELIVERY AND REMOVAL",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items.",
+  "control_attributes": {
+    "Control Name": "PE-16 DELIVERY AND REMOVAL",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000526",
+      "ISO-27001/0011/1100000047",
+      "ISO-27001/0011/1100000052",
+      "Fedramp-Control-Moderate/0010/1000000214",
+      "Fedramp-Control-High/0009/900000286",
+      "ISO/0001/100000099",
+      "ISO/0001/100000108",
+      "ISO/0001/100000113"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

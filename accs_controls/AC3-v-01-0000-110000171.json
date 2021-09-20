@@ -1,0 +1,66 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000171",
+  "compliance_control_uri": "AC3-v-01/0000/110000171",
+  "Control Name": "AU-8 (1) SYNCHRONIZATION WITH AUTHORITATIVE TIME SOURCE",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system:                                                                                                                                                    (a) Compares the internal information system clocks [Assignment: organization-defined frequency] with [Assignment: organization-defined authoritative time source]; and(b) Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [Assignment: organization-defined time period].",
+  "control_attributes": {
+    "Control Name": "AU-8 (1) SYNCHRONIZATION WITH AUTHORITATIVE TIME SOURCE",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system:                                                                                                                                                    (a) Compares the internal information system clocks [Assignment: organization-defined frequency] with [Assignment: organization-defined authoritative time source]; and(b) Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [Assignment: organization-defined time period]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000042",
+      "NIST-SP800-53/0006/600000244",
+      "ISO-27001/0011/1100000066",
+      "PCI-DSS/0012/1200000169",
+      "PCI-DSS/0012/1200000170",
+      "PCI-DSS/0012/1200000171",
+      "PCI-DSS/0012/1200000172",
+      "Fedramp-Control-Moderate/0010/1000000062",
+      "Fedramp-Control-High/0009/900000083",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/3n3a3",
+        "policy_name": "Azure_Audit_VM_LogAnalyticsWorkSpace",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

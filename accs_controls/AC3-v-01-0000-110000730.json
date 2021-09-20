@@ -1,0 +1,99 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000730",
+  "compliance_control_uri": "AC3-v-01/0000/110000730",
+  "Control Name": "SC-7 (21) ISOLATION OF INFORMATION SYSTEM COMPONENTS",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization employs boundary protection mechanisms to separate [Assignment: organization-defined information system components] supporting [Assignment: organization-defined missions and/or business functions].",
+  "control_attributes": {
+    "Control Name": "SC-7 (21) ISOLATION OF INFORMATION SYSTEM COMPONENTS",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization employs boundary protection mechanisms to separate [Assignment: organization-defined information system components] supporting [Assignment: organization-defined missions and/or business functions]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000679",
+      "PCI-DSS/0012/1200000005",
+      "PCI-DSS/0012/1200000009",
+      "PCI-DSS/0012/1200000010",
+      "PCI-DSS/0012/1200000013",
+      "PCI-DSS/0012/1200000014",
+      "PCI-DSS/0012/1200000015",
+      "PCI-DSS/0012/1200000016",
+      "PCI-DSS/0012/1200000017",
+      "PCI-DSS/0012/1200000018",
+      "PCI-DSS/0012/1200000019",
+      "PCI-DSS/0012/1200000020",
+      "Fedramp-Control-High/0009/900000360",
+      "AWS-WAF/0016/160000111",
+      "Azure-WAF/0015/150000458",
+      "Azure-WAF/0015/150000455",
+      "Azure-WAF/0015/150000470",
+      "SOC2/0017/1700000138"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/54nrl",
+        "policy_name": "Azure_Audit_NSG_Subnet_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/g2v2x",
+        "policy_name": "Azure_Audit_NSG_Subnet",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/aliav",
+        "policy_name": "GCP_Audit_GKE_Cluster_Created_With_Alias_IP_Range_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/masv",
+        "policy_name": "GCP_Audit_Disabled_GKE_Clusters_Master_Authorized_Networks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/polv",
+        "policy_name": "GCP_Audit_Disabled_GKE_Clusters_Network_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

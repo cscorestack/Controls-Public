@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000012", 
+  "compliance_control_uri": "ISO/0001/100000011", 
+  "Control Name": "7.2.1 Management responsibilities", 
+  "Control Family": "7. Human resources security", 
+  "Control Statement": "Management shall require employees, contractors and third party users to apply security in accordance with established policies and procedures of the organization", 
+  "control_attributes": {
+    "Control_Objective": "7.2.1 Management responsibilities", 
+    "Security_Control_Clause": "7. Human resources security", 
+    "Security_Category": "7.2 During employment", 
+    "description": "Management shall require employees, contractors and third party users to apply security in accordance with established policies and procedures of the organization"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

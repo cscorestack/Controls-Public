@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000501", 
+  "compliance_control_uri": "Azure-WAF/0015/150000501", 
+  "Control Name": "5.13.7 Password-less or multi-factor authentication (MFA) is enforced for users of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Attack methods have evolved to the point where passwords alone cannot reliably protect an account. Modern authentication solutions including password-less and multi-factor authentication increase security posture through strong authentication.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.7 Password-less or multi-factor authentication (MFA) is enforced for users of this workload.", 
+    "Description": "Attack methods have evolved to the point where passwords alone cannot reliably protect an account. Modern authentication solutions including password-less and multi-factor authentication increase security posture through strong authentication."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

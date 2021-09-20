@@ -1,0 +1,62 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000915", 
+  "compliance_control_uri": "AC3-v-01/0000/110000915", 
+  "Control Name": "Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service", 
+  "Control Family": "AppService", 
+  "Control Statement": "Non-secure HTTP requests can be restricted and all HTTP requests redirected to the secure HTTPS port. It is recommended to enforce HTTPS-only traffic.", 
+  "control_attributes": {
+    "Control Name": "Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service", 
+    "Control Family": "AppService", 
+    "Control Statement": "Non-secure HTTP requests can be restricted and all HTTP requests redirected to the secure HTTPS port. It is recommended to enforce HTTPS-only traffic."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000102"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_Https_Only_Access_API_App",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/gtux7",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_WebApp_HTTPS_Only",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/ujb6l",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_Https_Access_for_FA",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/xcvbn",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

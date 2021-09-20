@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000082", 
+  "compliance_control_uri": "Azure-WAF/0015/150000082", 
+  "Control Name": "2.2.3 Application is deployed across multiple regions in an active-passive configuration in alignment with recovery targets.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the application and/or its key workloads deployed across multiple regions in an active-passive configuration?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.2 What design considerations for operations have you made?", 
+    "Control": "2.2.3 Application is deployed across multiple regions in an active-passive configuration in alignment with recovery targets.", 
+    "Description": "Is the application and/or its key workloads deployed across multiple regions in an active-passive configuration?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

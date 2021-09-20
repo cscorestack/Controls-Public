@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000288",
+  "compliance_control_uri": "AC3-v-01/0000/110000288",
+  "Control Name": "CP-8 (1) PRIORITY OF SERVICE PROVISIONS",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization: (a) Develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives); and(b) Requests Telecommunications Service Priority for all telecommunications services used for national security emergency preparedness in the event that the primary and/or alternate telecommunications services are provided by a common carrier.",
+  "control_attributes": {
+    "Control Name": "CP-8 (1) PRIORITY OF SERVICE PROVISIONS",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization: (a) Develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives); and(b) Requests Telecommunications Service Priority for all telecommunications services used for national security emergency preparedness in the event that the primary and/or alternate telecommunications services are provided by a common carrier."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000110",
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000342",
+      "ISO-27001/0011/1100000049",
+      "ISO-27001/0011/1100000104",
+      "Fedramp-Control-Moderate/0010/1000000125",
+      "Fedramp-Control-High/0009/900000168",
+      "HIPAA/0002/200000021"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

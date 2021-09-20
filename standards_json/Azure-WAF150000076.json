@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000076", 
+  "compliance_control_uri": "Azure-WAF/0015/150000076", 
+  "Control Name": "2.1.2 There is no separation between development and operations teams.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "A true DevOps model positions the responsibility of operations with developers, but many customers do not fully embrace DevOps and maintain some degree of team separation between operations and development, either to enforce clear segregation of duties for regulated environments, or to share operations as a business function.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.1 Have you identified and planned out the roles and responsibilities to ensure your workload follows operational excellence best practices?", 
+    "Control": "2.1.2 There is no separation between development and operations teams.", 
+    "Description": "A true DevOps model positions the responsibility of operations with developers, but many customers do not fully embrace DevOps and maintain some degree of team separation between operations and development, either to enforce clear segregation of duties for regulated environments, or to share operations as a business function."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

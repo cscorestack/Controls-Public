@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000173", 
+  "control_attributes": {
+    "Control": "AC-6 (9) AUDITING USE OF PRIVILEGED FUNCTIONS", 
+    "control_description": "The information system audits the execution of privileged functions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system audits the execution of privileged functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (9) AUDITING USE OF PRIVILEGED FUNCTIONS", 
+  "compliance_control_number": "600000173"
+}

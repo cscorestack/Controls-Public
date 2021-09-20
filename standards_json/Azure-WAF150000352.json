@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000352", 
+  "compliance_control_uri": "Azure-WAF/0015/150000352", 
+  "Control Name": "4.8.1 All single points of failure have been eliminated from application communication flows.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have all single points of failure been eliminated from the data path (on-premises and Azure)? i.e. no single VM NVA or no single ExpressRoute connection", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.1 All single points of failure have been eliminated from application communication flows.", 
+    "Description": "Have all single points of failure been eliminated from the data path (on-premises and Azure)? i.e. no single VM NVA or no single ExpressRoute connection"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

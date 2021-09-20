@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000167",
+  "compliance_control_uri": "AWS-WAF/0016/160000167",
+  "Control Name": "REL 6.4 Automate responses (Real-time processing and alarming)",
+  "Control Family": "Reliability",
+  "Control Statement": "Use automation to take action when an event is detected, for example, to replace failed components",
+  "control_attributes": {
+    "Control": "REL 6.4 Automate responses (Real-time processing and alarming)",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_automate_response_monitor"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

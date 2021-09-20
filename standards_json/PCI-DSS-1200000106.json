@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000106", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000106", 
+  "Control Name": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nControl addition, deletion, and modification of user IDs, credentials, and other identifier objects.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nControl addition, deletion, and modification of user IDs, credentials, and other identifier objects.", 
+    "Requirement": "8.1.2.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

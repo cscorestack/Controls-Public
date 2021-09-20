@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000120",
+  "compliance_control_uri": "AWS-WAF/0016/160000120",
+  "Control Name": "SEC 7.2 Deﬁne data protection controls",
+  "Control Family": "Security",
+  "Control Statement": "Protect data according to its classiﬁcation level. For example, secure data classiﬁed as public by using relevant recommendations while protecting sensitive data with additional controls.",
+  "control_attributes": {
+    "Control": "SEC 7.2 Deﬁne data protection controls",
+    "Category": "Security",
+    "Subcategory": "How do you classify your data?",
+    "question_id": "data-classification",
+    "choice_id": "sec_data_classification_define_protection"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

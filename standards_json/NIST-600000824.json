@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000824", 
+  "control_attributes": {
+    "Control": "PM-14 TESTING, TRAINING, AND MONITORING", 
+    "control_description": "The organization: a. Implements a process for ensuring that organizational plans for conducting security testing, training, and monitoring activities associated with organizational information systems:1. Are developed and maintained; and2. Continue to be executed in a timely manner;b. Reviews testing, training, and monitoring plans for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization establishes an information security workforce development and improvement program."
+  }, 
+  "Control Statement": "The organization: a. Implements a process for ensuring that organizational plans for conducting security testing, training, and monitoring activities associated with organizational information systems:1. Are developed and maintained; and2. Continue to be executed in a timely manner;b. Reviews testing, training, and monitoring plans for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-14 TESTING, TRAINING, AND MONITORING", 
+  "compliance_control_number": "600000824"
+}

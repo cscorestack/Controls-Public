@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000071", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000071", 
+  "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES | REAL-TIME ALERTS", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system provides an alert in [Assignment: organization-defined real-time period] to [Assignment: organization-defined personnel, roles, and/or locations] when the following audit failure events occur: [Assignment: organization-defined audit failure events requiring real-time alerts].Supplemental Guidance:  Alerts provide organizations with urgent messages. Real-time alerts provide these messages at information technology speed (i.e., the time from event detection to alert occurs in seconds or less).", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system provides an alert in [Assignment: organization-defined real-time period] to [Assignment: organization-defined personnel, roles, and/or locations] when the following audit failure events occur: [Assignment: organization-defined audit failure events requiring real-time alerts].Supplemental Guidance:  Alerts provide organizations with urgent messages. Real-time alerts provide these messages at information technology speed (i.e., the time from event detection to alert occurs in seconds or less).", 
+    "SelectionParam": "AU-5 (2)-1 [real-time] AU-5 (1)-2 [service provider personnel with authority to address failed audit events] AU-5 (1)-3 [audit failure events requiring real-time alerts, as defined by organization  audit policy].", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-05 (02)", 
+    "CNTL NO": "AU-5 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES | REAL-TIME ALERTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

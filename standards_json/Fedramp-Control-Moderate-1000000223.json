@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000223", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000223", 
+  "Control Name": "RULES OF BEHAVIOR | SOCIAL MEDIA AND NETWORKING RESTRICTIONS", 
+  "Control Family": "PLANNING", 
+  "Control Statement": "The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.Supplemental Guidance:  This control enhancement addresses rules of behavior related to the use of social media/networking sites: (i) when organizational personnel are using such sites for official duties or in the conduct of official business; (ii) when organizational information is involved in social media/networking transactions; and (iii) when personnel are accessing social media/networking sites from organizational information systems. Organizations also address specific rules that prevent unauthorized entities from obtaining and/or inferring non- public organizational information (e.g., system account information, personally identifiable information) from social media/networking sites.", 
+  "control_attributes": {
+    "Category": "PLANNING", 
+    "description": "The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.Supplemental Guidance:  This control enhancement addresses rules of behavior related to the use of social media/networking sites: (i) when organizational personnel are using such sites for official duties or in the conduct of official business; (ii) when organizational information is involved in social media/networking transactions; and (iii) when personnel are accessing social media/networking sites from organizational information systems. Organizations also address specific rules that prevent unauthorized entities from obtaining and/or inferring non- public organizational information (e.g., system account information, personally identifiable information) from social media/networking sites.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PL-04 (01)", 
+    "CNTL NO": "PL-4 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "RULES OF BEHAVIOR | SOCIAL MEDIA AND NETWORKING RESTRICTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

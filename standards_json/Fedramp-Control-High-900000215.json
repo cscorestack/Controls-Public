@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000215", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000215", 
+  "Control Name": "INCIDENT RESPONSE TESTING", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results.Supplemental Guidance:  Organizations test incident response capabilities to determine the overall effectiveness of the capabilities and to identify potential weaknesses or deficiencies. Incident response testing includes, for example, the use of checklists, walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises. Incident response testing can also include a determination of the effects on organizational operations (e.g., reduction in mission capabilities), organizational assets, and individuals due to incident response. Related controls: CP-4, IR-8.References:  NIST Special Publications 800-84, 800-115.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results.Supplemental Guidance:  Organizations test incident response capabilities to determine the overall effectiveness of the capabilities and to identify potential weaknesses or deficiencies. Incident response testing includes, for example, the use of checklists, walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises. Incident response testing can also include a determination of the effects on organizational operations (e.g., reduction in mission capabilities), organizational assets, and individuals due to incident response. Related controls: CP-4, IR-8.References:  NIST Special Publications 800-84, 800-115.", 
+    "SelectionParam": "IR-3-1 [at least every six (6) months]", 
+    "FedRampParam": "x", 
+    "SORTID": "IR-03", 
+    "CNTL NO": "IR-3", 
+    "AdditionalReq": "IR-3-2 Requirement: The service provider defines tests and/or exercises in accordance with NIST Special Publication 800-61 (as amended). For JAB authorization, the service provider provides test plans to the JAB/AO annually. Test plans are approved and accepted by the JAB/AO prior to test commencing.", 
+    "Control Name": "INCIDENT RESPONSE TESTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

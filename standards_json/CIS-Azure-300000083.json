@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000083", 
+  "compliance_control_uri": "CIS-Azure/0003/300000083", 
+  "Control Name": "4.14. Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling log_connections helps PostgreSQL Database to log attempted connection to the server, as well as successful completion of client authentication. Log data can be used to identify, troubleshoot, and repair configuration errors and suboptimal performance.", 
+  "control_attributes": {
+    "Control": "4.14. Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling log_connections helps PostgreSQL Database to log attempted connection to the server, as well as successful completion of client authentication. Log data can be used to identify, troubleshoot, and repair configuration errors and suboptimal performance."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

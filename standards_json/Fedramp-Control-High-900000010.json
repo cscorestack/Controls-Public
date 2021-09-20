@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000010", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000010", 
+  "Control Name": "ACCOUNT MANAGEMENT | SHARED / GROUP ACCOUNT CREDENTIAL TERMINATION", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system terminates shared/group account credentials when members leave the group.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system terminates shared/group account credentials when members leave the group.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AC-02 (10)", 
+    "CNTL NO": "AC-2 (10)", 
+    "AdditionalReq": "AC-2 (10) Required if shared/group accounts are deployed", 
+    "Control Name": "ACCOUNT MANAGEMENT | SHARED / GROUP ACCOUNT CREDENTIAL TERMINATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

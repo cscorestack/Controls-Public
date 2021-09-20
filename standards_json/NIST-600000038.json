@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000038", 
+  "control_attributes": {
+    "Control": "CM-8 (2) AUTOMATED MAINTENANCE", 
+    "control_description": "The organization employs automated mechanisms to help maintain an up-to-date, complete, accurate, and readily available inventory of information system components.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users)."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to help maintain an up-to-date, complete, accurate, and readily available inventory of information system components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (2) AUTOMATED MAINTENANCE", 
+  "compliance_control_number": "600000038"
+}

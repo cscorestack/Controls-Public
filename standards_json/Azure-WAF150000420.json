@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000420", 
+  "compliance_control_uri": "Azure-WAF/0015/150000420", 
+  "Control Name": "5.4.3 Gates and approvals are configured in DevOps release process of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Pull Requests and code reviews serve as the first line of approvals during development cycle. Before releasing new code to production (new features, bugfixes etc.), security review and approval should be required.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.3 Gates and approvals are configured in DevOps release process of this workload.", 
+    "Description": "Pull Requests and code reviews serve as the first line of approvals during development cycle. Before releasing new code to production (new features, bugfixes etc.), security review and approval should be required."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

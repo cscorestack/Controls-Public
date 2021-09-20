@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000139", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000139", 
+  "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY | NO DUPLICATE ACCOUNTING OF COMPONENTS", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization verifies that all components within the authorization boundary of the information system are not duplicated in other information system inventories.Supplemental Guidance:  This control enhancement addresses the potential problem of duplicate accounting of information system components in large or complex interconnected systems.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization verifies that all components within the authorization boundary of the information system are not duplicated in other information system inventories.Supplemental Guidance:  This control enhancement addresses the potential problem of duplicate accounting of information system components in large or complex interconnected systems.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-08 (05)", 
+    "CNTL NO": "CM-8 (5)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY | NO DUPLICATE ACCOUNTING OF COMPONENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

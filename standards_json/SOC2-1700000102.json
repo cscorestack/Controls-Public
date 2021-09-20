@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000102",
+  "compliance_control_uri": "SOC2/0017/1700000102",
+  "Control Name": "Considers at What Level Activities Are Applied—Management considers control activities at various levels in the entity.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers at What Level Activities Are Applied—Management considers control activities at various levels in the entity.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.1 COSO Principle 10: The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels",
+    "ControlNo": "CC5.1.5",
+    "TrustID": "CC5.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000123",
+  "compliance_control_uri": "AWS-WAF/0016/160000123",
+  "Control Name": "SEC 8.1 Implement secure key management",
+  "Control Family": "Security",
+  "Control Statement": "Encryption keys must be stored securely, with strict access control, for example, by using a key management service such as AWS KMS. Consider using diﬀerent keys, and access control to the keys, combined with the AWS IAM and resource policies, to align with data classiﬁcation levels and segregation requirements.",
+  "control_attributes": {
+    "Control": "SEC 8.1 Implement secure key management",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data at rest?",
+    "question_id": "protect-data-rest",
+    "choice_id": "sec_protect_data_rest_key_mgmt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

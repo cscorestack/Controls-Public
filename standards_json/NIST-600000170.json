@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000170", 
+  "control_attributes": {
+    "Control": "AC-6 (6) PRIVILEGED ACCESS BY NON-ORGANIZATIONAL USERS", 
+    "control_description": "The organization prohibits privileged access to the information system by non-organizational users.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P3", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The organization prohibits privileged access to the information system by non-organizational users.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (6) PRIVILEGED ACCESS BY NON-ORGANIZATIONAL USERS", 
+  "compliance_control_number": "600000170"
+}

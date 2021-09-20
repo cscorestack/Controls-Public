@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000803",
+  "compliance_control_uri": "AC3-v-01/0000/110000803",
+  "Control Name": "SI-5 SECURITY ALERTS, ADVISORIES, AND DIRECTIVES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization: a. Receives information system security alerts, advisories, and directives from [Assignment: organization-defined external organizations] on an ongoing basis;b. Generates internal security alerts, advisories, and directives as deemed necessary;c. Disseminates security alerts, advisories, and directives to: [Selection (one or more): [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined elements within the organization]; [Assignment: organization-defined external organizations]]; andd. Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance",
+  "control_attributes": {
+    "Control Name": "SI-5 SECURITY ALERTS, ADVISORIES, AND DIRECTIVES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization: a. Receives information system security alerts, advisories, and directives from [Assignment: organization-defined external organizations] on an ongoing basis;b. Generates internal security alerts, advisories, and directives as deemed necessary;c. Disseminates security alerts, advisories, and directives to: [Selection (one or more): [Assignment: organization-defined personnel or roles]; [Assignment: organization-defined elements within the organization]; [Assignment: organization-defined external organizations]]; andd. Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000006",
+      "NIST-SP800-53/0006/600000778",
+      "ISO-27001/0011/1100000006",
+      "Fedramp-Control-Moderate/0010/1000000311",
+      "Fedramp-Control-High/0009/900000405",
+      "HIPAA/0002/200000048"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000091", 
+  "compliance_control_uri": "CIS-Azure/0015/150000091", 
+  "Control Name": "7.3 Ensure that 'Unattached disks' are encrypted with CMK", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Ensure that unattached disks in a subscription are encrypted with a Customer Managed Key (CMK).", 
+  "control_attributes": {
+    "Control": "7.3 Ensure that 'Unattached disks' are encrypted with CMK", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Ensure that unattached disks in a subscription are encrypted with a Customer Managed Key (CMK)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

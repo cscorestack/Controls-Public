@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000047", 
+  "compliance_control_uri": "ISO/0001/100000108", 
+  "Control Name": "11.1.6 Delivery and loading areas", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Access points such as delivery and loading areas and other points where unauthorized persons could enter the premises shall be controlled and, if possible, isolated from information processing facilities to avoid unauthorized access.", 
+  "control_attributes": {
+    "Control_Objective": "11.1.6 Delivery and loading areas", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.1 - Secure areas", 
+    "description": "Access points such as delivery and loading areas and other points where unauthorized persons could enter the premises shall be controlled and, if possible, isolated from information processing facilities to avoid unauthorized access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

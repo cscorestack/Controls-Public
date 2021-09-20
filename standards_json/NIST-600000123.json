@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000123", 
+  "control_attributes": {
+    "Control": "AC-20 USE OF EXTERNAL INFORMATION SYSTEMS", 
+    "control_description": "The organization establishes terms and conditions, consistent with any trust relationships established with other organizations owning, operating, and/or maintaining external information systems, allowing authorized individuals to:", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces dual authorization for [Assignment: organization-defined privileged commands and/or other organization-defined actions]."
+  }, 
+  "Control Statement": "The organization establishes terms and conditions, consistent with any trust relationships established with other organizations owning, operating, and/or maintaining external information systems, allowing authorized individuals to:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-20 USE OF EXTERNAL INFORMATION SYSTEMS", 
+  "compliance_control_number": "600000123"
+}

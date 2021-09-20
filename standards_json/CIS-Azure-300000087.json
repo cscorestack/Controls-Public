@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000087", 
+  "compliance_control_uri": "CIS-Azure/0003/300000087", 
+  "Control Name": "4.18. Ensure server parameter 'log_retention_days' is greater than 3 days for PostgreSQL Database Server", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling log_retention_days helps PostgreSQL Database to Sets number of days a log file is retained which in turn generates query and error logs. Query and error logs can be used to identify, troubleshoot, and repair configuration errors and sub-optimal performance.", 
+  "control_attributes": {
+    "Control": "4.18. Ensure server parameter 'log_retention_days' is greater than 3 days for PostgreSQL Database Server", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling log_retention_days helps PostgreSQL Database to Sets number of days a log file is retained which in turn generates query and error logs. Query and error logs can be used to identify, troubleshoot, and repair configuration errors and sub-optimal performance."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

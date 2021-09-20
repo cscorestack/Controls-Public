@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000041", 
+  "compliance_control_uri": "HIPAA/0002/200000041", 
+  "Control Name": "Workforce security  Workforce Clearance Procedure - 164.308(a)(3)(ii)(B)", 
+  "Control Family": "Workforce Security", 
+  "Control Statement": "Implement procedures to determine that the access of a workforce member to electronic protected health information is appropriate.", 
+  "control_attributes": {
+    "Control": "Workforce security  Workforce Clearance Procedure - 164.308(a)(3)(ii)(B)", 
+    "Security_Category": "Workforce Security", 
+    "Control_description": "Implement procedures to determine that the access of a workforce member to electronic protected health information is appropriate."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

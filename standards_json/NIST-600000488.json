@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000488", 
+  "control_attributes": {
+    "Control": "PE-3 PHYSICAL ACCESS CONTROL", 
+    "control_description": "The organization: a. Enforces physical access authorizations at [Assignment: organization-defined entry/exit points to the facility where the information system resides] by;1. Verifying individual access authorizations before granting access to the facility; and2. Controlling ingress/egress to the facility using [Selection (one or more): [Assignment: organization-defined physical access control systems/devices]; guards];b. Maintains physical access audit logs for [Assignment: organization-defined entry/exit points];c. Provides [Assignment: organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;d. Escorts visitors and monitors visitor activity [Assignment: organization-defined circumstances requiring visitor escorts and monitoring];e. Secures keys, combinations, and other physical access devices;f. Inventories [Assignment: organization-defined physical access devices] every [Assignment: organization-defined frequency]; andg. Changes combinations and keys [Assignment: organization-defined frequency] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization controls physical access to [Assignment: organization-defined information system distribution and transmission lines] within organizational facilities using [Assignment: organization-defined security safeguards]."
+  }, 
+  "Control Statement": "The organization: a. Enforces physical access authorizations at [Assignment: organization-defined entry/exit points to the facility where the information system resides] by;1. Verifying individual access authorizations before granting access to the facility; and2. Controlling ingress/egress to the facility using [Selection (one or more): [Assignment: organization-defined physical access control systems/devices]; guards];b. Maintains physical access audit logs for [Assignment: organization-defined entry/exit points];c. Provides [Assignment: organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;d. Escorts visitors and monitors visitor activity [Assignment: organization-defined circumstances requiring visitor escorts and monitoring];e. Secures keys, combinations, and other physical access devices;f. Inventories [Assignment: organization-defined physical access devices] every [Assignment: organization-defined frequency]; andg. Changes combinations and keys [Assignment: organization-defined frequency] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-3 PHYSICAL ACCESS CONTROL", 
+  "compliance_control_number": "600000488"
+}

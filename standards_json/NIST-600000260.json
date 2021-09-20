@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000260", 
+  "control_attributes": {
+    "Control": "AU-14 (1) SYSTEM START-UP", 
+    "control_description": "The information system initiates session audits at system start-up.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P3", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system initiates session audits at system start-up.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-14 (1) SYSTEM START-UP", 
+  "compliance_control_number": "600000260"
+}

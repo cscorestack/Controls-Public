@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000027", 
+  "compliance_control_uri": "CIS-AWS/0007/700000027", 
+  "Control Name": "3.2 Ensure CloudTrail log file validation is enabled", 
+  "Control Family": "Logging", 
+  "Control Statement": "CloudTrail log file validation creates a digitally signed digest file containing a hash of each log that CloudTrail writes to S3. These digest files can be used to determine whether a log file was changed, deleted, or unchanged after CloudTrail delivered the log. It is recommended that file validation be enabled on all CloudTrails.", 
+  "control_attributes": {
+    "Control": "3.2 Ensure CloudTrail log file validation is enabled", 
+    "Category": "Logging", 
+    "Control_description": "CloudTrail log file validation creates a digitally signed digest file containing a hash of each log that CloudTrail writes to S3. These digest files can be used to determine whether a log file was changed, deleted, or unchanged after CloudTrail delivered the log. It is recommended that file validation be enabled on all CloudTrails."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

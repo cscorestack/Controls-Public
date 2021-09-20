@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000387", 
+  "compliance_control_uri": "Azure-WAF/0015/150000387", 
+  "Control Name": "4.13.3 All components are monitored and correlated with application telemetry.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are all components monitored and correlated with application level telemetry?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.3 All components are monitored and correlated with application telemetry.", 
+    "Description": "Are all components monitored and correlated with application level telemetry?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

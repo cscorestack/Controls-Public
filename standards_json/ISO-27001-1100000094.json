@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000094", 
+  "compliance_control_uri": "ISO-27001/0011/1100000094", 
+  "Control Name": "15.2.1 Monitoring and review of supplier services", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "The services, reports and records provided by the third party shall be regularly monitored and reviewed, and audits shall be carried out regularly", 
+  "control_attributes": {
+    "Clause_Category": "15.2 Supplier service delivery management", 
+    "description": "The services, reports and records provided by the third party shall be regularly monitored and reviewed, and audits shall be carried out regularly", 
+    "Control_Title": "15.2.1 Monitoring and review of supplier services", 
+    "Control_Clause": "15. Supplier relationships"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

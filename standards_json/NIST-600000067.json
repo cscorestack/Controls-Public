@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000067", 
+  "control_attributes": {
+    "Control": "SI-12 INFORMATION HANDLING AND RETENTION", 
+    "control_description": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system separates user functionality (including user interface services) from information system management functionality."
+  }, 
+  "Control Statement": "The organization handles and retains information within the information system and information output from the system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-12 INFORMATION HANDLING AND RETENTION", 
+  "compliance_control_number": "600000067"
+}

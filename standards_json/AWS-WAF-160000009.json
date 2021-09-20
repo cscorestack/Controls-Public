@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000009",
+  "compliance_control_uri": "AWS-WAF/0016/160000009",
+  "Control Name": "OPS 2.2 Processes and procedures have identiﬁed owners",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Understand who has ownership of the deﬁnition of individual processes and procedures, why those speciﬁc process and procedures are used, and why that ownership exists. Understanding the reasons that speciﬁc processes and procedures are used enables identiﬁcation of improvement opportunities.",
+  "control_attributes": {
+    "Control": "OPS 2.2 Processes and procedures have identiﬁed owners",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_def_proc_owners"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

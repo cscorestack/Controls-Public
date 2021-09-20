@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000038", 
+  "compliance_control_uri": "ISO/0001/100000118", 
+  "Control Name": "9.4.4 Use of privileged utility programs", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "The use of utility programs that might be capable of overriding system and application controls shall be restricted and tightly controlled.", 
+  "control_attributes": {
+    "Control_Objective": "9.4.4 Use of privileged utility programs", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.4 - System and application access control", 
+    "description": "The use of utility programs that might be capable of overriding system and application controls shall be restricted and tightly controlled."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

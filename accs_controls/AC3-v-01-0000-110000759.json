@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000759",
+  "compliance_control_uri": "AC3-v-01/0000/110000759",
+  "Control Name": "SI-14 (1) REFRESH FROM TRUSTED SOURCES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization ensures that software and data employed during information system component and service refreshes are obtained from [Assignment: organization-defined trusted sources].",
+  "control_attributes": {
+    "Control Name": "SI-14 (1) REFRESH FROM TRUSTED SOURCES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization ensures that software and data employed during information system component and service refreshes are obtained from [Assignment: organization-defined trusted sources]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000809",
+      "Azure-WAF/0015/150000428"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

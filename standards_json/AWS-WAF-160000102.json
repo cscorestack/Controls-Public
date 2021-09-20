@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000102",
+  "compliance_control_uri": "AWS-WAF/0016/160000102",
+  "Control Name": "SEC 3.6 Manage access based on life cycle",
+  "Control Family": "Security",
+  "Control Statement": "Integrate access controls with operator and application life cycle and your centralized federation provider. For example, remove a user’s access when they leave the organization or change roles.",
+  "control_attributes": {
+    "Control": "SEC 3.6 Manage access based on life cycle",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_lifecycle"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

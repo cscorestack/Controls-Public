@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000171", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000171", 
+  "Control Name": "Time data is protected.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Time data is protected.", 
+    "Requirement": "10.4.2. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000205", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000205", 
+  "Control Name": "MONITORING PHYSICAL ACCESS | INTRUSION ALARMS / SURVEILLANCE EQUIPMENT", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization monitors physical intrusion alarms and surveillance equipment.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization monitors physical intrusion alarms and surveillance equipment.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-06 (01)", 
+    "CNTL NO": "PE-6 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "MONITORING PHYSICAL ACCESS | INTRUSION ALARMS / SURVEILLANCE EQUIPMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000312", 
+  "control_attributes": {
+    "Control": "CM-11 (1) ALERTS FOR UNAUTHORIZED INSTALLATIONS", 
+    "control_description": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization plans for the transfer of essential missions and business functions to alternate processing and/or storage sites with little or no loss of operational continuity and sustains that continuity through information system restoration to primary processing and/or storage sites."
+  }, 
+  "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-11 (1) ALERTS FOR UNAUTHORIZED INSTALLATIONS", 
+  "compliance_control_number": "600000312"
+}

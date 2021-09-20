@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000167", 
+  "compliance_control_uri": "Azure-WAF/0015/150000167", 
+  "Control Name": "2.14.2 Tests for performance, scalability, and resiliency are performed as part of each major change", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "When do you do test for performance, scalability, and resiliency?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.2 Tests for performance, scalability, and resiliency are performed as part of each major change", 
+    "Description": "When do you do test for performance, scalability, and resiliency?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

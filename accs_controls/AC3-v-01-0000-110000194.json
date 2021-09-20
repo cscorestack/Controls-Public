@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000194",
+  "compliance_control_uri": "AC3-v-01/0000/110000194",
+  "Control Name": "CA-6 SECURITY AUTHORIZATION",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization: a. Assigns a senior-level executive or manager as the authorizing official for the information system;b. Ensures that the authorizing official authorizes the information system for processing before commencing operations; andc. Updates the security authorization [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "CA-6 SECURITY AUTHORIZATION",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization: a. Assigns a senior-level executive or manager as the authorizing official for the information system;b. Ensures that the authorizing official authorizes the information system for processing before commencing operations; andc. Updates the security authorization [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000115",
+      "Fedramp-Control-Moderate/0010/1000000077",
+      "Fedramp-Control-High/0009/900000102",
+      "HIPAA/0002/200000039",
+      "HIPAA/0002/200000053"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000155",
+  "compliance_control_uri": "AWS-WAF/0016/160000155",
+  "Control Name": "REL 4.3 Make all responses idempotent",
+  "Control Family": "Reliability",
+  "Control Statement": "An idempotent service promises that each request is completed exactly once, such that making multiple identical requests has the same eﬀect as making a single request. An idempotent service makes it easier for a client to implement retries without fear that a request will be erroneously processed multiple times. To do this, clients can issue API requests with an idempotency token—the same token is used whenever the request is repeated. An idempotent service API uses the token to return a response identical to the response that was returned the ﬁrst time that the request was completed.",
+  "control_attributes": {
+    "Control": "REL 4.3 Make all responses idempotent",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to prevent failures?",
+    "question_id": "prevent-interaction-failure",
+    "choice_id": "rel_prevent_interaction_failure_idempotent"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

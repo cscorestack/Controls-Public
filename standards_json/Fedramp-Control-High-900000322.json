@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000322", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000322", 
+  "Control Name": "ACQUISITION PROCESS | FUNCTIONAL PROPERTIES OF SECURITY CONTROLS", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to provide a description of the functional properties of the security controls to be employed.Supplemental Guidance:  Functional properties of security controls describe the functionality (i.e., security capability, functions, or mechanisms) visible at the interfaces of the controls and specifically exclude functionality and data structures internal to the operation of the controls. Related control: SA-5.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization requires the developer of the information system, system component, or information system service to provide a description of the functional properties of the security controls to be employed.Supplemental Guidance:  Functional properties of security controls describe the functionality (i.e., security capability, functions, or mechanisms) visible at the interfaces of the controls and specifically exclude functionality and data structures internal to the operation of the controls. Related control: SA-5.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SA-04 (01)", 
+    "CNTL NO": "SA-4 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACQUISITION PROCESS | FUNCTIONAL PROPERTIES OF SECURITY CONTROLS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

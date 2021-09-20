@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000217", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000217", 
+  "Control Name": "DELIVERY AND REMOVAL", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items.Supplemental Guidance:  Effectively enforcing authorizations for entry and exit of information system components may require restricting access to delivery areas and possibly isolating the areas from the information system and media libraries. Related controls: CM-3, MA-2, MA-3, MP-5, SA-12.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items.Supplemental Guidance:  Effectively enforcing authorizations for entry and exit of information system components may require restricting access to delivery areas and possibly isolating the areas from the information system and media libraries. Related controls: CM-3, MA-2, MA-3, MP-5, SA-12.References: None.", 
+    "SelectionParam": "PE-16 [all information system components]", 
+    "FedRampParam": "x", 
+    "SORTID": "PE-16", 
+    "CNTL NO": "PE-16", 
+    "AdditionalReq": "", 
+    "Control Name": "DELIVERY AND REMOVAL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

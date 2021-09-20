@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000053", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000053", 
+  "Control Name": "6.6 Ensure that the 'log_lock_waits' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "Enabling the log_lock_waits flag for a PostgreSQL instance creates a log for any session waits that take longer than the alloted deadlock_timeout time to acquire a lock.", 
+  "control_attributes": {
+    "Control": "6.6 Ensure that the 'log_lock_waits' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "Enabling the log_lock_waits flag for a PostgreSQL instance creates a log for any session waits that take longer than the alloted deadlock_timeout time to acquire a lock."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

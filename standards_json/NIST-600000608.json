@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000608", 
+  "control_attributes": {
+    "Control": "SA-12 (7) ASSESSMENTS PRIOR TO SELECTION / ACCEPTANCE / UPDATE", 
+    "control_description": "The organization conducts an assessment of the information system, system component, or information system service prior to selection, acceptance, or update.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization establishes and retains unique identification of [Assignment: organization-defined supply chain elements, processes, and actors] for the information system, system component, or information system service."
+  }, 
+  "Control Statement": "The organization conducts an assessment of the information system, system component, or information system service prior to selection, acceptance, or update.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-12 (7) ASSESSMENTS PRIOR TO SELECTION / ACCEPTANCE / UPDATE", 
+  "compliance_control_number": "600000608"
+}

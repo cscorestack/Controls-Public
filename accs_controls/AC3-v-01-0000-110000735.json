@@ -1,0 +1,86 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000735",
+  "compliance_control_uri": "AC3-v-01/0000/110000735",
+  "Control Name": "SC-7 (5) DENY BY DEFAULT / ALLOW BY EXCEPTION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).",
+  "control_attributes": {
+    "Control Name": "SC-7 (5) DENY BY DEFAULT / ALLOW BY EXCEPTION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception)."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Virtual_Network_Gateways"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000050",
+      "PCI-DSS/0012/1200000005",
+      "PCI-DSS/0012/1200000009",
+      "PCI-DSS/0012/1200000010",
+      "PCI-DSS/0012/1200000013",
+      "PCI-DSS/0012/1200000014",
+      "PCI-DSS/0012/1200000015",
+      "PCI-DSS/0012/1200000016",
+      "PCI-DSS/0012/1200000017",
+      "PCI-DSS/0012/1200000018",
+      "PCI-DSS/0012/1200000019",
+      "PCI-DSS/0012/1200000020",
+      "Fedramp-Control-Moderate/0010/1000000271",
+      "Fedramp-Control-High/0009/900000352",
+      "AWS-WAF/0016/160000112",
+      "CIS-Azure/0003/300000017",
+      "CIS-Azure/0015/150000044",
+      "Azure-WAF/0015/150000484",
+      "SOC2/0017/1700000135"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/denq8",
+        "policy_name": "AWS_Restricted_Common_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

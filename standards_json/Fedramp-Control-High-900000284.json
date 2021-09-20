@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000284", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000284", 
+  "Control Name": "TEMPERATURE AND HUMIDITY CONTROLS | MONITORING WITH ALARMS / NOTIFICATIONS", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization employs temperature and humidity monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization employs temperature and humidity monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-14 (02)", 
+    "CNTL NO": "PE-14 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "TEMPERATURE AND HUMIDITY CONTROLS | MONITORING WITH ALARMS / NOTIFICATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

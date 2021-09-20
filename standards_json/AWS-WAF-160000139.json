@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000139",
+  "compliance_control_uri": "AWS-WAF/0016/160000139",
+  "Control Name": "REL 1.1 Aware of service quotas and constraints",
+  "Control Family": "Reliability",
+  "Control Statement": "You are aware of your default quotas and quota increase requests for your workload architecture. You additionally know which resource constraints, such as disk or network, are potentially impactful.",
+  "control_attributes": {
+    "Control": "REL 1.1 Aware of service quotas and constraints",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_aware_quotas_and_constraints"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

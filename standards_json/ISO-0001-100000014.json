@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000014", 
+  "compliance_control_uri": "ISO/0001/100000013", 
+  "Control Name": "7.2.3 Disciplinary process", 
+  "Control Family": "7. Human resources security", 
+  "Control Statement": "There shall be a formal disciplinary process for employees who have committed a security breach", 
+  "control_attributes": {
+    "Control_Objective": "7.2.3 Disciplinary process", 
+    "Security_Control_Clause": "7. Human resources security", 
+    "Security_Category": "7.2 During employment", 
+    "description": "There shall be a formal disciplinary process for employees who have committed a security breach"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

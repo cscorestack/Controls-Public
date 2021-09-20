@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000168", 
+  "compliance_control_uri": "Azure-WAF/0015/150000168", 
+  "Control Name": "2.14.3 At least a subset of tests is also performed in the production environment", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are any tests performed in production?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.3 At least a subset of tests is also performed in the production environment", 
+    "Description": "Are any tests performed in production?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

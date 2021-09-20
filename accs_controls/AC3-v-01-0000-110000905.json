@@ -1,0 +1,57 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000905",
+  "compliance_control_uri": "AC3-v-01/0000/110000905",
+  "Control Name": "Ensure no SQL Databases allow ingress 0000/0 (ANY IP)",
+  "Control Family": "Networking",
+  "Control Statement": "Ensure that no SQL Databases allow ingress from 0.0.0.0/0 (ANY IP).",
+  "control_attributes": {
+    "Control Name": "Ensure no SQL Databases allow ingress 0000/0 (ANY IP)",
+    "Control Family": "Networking",
+    "Control Statement": "Ensure that no SQL Databases allow ingress from 0.0.0.0/0 (ANY IP)."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Databases/Servers",
+      "service_resource": "Azure/Databases/Servers/MSSQL"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-Azure/0015/150000085",
+      "CIS-GCP/0014/1400000060"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "Azure_Audit_SQL_Database_Ingress",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/osnui",
+        "is_deleted": false,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Monitor_Cloud_SQL_Database_Connections",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pvua",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_new_policy"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000137",
+  "compliance_control_uri": "AWS-WAF/0016/160000137",
+  "Control Name": "SEC 10.6 Pre-deploy tools",
+  "Control Family": "Security",
+  "Control Statement": "Ensure that security personnel have the right tools pre-deployed into AWS to reduce the time for investigation through to recovery.",
+  "control_attributes": {
+    "Control": "SEC 10.6 Pre-deploy tools",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_pre_deploy_tools"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

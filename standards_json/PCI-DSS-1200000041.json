@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000041", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000041", 
+  "Control Name": "3.4 Render PAN unreadable anywhere it is stored (including on portable digital media, backup media, and in logs) ", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.4 Render PAN unreadable anywhere it is stored (including on portable digital media, backup media, and in logs) ", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000098",
+  "compliance_control_uri": "AWS-WAF/0016/160000098",
+  "Control Name": "SEC 3.2 Grant least privilege access",
+  "Control Family": "Security",
+  "Control Statement": "Grant only the access that identities require by allowing access to speciﬁc actions on speciﬁc AWS resources under speciﬁc conditions. Rely on groups and identity attributes\nto dynamically set permissions at scale, rather than deﬁning permissions for individual users. For example, you can allow a group of developers access to manage only resources for their project. This way, when a developer is removed from the group, access for the developer is revoked everywhere that group was used for access control, without requiring any changes to the access policies.",
+  "control_attributes": {
+    "Control": "SEC 3.2 Grant least privilege access",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_least_privileges"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

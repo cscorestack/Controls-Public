@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000034", 
+  "compliance_control_uri": "ISO-27001/0011/1100000034", 
+  "Control Name": "9.3.1 Use of secret authentication information", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Users shall be required to follow good security practices in the selection and use of passwords", 
+  "control_attributes": {
+    "Clause_Category": "9.3 User responsibilities", 
+    "description": "Users shall be required to follow good security practices in the selection and use of passwords", 
+    "Control_Title": "9.3.1 Use of secret authentication information", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

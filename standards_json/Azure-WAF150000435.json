@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000435", 
+  "compliance_control_uri": "Azure-WAF/0015/150000435", 
+  "Control Name": "5.5.8 There are controls in place for this workload to detect and protect from data exfiltration.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Data exfiltration occurs when an internal/external malicious actor performs and unauthorized data transfer. The solution should leverage a layered approach such as, hub/spoke for network communications with deep packet inspection to detect/protect from a data exfiltration attack. Azure Firewall, UDR (User-defined Routes), NSG (Network Security Groups), Key Protection, Data Encryption, PrivateLink, and Private Endpoints are layered defenses for a data exfiltration attack. Azure Sentinel and Azure Security Center can be used to detect data exfiltration attempts and alert incident responders.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.8 There are controls in place for this workload to detect and protect from data exfiltration.", 
+    "Description": "Data exfiltration occurs when an internal/external malicious actor performs and unauthorized data transfer. The solution should leverage a layered approach such as, hub/spoke for network communications with deep packet inspection to detect/protect from a data exfiltration attack. Azure Firewall, UDR (User-defined Routes), NSG (Network Security Groups), Key Protection, Data Encryption, PrivateLink, and Private Endpoints are layered defenses for a data exfiltration attack. Azure Sentinel and Azure Security Center can be used to detect data exfiltration attempts and alert incident responders."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

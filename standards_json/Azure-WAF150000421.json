@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000421", 
+  "compliance_control_uri": "Azure-WAF/0015/150000421", 
+  "Control Name": "5.4.4 Security team is involved in planning, design and the rest of DevOps process of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "There should be a process for onboarding service securely to Azure. The onboarding process should include reviewing the configuration options to determine what logging/monitoring needs to be established, how to properly harden a resource before it goes into production. For a list of common criteria for onboarding resoruces, see the Service Enablement Framework", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.4 Security team is involved in planning, design and the rest of DevOps process of this workload.", 
+    "Description": "There should be a process for onboarding service securely to Azure. The onboarding process should include reviewing the configuration options to determine what logging/monitoring needs to be established, how to properly harden a resource before it goes into production. For a list of common criteria for onboarding resoruces, see the Service Enablement Framework"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

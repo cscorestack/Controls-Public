@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000291", 
+  "control_attributes": {
+    "Control": "CM-4 (2) VERIFICATION OF SECURITY FUNCTIONS", 
+    "control_description": "The organization, after the information system is changed, checks the security functions to verify that the functions are implemented correctly, operating as intended, and producing the desired outcome with regard to meeting the security requirements for the system.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures compliance with [Assignment: organization-defined registration requirements for functions, ports, protocols, and services]."
+  }, 
+  "Control Statement": "The organization, after the information system is changed, checks the security functions to verify that the functions are implemented correctly, operating as intended, and producing the desired outcome with regard to meeting the security requirements for the system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-4 (2) VERIFICATION OF SECURITY FUNCTIONS", 
+  "compliance_control_number": "600000291"
+}

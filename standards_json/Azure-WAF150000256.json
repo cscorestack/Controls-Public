@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000256", 
+  "compliance_control_uri": "Azure-WAF/0015/150000256", 
+  "Control Name": "3.6.5 Minimize the load on the data store.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Where possible, remove logic (such as processing XML documents or JSON objects) from the data store, and perform processing within the application.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.5 Minimize the load on the data store.", 
+    "Description": "Where possible, remove logic (such as processing XML documents or JSON objects) from the data store, and perform processing within the application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

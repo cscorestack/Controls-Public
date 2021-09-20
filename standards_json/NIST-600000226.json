@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000226", 
+  "control_attributes": {
+    "Control": "AT-3 (1) ENVIRONMENTAL CONTROLS", 
+    "control_description": "The organization provides [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of environmental controls.", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization correlates information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity."
+  }, 
+  "Control Statement": "The organization provides [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of environmental controls.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-3 (1) ENVIRONMENTAL CONTROLS", 
+  "compliance_control_number": "600000226"
+}

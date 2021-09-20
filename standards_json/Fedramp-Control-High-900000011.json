@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000011", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000011", 
+  "Control Name": "ACCOUNT MANAGEMENT | USAGE CONDITIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts].Supplemental Guidance: Organizations can describe the specific conditions or circumstances under which information system accounts can be used, for example, by restricting usage to certain days of the week, time of day, or specific durations of time.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts].Supplemental Guidance: Organizations can describe the specific conditions or circumstances under which information system accounts can be used, for example, by restricting usage to certain days of the week, time of day, or specific durations of time.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-02 (11)", 
+    "CNTL NO": "AC-2 (11)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCOUNT MANAGEMENT | USAGE CONDITIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

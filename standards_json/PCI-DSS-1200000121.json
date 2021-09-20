@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000121", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000121", 
+  "Control Name": "Incorporate multi-factor authentication for all non-console access into the CDE for personnel with administrative access.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Incorporate multi-factor authentication for all non-console access into the CDE for personnel with administrative access.", 
+    "Requirement": "8.3.1.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

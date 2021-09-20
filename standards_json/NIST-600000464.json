@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000464", 
+  "control_attributes": {
+    "Control": "MP-3 MEDIA MARKING", 
+    "control_description": "The organization: a. Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; andb. Exempts [Assignment: organization-defined types of information system media] from marking as long as the media remain within [Assignment: organization-defined controlled areas].", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved."
+  }, 
+  "Control Statement": "The organization: a. Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; andb. Exempts [Assignment: organization-defined types of information system media] from marking as long as the media remain within [Assignment: organization-defined controlled areas].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-3 MEDIA MARKING", 
+  "compliance_control_number": "600000464"
+}

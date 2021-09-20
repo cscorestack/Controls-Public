@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000311", 
+  "control_attributes": {
+    "Control": "CM-10 (1) OPEN SOURCE SOFTWARE", 
+    "control_description": "The organization establishes the following restrictions on the use of open source software: [Assignment: organization-defined restrictions].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization plans for the continuance of essential missions and business functions with little or no loss of operational continuity and sustains that continuity until full information system restoration at primary processing and/or storage sites."
+  }, 
+  "Control Statement": "The organization establishes the following restrictions on the use of open source software: [Assignment: organization-defined restrictions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-10 (1) OPEN SOURCE SOFTWARE", 
+  "compliance_control_number": "600000311"
+}

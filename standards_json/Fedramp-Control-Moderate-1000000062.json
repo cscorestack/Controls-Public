@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000062", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000062", 
+  "Control Name": "TIME STAMPS | SYNCHRONIZATION WITH AUTHORITATIVE TIME SOURCE", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system: (a)   Compares the internal information system clocks [Assignment: organization-defined frequency] with [Assignment: organization-defined authoritative time source]; and (b)   Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [Assignment: organization-defined time period].Supplemental Guidance:  This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system: (a)   Compares the internal information system clocks [Assignment: organization-defined frequency] with [Assignment: organization-defined authoritative time source]; and (b)   Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [Assignment: organization-defined time period].Supplemental Guidance:  This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.", 
+    "SelectionParam": "AU-8 (1) [http://tf.nist.gov/tf-cgi/servers.cgi] [At least hourly]", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-08 (01)", 
+    "CNTL NO": "AU-8 (1)", 
+    "AdditionalReq": "AU-8 (1) Requirement: The service provider selects primary and secondary time servers used by the NIST Internet time service. The secondary server is selected from a different geographic region than the primary server.AU-8 (1) Requirement: The service provider synchronizes the system clocks of network computers that run operating systems other than Windows to the Windows Server Domain Controller emulator or to the same time source for that server.AU-8 (1) Guidance: Synchronization of system clocks improves the accuracy of log analysis.", 
+    "Control Name": "TIME STAMPS | SYNCHRONIZATION WITH AUTHORITATIVE TIME SOURCE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

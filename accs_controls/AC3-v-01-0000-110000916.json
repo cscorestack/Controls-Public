@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000916", 
+  "compliance_control_uri": "AC3-v-01/0000/110000916", 
+  "Control Name": "Ensure web app is using the latest version of TLS encryption", 
+  "Control Family": "AppService", 
+  "Control Statement": "The TLS(Transport Layer Security) protocol secures transmission of data over the internet using standard encryption technology. Encryption should be set with the latest version of TLS", 
+  "control_attributes": {
+    "Control Name": "Ensure web app is using the latest version of TLS encryption", 
+    "Control Family": "AppService", 
+    "Control Statement": "The TLS(Transport Layer Security) protocol secures transmission of data over the internet using standard encryption technology. Encryption should be set with the latest version of TLS"
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000103",
+    "Azure-WAF/0015/150000473"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_WebApp_using_Latest_TLS",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/WHRuo",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

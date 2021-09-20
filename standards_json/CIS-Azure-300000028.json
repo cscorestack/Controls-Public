@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000028", 
+  "compliance_control_uri": "CIS-Azure/0003/300000028", 
+  "Control Name": "6.2. Ensure that SSH access is restricted from the internet", 
+  "Control Family": "6. Networking", 
+  "Control Statement": "Disable SSH access on network security groups from the Internet.", 
+  "control_attributes": {
+    "Control": "6.2. Ensure that SSH access is restricted from the internet", 
+    "Control_Clause": "6. Networking", 
+    "description": "Disable SSH access on network security groups from the Internet."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

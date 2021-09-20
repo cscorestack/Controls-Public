@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000096", 
+  "compliance_control_uri": "CIS-Azure/0015/150000096", 
+  "Control Name": "8.1 Ensure that the expiration date is set on all keys", 
+  "Control Family": "8 Other Security Considerations", 
+  "Control Statement": "Ensure that all keys in Azure Key Vault have an expiration time set.", 
+  "control_attributes": {
+    "Control": "8.1 Ensure that the expiration date is set on all keys", 
+    "Control_Clause": "8 Other Security Considerations", 
+    "description": "Ensure that all keys in Azure Key Vault have an expiration time set."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

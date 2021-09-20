@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000219", 
+  "compliance_control_uri": "Azure-WAF/0015/150000219", 
+  "Control Name": "3.1.3 Paired regions are used appropriately.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Paired regions exist within the same geography and provide native replication features for recovery purposes, such as Geo-Redundant Storage (GRS) asynchronous replication. In the event of planned maintenance, updates to a region will be performed sequentially only.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.3 Paired regions are used appropriately.", 
+    "Description": "Paired regions exist within the same geography and provide native replication features for recovery purposes, such as Geo-Redundant Storage (GRS) asynchronous replication. In the event of planned maintenance, updates to a region will be performed sequentially only."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000062", 
+  "compliance_control_uri": "Azure-WAF/0015/150000062", 
+  "Control Name": "1.8.5 Azure Front Door, Azure App Gateway or Web Application Firewall is used.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "There are cost implications to using Front Door with Web Application Firewall enabled, but it can save costs compared to using a 3rd party solution. Front Door has a good latency, because it uses unicast. If only 1 or 2 regions are required, Application Gateway can be used. There are cost implications of having a WAF - you should check pricing of hours and GB/s.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.8 How do you manage networking costs for this workload?", 
+    "Control": "1.8.5 Azure Front Door, Azure App Gateway or Web Application Firewall is used.", 
+    "Description": "There are cost implications to using Front Door with Web Application Firewall enabled, but it can save costs compared to using a 3rd party solution. Front Door has a good latency, because it uses unicast. If only 1 or 2 regions are required, Application Gateway can be used. There are cost implications of having a WAF - you should check pricing of hours and GB/s."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

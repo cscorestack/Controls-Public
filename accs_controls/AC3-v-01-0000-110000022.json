@@ -1,0 +1,70 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000022",
+  "compliance_control_uri": "AC3-v-01/0000/110000022",
+  "Control Name": "AC-17 (4) PRIVILEGED COMMANDS / ACCESS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization: (a) Authorizes the execution of privileged commands and access to security-relevant information via remote access only for [Assignment: organization-defined needs]; and(b) Documents the rationale for such access in the security plan for the information system.",
+  "control_attributes": {
+    "Control Name": "AC-17 (4) PRIVILEGED COMMANDS / ACCESS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization: (a) Authorizes the execution of privileged commands and access to security-relevant information via remote access only for [Assignment: organization-defined needs]; and(b) Documents the rationale for such access in the security plan for the information system."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000201",
+      "ISO-27001/0011/1100000009",
+      "PCI-DSS/0012/1200000109",
+      "Fedramp-Control-Moderate/0010/1000000033",
+      "Fedramp-Control-High/0009/900000041",
+      "ISO/0001/100000097",
+      "Azure-WAF/0015/150000403",
+      "SOC2/0017/1700000137"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/HU8ZB",
+        "policy_name": "AWS_MFA_Enabled_For_IAM_Console_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/50f38",
+        "policy_name": "AWS_Audit_IAM_Users_with_Admin_Privileges",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/96308",
+        "policy_name": "AWS_Audit_Inactive_IAM_Console_User",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/1191a",
+        "policy_name": "AWS_Audit_Lambda_Function_With_Admin_Privileges",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

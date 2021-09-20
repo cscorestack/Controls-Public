@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000055", 
+  "compliance_control_uri": "CIS-Azure/0003/300000055", 
+  "Control Name": "1.18. Ensure that 'Users who can manage security groups' is set to 'None'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Restrict security group management to administrators only", 
+  "control_attributes": {
+    "Control": "1.18. Ensure that 'Users who can manage security groups' is set to 'None'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Restrict security group management to administrators only"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

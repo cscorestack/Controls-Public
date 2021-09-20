@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000029",
+  "compliance_control_uri": "SOC2/0017/1700000029",
+  "Control Name": "Processes Relevant Data Into Information—Information systems process and transform relevant data into information.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Processes Relevant Data Into Information—Information systems process and transform relevant data into information.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.1 COSO Principle 13: The entity obtains or generates and uses relevant, quality information to support the functioning of internal control.",
+    "ControlNo": "CC2.1.3",
+    "TrustID": "CC2.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

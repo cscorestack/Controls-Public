@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000033", 
+  "compliance_control_uri": "CIS-Azure/0015/150000033", 
+  "Control Name": "2.10 Ensure that Microsoft Cloud App Security (MCAS) integration with Security Center is selected", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "This setting enables Microsoft Cloud App Security (MCAS) integration with Security Center.", 
+  "control_attributes": {
+    "Control": "2.10 Ensure that Microsoft Cloud App Security (MCAS) integration with Security Center is selected", 
+    "Control_Clause": "2 Security Center", 
+    "description": "This setting enables Microsoft Cloud App Security (MCAS) integration with Security Center."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

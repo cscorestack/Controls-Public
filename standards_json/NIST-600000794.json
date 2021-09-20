@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000794", 
+  "control_attributes": {
+    "Control": "SI-7 (16) TIME LIMIT ON PROCESS EXECUTION W/O SUPERVISION", 
+    "control_description": "The organization does not allow processes to execute without supervision for more than [Assignment: organization-defined time period].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization centrally manages spam protection mechanisms."
+  }, 
+  "Control Statement": "The organization does not allow processes to execute without supervision for more than [Assignment: organization-defined time period].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (16) TIME LIMIT ON PROCESS EXECUTION W/O SUPERVISION", 
+  "compliance_control_number": "600000794"
+}

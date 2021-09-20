@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000268", 
+  "compliance_control_uri": "Azure-WAF/0015/150000268", 
+  "Control Name": "3.8.1 Performance goals are based on device and/or connectivity type as appropriate.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "It is important to identify how users are connecting to your application. Are they primarily connecting via a wired connection, wireless, or by using a mobile device? Additionally, you should seek to understand the targeted device types, whether that a mobile device, a tablet or laptop/desktop PC.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.1 Performance goals are based on device and/or connectivity type as appropriate.", 
+    "Description": "It is important to identify how users are connecting to your application. Are they primarily connecting via a wired connection, wireless, or by using a mobile device? Additionally, you should seek to understand the targeted device types, whether that a mobile device, a tablet or laptop/desktop PC."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

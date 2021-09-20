@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000013", 
+  "compliance_control_uri": "CIS-AWS/0007/700000013", 
+  "Control Name": "1.13 Ensure there is only one active access key available for any single IAM user", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "Ensure there is a maximum of one active access keys available for any single IAM user.", 
+  "control_attributes": {
+    "Control": "1.13 Ensure there is only one active access key available for any single IAM user", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "Ensure there is a maximum of one active access keys available for any single IAM user."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

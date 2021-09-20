@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000057",
+  "compliance_control_uri": "AWS-WAF/0016/160000057",
+  "Control Name": "OPS 8.7 Alert when workload anomalies are detected",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Raise an alert when workload anomalies are detected so that you can respond appropriately if necessary.",
+  "control_attributes": {
+    "Control": "OPS 8.7 Alert when workload anomalies are detected",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_workload_anomaly_alerts"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

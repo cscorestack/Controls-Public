@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000067", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000067", 
+  "Control Name": "5.4 Ensure that security policies and operational procedures for protecting systems against malware are documented, in use, and known to all affected parties.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "5.4 Ensure that security policies and operational procedures for protecting systems against malware are documented, in use, and known to all affected parties.", 
+    "Requirement": "Requirement 5. Protect all systems against malware and regularly update anti-virus software or programs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

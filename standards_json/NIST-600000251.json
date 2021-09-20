@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000251", 
+  "control_attributes": {
+    "Control": "AU-10 (1) ASSOCIATION OF IDENTITIES", 
+    "control_description": "The information system: (a) Binds the identity of the information producer with the information to [Assignment: organization-defined strength of binding]; and(b) Provides the means for authorized individuals to determine the identity of the producer of the information", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that the identity of individuals be preserved in cross-organizational audit trails."
+  }, 
+  "Control Statement": "The information system: (a) Binds the identity of the information producer with the information to [Assignment: organization-defined strength of binding]; and(b) Provides the means for authorized individuals to determine the identity of the producer of the information", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-10 (1) ASSOCIATION OF IDENTITIES", 
+  "compliance_control_number": "600000251"
+}

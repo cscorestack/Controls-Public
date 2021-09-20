@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000184", 
+  "control_attributes": {
+    "Control": "AC-11 (1) PATTERN-HIDING DISPLAYS", 
+    "control_description": "The information system conceals, via the session lock, information previously visible on the display with a publicly viewable image.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that security attributes associated with information are reassigned only via re-grading mechanisms validated using [Assignment: organization-defined techniques or procedures]."
+  }, 
+  "Control Statement": "The information system conceals, via the session lock, information previously visible on the display with a publicly viewable image.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-11 (1) PATTERN-HIDING DISPLAYS", 
+  "compliance_control_number": "600000184"
+}

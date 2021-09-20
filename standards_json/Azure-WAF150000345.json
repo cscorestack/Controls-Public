@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000345", 
+  "compliance_control_uri": "Azure-WAF/0015/150000345", 
+  "Control Name": "4.6.9 Load balancer health probes assess data platform components.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Do health probes asses critical internal data dependencies? e.g. do health probes perform a mutable database operation.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.9 Load balancer health probes assess data platform components.", 
+    "Description": "Do health probes asses critical internal data dependencies? e.g. do health probes perform a mutable database operation."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

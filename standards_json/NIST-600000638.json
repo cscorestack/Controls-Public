@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000638", 
+  "control_attributes": {
+    "Control": "SA-17 (7) STRUCTURE FOR LEAST PRIVILEGE", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to structure security-relevant hardware, software, and firmware to facilitate controlling access with least privilege.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization disposes of information system components using [Assignment: organization-defined techniques and methods]."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to structure security-relevant hardware, software, and firmware to facilitate controlling access with least privilege.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-17 (7) STRUCTURE FOR LEAST PRIVILEGE", 
+  "compliance_control_number": "600000638"
+}

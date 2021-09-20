@@ -1,0 +1,68 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000206",
+  "compliance_control_uri": "AC3-v-01/0000/110000206",
+  "Control Name": "CM-11 (1) ALERTS FOR UNAUTHORIZED INSTALLATIONS",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected.",
+  "control_attributes": {
+    "Control Name": "CM-11 (1) ALERTS FOR UNAUTHORIZED INSTALLATIONS",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Roles"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000312",
+      "ISO-27001/0011/1100000067",
+      "ISO-27001/0011/1100000069",
+      "Fedramp-Control-High/0009/900000144",
+      "ISO/0001/100000043",
+      "ISO/0001/100000092",
+      "SOC2/0017/1700000144"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pdqfq",
+        "policy_name": "Azure_Monitor_Possible_App_Whitelisting",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

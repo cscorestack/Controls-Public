@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000104",
+  "compliance_control_uri": "SOC2/0017/1700000104",
+  "Control Name": "Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls—Management understands and determines the dependency and linkage between business processes, automated control activities, and technology general controls.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls—Management understands and determines the dependency and linkage between business processes, automated control activities, and technology general controls.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.2 COSO Principle 11: The entity also selects and develops general control activities over technology to support the achievement of objectives.",
+    "ControlNo": "CC5.2.1",
+    "TrustID": "CC5.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000147", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000147", 
+  "Control Name": "AUTHENTICATOR MANAGEMENT | PKI-BASED AUTHENTICATION", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system, for PKI-based authentication: (a)   Validates certifications by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information; (b)   Enforces authorized access to the corresponding private key; (c)   Maps the authenticated identity to the account of the individual or group; and (d)   Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.Supplemental Guidance:  Status information for certification paths includes, for example, certificate revocation lists or certificate status protocol responses. For PIV cards, validation of certifications involves the construction and verification of a certification path to the Common Policy Root trust anchor including certificate policy processing. Related control: IA-6.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system, for PKI-based authentication: (a)   Validates certifications by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information; (b)   Enforces authorized access to the corresponding private key; (c)   Maps the authenticated identity to the account of the individual or group; and (d)   Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.Supplemental Guidance:  Status information for certification paths includes, for example, certificate revocation lists or certificate status protocol responses. For PIV cards, validation of certifications involves the construction and verification of a certification path to the Common Policy Root trust anchor including certificate policy processing. Related control: IA-6.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-05 (02)", 
+    "CNTL NO": "IA-5 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "AUTHENTICATOR MANAGEMENT | PKI-BASED AUTHENTICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

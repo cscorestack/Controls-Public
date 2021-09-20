@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000058",
+  "compliance_control_uri": "AWS-WAF/0016/160000058",
+  "Control Name": "OPS 8.8 Validate the achievement of outcomes and the eﬀectiveness of KPIs and metrics",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Create a business- level view of your workload operations to help you determine  if  you  are  satisfying  needs  and  to identify areas that need improvement to reach business goals. Validate the eﬀectiveness of KPIs and metrics and revise them if necessary.",
+  "control_attributes": {
+    "Control": "OPS 8.8 Validate the achievement of outcomes and the eﬀectiveness of KPIs and metrics",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_biz_level_view_workload"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

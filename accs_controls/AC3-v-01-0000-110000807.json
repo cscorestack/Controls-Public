@@ -1,0 +1,111 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000807",
+  "compliance_control_uri": "AC3-v-01/0000/110000807",
+  "Control Name": "SI-7 (1) INTEGRITY CHECKS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].",
+  "control_attributes": {
+    "Control Name": "SI-7 (1) INTEGRITY CHECKS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000065",
+      "PCI-DSS/0012/1200000178",
+      "PCI-DSS/0012/1200000201",
+      "PCI-DSS/0012/1200000202",
+      "Fedramp-Control-Moderate/0010/1000000314",
+      "Fedramp-Control-High/0009/900000409",
+      "HIPAA/0002/200000029",
+      "HIPAA/0002/200000030",
+      "HIPAA/0002/200000032",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/baLl4",
+        "policy_name": "AWS_CLOUDTRAIL_CLOUDWATCH_LOGS_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/3xXGV",
+        "policy_name": "AWS_CLOUDWATCH_Alarm_Resource_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/aJ46r",
+        "policy_name": "AWS_Multi_Region_CLOUDTRAIL_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mazt4",
+        "policy_name": "Azure_Audit_LogProfile",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hiCzu",
+        "policy_name": "Azure_Monitor_Collect_Activity_Logs_All_Regions",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ovKPS",
+        "policy_name": "Azure_Monitor_LogProfile_Collect_All_Categories",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/f482c",
+        "policy_name": "Azure_Audit_LogAnalytics_WorkSpace_VM",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000611", 
+  "control_attributes": {
+    "Control": "SA-12 (11) PENETRATION TESTING / ANALYSIS OF ELEMENTS, PROCESSES, AND ACTORS", 
+    "control_description": "The organization employs [Selection (one or more): organizational analysis, independent third-party analysis, organizational penetration testing, independent third-party penetration testing] of [Assignment: organization-defined supply chain elements, processes, and actors] associated with the information system, system component, or information system service.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization identifies critical information system components and functions by performing a criticality analysis for [Assignment: organization-defined information systems, information system components, or information system services] at [Assignment: organization-defined decision points in the system development life cycle]."
+  }, 
+  "Control Statement": "The organization employs [Selection (one or more): organizational analysis, independent third-party analysis, organizational penetration testing, independent third-party penetration testing] of [Assignment: organization-defined supply chain elements, processes, and actors] associated with the information system, system component, or information system service.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-12 (11) PENETRATION TESTING / ANALYSIS OF ELEMENTS, PROCESSES, AND ACTORS", 
+  "compliance_control_number": "600000611"
+}

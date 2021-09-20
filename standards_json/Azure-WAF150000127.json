@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000127", 
+  "compliance_control_uri": "Azure-WAF/0015/150000127", 
+  "Control Name": "2.8.4 Automated recovery procedures are in place for common failure events", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are automated recovery procedures in place for common failure event?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.8 What is your approach to recovery and failover?", 
+    "Control": "2.8.4 Automated recovery procedures are in place for common failure events", 
+    "Description": "Are automated recovery procedures in place for common failure event?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000016", 
+  "compliance_control_uri": "Azure-WAF/0015/150000016", 
+  "Control Name": "1.2.7 There is a clear understanding of how budget is defined.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "It is important to have a clear understanding how an IT budget is defined. This is especially true for applications that are not built in-house, where IT budget has to be factored in as part of the delivery.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.7 There is a clear understanding of how budget is defined.", 
+    "Description": "It is important to have a clear understanding how an IT budget is defined. This is especially true for applications that are not built in-house, where IT budget has to be factored in as part of the delivery."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

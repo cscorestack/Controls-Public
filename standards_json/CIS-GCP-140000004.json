@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000004", 
+  "compliance_control_uri": "CIS-GCP/0014/140000004", 
+  "Control Name": "1.4 Ensure that there are only GCP-managed service account keys for each service account", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "User managed service accounts should not have user-managed keys.", 
+  "control_attributes": {
+    "Control": "1.4 Ensure that there are only GCP-managed service account keys for each service account", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "User managed service accounts should not have user-managed keys."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

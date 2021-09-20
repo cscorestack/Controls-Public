@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000419", 
+  "compliance_control_uri": "Azure-WAF/0015/150000419", 
+  "Control Name": "5.4.2 DevOps security guidance based on industry lessons-learned, and available automation tools (OWASP guidance, Microsoft toolkit for Secure DevOps etc.) is leveraged.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Organizations should leverage a control framework such as NIST, CIS or ASB (Azure Security Benchmarks) for securing applications on the cloud rather than starting from zero.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.2 DevOps security guidance based on industry lessons-learned, and available automation tools (OWASP guidance, Microsoft toolkit for Secure DevOps etc.) is leveraged.", 
+    "Description": "Organizations should leverage a control framework such as NIST, CIS or ASB (Azure Security Benchmarks) for securing applications on the cloud rather than starting from zero."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

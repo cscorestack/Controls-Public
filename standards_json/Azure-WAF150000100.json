@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000100", 
+  "compliance_control_uri": "Azure-WAF/0015/150000100", 
+  "Control Name": "2.4.7 Black-box monitoring is used to measure platform services and the resulting customer experience.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Black-box monitoring tests externally visible application behavior without knowledge of the internals of the system. This is a common approach to measuring customer-centric SLIs/SLOs/SLAs.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.7 Black-box monitoring is used to measure platform services and the resulting customer experience.", 
+    "Description": "Black-box monitoring tests externally visible application behavior without knowledge of the internals of the system. This is a common approach to measuring customer-centric SLIs/SLOs/SLAs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

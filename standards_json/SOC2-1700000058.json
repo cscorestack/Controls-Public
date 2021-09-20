@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000058",
+  "compliance_control_uri": "SOC2/0017/1700000058",
+  "Control Name": "Considers Materiality—Management considers materiality in financial statement presentation.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers Materiality—Management considers materiality in financial statement presentation.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.1 COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "ControlNo": "CC3.1.6",
+    "TrustID": "CC3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

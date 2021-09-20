@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000143",
+  "compliance_control_uri": "SOC2/0017/1700000143",
+  "Control Name": "Restricts Application and Software Installation—The ability to install applications and software is restricted to authorized individuals.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Restricts Application and Software Installation—The ability to install applications and software is restricted to authorized individuals.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.8 The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity’s objectives.",
+    "ControlNo": "CC6.8.1",
+    "TrustID": "CC6.8"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

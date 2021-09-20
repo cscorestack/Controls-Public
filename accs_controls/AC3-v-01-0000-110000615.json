@@ -1,0 +1,178 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000615",
+  "compliance_control_uri": "AC3-v-01/0000/110000615",
+  "Control Name": "SA-4 (5) SYSTEM / COMPONENT / SERVICE CONFIGURATIONS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:",
+  "control_attributes": {
+    "Control Name": "SA-4 (5) SYSTEM / COMPONENT / SERVICE CONFIGURATIONS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000574",
+      "CIS-Azure/0003/300000112",
+      "CIS-Azure/0003/300000113",
+      "CIS-Azure/0003/300000114",
+      "CIS-Azure/0003/300000115",
+      "CIS-Azure/0003/300000116",
+      "Azure-WAF/0015/150000453",
+      "SOC2/0017/1700000184"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "Azure_Audit_APIService_using_Virtual_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/MqWnd"
+      },
+      {
+        "policy_name": "Azure_Audit_ContainerRegistry_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LRpyi"
+      },
+      {
+        "policy_name": "Azure_Audit_ContainerRegistry_Unrestricted_Network_Access",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/SsLPi"
+      },
+      {
+        "policy_name": "Azure_Audit_CosmosDB_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yVINP"
+      },
+      {
+        "policy_name": "Azure_Audit_EventHub_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XaRFO"
+      },
+      {
+        "policy_name": "Azure_Audit_Kubernetes_API_IP_Allow",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/y6ifz"
+      },
+      {
+        "policy_name": "Azure_Audit_MariaDB_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LltIe"
+      },
+      {
+        "policy_name": "Azure_Audit_MariaDB_Configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XeJCm"
+      },
+      {
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad"
+      },
+      {
+        "policy_name": "Azure_Audit_MySQL_not_configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dHvSs"
+      },
+      {
+        "policy_name": "Azure_Audit_MySQLserver_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pBIgi"
+      },
+      {
+        "policy_name": "Azure_Audit_PostgreSQLserver_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/HkrhE"
+      },
+      {
+        "policy_name": "Azure_Audit_PostgreSQLserver_not_configured_PrvEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/TnBzR"
+      },
+      {
+        "policy_name": "Azure_Audit_SQL_Database_Ingress",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/osnui"
+      },
+      {
+        "policy_name": "Azure_Audit_ServiceBus_using_Virtual_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/VtPEe"
+      },
+      {
+        "policy_name": "Azure_Audit_StorageAccounts_Configured_Network_ServiceEndPt",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XZSuJ"
+      },
+      {
+        "policy_name": "Azure_Audit_Unrestricted_Network_Access_Storage_Account",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/taom7"
+      },
+      {
+        "policy_name": "Azure_Monitor_Permissive_NetworkAccess_VM_Web_Apps",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/liwlj"
+      },
+      {
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App_Services",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh"
+      },
+      {
+        "policy_name": "Azure_Network_SecurityGroup_Port_Violation",
+        "system_default": true,
+        "is_parameterized": true,
+        "policy_uri": "policy/congress/global/azure/compliance/security_group/bmd2t"
+      },
+      {
+        "policy_name": "GCP_Audit_Kubernetes_Clusters_Without_Client_Certificate_Requirements.",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/lnau",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Monitor_Kubernetes_Cluster_With_Client_Certificate",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/laan",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000015", 
+  "compliance_control_uri": "ISO/0001/100000014", 
+  "Control Name": "7.3.1 Termination or change of employment responsibilities", 
+  "Control Family": "7. Human resources security", 
+  "Control Statement": "Responsibilities for performing employment termination or change of employment shall be clearly defined and assigned", 
+  "control_attributes": {
+    "Control_Objective": "7.3.1 Termination or change of employment responsibilities", 
+    "Security_Control_Clause": "7. Human resources security", 
+    "Security_Category": "7.3 Termination and change of employment", 
+    "description": "Responsibilities for performing employment termination or change of employment shall be clearly defined and assigned"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

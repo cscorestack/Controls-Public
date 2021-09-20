@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000195",
+  "compliance_control_uri": "AWS-WAF/0016/160000195",
+  "Control Name": "REL 12.4 Test scaling and performance requirements",
+  "Control Family": "Reliability",
+  "Control Statement": "This includes load testing to validate that the workload meets scaling and performance requirements.",
+  "control_attributes": {
+    "Control": "REL 12.4 Test scaling and performance requirements",
+    "Category": "Reliability",
+    "Subcategory": "How do you test reliability?",
+    "question_id": "testing-resiliency",
+    "choice_id": "rel_testing_resiliency_test_non_functional"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

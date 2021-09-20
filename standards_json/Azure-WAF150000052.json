@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000052", 
+  "compliance_control_uri": "Azure-WAF/0015/150000052", 
+  "Control Name": "1.7.5 VM instances which are not used are shut down.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Use the Start/Stop VMs during off-hours feature of virtual machines to minimize waste. There are many configuration options to schedule start the stop times. The feature is suitable as a low-cost automation option. Azure Advisor evaluates virtual machines based on CPU and network utilization over a time period and recommends actions like shut down or resize instances.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.5 VM instances which are not used are shut down.", 
+    "Description": "Use the Start/Stop VMs during off-hours feature of virtual machines to minimize waste. There are many configuration options to schedule start the stop times. The feature is suitable as a low-cost automation option. Azure Advisor evaluates virtual machines based on CPU and network utilization over a time period and recommends actions like shut down or resize instances."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000780", 
+  "control_attributes": {
+    "Control": "SI-6 (3) REPORT VERIFICATION RESULTS", 
+    "control_description": "The organization reports the results of security function verification to [Assignment: organization-defined personnel or roles].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs automated tools that provide notification to [Assignment: organization-defined personnel or roles] upon discovering discrepancies during integrity verification."
+  }, 
+  "Control Statement": "The organization reports the results of security function verification to [Assignment: organization-defined personnel or roles].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-6 (3) REPORT VERIFICATION RESULTS", 
+  "compliance_control_number": "600000780"
+}

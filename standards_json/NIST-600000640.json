@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000640", 
+  "control_attributes": {
+    "Control": "SA-18 (2) INSPECTION OF INFORMATION SYSTEMS, COMPONENTS, OR DEVICES", 
+    "control_description": "The organization inspects [Assignment: organization-defined information systems, system components, or devices] [Selection (one or more): at random; at [Assignment: organization-defined frequency], upon [Assignment: organization-defined indications of need for inspection]] to detect tampering.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization re-implements or custom develops [Assignment: organization-defined critical information system components]."
+  }, 
+  "Control Statement": "The organization inspects [Assignment: organization-defined information systems, system components, or devices] [Selection (one or more): at random; at [Assignment: organization-defined frequency], upon [Assignment: organization-defined indications of need for inspection]] to detect tampering.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-18 (2) INSPECTION OF INFORMATION SYSTEMS, COMPONENTS, OR DEVICES", 
+  "compliance_control_number": "600000640"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000084", 
+  "compliance_control_uri": "Azure-WAF/0015/150000084", 
+  "Control Name": "2.2.5 The workload is implemented with strategies for resiliency and self-healing.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Consider implementing strategies and capabilities for resiliency and self-healing needed to achieve workload availability targets. Programming paradigms such as retry patterns, request timeouts, and circuit breaker patterns can improve application resiliency by automatically recovering from transient faults.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.2 What design considerations for operations have you made?", 
+    "Control": "2.2.5 The workload is implemented with strategies for resiliency and self-healing.", 
+    "Description": "Consider implementing strategies and capabilities for resiliency and self-healing needed to achieve workload availability targets. Programming paradigms such as retry patterns, request timeouts, and circuit breaker patterns can improve application resiliency by automatically recovering from transient faults."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

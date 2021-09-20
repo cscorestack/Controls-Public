@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000357", 
+  "control_attributes": {
+    "Control": "CP-11 ALTERNATE COMMUNICATIONS PROTOCOLS", 
+    "control_description": "The information system provides the capability to employ [Assignment: organization-defined alternative communications protocols] in support of maintaining continuity of operations.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements replay-resistant authentication mechanisms for network access to privileged accounts."
+  }, 
+  "Control Statement": "The information system provides the capability to employ [Assignment: organization-defined alternative communications protocols] in support of maintaining continuity of operations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-11 ALTERNATE COMMUNICATIONS PROTOCOLS", 
+  "compliance_control_number": "600000357"
+}

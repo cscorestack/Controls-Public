@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000756", 
+  "control_attributes": {
+    "Control": "SI-3 (9) AUTHENTICATE REMOTE COMMANDS", 
+    "control_description": "The information system implements [Assignment: organization-defined security safeguards] to authenticate [Assignment: organization-defined remote commands].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system."
+  }, 
+  "Control Statement": "The information system implements [Assignment: organization-defined security safeguards] to authenticate [Assignment: organization-defined remote commands].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-3 (9) AUTHENTICATE REMOTE COMMANDS", 
+  "compliance_control_number": "600000756"
+}

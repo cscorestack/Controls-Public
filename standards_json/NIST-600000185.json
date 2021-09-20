@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000185", 
+  "control_attributes": {
+    "Control": "AC-12 SESSION TERMINATION", 
+    "control_description": "The information system automatically terminates a user session after [Assignment: organization-defined conditions or trigger events requiring session disconnect].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides authorized individuals the capability to define or change the type and value of security attributes available for association with subjects and objects."
+  }, 
+  "Control Statement": "The information system automatically terminates a user session after [Assignment: organization-defined conditions or trigger events requiring session disconnect].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-12 SESSION TERMINATION", 
+  "compliance_control_number": "600000185"
+}

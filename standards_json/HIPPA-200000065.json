@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000065", 
+  "compliance_control_uri": "HIPAA/0002/200000065", 
+  "Control Name": "Device and Media Controls  Media Re-use - 164.310(d)(2)(ii)", 
+  "Control Family": "Device and Media Controls", 
+  "Control Statement": "Implement procedures for removal of electronic protected health information from electronic media before the media are made available for re-use.", 
+  "control_attributes": {
+    "Control": "Device and Media Controls  Media Re-use - 164.310(d)(2)(ii)", 
+    "Security_Category": "Device and Media Controls", 
+    "Control_description": "Implement procedures for removal of electronic protected health information from electronic media before the media are made available for re-use."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

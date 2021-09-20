@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000501",
+  "compliance_control_uri": "AC3-v-01/0000/110000501",
+  "Control Name": "PM-11 MISSION/BUSINESS PROCESS DEFINITION",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization: a. Defines mission/business processes with consideration for information security and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation; andb. Determines information protection needs arising from the defined mission/business processes and revises the processes as necessary, until achievable protection needs are obtained",
+  "control_attributes": {
+    "Control Name": "PM-11 MISSION/BUSINESS PROCESS DEFINITION",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization: a. Defines mission/business processes with consideration for information security and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation; andb. Determines information protection needs arising from the defined mission/business processes and revises the processes as necessary, until achievable protection needs are obtained"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000821"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

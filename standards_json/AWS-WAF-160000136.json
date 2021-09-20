@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000136",
+  "compliance_control_uri": "AWS-WAF/0016/160000136",
+  "Control Name": "SEC 10.5 Pre-provision access",
+  "Control Family": "Security",
+  "Control Statement": "Ensure that incident responders have the correct access pre-provisioned into AWS to reduce the time for investigation through to recovery.",
+  "control_attributes": {
+    "Control": "SEC 10.5 Pre-provision access",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_pre_provision_access"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

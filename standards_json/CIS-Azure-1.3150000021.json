@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000021", 
+  "compliance_control_uri": "CIS-Azure/0015/150000021", 
+  "Control Name": "1.21 Ensure that no custom subscription owner roles are created", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Subscription ownership should not include permission to create custom owner roles. The principle of least privilege should be followed and only necessary privileges should be assigned instead of allowing full administrative access.", 
+  "control_attributes": {
+    "Control": "1.21 Ensure that no custom subscription owner roles are created", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Subscription ownership should not include permission to create custom owner roles. The principle of least privilege should be followed and only necessary privileges should be assigned instead of allowing full administrative access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

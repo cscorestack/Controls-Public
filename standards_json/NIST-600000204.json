@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000204", 
+  "control_attributes": {
+    "Control": "AC-18 WIRELESS ACCESS", 
+    "control_description": "The organization: a. Establishes usage restrictions, configuration/connection requirements, and implementation guidance for wireless access; andb. Authorizes wireless access to the information system prior to allowing such connections.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Establishes usage restrictions, configuration/connection requirements, and implementation guidance for wireless access; andb. Authorizes wireless access to the information system prior to allowing such connections.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-18 WIRELESS ACCESS", 
+  "compliance_control_number": "600000204"
+}

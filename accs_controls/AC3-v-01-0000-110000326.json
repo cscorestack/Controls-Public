@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000326",
+  "compliance_control_uri": "AC3-v-01/0000/110000326",
+  "Control Name": "IA-4 (5) DYNAMIC MANAGEMENT",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system dynamically manages identifiers.",
+  "control_attributes": {
+    "Control Name": "IA-4 (5) DYNAMIC MANAGEMENT",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system dynamically manages identifiers."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000379",
+      "ISO-27001/0011/1100000028",
+      "ISO-27001/0011/1100000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000247",
+  "compliance_control_uri": "AWS-WAF/0016/160000247",
+  "Control Name": "COST 1.3 Establish cloud budgets and forecasts",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Adjust existing organizational budgeting and forecasting processes to be compatible with the highly variable nature of cloud costs and usage. Processes must be dynamic using trend based or business driver-based algorithms, or a combination.",
+  "control_attributes": {
+    "Control": "COST 1.3 Establish cloud budgets and forecasts",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_budget_forecast"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000322",
+  "compliance_control_uri": "AC3-v-01/0000/110000322",
+  "Control Name": "IA-4 (1) PROHIBIT ACCOUNT IDENTIFIERS AS PUBLIC IDENTIFIERS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization prohibits the use of information system account identifiers that are the same as public identifiers for individual electronic mail accounts.",
+  "control_attributes": {
+    "Control Name": "IA-4 (1) PROHIBIT ACCOUNT IDENTIFIERS AS PUBLIC IDENTIFIERS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization prohibits the use of information system account identifiers that are the same as public identifiers for individual electronic mail accounts."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000375"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

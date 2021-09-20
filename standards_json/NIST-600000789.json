@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000789", 
+  "control_attributes": {
+    "Control": "SI-7 (11) CONFINED ENVIRONMENTS WITH LIMITED PRIVILEGES", 
+    "control_description": "The organization requires that [Assignment: organization-defined user-installed software] execute in a confined physical or virtual machine environment with limited privileges.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that the integrity of [Assignment: organization-defined user-installed software] be verified prior to execution."
+  }, 
+  "Control Statement": "The organization requires that [Assignment: organization-defined user-installed software] execute in a confined physical or virtual machine environment with limited privileges.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (11) CONFINED ENVIRONMENTS WITH LIMITED PRIVILEGES", 
+  "compliance_control_number": "600000789"
+}

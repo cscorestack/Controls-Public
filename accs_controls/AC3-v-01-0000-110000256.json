@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000256",
+  "compliance_control_uri": "AC3-v-01/0000/110000256",
+  "Control Name": "CP-10 (6) COMPONENT PROTECTION",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization protects backup and restoration hardware, firmware, and software.",
+  "control_attributes": {
+    "Control Name": "CP-10 (6) COMPONENT PROTECTION",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization protects backup and restoration hardware, firmware, and software."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000356",
+      "ISO-27001/0011/1100000104"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

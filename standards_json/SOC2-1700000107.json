@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000107",
+  "compliance_control_uri": "SOC2/0017/1700000107",
+  "Control Name": "Establishes Relevant Technology Acquisition, Development, and Maintenance Process Control Activities—Management selects and develops control activities over the acquisition, development, and maintenance of technology and its infrastructure to achieve management’s objectives.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Establishes Relevant Technology Acquisition, Development, and Maintenance Process Control Activities—Management selects and develops control activities over the acquisition, development, and maintenance of technology and its infrastructure to achieve management’s objectives.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.2 COSO Principle 11: The entity also selects and develops general control activities over technology to support the achievement of objectives.",
+    "ControlNo": "CC5.2.4",
+    "TrustID": "CC5.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

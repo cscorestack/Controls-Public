@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000060",
+  "compliance_control_uri": "AWS-WAF/0016/160000060",
+  "Control Name": "OPS 9.2 Deﬁne operations metrics",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Deﬁne operations metrics to measure the achievement of KPIs (for example, successful deployments, and failed deployments). Deﬁne operations metrics to measure the health of operations activities (for example, mean time to detect an incident (MTTD), and mean time to recovery (MTTR) from an incident). Evaluate metrics to determine if operations are achieving desired outcomes, and to understand the health of your operations activities.",
+  "control_attributes": {
+    "Control": "OPS 9.2 Deﬁne operations metrics",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_design_ops_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

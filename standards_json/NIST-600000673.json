@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000673", 
+  "control_attributes": {
+    "Control": "SC-7 (15) ROUTE PRIVILEGED NETWORK ACCESSES", 
+    "control_description": "The information system routes all networked, privileged accesses through a dedicated, managed interface for purposes of access control and auditing.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs boundary protection mechanisms to separate [Assignment: organization-defined information system components] supporting [Assignment: organization-defined missions and/or business functions]."
+  }, 
+  "Control Statement": "The information system routes all networked, privileged accesses through a dedicated, managed interface for purposes of access control and auditing.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (15) ROUTE PRIVILEGED NETWORK ACCESSES", 
+  "compliance_control_number": "600000673"
+}

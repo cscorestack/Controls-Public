@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000228", 
+  "control_attributes": {
+    "Control": "AT-3 (3) PRACTICAL EXERCISES", 
+    "control_description": "The organization includes practical exercises in security training that reinforce training objectives.", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization performs a full text analysis of audited privileged commands in a physically distinct component or subsystem of the information system, or other information system that is dedicated to that analysis."
+  }, 
+  "Control Statement": "The organization includes practical exercises in security training that reinforce training objectives.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-3 (3) PRACTICAL EXERCISES", 
+  "compliance_control_number": "600000228"
+}

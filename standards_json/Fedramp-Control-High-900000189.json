@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000189", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000189", 
+  "Control Name": "IDENTIFICATION AND AUTHENTICATION | REMOTE ACCESS - SEPARATE DEVICE", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [Assignment: organization-defined strength of mechanism requirements].Supplemental Guidance:  For remote access to privileged/non-privileged accounts, the purpose of requiring a device that is separate from the information system gaining access for one of the factors during multifactor authentication is to reduce the likelihood of compromising authentication credentials stored on the system. For example, adversaries deploying malicious code on organizational information systems can potentially compromise such credentials resident on the system and subsequently impersonate authorized users. Related control: AC-6.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [Assignment: organization-defined strength of mechanism requirements].Supplemental Guidance:  For remote access to privileged/non-privileged accounts, the purpose of requiring a device that is separate from the information system gaining access for one of the factors during multifactor authentication is to reduce the likelihood of compromising authentication credentials stored on the system. For example, adversaries deploying malicious code on organizational information systems can potentially compromise such credentials resident on the system and subsequently impersonate authorized users. Related control: AC-6.", 
+    "SelectionParam": "IA-2 (11) [FIPS 140-2, NIAP Certification, or NSA approval]", 
+    "FedRampParam": "x", 
+    "SORTID": "IA-02 (11)", 
+    "CNTL NO": "IA-2 (11)", 
+    "AdditionalReq": "IA-2 (11) Guidance: PIV=separate device. Please refer to NIST SP 800-157 Guidelines for Derived Personal Identity Verification (PIV) Credentials. ", 
+    "Control Name": "IDENTIFICATION AND AUTHENTICATION | REMOTE ACCESS - SEPARATE DEVICE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

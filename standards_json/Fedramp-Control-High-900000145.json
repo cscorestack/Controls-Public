@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000145", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000145", 
+  "Control Name": "CONTINGENCY PLANNING POLICY ANDPROCEDURES", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:   1. A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and   2. Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and b. Reviews and updates the current:   1. Contingency planning policy [Assignment: organization-defined frequency]; and   2. Contingency planning procedures [Assignment: organization-defined frequency].Supplemental Guidance: This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the CP family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures. Related control: PM-9.Control Enhancements:  None.References:  Federal Continuity Directive 1; NIST Special Publications 800-12, 800-34, 800-100.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:   1. A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and   2. Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and b. Reviews and updates the current:   1. Contingency planning policy [Assignment: organization-defined frequency]; and   2. Contingency planning procedures [Assignment: organization-defined frequency].Supplemental Guidance: This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the CP family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures. Related control: PM-9.Control Enhancements:  None.References:  Federal Continuity Directive 1; NIST Special Publications 800-12, 800-34, 800-100.", 
+    "SelectionParam": "CP-1 (b) (1) [at least annually]CP-1 (b) (2) [at least annually or whenever a significant change occurs]", 
+    "FedRampParam": "x", 
+    "SORTID": "CP-01", 
+    "CNTL NO": "CP-1", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONTINGENCY PLANNING POLICY ANDPROCEDURES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

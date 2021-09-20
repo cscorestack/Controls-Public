@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000185",
+  "compliance_control_uri": "AWS-WAF/0016/160000185",
+  "Control Name": "REL 10.2 Automate recovery for components constrained to a single location",
+  "Control Family": "Reliability",
+  "Control Statement": "If components of the workload can only run in a single Availability Zone or on-premises data center, you must implement the capability to do a complete rebuild of the workload within your deﬁned recovery objectives.",
+  "control_attributes": {
+    "Control": "REL 10.2 Automate recovery for components constrained to a single location",
+    "Category": "Reliability",
+    "Subcategory": "How do you use fault isolation to protect your workload?",
+    "question_id": "fault-isolation",
+    "choice_id": "rel_fault_isolation_single_az_system"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000477", 
+  "control_attributes": {
+    "Control": "MP-7 (2) PROHIBIT USE OF SANITIZATION-RESISTANT MEDIA", 
+    "control_description": "The organization prohibits the use of sanitization-resistant media in organizational information systems.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization prohibits the use of sanitization-resistant media in organizational information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-7 (2) PROHIBIT USE OF SANITIZATION-RESISTANT MEDIA", 
+  "compliance_control_number": "600000477"
+}

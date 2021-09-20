@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000294", 
+  "control_attributes": {
+    "Control": "CM-5 (4) DUAL AUTHORIZATION", 
+    "control_description": "The organization enforces dual authorization for implementing changes to [Assignment: organization-defined information system components and system-level information].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization verifies that all components within the authorization boundary of the information system are not duplicated in other information system component inventories."
+  }, 
+  "Control Statement": "The organization enforces dual authorization for implementing changes to [Assignment: organization-defined information system components and system-level information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-5 (4) DUAL AUTHORIZATION", 
+  "compliance_control_number": "600000294"
+}

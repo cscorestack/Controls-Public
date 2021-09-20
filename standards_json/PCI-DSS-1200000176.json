@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000176", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000176", 
+  "Control Name": "Promptly back up audit trail files to a centralized log server or media that is difficult to alter.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Promptly back up audit trail files to a centralized log server or media that is difficult to alter.", 
+    "Requirement": "10.5.3. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

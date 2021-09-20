@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000081",
+  "compliance_control_uri": "AWS-WAF/0016/160000081",
+  "Control Name": "OPS 11.8 Document and share lessons learned",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Document and share lessons learned from the execution of operations activities so that you can use them internally and across teams.",
+  "control_attributes": {
+    "Control": "OPS 11.8 Document and share lessons learned",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_share_lessons_learned"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

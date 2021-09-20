@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000365", 
+  "compliance_control_uri": "Azure-WAF/0015/150000365", 
+  "Control Name": "4.9.7 Tested and validated defined latency and defined throughput targets per scenario and component.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are latency and throughput targets defined, tested and validated per scenario/service? i.e. first byte in to last byte out", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.7 Tested and validated defined latency and defined throughput targets per scenario and component.", 
+    "Description": "Are latency and throughput targets defined, tested and validated per scenario/service? i.e. first byte in to last byte out"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

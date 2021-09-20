@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000316", 
+  "compliance_control_uri": "Azure-WAF/0015/150000316", 
+  "Control Name": "4.4.1 Application is available across multiple regions in an active-active configuration.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application and/or its key workloads deployed across multiple regions in an active-active configuration?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.1 Application is available across multiple regions in an active-active configuration.", 
+    "Description": "Is the application and/or its key workloads deployed across multiple regions in an active-active configuration?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000240", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000240", 
+  "Control Name": "VULNERABILITY SCANNING | BREADTH / DEPTH OF COVERAGE", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked).", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked).", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "RA-05 (03)", 
+    "CNTL NO": "RA-5 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "VULNERABILITY SCANNING | BREADTH / DEPTH OF COVERAGE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

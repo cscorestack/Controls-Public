@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000424", 
+  "compliance_control_uri": "Azure-WAF/0015/150000424", 
+  "Control Name": "5.4.7 Credentials, certificates and other secrets are managed in a secure manner inside of CI/CD pipelines.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Secrets need to be managed in a secure manner inside of the CI/CD pipeline. The secrets needs to be stored either in a secure store inside the pipeline or externally in Azure Key Vault. When deploying application infrastructure (e.g. with Azure Resource Manager or Terraform), credentials and keys should be generated during the process, stored directly in Key Vault and referenced by deployed resources. Hard-coded credentials should be avoided.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.7 Credentials, certificates and other secrets are managed in a secure manner inside of CI/CD pipelines.", 
+    "Description": "Secrets need to be managed in a secure manner inside of the CI/CD pipeline. The secrets needs to be stored either in a secure store inside the pipeline or externally in Azure Key Vault. When deploying application infrastructure (e.g. with Azure Resource Manager or Terraform), credentials and keys should be generated during the process, stored directly in Key Vault and referenced by deployed resources. Hard-coded credentials should be avoided."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

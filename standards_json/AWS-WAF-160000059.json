@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000059",
+  "compliance_control_uri": "AWS-WAF/0016/160000059",
+  "Control Name": "OPS 9.1 Identify key performance indicators",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Identify key performance indicators (KPIs) based on desired business (for example, new features delivered) and customer outcomes (for example, customer support cases). Evaluate KPIs to determine operations success.",
+  "control_attributes": {
+    "Control": "OPS 9.1 Identify key performance indicators",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_define_ops_kpis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000205", 
+  "control_attributes": {
+    "Control": "AC-18 (1) AUTHENTICATION AND ENCRYPTION", 
+    "control_description": "The information system protects wireless access to the system using authentication of [Selection (one or more): users; devices] and encryption.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces information-sharing decisions by authorized users based on access authorizations of sharing partners and access restrictions on information to be shared."
+  }, 
+  "Control Statement": "The information system protects wireless access to the system using authentication of [Selection (one or more): users; devices] and encryption.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-18 (1) AUTHENTICATION AND ENCRYPTION", 
+  "compliance_control_number": "600000205"
+}

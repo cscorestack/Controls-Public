@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000137", 
+  "compliance_control_uri": "Azure-WAF/0015/150000137", 
+  "Control Name": "2.9.7 Capacity utilization is monitored and used to forecast future growth", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is capacity utilization monitored and used to forecast future growth?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.7 Capacity utilization is monitored and used to forecast future growth", 
+    "Description": "Is capacity utilization monitored and used to forecast future growth?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

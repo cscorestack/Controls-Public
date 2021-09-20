@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000274", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000274", 
+  "Control Name": "POWER EQUIPMENT AND CABLING", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization protects power equipment and power cabling for the information system from damage and destruction.Supplemental Guidance:  Organizations determine the types of protection necessary for power equipment and cabling employed at different locations both internal and external to organizational facilities and environments of operation. This includes, for example, generators and power cabling outside of buildings, internal cabling and uninterruptable power sources within an office or data center, and power sources for self-contained entities such as vehicles and satellites. Related control: PE-4.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization protects power equipment and power cabling for the information system from damage and destruction.Supplemental Guidance:  Organizations determine the types of protection necessary for power equipment and cabling employed at different locations both internal and external to organizational facilities and environments of operation. This includes, for example, generators and power cabling outside of buildings, internal cabling and uninterruptable power sources within an office or data center, and power sources for self-contained entities such as vehicles and satellites. Related control: PE-4.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-09", 
+    "CNTL NO": "PE-9", 
+    "AdditionalReq": " ", 
+    "Control Name": "POWER EQUIPMENT AND CABLING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

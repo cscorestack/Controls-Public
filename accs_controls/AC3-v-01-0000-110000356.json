@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000356",
+  "compliance_control_uri": "AC3-v-01/0000/110000356",
+  "Control Name": "IA-9 SERVICE IDENTIFICATION AND AUTHENTICATION",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization identifies and authenticates [Assignment: organization-defined information system services] using [Assignment: organization-defined security safeguards].",
+  "control_attributes": {
+    "Control Name": "IA-9 SERVICE IDENTIFICATION AND AUTHENTICATION",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization identifies and authenticates [Assignment: organization-defined information system services] using [Assignment: organization-defined security safeguards]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000405",
+      "ISO/0001/100000095",
+      "CIS-Azure/0003/300000108",
+      "CIS-Azure/0003/300000110",
+      "CIS-Azure/0003/300000111",
+      "CIS-GCP/0014/140000006",
+      "SOC2/0017/1700000116"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ytre",
+        "policy_name": "GCP_Audit_Token_Levels_For_Service_Account",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

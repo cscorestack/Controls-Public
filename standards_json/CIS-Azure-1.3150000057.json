@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000057", 
+  "compliance_control_uri": "CIS-Azure/0015/150000057", 
+  "Control Name": "4.2.5 Ensure that VA setting 'Also send email notifications to admins and subscription owners' is set for a SQL server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable Vulnerability Assessment (VA) setting 'Also send email notifications to admins and subscription owners'.", 
+  "control_attributes": {
+    "Control": "4.2.5 Ensure that VA setting 'Also send email notifications to admins and subscription owners' is set for a SQL server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable Vulnerability Assessment (VA) setting 'Also send email notifications to admins and subscription owners'."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

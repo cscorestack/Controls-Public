@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000072", 
+  "compliance_control_uri": "CIS-Azure/0015/150000072", 
+  "Control Name": "5.1.5 Ensure that logging for Azure KeyVault is 'Enabled'", 
+  "Control Family": "5 Logging and Monitoring", 
+  "Control Statement": "Enable AuditEvent logging for key vault instances to ensure interactions with key vaults are logged and available.", 
+  "control_attributes": {
+    "Control": "5.1.5 Ensure that logging for Azure KeyVault is 'Enabled'", 
+    "Control_Clause": "5 Logging and Monitoring", 
+    "description": "Enable AuditEvent logging for key vault instances to ensure interactions with key vaults are logged and available."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

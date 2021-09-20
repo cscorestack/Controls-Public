@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000195",
+  "compliance_control_uri": "AC3-v-01/0000/110000195",
+  "Control Name": "CA-7 (1) INDEPENDENT ASSESSMENT",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization employs assessors or assessment teams with [Assignment: organization-defined level of independence] to monitor the security controls in the information system on an ongoing basis.",
+  "control_attributes": {
+    "Control Name": "CA-7 (1) INDEPENDENT ASSESSMENT",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization employs assessors or assessment teams with [Assignment: organization-defined level of independence] to monitor the security controls in the information system on an ongoing basis."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000025",
+      "Fedramp-Control-Moderate/0010/1000000079",
+      "Fedramp-Control-High/0009/900000104",
+      "AWS-WAF/0016/160000113",
+      "CIS-Azure/0003/300000003",
+      "CIS-Azure/0003/300000008",
+      "SOC2/0017/1700000093"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000239",
+  "compliance_control_uri": "SOC2/0017/1700000239",
+  "Control Name": "Distributes Output Only to Intended Parties—Output is distributed or made available only to intended parties.",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Distributes Output Only to Intended Parties—Output is distributed or made available only to intended parties.",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.4 The entity implements policies and procedures to make available or deliver output completely, accurately, and timely in accordance with specifications to meet the entity’s objectives.",
+    "ControlNo": "PI1.4.2",
+    "TrustID": "PI1.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

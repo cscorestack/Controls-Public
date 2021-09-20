@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000054", 
+  "control_attributes": {
+    "Control": "SC-12 (1) AVAILABILITY", 
+    "control_description": "The organization maintains availability of information in the event of the loss of cryptographic keys by users.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs automated mechanisms [Assignment: organization-defined frequency] to determine the state of information system components with regard to flaw remediation."
+  }, 
+  "Control Statement": "The organization maintains availability of information in the event of the loss of cryptographic keys by users.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-12 (1) AVAILABILITY", 
+  "compliance_control_number": "600000054"
+}

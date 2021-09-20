@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000018", 
+  "compliance_control_uri": "CIS-Azure/0015/150000018", 
+  "Control Name": "1.18 Ensure that 'Owners can manage group membership requests in the Access Panel' is set to 'No'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Restrict security group management to administrators only", 
+  "control_attributes": {
+    "Control": "1.18 Ensure that 'Owners can manage group membership requests in the Access Panel' is set to 'No'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Restrict security group management to administrators only"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

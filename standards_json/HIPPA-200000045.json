@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000045", 
+  "compliance_control_uri": "HIPAA/0002/200000045", 
+  "Control Name": "Information Access Management  Access Authorization - 164.308(a)(4)(ii)(B)", 
+  "Control Family": "Information Access Management", 
+  "Control Statement": "Implement policies and procedures for granting access to electronic protected health information, As one illustrative example, through access to a workstation, transaction, program, process, or other mechanism.", 
+  "control_attributes": {
+    "Control": "Information Access Management  Access Authorization - 164.308(a)(4)(ii)(B)", 
+    "Security_Category": "Information Access Management", 
+    "Control_description": "Implement policies and procedures for granting access to electronic protected health information, As one illustrative example, through access to a workstation, transaction, program, process, or other mechanism."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

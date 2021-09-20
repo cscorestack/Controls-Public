@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000372", 
+  "compliance_control_uri": "Azure-WAF/0015/150000372", 
+  "Control Name": "4.10.3 Communication to Azure PaaS services secured using Virtual Network Service Endpoints or Private Link.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is communication to Azure PaaS services secured by using VNet Service Endpoints or Private Link?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.3 Communication to Azure PaaS services secured using Virtual Network Service Endpoints or Private Link.", 
+    "Description": "Is communication to Azure PaaS services secured by using VNet Service Endpoints or Private Link?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

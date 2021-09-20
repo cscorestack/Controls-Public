@@ -1,0 +1,113 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000257",
+  "compliance_control_uri": "AC3-v-01/0000/110000257",
+  "Control Name": "CP-10 INFORMATION SYSTEM RECOVERY AND RECONSTITUTION",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization provides for the recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure.",
+  "control_attributes": {
+    "Control Name": "CP-10 INFORMATION SYSTEM RECOVERY AND RECONSTITUTION",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization provides for the recovery and reconstitution of the information system to a known state after a disruption, compromise, or failure."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application, Databases, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Databases/DynamoDB",
+      "service_resource": "AWS/Databases/DynamoDB/Table"
+    },
+    {
+      "service_resource_type": "AWS/Databases/ElastiCache",
+      "service_resource": "AWS/Databases/ElastiCache/Cache_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Databases/ElastiCache",
+      "service_resource": "AWS/Databases/ElastiCache/Cache_ParameterGroups"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPN",
+      "service_resource": "AWS/Network/VPN/Site-to-Site_VPN_Connections"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Volumes"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EFS",
+      "service_resource": "AWS/Storage/EFS/FileSystem"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Sites"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000353",
+      "ISO-27001/0011/1100000104",
+      "Fedramp-Control-Moderate/0010/1000000130",
+      "Fedramp-Control-High/0009/900000177",
+      "HIPAA/0002/200000021",
+      "HIPAA/0002/200000022"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000247", 
+  "compliance_control_uri": "Azure-WAF/0015/150000247", 
+  "Control Name": "3.5.3 You are using authentication/token verification offloading.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Like SSL offloading, authentication/token verification offloading on an appliance can reduce taxation on the server. Additionally, authentication verification offloading can greatly reduce development complication as developers no longer need to worry with the complications of SAML or OAuth tokens and, instead, can focus specifically on the business logic.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.3 You are using authentication/token verification offloading.", 
+    "Description": "Like SSL offloading, authentication/token verification offloading on an appliance can reduce taxation on the server. Additionally, authentication verification offloading can greatly reduce development complication as developers no longer need to worry with the complications of SAML or OAuth tokens and, instead, can focus specifically on the business logic."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

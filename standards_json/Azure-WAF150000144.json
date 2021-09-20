@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000144", 
+  "compliance_control_uri": "Azure-WAF/0015/150000144", 
+  "Control Name": "2.10.7 The application uses Azure Managed Identities", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Does the application use Managed Identities?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.7 The application uses Azure Managed Identities", 
+    "Description": "Does the application use Managed Identities?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000330", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000330", 
+  "Control Name": "EXTERNAL INFORMATION SYSTEMS | RISK ASSESSMENTS /ORGANIZATIONAL APPROVALS", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization: (a)   Conducts an organizational assessment of risk prior to the acquisition or outsourcing of dedicated information security services; and (b)   Ensures that the acquisition or outsourcing of dedicated information security services is approved by [Assignment: organization-defined personnel or roles].Supplemental Guidance:  Dedicated information security services include, for example, incident monitoring, analysis and response, operation of information security-related devices such as firewalls, or key management services. Related controls: CA-6, RA-3.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization: (a)   Conducts an organizational assessment of risk prior to the acquisition or outsourcing of dedicated information security services; and (b)   Ensures that the acquisition or outsourcing of dedicated information security services is approved by [Assignment: organization-defined personnel or roles].Supplemental Guidance:  Dedicated information security services include, for example, incident monitoring, analysis and response, operation of information security-related devices such as firewalls, or key management services. Related controls: CA-6, RA-3.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SA-09 (01)", 
+    "CNTL NO": "SA-9 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "EXTERNAL INFORMATION SYSTEMS | RISK ASSESSMENTS /ORGANIZATIONAL APPROVALS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

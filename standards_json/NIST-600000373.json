@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000373", 
+  "control_attributes": {
+    "Control": "IA-3 (3) DYNAMIC ADDRESS ALLOCATION", 
+    "control_description": "The organization: (a) Standardizes dynamic address allocation lease information and the lease duration assigned to devices in accordance with [Assignment: organization-defined lease information and lease duration]; and(b) Audits lease information when assigned to a device.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system, for password-based authentication:"
+  }, 
+  "Control Statement": "The organization: (a) Standardizes dynamic address allocation lease information and the lease duration assigned to devices in accordance with [Assignment: organization-defined lease information and lease duration]; and(b) Audits lease information when assigned to a device.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-3 (3) DYNAMIC ADDRESS ALLOCATION", 
+  "compliance_control_number": "600000373"
+}

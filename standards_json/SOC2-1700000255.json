@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000255",
+  "compliance_control_uri": "SOC2/0017/1700000255",
+  "Control Name": "Informs Data Subjects When Additional Information Is Acquired—Data subjects are informed if the entity develops or acquires additional information about them for its use. ",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Informs Data Subjects When Additional Information Is Acquired—Data subjects are informed if the entity develops or acquires additional information about them for its use. ",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P3.1 Personal information is collected consistent with the entity’s objectives related to privacy.",
+    "ControlNo": "P3.1.4",
+    "TrustID": "P3.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000102", 
+  "control_attributes": {
+    "Control": "AC-6 LEAST PRIVILEGE", 
+    "control_description": "The organization employs the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability for authorized users to select a user session to capture/record or view/hear."
+  }, 
+  "Control Statement": "The organization employs the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 LEAST PRIVILEGE", 
+  "compliance_control_number": "600000102"
+}

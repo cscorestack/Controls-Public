@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000254", 
+  "compliance_control_uri": "Azure-WAF/0015/150000254", 
+  "Control Name": "3.6.3 Design for eventual consistency.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Eventual consistency improves scalability by reducing or removing the time needed to synchronize related data partitioned across multiple stores.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.3 Design for eventual consistency.", 
+    "Description": "Eventual consistency improves scalability by reducing or removing the time needed to synchronize related data partitioned across multiple stores."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

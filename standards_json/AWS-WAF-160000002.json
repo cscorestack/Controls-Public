@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000002",
+  "compliance_control_uri": "AWS-WAF/0016/160000002",
+  "Control Name": "OPS 1.2 Evaluate internal customer needs",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Involve key stakeholders, including business, development, and operations teams, when determining where to focus eﬀorts on internal customer needs. This will ensure that you have a thorough understanding of the operations support that is required to achieve business outcomes.",
+  "control_attributes": {
+    "Control": "OPS 1.2 Evaluate internal customer needs",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_int_cust_needs"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

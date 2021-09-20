@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000772", 
+  "control_attributes": {
+    "Control": "SI-4 (19) INDIVIDUALS POSING GREATER RISK", 
+    "control_description": "The organization implements [Assignment: organization-defined additional monitoring] of individuals who have been identified by [Assignment: organization-defined sources] as posing an increased level of risk.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements [Assignment: organization-defined additional monitoring] of individuals during [Assignment: organization-defined probationary period]."
+  }, 
+  "Control Statement": "The organization implements [Assignment: organization-defined additional monitoring] of individuals who have been identified by [Assignment: organization-defined sources] as posing an increased level of risk.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (19) INDIVIDUALS POSING GREATER RISK", 
+  "compliance_control_number": "600000772"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000277", 
+  "compliance_control_uri": "Azure-WAF/0015/150000277", 
+  "Control Name": "3.9.2 A health model is used to qualify what 'healthy' and 'unhealthy' states represent for the application.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "A holistic application health model should be used to quantify what 'healthy' and 'unhealthy' states represent across all application components. It is highly recommended that a 'traffic light' model be used to indicate a green/healthy state when key non-functional requirements and targets are fully satisfied and resources are optimally utilized, e.g. 95% of requests are processed in <= 500ms with Azure Kubernetes Service (AKS) node utilization at x%.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.2 A health model is used to qualify what 'healthy' and 'unhealthy' states represent for the application.", 
+    "Description": "A holistic application health model should be used to quantify what 'healthy' and 'unhealthy' states represent across all application components. It is highly recommended that a 'traffic light' model be used to indicate a green/healthy state when key non-functional requirements and targets are fully satisfied and resources are optimally utilized, e.g. 95% of requests are processed in <= 500ms with Azure Kubernetes Service (AKS) node utilization at x%."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

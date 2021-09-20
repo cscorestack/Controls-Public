@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000325", 
+  "compliance_control_uri": "Azure-WAF/0015/150000325", 
+  "Control Name": "4.5.1 Application processes are stateless.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are all processes stateless with application state externalised?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.1 Application processes are stateless.", 
+    "Description": "Are all processes stateless with application state externalised?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

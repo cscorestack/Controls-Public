@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000376", 
+  "control_attributes": {
+    "Control": "IA-4 (2) SUPERVISOR AUTHORIZATION", 
+    "control_description": "The organization requires that the registration process to receive an individual identifier includes supervisor authorization.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy [Assignment: organization-defined requirements]."
+  }, 
+  "Control Statement": "The organization requires that the registration process to receive an individual identifier includes supervisor authorization.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-4 (2) SUPERVISOR AUTHORIZATION", 
+  "compliance_control_number": "600000376"
+}

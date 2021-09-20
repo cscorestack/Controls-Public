@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000801", 
+  "control_attributes": {
+    "Control": "SI-10 (4) REVIEW / TIMING INTERACTIONS", 
+    "control_description": "The organization accounts for timing interactions among information system components in determining appropriate responses for invalid inputs.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization accounts for timing interactions among information system components in determining appropriate responses for invalid inputs."
+  }, 
+  "Control Statement": "The organization accounts for timing interactions among information system components in determining appropriate responses for invalid inputs.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-10 (4) REVIEW / TIMING INTERACTIONS", 
+  "compliance_control_number": "600000801"
+}

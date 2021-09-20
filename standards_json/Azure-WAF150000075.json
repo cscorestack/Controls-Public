@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000075", 
+  "compliance_control_uri": "Azure-WAF/0015/150000075", 
+  "Control Name": "2.1.1 Development and operations processes are connected to a Service Management framework like ISO or ITIL", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "ITIL is a set of detailed IT service management (ITSM) practices that can complement DevOps by providing support for products and services built and deployed using DevOps practices.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.1 Have you identified and planned out the roles and responsibilities to ensure your workload follows operational excellence best practices?", 
+    "Control": "2.1.1 Development and operations processes are connected to a Service Management framework like ISO or ITIL", 
+    "Description": "ITIL is a set of detailed IT service management (ITSM) practices that can complement DevOps by providing support for products and services built and deployed using DevOps practices."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

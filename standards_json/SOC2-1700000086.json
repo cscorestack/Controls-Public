@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000086",
+  "compliance_control_uri": "SOC2/0017/1700000086",
+  "Control Name": "Assess Changes in Vendor and Business Partner Relationships—The risk identification process considers changes in vendor and business partner relationships. ",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assess Changes in Vendor and Business Partner Relationships—The risk identification process considers changes in vendor and business partner relationships. ",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.4 COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control.",
+    "ControlNo": "CC3.4.5",
+    "TrustID": "CC3.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

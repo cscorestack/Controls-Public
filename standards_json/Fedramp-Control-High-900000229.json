@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000229", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000229", 
+  "Control Name": "INCIDENT RESPONSE ASSISTANCE | AUTOMATION SUPPORT FOR AVAILABILITY OF INFORMATION / SUPPORT", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs automated mechanisms to increase the availability of incident response- related information and support.Supplemental Guidance:  Automated mechanisms can provide a push and/or pull capability for users to obtain incident response assistance. For example, individuals might have access to a website to query the assistance capability, or conversely, the assistance capability may have the ability to proactively send information to users (general distribution or targeted) as part of increasing understanding of current response capabilities and support.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs automated mechanisms to increase the availability of incident response- related information and support.Supplemental Guidance:  Automated mechanisms can provide a push and/or pull capability for users to obtain incident response assistance. For example, individuals might have access to a website to query the assistance capability, or conversely, the assistance capability may have the ability to proactively send information to users (general distribution or targeted) as part of increasing understanding of current response capabilities and support.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-07 (01)", 
+    "CNTL NO": "IR-7 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT RESPONSE ASSISTANCE | AUTOMATION SUPPORT FOR AVAILABILITY OF INFORMATION / SUPPORT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

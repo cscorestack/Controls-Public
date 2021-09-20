@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000053", 
+  "compliance_control_uri": "ISO/0001/100000114", 
+  "Control Name": "11.2.6 Security of equipment and assets off-premises", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Security shall be applied to off-site assets taking into account the different risks of working outside the organization\\u2019s premises.", 
+  "control_attributes": {
+    "Control_Objective": "11.2.6 Security of equipment and assets off-premises", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.2 - Equipment", 
+    "description": "Security shall be applied to off-site assets taking into account the different risks of working outside the organization\\u2019s premises."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

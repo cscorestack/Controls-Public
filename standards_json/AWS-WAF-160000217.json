@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000217",
+  "compliance_control_uri": "AWS-WAF/0016/160000217",
+  "Control Name": "PERF 3.2 Evaluate available conﬁguration options",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Evaluate the various characteristics and conﬁguration options and how they relate to storage. Understand where and how to use provisioned IOPS, SSDs, magnetic storage, object storage, archival storage, or ephemeral storage to optimize storage space and performance for your workload.",
+  "control_attributes": {
+    "Control": "PERF 3.2 Evaluate available conﬁguration options",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your storage solution?",
+    "question_id": "right-storage-solution",
+    "choice_id": "perf_right_storage_solution_evaluated_options"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

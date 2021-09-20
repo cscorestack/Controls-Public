@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000014", 
+  "compliance_control_uri": "Azure-WAF/0015/150000014", 
+  "Control Name": "1.2.5 Every environment has a target end-date.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "If your workload or environment isn't needed then you should be able to decommission it. The same should occur if you are introducing a new service or new feature.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.5 Every environment has a target end-date.", 
+    "Description": "If your workload or environment isn't needed then you should be able to decommission it. The same should occur if you are introducing a new service or new feature."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

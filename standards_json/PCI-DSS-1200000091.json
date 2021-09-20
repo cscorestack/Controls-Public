@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000091", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000091", 
+  "Control Name": "6.5.8 Address common coding vulnerabilities in software-development processes as follows:\\n- Train developers in secure coding techniques, including how to avoid common coding vulnerabilities, and understanding how sensitive data is handled in memory.\\n- Develop applications based on secure coding guidelines. \\nVulnerabilities include:\\nImproper access control (such as insecure direct object references, failure to restrict URL access, directory traversal, and failure to restrict user access to functions).", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.5.8 Address common coding vulnerabilities in software-development processes as follows:\\n- Train developers in secure coding techniques, including how to avoid common coding vulnerabilities, and understanding how sensitive data is handled in memory.\\n- Develop applications based on secure coding guidelines. \\nVulnerabilities include:\\nImproper access control (such as insecure direct object references, failure to restrict URL access, directory traversal, and failure to restrict user access to functions).", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

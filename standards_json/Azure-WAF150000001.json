@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000001", 
+  "compliance_control_uri": "Azure-WAF/0015/150000001", 
+  "Control Name": "1.1.1 Cloud costs are being modelled for this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Modelling allows you to identify opportunities to reduce overall cost. Estimate and track costs, educate employees about the cloud and various pricing models and have appropriate governance regarding expenditure. Use cost management tools to plan and track costs, tag resources and track that back to costs.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.1 How are you modeling cloud costs of this workload?", 
+    "Control": "1.1.1 Cloud costs are being modelled for this workload.", 
+    "Description": "Modelling allows you to identify opportunities to reduce overall cost. Estimate and track costs, educate employees about the cloud and various pricing models and have appropriate governance regarding expenditure. Use cost management tools to plan and track costs, tag resources and track that back to costs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000574", 
+  "control_attributes": {
+    "Control": "SA-4 (5) SYSTEM / COMPONENT / SERVICE CONFIGURATIONS", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to:", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-4 (5) SYSTEM / COMPONENT / SERVICE CONFIGURATIONS", 
+  "compliance_control_number": "600000574"
+}

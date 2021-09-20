@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000090", 
+  "control_attributes": {
+    "Control": "IA-3 DEVICE IDENTIFICATION AND AUTHENTICATION", 
+    "control_description": "The information system uniquely identifies and authenticates [Assignment: organization-defined specific and/or types of devices] before establishing a [Selection (one or more): local; remote; network] connection.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system terminates the network connection associated with a communications session at the end of the session or after [Assignment: organization-defined time period] of inactivity."
+  }, 
+  "Control Statement": "The information system uniquely identifies and authenticates [Assignment: organization-defined specific and/or types of devices] before establishing a [Selection (one or more): local; remote; network] connection.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-3 DEVICE IDENTIFICATION AND AUTHENTICATION", 
+  "compliance_control_number": "600000090"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000275",
+  "compliance_control_uri": "SOC2/0017/1700000275",
+  "Control Name": "Creates and Retains Record of Authorized Disclosures—The entity creates and maintains a record of authorized disclosures of personal information that is complete, accurate, and timely. ",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Creates and Retains Record of Authorized Disclosures—The entity creates and maintains a record of authorized disclosures of personal information that is complete, accurate, and timely. ",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.2 The entity creates and retains a complete, accurate, and timely record of authorized disclosures of personal information to meet the entity’s objectives related to privacy",
+    "ControlNo": "P6.2.1",
+    "TrustID": "P6.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

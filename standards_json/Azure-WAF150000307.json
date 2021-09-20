@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000307", 
+  "compliance_control_uri": "Azure-WAF/0015/150000307", 
+  "Control Name": "4.2.5 Planned for component level faults to minimize application downtime.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you validated the application can operate with reduced functionality or degraded performance in the presence of a component failure.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.5 Planned for component level faults to minimize application downtime.", 
+    "Description": "Have you validated the application can operate with reduced functionality or degraded performance in the presence of a component failure."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000044", 
+  "control_attributes": {
+    "Control": "IR-6 (1) AUTOMATED REPORTING", 
+    "control_description": "The organization employs automated mechanisms to assist in the reporting of security incidents.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs vulnerability scanning tools that include the capability to readily update the information system vulnerabilities to be scanned."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to assist in the reporting of security incidents.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-6 (1) AUTOMATED REPORTING", 
+  "compliance_control_number": "600000044"
+}

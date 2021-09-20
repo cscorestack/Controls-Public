@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000366", 
+  "compliance_control_uri": "Azure-WAF/0015/150000366", 
+  "Control Name": "4.9.8 Calculated target data sizes and associated growth rates per scenario and component.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are target data sizes and associated growth rates calculated per scenario/services?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.8 Calculated target data sizes and associated growth rates per scenario and component.", 
+    "Description": "Are target data sizes and associated growth rates calculated per scenario/services?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

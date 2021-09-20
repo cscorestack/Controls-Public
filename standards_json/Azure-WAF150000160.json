@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000160", 
+  "compliance_control_uri": "Azure-WAF/0015/150000160", 
+  "Control Name": "2.12.4 The process to deploy infrastructure is automated", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the process to deploy infrastructure automated?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.12 What operational considerations are you making regarding the deployment of your infrastructure?", 
+    "Control": "2.12.4 The process to deploy infrastructure is automated", 
+    "Description": "Is the process to deploy infrastructure automated?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

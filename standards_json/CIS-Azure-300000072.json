@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000072", 
+  "compliance_control_uri": "CIS-Azure/0003/300000072", 
+  "Control Name": "3.6. Ensure that 'Public access level' is set to Private for blob containers", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "It is recommended not to provide anonymous access to blob containers until, and unless, it is strongly desired. A shared access signature token should be used for providing controlled and timed access to blob containers.", 
+  "control_attributes": {
+    "Control": "3.6. Ensure that 'Public access level' is set to Private for blob containers", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "It is recommended not to provide anonymous access to blob containers until, and unless, it is strongly desired. A shared access signature token should be used for providing controlled and timed access to blob containers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

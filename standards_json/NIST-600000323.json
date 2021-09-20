@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000323", 
+  "control_attributes": {
+    "Control": "CP-2 (8) IDENTIFY CRITICAL ASSETS", 
+    "control_description": "The organization identifies critical information system assets supporting essential missions and business functions.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization identifies an alternate storage site that is separated from the primary storage site to reduce susceptibility to the same threats."
+  }, 
+  "Control Statement": "The organization identifies critical information system assets supporting essential missions and business functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (8) IDENTIFY CRITICAL ASSETS", 
+  "compliance_control_number": "600000323"
+}

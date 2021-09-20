@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000014", 
+  "compliance_control_uri": "HIPAA/0002/200000014", 
+  "Control Name": "Security Management Process Information System Activity Review - 164.308(a)(1)(ii)(D)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports.", 
+  "control_attributes": {
+    "Control": "Security Management Process Information System Activity Review - 164.308(a)(1)(ii)(D)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

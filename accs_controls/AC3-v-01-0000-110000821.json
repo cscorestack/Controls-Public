@@ -1,0 +1,36 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000821",
+  "compliance_control_uri": "AC3-v-01/0000/110000821",
+  "Control Name": "SI-7 (9) VERIFY BOOT PROCESS",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system verifies the integrity of the boot process of [Assignment: organization-defined devices].",
+  "control_attributes": {
+    "Control Name": "SI-7 (9) VERIFY BOOT PROCESS",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system verifies the integrity of the boot process of [Assignment: organization-defined devices]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000113", 
+  "compliance_control_uri": "Azure-WAF/0015/150000113", 
+  "Control Name": "2.6.6 Long-term trends are analysed to predict operational issues before they occur", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are long-term trends analysed to predict operational issues before they occur?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.6 How do you visualize workload data and then alert relevant teams when issues occur?", 
+    "Control": "2.6.6 Long-term trends are analysed to predict operational issues before they occur", 
+    "Description": "Are long-term trends analysed to predict operational issues before they occur?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

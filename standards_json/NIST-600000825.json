@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000825", 
+  "control_attributes": {
+    "Control": "PM-15 CONTACTS WITH SECURITY GROUPS AND ASSOCIATIONS", 
+    "control_description": "The organization establishes and institutionalizes contact with selected groups and associations within the security community:", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization establishes and institutionalizes contact with selected groups and associations within the security community:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-15 CONTACTS WITH SECURITY GROUPS AND ASSOCIATIONS", 
+  "compliance_control_number": "600000825"
+}

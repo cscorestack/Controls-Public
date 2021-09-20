@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000296", 
+  "control_attributes": {
+    "Control": "CM-5 (6) LIMIT LIBRARY PRIVILEGES", 
+    "control_description": "The organization limits privileges to change software resident within software libraries.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides a centralized repository for the inventory of information system components."
+  }, 
+  "Control Statement": "The organization limits privileges to change software resident within software libraries.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-5 (6) LIMIT LIBRARY PRIVILEGES", 
+  "compliance_control_number": "600000296"
+}

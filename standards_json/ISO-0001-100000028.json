@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000028", 
+  "compliance_control_uri": "ISO/0001/100000021", 
+  "Control Name": "9.2.1 User registration and deregistration", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "There shall be a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services", 
+  "control_attributes": {
+    "Control_Objective": "9.2.1 User registration and deregistration", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.2 User access management", 
+    "description": "There shall be a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000036", 
+  "compliance_control_uri": "CIS-AWS/0007/700000036", 
+  "Control Name": "3.11 Ensure that Object-level logging for read events is enabled for S3 bucket", 
+  "Control Family": "Logging", 
+  "Control Statement": "S3 object-level API operations such as GetObject, DeleteObject, and PutObject are called data events. By default, CloudTrail trails don't log data events and so it is recommended to enable Object-level logging for S3 buckets.", 
+  "control_attributes": {
+    "Control": "3.11 Ensure that Object-level logging for read events is enabled for S3 bucket", 
+    "Category": "Logging", 
+    "Control_description": "S3 object-level API operations such as GetObject, DeleteObject, and PutObject are called data events. By default, CloudTrail trails don't log data events and so it is recommended to enable Object-level logging for S3 buckets."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

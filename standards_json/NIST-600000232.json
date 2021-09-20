@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000232", 
+  "control_attributes": {
+    "Control": "AU-3 (1) ADDITIONAL AUDIT INFORMATION", 
+    "control_description": "The information system generates audit records containing the following additional information: [Assignment: organization-defined additional, more detailed information].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The information system generates audit records containing the following additional information: [Assignment: organization-defined additional, more detailed information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-3 (1) ADDITIONAL AUDIT INFORMATION", 
+  "compliance_control_number": "600000232"
+}

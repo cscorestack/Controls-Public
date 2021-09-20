@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000040", 
+  "compliance_control_uri": "CIS-Azure/0015/150000040", 
+  "Control Name": "3.2 Ensure that storage account access keys are periodically regenerated", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Regenerate storage account access keys periodically.", 
+  "control_attributes": {
+    "Control": "3.2 Ensure that storage account access keys are periodically regenerated", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Regenerate storage account access keys periodically."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

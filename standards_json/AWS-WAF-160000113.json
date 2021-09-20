@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000113",
+  "compliance_control_uri": "AWS-WAF/0016/160000113",
+  "Control Name": "SEC 6.1 Perform vulnerability management",
+  "Control Family": "Security",
+  "Control Statement": "Frequently scan and patch for vulnerabilities in your code, dependencies, and in your infrastructure to help protect against new threats.",
+  "control_attributes": {
+    "Control": "SEC 6.1 Perform vulnerability management",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_vulnerability_management"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

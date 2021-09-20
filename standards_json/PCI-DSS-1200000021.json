@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000021", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000021", 
+  "Control Name": "1.4 Install personal firewall software on any mobile and/or employee-owned devices that connect to the Internet when outside the network (for example, laptops used by employees), and which are also used to access the network. ", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "1.4 Install personal firewall software on any mobile and/or employee-owned devices that connect to the Internet when outside the network (for example, laptops used by employees), and which are also used to access the network. ", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

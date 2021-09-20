@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000413", 
+  "compliance_control_uri": "Azure-WAF/0015/150000413", 
+  "Control Name": "5.3.4 Security updates to VMs are applied in a timely manner, and strong passwords exist on those VMs for any local administrative accounts that may be in use.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Attackers constantly scan public cloud IP ranges for open management ports and attempt \"easy\" attacks like common passwords and unpatched vulnerabilities.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.4 Security updates to VMs are applied in a timely manner, and strong passwords exist on those VMs for any local administrative accounts that may be in use.", 
+    "Description": "Attackers constantly scan public cloud IP ranges for open management ports and attempt \"easy\" attacks like common passwords and unpatched vulnerabilities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

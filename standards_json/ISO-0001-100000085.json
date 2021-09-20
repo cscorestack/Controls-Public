@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000085", 
+  "compliance_control_uri": "ISO/0001/100000060", 
+  "Control Name": "14.2.5 Secure system engineering principles", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Confirm that secure system engineering principles have been documented and incorporated within the project governance framework/methods", 
+  "control_attributes": {
+    "Control_Objective": "14.2.5 Secure system engineering principles", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Confirm that secure system engineering principles have been documented and incorporated within the project governance framework/methods"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

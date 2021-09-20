@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000261",
+  "compliance_control_uri": "SOC2/0017/1700000261",
+  "Control Name": "Captures, Identifies, and Flags Requests for Deletion—Requests for deletion of personal information are captured, and information related to the requests is identified and flagged for destruction to meet the entity’s objectives related to privacy. ",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Captures, Identifies, and Flags Requests for Deletion—Requests for deletion of personal information are captured, and information related to the requests is identified and flagged for destruction to meet the entity’s objectives related to privacy. ",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P4.3 The entity securely disposes of personal information to meet the entity’s objectives related to privacy",
+    "ControlNo": "P4.3.1",
+    "TrustID": "P4.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

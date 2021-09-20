@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000616", 
+  "control_attributes": {
+    "Control": "SA-13 TRUSTWORTHINESS", 
+    "control_description": "The organization: a. Describes the trustworthiness required in the [Assignment: organization-defined information system, information system component, or information system service] supporting its critical missions/business functions; andb. Implements [Assignment: organization-defined assurance overlay] to achieve such trustworthiness.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that developers perform threat modeling and a vulnerability analysis for the information system at [Assignment: organization-defined breadth/depth] that:"
+  }, 
+  "Control Statement": "The organization: a. Describes the trustworthiness required in the [Assignment: organization-defined information system, information system component, or information system service] supporting its critical missions/business functions; andb. Implements [Assignment: organization-defined assurance overlay] to achieve such trustworthiness.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-13 TRUSTWORTHINESS", 
+  "compliance_control_number": "600000616"
+}

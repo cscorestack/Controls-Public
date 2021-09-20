@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000057", 
+  "compliance_control_uri": "ISO/0001/100000031", 
+  "Control Name": "12.1.1 Documented operational procedures", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Operating procedures shall be documented, maintained, and made available to all users who need them", 
+  "control_attributes": {
+    "Control_Objective": "12.1.1 Documented operational procedures", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.1 Operational procedures and responsibiities", 
+    "description": "Operating procedures shall be documented, maintained, and made available to all users who need them"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

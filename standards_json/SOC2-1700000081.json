@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000081",
+  "compliance_control_uri": "SOC2/0017/1700000081",
+  "Control Name": "Considers the Risks Related to the Use of IT and Access to Information—The assessment of fraud risks includes consideration of threats and vulnerabilities that arise specifically from the use of IT and access to information. ",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Considers the Risks Related to the Use of IT and Access to Information—The assessment of fraud risks includes consideration of threats and vulnerabilities that arise specifically from the use of IT and access to information. ",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.3 COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives",
+    "ControlNo": "CC3.3.5",
+    "TrustID": "CC3.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

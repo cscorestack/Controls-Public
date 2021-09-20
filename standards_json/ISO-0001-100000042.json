@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000042", 
+  "compliance_control_uri": "ISO/0001/100000103", 
+  "Control Name": "11.1.1 Physical security perimeter", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Security perimeters shall be defined and used to protect areas that contain either sensitive or critical information and information processing facilities.", 
+  "control_attributes": {
+    "Control_Objective": "11.1.1 Physical security perimeter", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.1 - Secure areas", 
+    "description": "Security perimeters shall be defined and used to protect areas that contain either sensitive or critical information and information processing facilities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

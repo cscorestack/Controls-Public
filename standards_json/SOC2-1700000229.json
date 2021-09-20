@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000229",
+  "compliance_control_uri": "SOC2/0017/1700000229",
+  "Control Name": "Identifies Information Specifications—The entity identifies information specifications required to support the use of products and services.  ",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Identifies Information Specifications—The entity identifies information specifications required to support the use of products and services.  ",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.1 The entity obtains or generates, uses, and communicates relevant, quality information regarding the objectives related to processing, including definitions of data processed and product and service specifications, to support the use of products and services.",
+    "ControlNo": "PI1.1.1",
+    "TrustID": "PI1.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

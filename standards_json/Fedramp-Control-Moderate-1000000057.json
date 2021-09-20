@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000057", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000057", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | PROCESS INTEGRATION", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization employs automated mechanisms to integrate audit review, analysis, and reporting processes to support organizational processes for investigation and response to suspicious activities.Supplemental Guidance:  Organizational processes benefiting from integrated audit review, analysis, and reporting include, for example, incident response, continuous monitoring, contingency planning, and Inspector General audits. Related controls: AU-12, PM-7.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization employs automated mechanisms to integrate audit review, analysis, and reporting processes to support organizational processes for investigation and response to suspicious activities.Supplemental Guidance:  Organizational processes benefiting from integrated audit review, analysis, and reporting include, for example, incident response, continuous monitoring, contingency planning, and Inspector General audits. Related controls: AU-12, PM-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AU-06 (01)", 
+    "CNTL NO": "AU-6 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | PROCESS INTEGRATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

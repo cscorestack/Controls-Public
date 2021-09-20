@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000923", 
+  "compliance_control_uri": "AC3-v-01/0000/110000923", 
+  "Control Name": "Ensure FTP deployments are disabled", 
+  "Control Family": "AppService", 
+  "Control Statement": "By default, Azure Functions, Web and API Services can be deployed over FTP. If FTP is required for an essential deployment workflow, FTPS should be required for FTP login for all App Service Apps and Functions.", 
+  "control_attributes": {
+    "Control Name": "Ensure FTP deployments are disabled", 
+    "Control Family": "AppService", 
+    "Control Statement": "By default, Azure Functions, Web and API Services can be deployed over FTP. If FTP is required for an essential deployment workflow, FTPS should be required for FTP login for all App Service Apps and Functions."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000110"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_WebApp_FTPS_Enforcement",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/Ixlxy",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

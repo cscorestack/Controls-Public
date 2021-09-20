@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000418", 
+  "control_attributes": {
+    "Control": "IR-4 (2) DYNAMIC RECONFIGURATION", 
+    "control_description": "The organization includes dynamic reconfiguration of [Assignment: organization-defined information system components] as part of the incident response capability.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization reports information system vulnerabilities associated with reported security incidents to [Assignment: organization-defined personnel or roles]."
+  }, 
+  "Control Statement": "The organization includes dynamic reconfiguration of [Assignment: organization-defined information system components] as part of the incident response capability.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 (2) DYNAMIC RECONFIGURATION", 
+  "compliance_control_number": "600000418"
+}

@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000513",
+  "compliance_control_uri": "AC3-v-01/0000/110000513",
+  "Control Name": "PM-8 CRITICAL INFRASTRUCTURE PLAN",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization addresses information security issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.",
+  "control_attributes": {
+    "Control Name": "PM-8 CRITICAL INFRASTRUCTURE PLAN",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization addresses information security issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000818",
+      "CIS-Azure/0003/300000037"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

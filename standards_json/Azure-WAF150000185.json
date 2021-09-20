@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000185", 
+  "compliance_control_uri": "Azure-WAF/0015/150000185", 
+  "Control Name": "2.15.7 There are tools and processes, like Azure Policy, in place to govern available services, enforce mandatory operational functionality and ensure compliance", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are tools and processes in place to govern available services, enforce mandatory operational functionality and ensure compliance?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.7 There are tools and processes, like Azure Policy, in place to govern available services, enforce mandatory operational functionality and ensure compliance", 
+    "Description": "Are tools and processes in place to govern available services, enforce mandatory operational functionality and ensure compliance?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

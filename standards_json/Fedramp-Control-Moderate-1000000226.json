@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000226", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000226", 
+  "Control Name": "POSITION RISK DESIGNATION", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization: a. Assigns a risk designation to all organizational positions; b. Establishes screening criteria for individuals filling those positions; and c. Reviews and updates position risk designations [Assignment: organization-defined frequency].Supplemental Guidance:  Position risk designations reflect Office of Personnel Management policy and guidance. Risk designations can guide and inform the types of authorizations individuals receive when accessing organizational information and information systems. Position screening criteria include explicit information security role appointment requirements (e.g., training, security clearances). Related controls: AT-3, PL-2, PS-3.Control Enhancements:  None.References:  5 C.F.R. 731.106(a).", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization: a. Assigns a risk designation to all organizational positions; b. Establishes screening criteria for individuals filling those positions; and c. Reviews and updates position risk designations [Assignment: organization-defined frequency].Supplemental Guidance:  Position risk designations reflect Office of Personnel Management policy and guidance. Risk designations can guide and inform the types of authorizations individuals receive when accessing organizational information and information systems. Position screening criteria include explicit information security role appointment requirements (e.g., training, security clearances). Related controls: AT-3, PL-2, PS-3.Control Enhancements:  None.References:  5 C.F.R. 731.106(a).", 
+    "SelectionParam": "PS-2 (c) [at least every three years] ", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-02", 
+    "CNTL NO": "PS-2", 
+    "AdditionalReq": "", 
+    "Control Name": "POSITION RISK DESIGNATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000177",
+  "compliance_control_uri": "SOC2/0017/1700000177",
+  "Control Name": "Determines Root Cause of the Event—The root cause of the event is determined. ",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Determines Root Cause of the Event—The root cause of the event is determined. ",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.5 The entity identifies, develops, and implements activities to recover from identified security incidents.",
+    "ControlNo": "CC7.5.3",
+    "TrustID": "CC7.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

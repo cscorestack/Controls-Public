@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000189",
+  "compliance_control_uri": "AWS-WAF/0016/160000189",
+  "Control Name": "REL 11.3 Automate healing on all layers",
+  "Control Family": "Reliability",
+  "Control Statement": "Upon detection of a failure, use automated capabilities to perform actions to remediate.",
+  "control_attributes": {
+    "Control": "REL 11.3 Automate healing on all layers",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to withstand component failures?",
+    "question_id": "withstand-component-failures",
+    "choice_id": "rel_withstand_component_failures_auto_healing_system"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

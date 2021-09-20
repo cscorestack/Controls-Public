@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000267",
+  "compliance_control_uri": "AC3-v-01/0000/110000267",
+  "Control Name": "CP-2 (7) COORDINATE  WITH EXTERNAL SERVICE PROVIDERS",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization coordinates its contingency plan with the contingency plans of external service providers to ensure that contingency requirements can be satisfied.",
+  "control_attributes": {
+    "Control Name": "CP-2 (7) COORDINATE  WITH EXTERNAL SERVICE PROVIDERS",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization coordinates its contingency plan with the contingency plans of external service providers to ensure that contingency requirements can be satisfied."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000082",
+      "ISO/0001/100000078",
+      "ISO/0001/100000003",
+      "NIST-SP800-53/0006/600000322",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000106"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

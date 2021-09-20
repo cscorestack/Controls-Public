@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000180", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000180", 
+  "Control Name": " Review the following at least daily: All security events Logs of all system components that store, process, or transmit CHD and/or SAD Logs of all critical system components\\n- Logs of all servers and system components that perform security functions (for example, firewalls, intrusion-detection systems/intrusion-prevention systems (IDS/IPS), authentication servers, e-commerce redirection servers, etc.).",
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": " Review the following at least daily: All security events Logs of all system components that store, process, or transmit CHD and/or SAD\\n- Logs of all critical system components\\n- Logs of all servers and system components that perform security functions (for example, firewalls, intrusion-detection systems/intrusion-prevention systems (IDS/IPS), authentication servers, e-commerce redirection servers, etc.).",
+    "Requirement": "10.6.1. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

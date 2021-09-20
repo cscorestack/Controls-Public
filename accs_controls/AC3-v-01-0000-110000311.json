@@ -1,0 +1,63 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000311",
+  "compliance_control_uri": "AC3-v-01/0000/110000311",
+  "Control Name": "IA-2 (4) LOCAL ACCESS TO NON-PRIVILEGED ACCOUNTS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The information system implements multifactor authentication for local access to non-privileged accounts.",
+  "control_attributes": {
+    "Control Name": "IA-2 (4) LOCAL ACCESS TO NON-PRIVILEGED ACCOUNTS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The information system implements multifactor authentication for local access to non-privileged accounts."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000362",
+      "ISO-27001/0011/1100000036",
+      "PCI-DSS/0012/1200000105",
+      "PCI-DSS/0012/1200000120",
+      "Fedramp-Control-High/0009/900000185",
+      "ISO/0001/100000095",
+      "AWS-WAF/0005/500000068",
+      "CIS-Azure/0003/300000002",
+      "CIS-GCP/0014/140000002",
+      "CIS-Azure/0015/150000002",
+      "PCI-DSS/0012/1200000122",
+      "CIS-AWS/0007/700000010",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_IAM_User_MFA_Enabled",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/a2QxW",
+        "is_deleted": false,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Audit_Accounts_Read_Permission_without_MFA",
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/awsqi",
+        "is_deleted": false,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

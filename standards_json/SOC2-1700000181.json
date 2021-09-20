@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000181",
+  "compliance_control_uri": "SOC2/0017/1700000181",
+  "Control Name": "Manages Changes Throughout the System Lifecycle—A process for managing system changes throughout the lifecycle of the system and its components (infrastructure, data, software and procedures) is used to support system availability and processing integrity. ",
+  "Control Family": "Change Management",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Manages Changes Throughout the System Lifecycle—A process for managing system changes throughout the lifecycle of the system and its components (infrastructure, data, software and procedures) is used to support system availability and processing integrity. ",
+    "Category": "Change Management",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC8.1 The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "ControlNo": "CC8.1.1",
+    "TrustID": "CC8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000228",
+  "compliance_control_uri": "AWS-WAF/0016/160000228",
+  "Control Name": "PERF 5.5 Choose network protocols to improve performance",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Make decisions about protocols for communication between systems and networks based on the impact to the workload’s performance.",
+  "control_attributes": {
+    "Control": "PERF 5.5 Choose network protocols to improve performance",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_protocols"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

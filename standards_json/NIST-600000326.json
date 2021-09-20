@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000326", 
+  "control_attributes": {
+    "Control": "CP-3 (2) AUTOMATED TRAINING ENVIRONMENTS", 
+    "control_description": "The organization employs automated mechanisms to provide a more thorough and realistic contingency training environment.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to provide a more thorough and realistic contingency training environment.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-3 (2) AUTOMATED TRAINING ENVIRONMENTS", 
+  "compliance_control_number": "600000326"
+}

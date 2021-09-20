@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000882", 
+  "compliance_control_uri": "AC3-v-01/0000/110000882", 
+  "Control Name": "Ensure default network access rule for Storage Accounts is set to deny", 
+  "Control Family": "Storage Accounts", 
+  "Control Statement": "Restricting default network access helps to provide a new layer of security, since storage accounts accept connections from clients on any network. To limit access to selected networks, the default action must be changed.", 
+  "control_attributes": {
+    "Control Name": "Ensure default network access rule for Storage Accounts is set to deny", 
+    "Control Family": "Storage Accounts", 
+    "Control Statement": "Restricting default network access helps to provide a new layer of security, since storage accounts accept connections from clients on any network. To limit access to selected networks, the default action must be changed."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Network", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": ",Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000044"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_Unrestricted_Network_Access_Storage_Account",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/taom7",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

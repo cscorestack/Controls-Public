@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000106", 
+  "compliance_control_uri": "Azure-WAF/0015/150000106", 
+  "Control Name": "2.5.6 There are no known gaps in application observability that led to missed incidents and/or false positives.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What you cannot see, you cannot measure. What you cannot measure, you cannot improve.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.6 There are no known gaps in application observability that led to missed incidents and/or false positives.", 
+    "Description": "What you cannot see, you cannot measure. What you cannot measure, you cannot improve."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

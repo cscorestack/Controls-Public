@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000165", 
+  "compliance_control_uri": "Azure-WAF/0015/150000165", 
+  "Control Name": "2.13.3 There is an playbook to deploy emergency patches as needed.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Emergency patches might contain critical security updates that cannot wait till the next maintenance or release window", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.13 How are you managing and distributing your patches", 
+    "Control": "2.13.3 There is an playbook to deploy emergency patches as needed.", 
+    "Description": "Emergency patches might contain critical security updates that cannot wait till the next maintenance or release window"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

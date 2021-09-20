@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000084", 
+  "control_attributes": {
+    "Control": "AU-11 AUDIT RECORD RETENTION", 
+    "control_description": "The organization retains audit records for [Assignment: organization-defined time period consistent with records retention policy] to provide support for after-the-fact investigations of security incidents and to meet regulatory and organizational information retention requirements.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system validates information output from [Assignment: organization-defined software programs and/or applications] to ensure that the information is consistent with the expected content."
+  }, 
+  "Control Statement": "The organization retains audit records for [Assignment: organization-defined time period consistent with records retention policy] to provide support for after-the-fact investigations of security incidents and to meet regulatory and organizational information retention requirements.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-11 AUDIT RECORD RETENTION", 
+  "compliance_control_number": "600000084"
+}

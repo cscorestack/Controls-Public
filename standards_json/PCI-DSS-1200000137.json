@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000137", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000137", 
+  "Control Name": "Visitors are identified and given a badge or other identification that expires and that visibly distinguishes the visitors from onsite personnel.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Visitors are identified and given a badge or other identification that expires and that visibly distinguishes the visitors from onsite personnel.", 
+    "Requirement": "9.4.2. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

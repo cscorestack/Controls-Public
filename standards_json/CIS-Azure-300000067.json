@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000067", 
+  "compliance_control_uri": "CIS-Azure/0003/300000067", 
+  "Control Name": "2.19. Ensure that 'Send email also to subscription owners' is set to 'On'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Enabling security alert emails to subscription owners ensures that they receive security alert emails from Microsoft.", 
+  "control_attributes": {
+    "Control": "2.19. Ensure that 'Send email also to subscription owners' is set to 'On'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Enabling security alert emails to subscription owners ensures that they receive security alert emails from Microsoft."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

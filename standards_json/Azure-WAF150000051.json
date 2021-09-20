@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000051", 
+  "compliance_control_uri": "Azure-WAF/0015/150000051", 
+  "Control Name": "1.7.4 Burstable (B) series VM sizes are used for VMs that are idle most of the time and have high usage only in certain periods.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "The B-series VMs are ideal for workloads that do not need the full performance of the CPU continuously, like web servers, proof of concepts, small databases and development build environments.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.4 Burstable (B) series VM sizes are used for VMs that are idle most of the time and have high usage only in certain periods.", 
+    "Description": "The B-series VMs are ideal for workloads that do not need the full performance of the CPU continuously, like web servers, proof of concepts, small databases and development build environments."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

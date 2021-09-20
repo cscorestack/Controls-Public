@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000143", 
+  "compliance_control_uri": "Azure-WAF/0015/150000143", 
+  "Control Name": "2.10.6 Procedures are in place for key/secret rotation", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Do you have procedures in place for key/secret rotation?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.6 Procedures are in place for key/secret rotation", 
+    "Description": "Do you have procedures in place for key/secret rotation?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

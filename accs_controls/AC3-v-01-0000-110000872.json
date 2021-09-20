@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000872", 
+  "compliance_control_uri": "AC3-v-01/0000/110000872", 
+  "Control Name": "Ensure 'Allow access to Azure services' for PostgreSQL Database Server is disabled", 
+  "Control Family": "Database Services", 
+  "Control Statement": "Disable access from Azure services to PostgreSQL Database Server", 
+  "control_attributes": {
+    "Control Name": "Ensure 'Allow access to Azure services' for PostgreSQL Database Server is disabled", 
+    "Control Family": "Database Services", 
+    "Control Statement": "Disable access from Azure services to PostgreSQL Database Server"
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Databases/Servers",
+      "service_resource": "Azure/Databases/Servers/PGSQL"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000065"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": []
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

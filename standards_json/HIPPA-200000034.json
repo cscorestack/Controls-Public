@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000034", 
+  "compliance_control_uri": "HIPAA/0002/200000034", 
+  "Control Name": "General Requirements - 164.306(a)", 
+  "Control Family": "General Requirements", 
+  "Control Statement": "Covered entities and business associates must do the following:\\n\\n(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity or business associate creates, receives, maintains, or transmits. (2) Protect against any reasonably anticipated threats or hazards to the security or integrity of such information. (3) Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part; and (4) Ensure compliance with this subpart by its workforce.", 
+  "control_attributes": {
+    "Control": "General Requirements - 164.306(a)", 
+    "Security_Category": "General Requirements", 
+    "Control_description": "Covered entities and business associates must do the following:\\n\\n(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity or business associate creates, receives, maintains, or transmits. (2) Protect against any reasonably anticipated threats or hazards to the security or integrity of such information. (3) Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part; and (4) Ensure compliance with this subpart by its workforce."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

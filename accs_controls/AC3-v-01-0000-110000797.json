@@ -1,0 +1,271 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000797",
+  "compliance_control_uri": "AC3-v-01/0000/110000797",
+  "Control Name": "SI-4 (4) INBOUND AND OUTBOUND COMMUNICATIONS TRAFFIC",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions.",
+  "control_attributes": {
+    "Control Name": "SI-4 (4) INBOUND AND OUTBOUND COMMUNICATIONS TRAFFIC",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Others",
+      "service_resource": "Azure/Compute/Others/Resource_Groups"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Security_Rule"
+    },
+    {
+      "service_resource_type": "GCP/Compute/Compute_Engine",
+      "service_resource": "GCP/Compute/Compute_Engine/VM_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Networking/VPC",
+      "service_resource": "GCP/Networking/VPC/Firewall"
+    },
+    {
+      "service_resource_type": "GCP/Networking/VPC",
+      "service_resource": "GCP/Networking/VPC/Network"
+    },
+    {
+      "service_resource_type": "GCP/Databases/Spanner",
+      "service_resource": "GCP/Databases/Spanner/Spanner_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000760",
+      "PCI-DSS/0012/1200000200",
+      "Fedramp-Control-Moderate/0010/1000000306",
+      "Fedramp-Control-High/0009/900000394",
+      "HIPAA/0002/200000014",
+      "CIS-AWS/0007/700000034",
+      "CIS-Azure/0003/300000007",
+      "SOC2/0017/1700000155"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/6bffd",
+        "policy_name": "Azure_Audit_VM_NSGRules_Inbound",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/liwlj",
+        "policy_name": "Azure_Monitor_Permissive_NetworkAccess_VM_Web_Apps",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4xvtf",
+        "policy_name": "Azure_Audit_SSH_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vl5of",
+        "policy_name": "Azure_Audit_RDP_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tgn2q",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/repbh",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access_App-Svcs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/DNSV",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_DNS_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/cassv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Cassandra_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ciscv",
+        "policy_name": "GCP_Monitor_Firewall_Open_Ciscosecure_Websm_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/dirrv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Directory_Services_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/elasv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Elasticsearch_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ftpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_FTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/gcddv",
+        "policy_name": "GCP_Audit_Firewall_Rule_Logging_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/httpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_HTTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ldav",
+        "policy_name": "GCP_Audit_Firewall_Configured_With_Open_LDAP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/memev",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Memcached_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/monv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Mongodb_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/netv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Netbios_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/opcv",
+        "policy_name": "GCP_Audit_Configured_Open_Firewall",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/orcv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Oracledb_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/poiu",
+        "policy_name": "GCP_Audit_Firewall_Configuration_For_TELNET_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/popv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Pop3_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pstv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Postgresql_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/rdpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_RDP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/redibv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Redis_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/rulv",
+        "policy_name": "GCP_Audit_Egress_Deny_Rule_Not_Set_On_Firewall",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/smtpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_SMTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/sqlv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Mysql_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/sshvv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_SSH_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_VPC_Flow_Logs_Enabled",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/@nmot",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

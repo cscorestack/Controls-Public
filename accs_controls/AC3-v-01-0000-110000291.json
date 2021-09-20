@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000291",
+  "compliance_control_uri": "AC3-v-01/0000/110000291",
+  "Control Name": "CP-8 (4) PROVIDER CONTINGENCY PLAN",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization: (a) Requires primary and alternate telecommunications service providers to have contingency plans;(b) Reviews provider contingency plans to ensure that the plans meet organizational contingency requirements; and(c) Obtains evidence of contingency testing/training by providers [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "CP-8 (4) PROVIDER CONTINGENCY PLAN",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization: (a) Requires primary and alternate telecommunications service providers to have contingency plans;(b) Reviews provider contingency plans to ensure that the plans meet organizational contingency requirements; and(c) Obtains evidence of contingency testing/training by providers [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000110",
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000345",
+      "ISO-27001/0011/1100000049",
+      "ISO-27001/0011/1100000104",
+      "Fedramp-Control-High/0009/900000171"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

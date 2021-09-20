@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000174",
+  "compliance_control_uri": "AWS-WAF/0016/160000174",
+  "Control Name": "REL 7.4 Load test your workload",
+  "Control Family": "Reliability",
+  "Control Statement": "Adopt a load testing methodology to measure if scaling activity meets workload requirements.",
+  "control_attributes": {
+    "Control": "REL 7.4 Load test your workload",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to adapt to changes in demand?",
+    "question_id": "adapt-to-changes",
+    "choice_id": "rel_adapt_to_changes_load_tested_adapt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

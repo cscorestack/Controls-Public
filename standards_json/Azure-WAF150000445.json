@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000445", 
+  "compliance_control_uri": "Azure-WAF/0015/150000445", 
+  "Control Name": "5.7.1 For containerized workloads, Azure Defender (Azure Security Center) or other third-party solution is used to scan for vulnerabilities.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Azure Security Center is the Azure-native solution for securing containers. Security Center can protect virtual machines that are running Docker, Azure Kubernetes Service clusters, Azure Container Registry registries. ASC is able to scan container images and identify security issues, or provide real-time threat detection for containerized environments.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.1 For containerized workloads, Azure Defender (Azure Security Center) or other third-party solution is used to scan for vulnerabilities.", 
+    "Description": "Azure Security Center is the Azure-native solution for securing containers. Security Center can protect virtual machines that are running Docker, Azure Kubernetes Service clusters, Azure Container Registry registries. ASC is able to scan container images and identify security issues, or provide real-time threat detection for containerized environments."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

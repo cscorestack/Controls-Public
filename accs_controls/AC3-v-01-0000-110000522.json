@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000522",
+  "compliance_control_uri": "AC3-v-01/0000/110000522",
+  "Control Name": "PS-4 (2) AUTOMATED NOTIFICATION",
+  "Control Family": "PERSONNEL SECURITY",
+  "Control Statement": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual.",
+  "control_attributes": {
+    "Control Name": "PS-4 (2) AUTOMATED NOTIFICATION",
+    "Control Family": "PERSONNEL SECURITY",
+    "Control Statement": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000549",
+      "Fedramp-Control-High/0009/900000300"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

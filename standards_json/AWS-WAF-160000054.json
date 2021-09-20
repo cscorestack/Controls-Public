@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000054",
+  "compliance_control_uri": "AWS-WAF/0016/160000054",
+  "Control Name": "OPS 8.4 Establish workload metrics baselines",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Establish baselines for metrics to provide expected values as the basis for comparison and identiﬁcation of under and over performing components. Identify thresholds for improvement, investigation, and intervention.",
+  "control_attributes": {
+    "Control": "OPS 8.4 Establish workload metrics baselines",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_workload_metric_baselines"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

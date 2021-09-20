@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000558", 
+  "control_attributes": {
+    "Control": "RA-3 RISK ASSESSMENT", 
+    "control_description": "The organization: a. Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;b. Documents risk assessment results in [Selection: security plan; risk assessment report; [Assignment: organization-defined document]];c. Reviews risk assessment results [Assignment: organization-defined frequency];d. Disseminates risk assessment results to [Assignment: organization-defined personnel or roles]; ande. Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization reviews historic audit logs to determine if a vulnerability identified in the information system has been previously exploited."
+  }, 
+  "Control Statement": "The organization: a. Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;b. Documents risk assessment results in [Selection: security plan; risk assessment report; [Assignment: organization-defined document]];c. Reviews risk assessment results [Assignment: organization-defined frequency];d. Disseminates risk assessment results to [Assignment: organization-defined personnel or roles]; ande. Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-3 RISK ASSESSMENT", 
+  "compliance_control_number": "600000558"
+}

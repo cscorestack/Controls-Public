@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000274",
+  "compliance_control_uri": "AWS-WAF/0016/160000274",
+  "Control Name": "COST 6.1 Perform cost modeling",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Identify organization requirements and perform cost modeling of the workload and each of its components. Perform benchmark activities for the workload under diﬀerent predicted loads and compare the costs. The modeling eﬀort should reﬂect potential beneﬁt: for example, time spent is proportional to component cost.",
+  "control_attributes": {
+    "Control": "COST 6.1 Perform cost modeling",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you meet cost targets when you select resource type, size and number?",
+    "question_id": "type-size-number-resources",
+    "choice_id": "cost_type_size_number_resources_cost_modeling"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

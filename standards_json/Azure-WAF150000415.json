@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000415", 
+  "compliance_control_uri": "Azure-WAF/0015/150000415", 
+  "Control Name": "5.3.6 Personally identifiable information (PII) is detected and removed/obfuscated automatically for this workload, including application logs.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Extra care should be take around logging of sensitive application areas. PII (contact information, payment information etc.) should not be stored in any application logs and protective measures should be applied (such as obfuscation). Machine learning tools like Azure Cognitive Search PII detection can help with this.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.6 Personally identifiable information (PII) is detected and removed/obfuscated automatically for this workload, including application logs.", 
+    "Description": "Extra care should be take around logging of sensitive application areas. PII (contact information, payment information etc.) should not be stored in any application logs and protective measures should be applied (such as obfuscation). Machine learning tools like Azure Cognitive Search PII detection can help with this."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

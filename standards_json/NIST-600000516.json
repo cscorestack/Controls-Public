@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000516", 
+  "control_attributes": {
+    "Control": "PE-13 FIRE PROTECTION", 
+    "control_description": "The organization employs and maintains fire suppression and detection devices/systems for the information system that are supported by an independent energy source.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs temperature and humidity monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment."
+  }, 
+  "Control Statement": "The organization employs and maintains fire suppression and detection devices/systems for the information system that are supported by an independent energy source.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-13 FIRE PROTECTION", 
+  "compliance_control_number": "600000516"
+}

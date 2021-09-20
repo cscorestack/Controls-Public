@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000013", 
+  "control_attributes": {
+    "Control": "AU-6 (5) INTEGRATION / SCANNING AND MONITORING CAPABILITIES", 
+    "control_description": "The organization integrates analysis of audit records with analysis of [Selection (one or more): vulnerability scanning information; performance data; information system monitoring information; [Assignment: organization-defined data/information collected from other sources]] to further enhance the ability to identify inappropriate or unusual activity.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system provides an audit reduction and report generation capability that:"
+  }, 
+  "Control Statement": "The organization integrates analysis of audit records with analysis of [Selection (one or more): vulnerability scanning information; performance data; information system monitoring information; [Assignment: organization-defined data/information collected from other sources]] to further enhance the ability to identify inappropriate or unusual activity.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 (5) INTEGRATION / SCANNING AND MONITORING CAPABILITIES", 
+  "compliance_control_number": "600000013"
+}

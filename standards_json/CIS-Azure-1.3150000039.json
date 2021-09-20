@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000039", 
+  "compliance_control_uri": "CIS-Azure/0015/150000039", 
+  "Control Name": "3.1 Ensure that 'Secure transfer required' is set to 'Enabled'", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Enable data encryption in transit.", 
+  "control_attributes": {
+    "Control": "3.1 Ensure that 'Secure transfer required' is set to 'Enabled'", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Enable data encryption in transit."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

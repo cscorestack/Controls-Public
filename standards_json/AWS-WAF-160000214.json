@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000214",
+  "compliance_control_uri": "AWS-WAF/0016/160000214",
+  "Control Name": "PERF 2.5 Use the available elasticity of resources",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "The cloud provides the ﬂexibility to expand or reduce your resources dynamically through a variety of mechanisms to meet changes in demand. Combined with compute-related metrics, a workload can automatically respond to changes and utilize the optimal set of resources to achieve its goal.",
+  "control_attributes": {
+    "Control": "PERF 2.5 Use the available elasticity of resources",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_elasticity"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

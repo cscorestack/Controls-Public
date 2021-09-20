@@ -1,0 +1,74 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000176",
+  "compliance_control_uri": "AC3-v-01/0000/110000176",
+  "Control Name": "AU-9 (3) CRYPTOGRAPHIC PROTECTION",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools.",
+  "control_attributes": {
+    "Control Name": "AU-9 (3) CRYPTOGRAPHIC PROTECTION",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Storage, Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000017",
+      "PCI-DSS/0012/1200000173",
+      "PCI-DSS/0012/1200000174",
+      "PCI-DSS/0012/1200000175",
+      "PCI-DSS/0012/1200000176",
+      "PCI-DSS/0012/1200000177",
+      "Fedramp-Control-High/0009/900000086",
+      "CIS-AWS/0007/700000032",
+      "CIS-Azure/0003/300000031",
+      "CIS-Azure/0003/300000032",
+      "CIS-Azure/0003/300000033",
+      "CIS-Azure/0003/300000005",
+      "CIS-Azure/0003/300000009",
+      "CIS-Azure/0003/300000013",
+      "CIS-Azure/0003/300000022",
+      "CIS-Azure/0003/300000079",
+      "CIS-Azure/0003/300000091",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/tTRE2",
+        "policy_name": "AWS_Cloud_Trail_Encryption_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/rZqoi",
+        "policy_name": "Azure_Audit_Storage_Account_With_Container_ActivityLogs_Encrypted_BYOK",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Audit_S3_Buckets_Encrypted_with_Customer_Provided_CMKs",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/22b97",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

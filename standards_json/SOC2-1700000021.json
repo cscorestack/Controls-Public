@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000021",
+  "compliance_control_uri": "SOC2/0017/1700000021",
+  "Control Name": "Provides Training to Maintain Technical Competencies— The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Provides Training to Maintain Technical Competencies— The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.4 COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.",
+    "ControlNo": "CC1.4.7",
+    "TrustID": "CC1.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

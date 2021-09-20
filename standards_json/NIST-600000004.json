@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000004", 
+  "control_attributes": {
+    "Control": "AC-14 PERMITTED ACTIONS WITHOUT IDENTIFICATION OR AUTHENTICATION", 
+    "control_description": "The organization:a. Identifies [Assignment: organization-defined user actions] that can be performed on the information system without identification or authentication consistent with organizational missions/business functions; andb. Documents and provides supporting rationale in the security plan for the information system, user actions not requiring identification or authentication.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization:a. Identifies [Assignment: organization-defined user actions] that can be performed on the information system without identification or authentication consistent with organizational missions/business functions; andb. Documents and provides supporting rationale in the security plan for the information system, user actions not requiring identification or authentication.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-14 PERMITTED ACTIONS WITHOUT IDENTIFICATION OR AUTHENTICATION", 
+  "compliance_control_number": "600000004"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000335", 
+  "compliance_control_uri": "Azure-WAF/0015/150000335", 
+  "Control Name": "4.5.11 Client traffic can be routed to the application in the case of region/zone/network outages.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "How is the client traffic routed to the application in the case of region outage? i.e. is traffic routed through a global load balancer such as Azure Front Door, Azure Traffic Manager or a third-party CDN.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.11 Client traffic can be routed to the application in the case of region/zone/network outages.", 
+    "Description": "How is the client traffic routed to the application in the case of region outage? i.e. is traffic routed through a global load balancer such as Azure Front Door, Azure Traffic Manager or a third-party CDN."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

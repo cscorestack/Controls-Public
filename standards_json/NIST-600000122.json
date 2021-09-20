@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000122", 
+  "control_attributes": {
+    "Control": "MA-6 TIMELY MAINTENANCE", 
+    "control_description": "The organization obtains maintenance support and/or spare parts for [Assignment: organization-defined information system components] within [Assignment: organization-defined time period] of failure.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization disables accounts of users posing a significant risk within [Assignment: organization-defined time period] of discovery of the risk."
+  }, 
+  "Control Statement": "The organization obtains maintenance support and/or spare parts for [Assignment: organization-defined information system components] within [Assignment: organization-defined time period] of failure.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-6 TIMELY MAINTENANCE", 
+  "compliance_control_number": "600000122"
+}

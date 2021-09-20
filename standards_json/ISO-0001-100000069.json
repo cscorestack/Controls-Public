@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000069", 
+  "compliance_control_uri": "ISO/0001/100000092", 
+  "Control Name": "12.6.2 Restriction in software installation", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled", 
+  "control_attributes": {
+    "Control_Objective": "12.6.2 Restriction in software installation", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.6 Technical vulnerability management", 
+    "description": "Modifications to software packages shall be discouraged, limited to necessary changes, and all changes shall be strictly controlled"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

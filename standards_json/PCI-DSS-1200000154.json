@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000154", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000154", 
+  "Control Name": "Ensure that security policies and operational procedures for restricting physical access to cardholder data are documented, in use, and known to all affected parties.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Ensure that security policies and operational procedures for restricting physical access to cardholder data are documented, in use, and known to all affected parties.", 
+    "Requirement": "9.10. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

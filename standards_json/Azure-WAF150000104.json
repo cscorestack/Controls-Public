@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000104", 
+  "compliance_control_uri": "Azure-WAF/0015/150000104", 
+  "Control Name": "2.5.4 Logs and metrics are available for critical internal dependencies", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are logs and metrics available for critical internal dependencies?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.4 Logs and metrics are available for critical internal dependencies", 
+    "Description": "Are logs and metrics available for critical internal dependencies?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

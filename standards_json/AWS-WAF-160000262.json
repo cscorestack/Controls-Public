@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000262",
+  "compliance_control_uri": "AWS-WAF/0016/160000262",
+  "Control Name": "COST 3.5 Add organization information to cost and usage",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Deﬁne a tagging schema based on organization, and workload attributes, and cost allocation categories. Implement tagging across all resources. Use Cost Categories to group costs and usage according to organization attributes.",
+  "control_attributes": {
+    "Control": "COST 3.5 Add organization information to cost and usage",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_org_information"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000091",
+  "compliance_control_uri": "AWS-WAF/0016/160000091",
+  "Control Name": "SEC 2.1 Use strong sign-in mechanisms",
+  "Control Family": "Security",
+  "Control Statement": "Enforce minimum password length, and educate users to avoid common or re-used passwords. Enforce multi-factor authentication (MFA) with software or hardware mechanisms to provide an additional layer.",
+  "control_attributes": {
+    "Control": "SEC 2.1 Use strong sign-in mechanisms",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_enforce_mechanisms"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

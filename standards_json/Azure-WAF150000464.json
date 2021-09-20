@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000464", 
+  "compliance_control_uri": "Azure-WAF/0015/150000464", 
+  "Control Name": "5.9.1 There's a designated group within the organization, which is responsible for centralized network management security of this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Centralizing network management and security can reduce the potential for inconsistent strategies that create potential attacker exploitable security risks. Because all divisions of the IT and development organizations do not have the same level of network management and security knowledge and sophistication, organizations benefit from leveraging a centralized network team's expertise and tooling.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.1 There's a designated group within the organization, which is responsible for centralized network management security of this workload.", 
+    "Description": "Centralizing network management and security can reduce the potential for inconsistent strategies that create potential attacker exploitable security risks. Because all divisions of the IT and development organizations do not have the same level of network management and security knowledge and sophistication, organizations benefit from leveraging a centralized network team's expertise and tooling."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

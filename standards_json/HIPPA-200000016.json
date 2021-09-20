@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000016", 
+  "compliance_control_uri": "HIPAA/0002/200000016", 
+  "Control Name": "Security Awareness, Training, and Tools  Log-in Monitoring - 164.308(a)(5)(ii)(C)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Procedures for monitoring log-in attempts and reporting discrepancies.", 
+  "control_attributes": {
+    "Control": "Security Awareness, Training, and Tools  Log-in Monitoring - 164.308(a)(5)(ii)(C)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Procedures for monitoring log-in attempts and reporting discrepancies."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000030", 
+  "compliance_control_uri": "CIS-AWS/0007/700000030", 
+  "Control Name": "3.5 Ensure AWS Config is enabled in all regions", 
+  "Control Family": "Logging", 
+  "Control Statement": "It is recommended to enable AWS Config be enabled in all regions. The AWS configuration item history captured by AWS Config enables security analysis, resource change tracking, and compliance auditing.", 
+  "control_attributes": {
+    "Control": "3.5 Ensure AWS Config is enabled in all regions", 
+    "Category": "Logging", 
+    "Control_description": "It is recommended to enable AWS Config be enabled in all regions. The AWS configuration item history captured by AWS Config enables security analysis, resource change tracking, and compliance auditing."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

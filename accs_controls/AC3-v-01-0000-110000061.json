@@ -1,0 +1,119 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000061",
+  "compliance_control_uri": "AC3-v-01/0000/110000061",
+  "Control Name": "AC-25 REFERENCE MONITOR",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system implements a reference monitor for [Assignment: organization-defined access control policies] that is tamperproof, always invoked, and small enough to be subject to analysis and testing, the completeness of which can be assured.",
+  "control_attributes": {
+    "Control Name": "AC-25 REFERENCE MONITOR",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system implements a reference monitor for [Assignment: organization-defined access control policies] that is tamperproof, always invoked, and small enough to be subject to analysis and testing, the completeness of which can be assured."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000109",
+      "AWS-WAF/0016/160000100",
+      "SOC2/0017/1700000116"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hYRfU",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Security_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9accc",
+        "policy_name": "AWS_Audit_IAM_Access_Analyzer_Findings",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/elb/fejwq",
+        "policy_name": "AWS_Audit_ELB_Access_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/dfb6e",
+        "policy_name": "AWS_Audit_ELBv2_Access_Log",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ZtwYb",
+        "policy_name": "AWS_LAMBDA_Function_Public_Access_Prohibited",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/eToYu",
+        "policy_name": "AWS_RDS_Instance_Public_Access_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/ax2y5",
+        "policy_name": "AWS_Audit_S3_Access_Logging",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/taom7",
+        "policy_name": "Azure_Audit_Unrestricted_Network_Access_Storage_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/xrfMG",
+        "policy_name": "Azure_Audit_Storage_Accounts_Allow_Access_Trusted_MS_Svcs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/liwlj",
+        "policy_name": "Azure_Monitor_Permissive_NetworkAccess_VM_Web_Apps",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tgn2q",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

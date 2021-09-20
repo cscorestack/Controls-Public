@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000646", 
+  "control_attributes": {
+    "Control": "SA-20 CUSTOMIZED DEVELOPMENT OF CRITICAL COMPONENTS", 
+    "control_description": "The organization re-implements or custom develops [Assignment: organization-defined critical information system components].", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prevents the presentation of information system management-related functionality at an interface for non-privileged users."
+  }, 
+  "Control Statement": "The organization re-implements or custom develops [Assignment: organization-defined critical information system components].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-20 CUSTOMIZED DEVELOPMENT OF CRITICAL COMPONENTS", 
+  "compliance_control_number": "600000646"
+}

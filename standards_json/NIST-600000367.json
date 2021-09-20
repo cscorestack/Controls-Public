@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000367", 
+  "control_attributes": {
+    "Control": "IA-2 (9) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - REPLAY RESISTANT", 
+    "control_description": "The information system implements replay-resistant authentication mechanisms for network access to non-privileged accounts.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that the registration process to receive an individual identifier includes supervisor authorization."
+  }, 
+  "Control Statement": "The information system implements replay-resistant authentication mechanisms for network access to non-privileged accounts.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (9) NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS - REPLAY RESISTANT", 
+  "compliance_control_number": "600000367"
+}

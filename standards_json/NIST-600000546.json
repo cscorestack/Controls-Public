@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000546", 
+  "control_attributes": {
+    "Control": "PS-3 (2) FORMAL INDOCTRINATION", 
+    "control_description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting types of classified information which require formal indoctrination, are formally indoctrinated for all of the relevant types of information to which they have access on the system.", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that access to classified information requiring special protection is granted only to individuals who:"
+  }, 
+  "Control Statement": "The organization ensures that individuals accessing an information system processing, storing, or transmitting types of classified information which require formal indoctrination, are formally indoctrinated for all of the relevant types of information to which they have access on the system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-3 (2) FORMAL INDOCTRINATION", 
+  "compliance_control_number": "600000546"
+}

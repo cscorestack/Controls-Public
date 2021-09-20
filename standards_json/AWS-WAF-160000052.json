@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000052",
+  "compliance_control_uri": "AWS-WAF/0016/160000052",
+  "Control Name": "OPS 8.2 Deﬁne workload metrics",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Deﬁne workload metrics to measure the achievement of KPIs (for example, abandoned shopping carts, orders placed, cost, price, and allocated workload expense). Deﬁne workload metrics to measure the health of the workload (for example, interface response time, error rate, requests made, requests completed, and utilization). Evaluate metrics to determine if the workload is achieving desired outcomes, and to understand the health of the workload.",
+  "control_attributes": {
+    "Control": "OPS 8.2 Deﬁne workload metrics",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_design_workload_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

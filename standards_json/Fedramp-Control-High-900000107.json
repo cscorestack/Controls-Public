@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000107", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000107", 
+  "Control Name": "PENETRATION TESTING | INDEPENDENT PENETRATION AGENT OR TEAM", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization employs an independent penetration agent or penetration team to perform penetration testing on the information system or system components.Supplemental Guidance:  Independent penetration agents or teams are individuals or groups who conduct impartial penetration testing of organizational information systems. Impartiality implies that penetration agents or teams are free from any perceived or actual conflicts of interest with regard to the development, operation, or management of the information systems that are the targets of the penetration testing. Supplemental guidance for CA-2 (1) provides additional information regarding independent assessments that can be applied to penetration testing. Related control: CA-2.", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization employs an independent penetration agent or penetration team to perform penetration testing on the information system or system components.Supplemental Guidance:  Independent penetration agents or teams are individuals or groups who conduct impartial penetration testing of organizational information systems. Impartiality implies that penetration agents or teams are free from any perceived or actual conflicts of interest with regard to the development, operation, or management of the information systems that are the targets of the penetration testing. Supplemental guidance for CA-2 (1) provides additional information regarding independent assessments that can be applied to penetration testing. Related control: CA-2.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "CA-08 (01)", 
+    "CNTL NO": "CA-8 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "PENETRATION TESTING | INDEPENDENT PENETRATION AGENT OR TEAM"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000398", 
+  "control_attributes": {
+    "Control": "IA-7 CRYPTOGRAPHIC MODULE AUTHENTICATION", 
+    "control_description": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that identification and authentication decisions are transmitted between [Assignment: organization-defined services] consistent with organizational policies."
+  }, 
+  "Control Statement": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-7 CRYPTOGRAPHIC MODULE AUTHENTICATION", 
+  "compliance_control_number": "600000398"
+}

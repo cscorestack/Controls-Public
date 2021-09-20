@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000538",
+  "compliance_control_uri": "AC3-v-01/0000/110000538",
+  "Control Name": "RA-5 (5) PRIVILEGED ACCESS",
+  "Control Family": "RISK ASSESSMENT",
+  "Control Statement": "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities].",
+  "control_attributes": {
+    "Control Name": "RA-5 (5) PRIVILEGED ACCESS",
+    "Control Family": "RISK ASSESSMENT",
+    "Control Statement": "The information system implements privileged access authorization to [Assignment: organization-identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000562",
+      "ISO-27001/0011/1100000068",
+      "PCI-DSS/0012/1200000094",
+      "PCI-DSS/0012/1200000187",
+      "PCI-DSS/0012/1200000190",
+      "PCI-DSS/0012/1200000191",
+      "PCI-DSS/0012/1200000192",
+      "PCI-DSS/0012/1200000193",
+      "Fedramp-Control-Moderate/0010/1000000238",
+      "Fedramp-Control-High/0009/900000313",
+      "ISO/0001/100000044"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

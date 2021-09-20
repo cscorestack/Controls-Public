@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000138", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000138", 
+  "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY | ACCOUNTABILITY INFORMATION", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization includes in the information system component inventory information, a means for identifying by [Selection (one or more): name; position; role], individuals responsible/accountable for administering those components.Supplemental Guidance:  Identifying individuals who are both responsible and accountable for administering information system components helps to ensure that the assigned components are properly administered and organizations can contact those individuals if some action is required (e.g., component is determined to be the source of a breach/compromise, component needs to be recalled/replaced, or component needs to be relocated).", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization includes in the information system component inventory information, a means for identifying by [Selection (one or more): name; position; role], individuals responsible/accountable for administering those components.Supplemental Guidance:  Identifying individuals who are both responsible and accountable for administering information system components helps to ensure that the assigned components are properly administered and organizations can contact those individuals if some action is required (e.g., component is determined to be the source of a breach/compromise, component needs to be recalled/replaced, or component needs to be relocated).", 
+    "SelectionParam": "CM-8 (4) [position and role]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-08 (04)", 
+    "CNTL NO": "CM-8 (4)", 
+    "AdditionalReq": "", 
+    "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY | ACCOUNTABILITY INFORMATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

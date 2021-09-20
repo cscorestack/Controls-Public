@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000079", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000079", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | AUDIT LEVEL ADJUSTMENT", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization adjusts the level of audit review, analysis, and reporting within the information system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.Supplemental Guidance:  The frequency, scope, and/or depth of the audit review, analysis, and reporting may be adjusted to meet organizational needs based on new information received.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization adjusts the level of audit review, analysis, and reporting within the information system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.Supplemental Guidance:  The frequency, scope, and/or depth of the audit review, analysis, and reporting may be adjusted to meet organizational needs based on new information received.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AU-06 (10)", 
+    "CNTL NO": "AU-6 (10)", 
+    "AdditionalReq": "", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | AUDIT LEVEL ADJUSTMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

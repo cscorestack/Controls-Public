@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000305", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000305", 
+  "Control Name": "PERSONNEL SANCTIONS", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization: a. Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and b. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.Supplemental Guidance: Organizational sanctions processes reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Sanctions processes are described in access agreements and can be included as part of general personnel policies and procedures for organizations. Organizations consult with the Office of the General Counsel regarding matters of employee sanctions. Related controls: PL-4, PS-6.Control Enhancements:  None.References:  None.", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization: a. Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and b. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.Supplemental Guidance: Organizational sanctions processes reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Sanctions processes are described in access agreements and can be included as part of general personnel policies and procedures for organizations. Organizations consult with the Office of the General Counsel regarding matters of employee sanctions. Related controls: PL-4, PS-6.Control Enhancements:  None.References:  None.", 
+    "SelectionParam": "PS-8(b)-1 [at a minimum, the ISSO and/or similar role within the organization]", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-08", 
+    "CNTL NO": "PS-8", 
+    "AdditionalReq": " ", 
+    "Control Name": "PERSONNEL SANCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

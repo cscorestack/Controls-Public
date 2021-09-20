@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000200",
+  "compliance_control_uri": "AC3-v-01/0000/110000200",
+  "Control Name": "CA-8 PENETRATION TESTING",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization conducts penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined information systems or system components].",
+  "control_attributes": {
+    "Control Name": "CA-8 PENETRATION TESTING",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization conducts penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined information systems or system components]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000274",
+      "PCI-DSS/0012/1200000194",
+      "PCI-DSS/0012/1200000195",
+      "PCI-DSS/0012/1200000196",
+      "PCI-DSS/0012/1200000197",
+      "PCI-DSS/0012/1200000198",
+      "Fedramp-Control-Moderate/0010/1000000080",
+      "Fedramp-Control-High/0009/900000106"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

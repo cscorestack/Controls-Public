@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000157", 
+  "compliance_control_uri": "Azure-WAF/0015/150000157", 
+  "Control Name": "2.12.1 The entire application infrastructure is defined as code", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is application infrastructure defined as code, for example with ARM templates or Terraform?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.12 What operational considerations are you making regarding the deployment of your infrastructure?", 
+    "Control": "2.12.1 The entire application infrastructure is defined as code", 
+    "Description": "Is application infrastructure defined as code, for example with ARM templates or Terraform?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

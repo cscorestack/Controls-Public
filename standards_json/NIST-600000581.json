@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000581", 
+  "control_attributes": {
+    "Control": "SA-8 SECURITY ENGINEERING PRINCIPLES", 
+    "control_description": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization restricts the location of [Selection (one or more): information processing; information/data; information system services] to [Assignment: organization-defined locations] based on [Assignment: organization-defined requirements or conditions]."
+  }, 
+  "Control Statement": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-8 SECURITY ENGINEERING PRINCIPLES", 
+  "compliance_control_number": "600000581"
+}

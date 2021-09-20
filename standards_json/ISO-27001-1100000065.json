@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000065", 
+  "compliance_control_uri": "ISO-27001/0011/1100000065", 
+  "Control Name": "12.4.3 Administrator and operator logs", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "System administrator and system operator activities shall be logged. If a privileged operation is delegated to the cloud service\\ncustomer, the operation and performance of those operations should be logged. The cloud service customer should determine\\nwhether logging capabilities provided by the cloud service provider are appropriate or whether the cloud service customer\\nshould implement additional logging capabilities.", 
+  "control_attributes": {
+    "Clause_Category": "12.4 Logging and monitoring", 
+    "description": "System administrator and system operator activities shall be logged. If a privileged operation is delegated to the cloud service\\ncustomer, the operation and performance of those operations should be logged. The cloud service customer should determine\\nwhether logging capabilities provided by the cloud service provider are appropriate or whether the cloud service customer\\nshould implement additional logging capabilities.", 
+    "Control_Title": "12.4.3 Administrator and operator logs", 
+    "Control_Clause": "12. Operations security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

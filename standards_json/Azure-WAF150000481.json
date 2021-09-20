@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000481", 
+  "compliance_control_uri": "Azure-WAF/0015/150000481", 
+  "Control Name": "5.11.4 A clear responsibility / role concept for managing keys and secrets is defined for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Central SecOps team should provide guidance on how keys and secrets are managed (governance), application DevOps team is responsible to manage the application related keys and secrets.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.11 Are keys, secrets and certificates managed in a secure way?", 
+    "Control": "5.11.4 A clear responsibility / role concept for managing keys and secrets is defined for this workload.", 
+    "Description": "Central SecOps team should provide guidance on how keys and secrets are managed (governance), application DevOps team is responsible to manage the application related keys and secrets."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

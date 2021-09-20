@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "compliance_control_number": "600000827", 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000827", 
+  "Control Name": "PM-16 THREAT AWARENESS PROGRAM", 
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "Control Statement": "The organization implements a threat awareness program that includes a cross-organization information-sharing capability.", 
+  "control_attributes": {
+    "Control": "PM-16 THREAT AWARENESS PROGRAM", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Baseline_Impact": "", 
+    "Priority": "", 
+    "Control_description": "The organization implements a threat awareness program that includes a cross-organization information-sharing capability."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

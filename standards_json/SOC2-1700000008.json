@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000008",
+  "compliance_control_uri": "SOC2/0017/1700000008",
+  "Control Name": "Operates Independently—The board of directors has sufficient members who are independent from management and objective in evaluations and decision making.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Operates Independently—The board of directors has sufficient members who are independent from management and objective in evaluations and decision making.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.2 COSO Principle 2: The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control.",
+    "ControlNo": "CC1.2.3",
+    "TrustID": "CC1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

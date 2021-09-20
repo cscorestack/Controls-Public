@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000641",
+  "compliance_control_uri": "AC3-v-01/0000/110000641",
+  "Control Name": "SC-15 COLLABORATIVE COMPUTING DEVICES",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system: a. Prohibits remote activation of collaborative computing devices with the following exceptions: [Assignment: organization-defined exceptions where remote activation is to be allowed]; andb. Provides an explicit indication of use to users physically present at the devices.",
+  "control_attributes": {
+    "Control Name": "SC-15 COLLABORATIVE COMPUTING DEVICES",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system: a. Prohibits remote activation of collaborative computing devices with the following exceptions: [Assignment: organization-defined exceptions where remote activation is to be allowed]; andb. Provides an explicit indication of use to users physically present at the devices."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000689",
+      "ISO-27001/0011/1100000074",
+      "Fedramp-Control-Moderate/0010/1000000284",
+      "Fedramp-Control-High/0009/900000369",
+      "ISO/0001/100000049"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

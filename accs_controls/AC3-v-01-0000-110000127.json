@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000127",
+  "compliance_control_uri": "AC3-v-01/0000/110000127",
+  "Control Name": "AU-10 (4) VALIDATE BINDING OF INFORMATION REVIEWER IDENTITY",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system:                                                                                                                               (a) Validates the binding of the information reviewer identity to the information at the transfer or release points prior to release/transfer between [Assignment: organization-defined security domains]; and(b) Performs [Assignment: organization-defined actions] in the event of a validation error.",
+  "control_attributes": {
+    "Control Name": "AU-10 (4) VALIDATE BINDING OF INFORMATION REVIEWER IDENTITY",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system:                                                                                                                               (a) Validates the binding of the information reviewer identity to the information at the transfer or release points prior to release/transfer between [Assignment: organization-defined security domains]; and(b) Performs [Assignment: organization-defined actions] in the event of a validation error."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000254"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

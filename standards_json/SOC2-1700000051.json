@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000051",
+  "compliance_control_uri": "SOC2/0017/1700000051",
+  "Control Name": "Communicates System Responsibilities—External users with responsibility for designing, developing, implementing, operating, maintaining, and monitoring system controls receive communications about their responsibilities and have the information necessary to carry out those responsibilities.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates System Responsibilities—External users with responsibility for designing, developing, implementing, operating, maintaining, and monitoring system controls receive communications about their responsibilities and have the information necessary to carry out those responsibilities.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.10",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

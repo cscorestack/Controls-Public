@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000296", 
+  "compliance_control_uri": "Azure-WAF/0015/150000296", 
+  "Control Name": "3.11.5 You have a response plan for network performance problems that includes traffic capturing tools.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Network capture tooling can capture the network traffic and dive deeper into the interactions at the network layer that may affect your application due to network configuration and/or other network traffic issues.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.11 What common problems do you have steps to troubleshoot in your operations playbook?", 
+    "Control": "3.11.5 You have a response plan for network performance problems that includes traffic capturing tools.", 
+    "Description": "Network capture tooling can capture the network traffic and dive deeper into the interactions at the network layer that may affect your application due to network configuration and/or other network traffic issues."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000550",
+  "compliance_control_uri": "AC3-v-01/0000/110000550",
+  "Control Name": "SA-10 DEVELOPER CONFIGURATION MANAGEMENT",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:                                                                                                           a. Perform configuration management during system, component, or service [Selection (one or more): design; development; implementation; operation];b. Document, manage, and control the integrity of changes to [Assignment: organization-defined configuration items under configuration management];c. Implement only organization-approved changes to the system, component, or service;d. Document approved changes to the system, component, or service and the potential security impacts of such changes; ande. Track security flaws and flaw resolution within the system, component, or service and report findings to [Assignment: organization-defined personnel].",
+  "control_attributes": {
+    "Control Name": "SA-10 DEVELOPER CONFIGURATION MANAGEMENT",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:                                                                                                           a. Perform configuration management during system, component, or service [Selection (one or more): design; development; implementation; operation];b. Document, manage, and control the integrity of changes to [Assignment: organization-defined configuration items under configuration management];c. Implement only organization-approved changes to the system, component, or service;d. Document approved changes to the system, component, or service and the potential security impacts of such changes; ande. Track security flaws and flaw resolution within the system, component, or service and report findings to [Assignment: organization-defined personnel]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Compute, Storage",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000588",
+      "ISO-27001/0011/1100000058",
+      "ISO-27001/0011/1100000082",
+      "Fedramp-Control-Moderate/0010/1000000257",
+      "Fedramp-Control-High/0009/900000333",
+      "ISO/0001/100000032",
+      "ISO/0001/100000057",
+      "SOC2/0017/1700000186"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

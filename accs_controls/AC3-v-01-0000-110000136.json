@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000136",
+  "compliance_control_uri": "AC3-v-01/0000/110000136",
+  "Control Name": "AU-13 (2) REVIEW OF MONITORED SITES",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The organization reviews the open source information sites being monitored [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "AU-13 (2) REVIEW OF MONITORED SITES",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The organization reviews the open source information sites being monitored [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000259"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000090",
+  "compliance_control_uri": "SOC2/0017/1700000090",
+  "Control Name": "Uses Knowledgeable Personnel—Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.",
+  "Control Family": "Monitoring Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Uses Knowledgeable Personnel—Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.",
+    "Category": "Monitoring Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC4.1 COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning.",
+    "ControlNo": "CC4.1.4",
+    "TrustID": "CC4.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

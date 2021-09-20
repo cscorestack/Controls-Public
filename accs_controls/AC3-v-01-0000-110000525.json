@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000525",
+  "compliance_control_uri": "AC3-v-01/0000/110000525",
+  "Control Name": "PS-6 (2) CLASSIFIED INFORMATION REQUIRING SPECIAL PROTECTION",
+  "Control Family": "PERSONNEL SECURITY",
+  "Control Statement": "The organization ensures that access to classified information requiring special protection is granted only to individuals who                                                                                            : (a) Have a valid access authorization that is demonstrated by assigned official government duties;(b) Satisfy associated personnel security criteria; and(c) Have read, understood, and signed a nondisclosure agreement.",
+  "control_attributes": {
+    "Control Name": "PS-6 (2) CLASSIFIED INFORMATION REQUIRING SPECIAL PROTECTION",
+    "Control Family": "PERSONNEL SECURITY",
+    "Control Statement": "The organization ensures that access to classified information requiring special protection is granted only to individuals who                                                                                            : (a) Have a valid access authorization that is demonstrated by assigned official government duties;(b) Satisfy associated personnel security criteria; and(c) Have read, understood, and signed a nondisclosure agreement."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000552"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

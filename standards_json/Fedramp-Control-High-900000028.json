@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000028", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000028", 
+  "Control Name": "UNSUCCESSFUL LOGON ATTEMPTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system: a. Enforces a limit of [Assignment: organization-defined number] consecutive invalid logon attempts by a user during a [Assignment: organization-defined time period]; and b. Automatically [Selection: locks the account/node for an [Assignment: organization-defined time period]; locks the account/node until released by an administrator; delays next logon prompt according to [Assignment: organization-defined delay algorithm]] when the maximum number of unsuccessful attempts is exceeded.Supplemental Guidance:  This control applies regardless of whether the logon occurs via a local or network connection. Due to the potential for denial of service, automatic lockouts initiated by information systems are usually temporary and automatically release after a predetermined time period established by organizations. If a delay algorithm is selected, organizations may choose to employ different algorithms for different information system components based on the capabilities of those components. Responses to unsuccessful logon attempts may be implemented at both the operating system and the application levels. Related controls: AC-2, AC-9, AC-14, IA-5.References: None.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system: a. Enforces a limit of [Assignment: organization-defined number] consecutive invalid logon attempts by a user during a [Assignment: organization-defined time period]; and b. Automatically [Selection: locks the account/node for an [Assignment: organization-defined time period]; locks the account/node until released by an administrator; delays next logon prompt according to [Assignment: organization-defined delay algorithm]] when the maximum number of unsuccessful attempts is exceeded.Supplemental Guidance:  This control applies regardless of whether the logon occurs via a local or network connection. Due to the potential for denial of service, automatic lockouts initiated by information systems are usually temporary and automatically release after a predetermined time period established by organizations. If a delay algorithm is selected, organizations may choose to employ different algorithms for different information system components based on the capabilities of those components. Responses to unsuccessful logon attempts may be implemented at both the operating system and the application levels. Related controls: AC-2, AC-9, AC-14, IA-5.References: None.", 
+    "SelectionParam": "AC-7(a)-1 [not more than three (3)] AC-7(a)-2 [fifteen (15) minutes] AC-7(b) [locks the account/node for a minimum of three (3) hours or until unlocked by an administrator]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-07", 
+    "CNTL NO": "AC-7", 
+    "AdditionalReq": "", 
+    "Control Name": "UNSUCCESSFUL LOGON ATTEMPTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

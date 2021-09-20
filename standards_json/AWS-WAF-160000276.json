@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000276",
+  "compliance_control_uri": "AWS-WAF/0016/160000276",
+  "Control Name": "COST 6.3 Select resource type and size automatically based on metrics",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Use metrics from the currently running workload to select the right size and type to optimize for cost. Appropriately provision throughput, sizing, and storage for services such as Amazon EC2, Amazon DynamoDB, Amazon EBS (PIOPS), Amazon RDS, Amazon EMR, and networking. This can be done with a feedback loop such as automatic scaling or by custom code in the workload.",
+  "control_attributes": {
+    "Control": "COST 6.3 Select resource type and size automatically based on metrics",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you meet cost targets when you select resource type, size and number?",
+    "question_id": "type-size-number-resources",
+    "choice_id": "cost_type_size_number_resources_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

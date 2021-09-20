@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000204",
+  "compliance_control_uri": "AWS-WAF/0016/160000204",
+  "Control Name": "PERF 1.2 Deﬁne a process for architectural choices",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use internal experience and knowledge of the cloud, or external resources such as published use cases, relevant documentation, or whitepapers to deﬁne a process to choose resources and services. You should deﬁne a process that encourages experimentation and benchmarking with the services that could be used in your workload.",
+  "control_attributes": {
+    "Control": "PERF 1.2 Deﬁne a process for architectural choices",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

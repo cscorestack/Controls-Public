@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000177", 
+  "control_attributes": {
+    "Control": "AC-8 SYSTEM USE NOTIFICATION", 
+    "control_description": "The information system: 1. Displays to users [Assignment: organization-defined system use notification message or banner] before granting access to the system that provides privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance and states that:1. Users are accessing a U.S. Government information system;2. Information system usage may be monitored, recorded, and subject to audit;3. Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and4. Use of the information system indicates consent to monitoring and recording;b. Retains the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the information system; andc. For publicly accessible systems:1. Displays system use information [Assignment: organization-defined conditions], before granting further access;2. Displays references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and3. Includes a description of the authorized uses of the system.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides authorized individuals (or processes acting on behalf of individuals) the capability to define or change the value of associated security attributes."
+  }, 
+  "Control Statement": "The information system: 1. Displays to users [Assignment: organization-defined system use notification message or banner] before granting access to the system that provides privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance and states that:1. Users are accessing a U.S. Government information system;2. Information system usage may be monitored, recorded, and subject to audit;3. Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and4. Use of the information system indicates consent to monitoring and recording;b. Retains the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the information system; andc. For publicly accessible systems:1. Displays system use information [Assignment: organization-defined conditions], before granting further access;2. Displays references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and3. Includes a description of the authorized uses of the system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-8 SYSTEM USE NOTIFICATION", 
+  "compliance_control_number": "600000177"
+}

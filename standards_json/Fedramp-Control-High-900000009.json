@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000009", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000009", 
+  "Control Name": "ACCOUNT MANAGEMENT | RESTRICTIONS ON USE OF SHARED GROUPS / ACCOUNTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization only permits the use of shared/group accounts that meet [Assignment: organization-defined conditions for establishing shared/group accounts].", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization only permits the use of shared/group accounts that meet [Assignment: organization-defined conditions for establishing shared/group accounts].", 
+    "SelectionParam": "AC-2 (9) [organization-defined need with justification statement that explains why such accounts are necessary]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (09)", 
+    "CNTL NO": "AC-2 (9)", 
+    "AdditionalReq": "AC-2 (9) Required if shared/group accounts are deployed", 
+    "Control Name": "ACCOUNT MANAGEMENT | RESTRICTIONS ON USE OF SHARED GROUPS / ACCOUNTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

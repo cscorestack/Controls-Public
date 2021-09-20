@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000225",
+  "compliance_control_uri": "AWS-WAF/0016/160000225",
+  "Control Name": "PERF 5.2 Evaluate available networking features",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Evaluate networking features in the cloud that may increase performance. Measure the impact of these features through testing, metrics, and analysis. For example, take advantage of network-level features that are available to reduce latency, network distance, or jitter.",
+  "control_attributes": {
+    "Control": "PERF 5.2 Evaluate available networking features",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_evaluate_features"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

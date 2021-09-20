@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000070", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000070", 
+  "Control Name": "6.3 Develop internal and external software applications (including web-based administrative access to applications) securely, as follows:\\n- In accordance with PCI DSS (for example, secure authentication and logging)\\n- Based on industry standards and/or best practices.\\n- Incorporating information security throughout the software-development life cycle Note: this applies to all software developed internally as well as bespoke or custom software developed by a third party.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.3 Develop internal and external software applications (including web-based administrative access to applications) securely, as follows:\\n- In accordance with PCI DSS (for example, secure authentication and logging)\\n- Based on industry standards and/or best practices.\\n- Incorporating information security throughout the software-development life cycle Note: this applies to all software developed internally as well as bespoke or custom software developed by a third party.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

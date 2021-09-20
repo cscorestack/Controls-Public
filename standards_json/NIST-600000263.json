@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000263", 
+  "control_attributes": {
+    "Control": "AU-16 (1) IDENTITY PRESERVATION", 
+    "control_description": "The organization requires that the identity of individuals be preserved in cross-organizational audit trails.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization conducts penetration testing [Assignment: organization-defined frequency] on [Assignment: organization-defined information systems or system components]."
+  }, 
+  "Control Statement": "The organization requires that the identity of individuals be preserved in cross-organizational audit trails.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-16 (1) IDENTITY PRESERVATION", 
+  "compliance_control_number": "600000263"
+}

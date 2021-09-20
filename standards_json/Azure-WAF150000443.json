@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000443", 
+  "compliance_control_uri": "Azure-WAF/0015/150000443", 
+  "Control Name": "5.6.8 Cloud application security broker (CASB) is leveraged in this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "CASBs provide rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all Microsoft and third-party cloud services.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.8 Cloud application security broker (CASB) is leveraged in this workload.", 
+    "Description": "CASBs provide rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all Microsoft and third-party cloud services."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

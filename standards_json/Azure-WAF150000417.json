@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000417", 
+  "compliance_control_uri": "Azure-WAF/0015/150000417", 
+  "Control Name": "5.3.8 Elevated security capabilities such as dedicated Hardware Security Modules (HSMs) or the use of Confidential Computing was implemented or considered implementing?", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Careful consideration is necessary on whether to utilize specialized security capabilities in an organization's enterprise architecture.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.8 Elevated security capabilities such as dedicated Hardware Security Modules (HSMs) or the use of Confidential Computing was implemented or considered implementing?", 
+    "Description": "Careful consideration is necessary on whether to utilize specialized security capabilities in an organization's enterprise architecture."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

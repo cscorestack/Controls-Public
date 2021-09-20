@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000041",
+  "compliance_control_uri": "AWS-WAF/0016/160000041",
+  "Control Name": "OPS 6.4 Test using limited deployments",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Test with limited deployments alongside existing systems to conﬁrm desired outcomes prior to full scale deployment. For example, use deployment canary testing or one- box deployments.",
+  "control_attributes": {
+    "Control": "OPS 6.4 Test using limited deployments",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_test_limited_deploy"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

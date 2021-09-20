@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000105",
+  "compliance_control_uri": "SOC2/0017/1700000105",
+  "Control Name": "Establishes Relevant Technology Infrastructure Control Activities—Management selects and develops control activities over the technology infrastructure, which are designed and implemented to help ensure the completeness, accuracy, and availability of technology processing.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Establishes Relevant Technology Infrastructure Control Activities—Management selects and develops control activities over the technology infrastructure, which are designed and implemented to help ensure the completeness, accuracy, and availability of technology processing.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.2 COSO Principle 11: The entity also selects and develops general control activities over technology to support the achievement of objectives.",
+    "ControlNo": "CC5.2.2",
+    "TrustID": "CC5.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

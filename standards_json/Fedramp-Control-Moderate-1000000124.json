@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000124", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000124", 
+  "Control Name": "ALTERNATE PROCESSING SITE | PRIORITY OF SERVICE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).Supplemental Guidance:  Priority-of-service agreements refer to negotiated agreements with service providers that ensure that organizations receive priority treatment consistent with their availability requirements and the availability of information resources at the alternate processing site.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).Supplemental Guidance:  Priority-of-service agreements refer to negotiated agreements with service providers that ensure that organizations receive priority treatment consistent with their availability requirements and the availability of information resources at the alternate processing site.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-07 (03)", 
+    "CNTL NO": "CP-7 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "ALTERNATE PROCESSING SITE | PRIORITY OF SERVICE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

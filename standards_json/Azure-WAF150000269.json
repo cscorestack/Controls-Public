@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000269", 
+  "compliance_control_uri": "Azure-WAF/0015/150000269", 
+  "Control Name": "3.8.2 You have defined an initial connection goal for your workload.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "It would be helpful to determine a goal that is based upon from when the connection reaches the server, to when the service spins/cycles up, to providing a response. By establishing this baseline, you and your customer can determine if adequate resources have been assigned to the machine. These resources can included, but are not limited to processors, RAM, and disk IOPS. Finally, creating rules for 'Always-On' or properly configuring idle time-outs (e.g. IIS, containers, etc.) will be especially helpful for optimizing response times.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.2 You have defined an initial connection goal for your workload.", 
+    "Description": "It would be helpful to determine a goal that is based upon from when the connection reaches the server, to when the service spins/cycles up, to providing a response. By establishing this baseline, you and your customer can determine if adequate resources have been assigned to the machine. These resources can included, but are not limited to processors, RAM, and disk IOPS. Finally, creating rules for 'Always-On' or properly configuring idle time-outs (e.g. IIS, containers, etc.) will be especially helpful for optimizing response times."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

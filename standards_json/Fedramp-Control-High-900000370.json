@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000370", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000370", 
+  "Control Name": "COLLABORATIVE COMPUTING DEVICES", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system: a. Prohibits remote activation of collaborative computing devices with the following exceptions: [Assignment: organization-defined exceptions where remote activation is to be allowed]; and b. Provides an explicit indication of use to users physically present at the devices.Supplemental Guidance:  Collaborative computing devices include, for example, networked white boards, cameras, and microphones. Explicit indication of use includes, for example, signals to users when collaborative computing devices are activated. Related control: AC-21.References: None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system: a. Prohibits remote activation of collaborative computing devices with the following exceptions: [Assignment: organization-defined exceptions where remote activation is to be allowed]; and b. Provides an explicit indication of use to users physically present at the devices.Supplemental Guidance:  Collaborative computing devices include, for example, networked white boards, cameras, and microphones. Explicit indication of use includes, for example, signals to users when collaborative computing devices are activated. Related control: AC-21.References: None.", 
+    "SelectionParam": "SC-15 (a) [no exceptions]", 
+    "FedRampParam": "x", 
+    "SORTID": "SC-15", 
+    "CNTL NO": "SC-15", 
+    "AdditionalReq": "SC-15 Requirement: The information system provides disablement (instead of physical disconnect) of collaborative computing devices in a manner that supports ease of use.", 
+    "Control Name": "COLLABORATIVE COMPUTING DEVICES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

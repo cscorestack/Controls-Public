@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000349", 
+  "control_attributes": {
+    "Control": "CP-9 (3) SEPARATE STORAGE FOR CRITICAL INFORMATION", 
+    "control_description": "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system, when [Assignment: organization-defined conditions] are detected, enters a safe mode of operation with [Assignment: organization-defined restrictions of safe mode of operation]."
+  }, 
+  "Control Statement": "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 (3) SEPARATE STORAGE FOR CRITICAL INFORMATION", 
+  "compliance_control_number": "600000349"
+}

@@ -1,0 +1,82 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000268",
+  "compliance_control_uri": "AC3-v-01/0000/110000268",
+  "Control Name": "CP-2 (8) IDENTIFY CRITICAL ASSETS",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization identifies critical information system assets supporting essential missions and business functions.",
+  "control_attributes": {
+    "Control Name": "CP-2 (8) IDENTIFY CRITICAL ASSETS",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization identifies critical information system assets supporting essential missions and business functions."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Databases, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000323",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000106",
+      "Fedramp-Control-Moderate/0010/1000000114",
+      "Fedramp-Control-High/0009/900000152",
+      "ISO/0001/100000003",
+      "ISO/0001/100000082",
+      "CIS-Azure/0003/300000037",
+      "CIS-Azure/0015/150000098",
+      "AWS-WAF/0016/160000008",
+      "AWS-WAF/0016/160000119",
+      "Azure-WAF/0015/150000490",
+      "ISO-27001/0011/1100000017",
+      "ISO/0001/100000016"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/consumption/vm/gpana",
+        "policy_name": "Azure_Enforce_Tag",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/oz8UV",
+        "policy_name": "AWS_Required_Tags",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/o4nzz",
+        "policy_name": "Azure_Audit_Critical_Resource_Locks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "Azure_Enforce_Tag",
+        "policy_uri": "policy/azure_policy/global/azure/consumption/vm/gpana",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Required_Tags",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/oz8UV",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

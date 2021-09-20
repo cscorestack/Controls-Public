@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000026", 
+  "control_attributes": {
+    "Control": "CM-2 BASELINE CONFIGURATION", 
+    "control_description": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization reviews and updates the baseline configuration of the information system:"
+  }, 
+  "Control Statement": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-2 BASELINE CONFIGURATION", 
+  "compliance_control_number": "600000026"
+}

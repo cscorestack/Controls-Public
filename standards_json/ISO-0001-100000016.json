@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000016", 
+  "compliance_control_uri": "ISO/0001/100000015", 
+  "Control Name": "8.1.1 Inventory of assets", 
+  "Control Family": "8. Asset management", 
+  "Control Statement": "All assets shall be clearly identified and an inventory of all important assets drawn up and maintained", 
+  "control_attributes": {
+    "Control_Objective": "8.1.1 Inventory of assets", 
+    "Security_Control_Clause": "8. Asset management", 
+    "Security_Category": "8.1 Responsibility for assets", 
+    "description": "All assets shall be clearly identified and an inventory of all important assets drawn up and maintained"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000036", 
+  "compliance_control_uri": "CIS-Azure/0015/150000036", 
+  "Control Name": "2.13 Ensure 'Additional email addresses' is configured with a security contact email", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "Security Center emails the subscription owners whenever a high-severity alert is triggered for their subscription. You should provide a security contact email address as an additional email address.", 
+  "control_attributes": {
+    "Control": "2.13 Ensure 'Additional email addresses' is configured with a security contact email", 
+    "Control_Clause": "2 Security Center", 
+    "description": "Security Center emails the subscription owners whenever a high-severity alert is triggered for their subscription. You should provide a security contact email address as an additional email address."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

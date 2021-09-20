@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000647", 
+  "control_attributes": {
+    "Control": "SA-21 DEVELOPER SCREENING", 
+    "control_description": "The organization requires that the developer of [Assignment: organization-defined information system, system component, or information system service]:", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system utilizes underlying hardware separation mechanisms to implement security function isolation."
+  }, 
+  "Control Statement": "The organization requires that the developer of [Assignment: organization-defined information system, system component, or information system service]:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-21 DEVELOPER SCREENING", 
+  "compliance_control_number": "600000647"
+}

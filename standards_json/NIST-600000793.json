@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000793", 
+  "control_attributes": {
+    "Control": "SI-7 (15) CODE AUTHENTICATION", 
+    "control_description": "The information system implements cryptographic mechanisms to authenticate [Assignment: organization-defined software or firmware components] prior to installation.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization does not allow processes to execute without supervision for more than [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The information system implements cryptographic mechanisms to authenticate [Assignment: organization-defined software or firmware components] prior to installation.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-7 (15) CODE AUTHENTICATION", 
+  "compliance_control_number": "600000793"
+}

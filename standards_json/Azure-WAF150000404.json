@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000404", 
+  "compliance_control_uri": "Azure-WAF/0015/150000404", 
+  "Control Name": "5.2.5 Compliance for this workload is systematically monitored and maintained. ", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Regular compliance attestations are performed.Knowing whether your cloud resources are in compliance with standards mandated by governments or industry organizations is essential in today's globalized world (e.g. GDPR). Continuous monitoring and assessing workload increases the overall security and compliance of your workload in Azure. For example Azure Security Center provides a regulatory compliance dashboard.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.5 Compliance for this workload is systematically monitored and maintained. ", 
+    "Description": "Regular compliance attestations are performed.Knowing whether your cloud resources are in compliance with standards mandated by governments or industry organizations is essential in today's globalized world (e.g. GDPR). Continuous monitoring and assessing workload increases the overall security and compliance of your workload in Azure. For example Azure Security Center provides a regulatory compliance dashboard."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

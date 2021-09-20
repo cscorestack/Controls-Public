@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000199", 
+  "compliance_control_uri": "Azure-WAF/0015/150000199", 
+  "Control Name": "2.16.13 Keys and secrets are backed-up to geo-redundant storage.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Keys and secrets must still be available in a failover case.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.13 Keys and secrets are backed-up to geo-redundant storage.", 
+    "Description": "Keys and secrets must still be available in a failover case."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

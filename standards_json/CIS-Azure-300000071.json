@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000071", 
+  "compliance_control_uri": "CIS-Azure/0003/300000071", 
+  "Control Name": "3.5. Ensure that shared access signature tokens are allowed only over https", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "Shared access signature tokens should be allowed only over HTTPS protocol.", 
+  "control_attributes": {
+    "Control": "3.5. Ensure that shared access signature tokens are allowed only over https", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "Shared access signature tokens should be allowed only over HTTPS protocol."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

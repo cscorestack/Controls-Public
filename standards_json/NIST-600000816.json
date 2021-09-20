@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000816", 
+  "control_attributes": {
+    "Control": "PM-6 INFORMATION SECURITY MEASURES OF PERFORMANCE", 
+    "control_description": "The organization develops, monitors, and reports on the results of information security measures of performance.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization develops and maintains an inventory of its information systems."
+  }, 
+  "Control Statement": "The organization develops, monitors, and reports on the results of information security measures of performance.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-6 INFORMATION SECURITY MEASURES OF PERFORMANCE", 
+  "compliance_control_number": "600000816"
+}

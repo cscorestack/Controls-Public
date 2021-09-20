@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000123", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000123", 
+  "Control Name": "Document and communicate authentication procedures and policies to all users including:\\n- Guidance on selecting strong authentication credentials\\n- Guidance for how users should protect their authentication credentials\\n- Instructions not to reuse previously used passwords\\n- Instructions to change passwords if there is any suspicion the password could be compromised.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Document and communicate authentication procedures and policies to all users including:\\n- Guidance on selecting strong authentication credentials\\n- Guidance for how users should protect their authentication credentials\\n- Instructions not to reuse previously used passwords\\n- Instructions to change passwords if there is any suspicion the password could be compromised.", 
+    "Requirement": "8.4.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

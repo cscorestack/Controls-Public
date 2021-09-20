@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000047", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000047", 
+  "Control Name": "3.5.4 Store cryptographic keys in the fewest possible locations", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.5.4 Store cryptographic keys in the fewest possible locations", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

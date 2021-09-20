@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000066", 
+  "compliance_control_uri": "ISO/0001/100000042", 
+  "Control Name": "12.4.4 Clock synchronization", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "The clocks of all relevant information processing systems within an organization or security domain shall be synchronized with an agreed accurate time source", 
+  "control_attributes": {
+    "Control_Objective": "12.4.4 Clock synchronization", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.4 Logging and monitoring", 
+    "description": "The clocks of all relevant information processing systems within an organization or security domain shall be synchronized with an agreed accurate time source"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

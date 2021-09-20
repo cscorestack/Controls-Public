@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000651", 
+  "control_attributes": {
+    "Control": "SC-1 SYSTEM AND COMMUNICATIONS PROTECTION POLICY AND PROCEDURES", 
+    "control_description": "The organization:                                                                                                                                         a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; andb. Reviews and updates the current:1. System and communications protection policy [Assignment: organization-defined frequency]; and2. System and communications protection procedures [Assignment: organization-defined frequency].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers."
+  }, 
+  "Control Statement": "The organization:                                                                                                                                         a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; andb. Reviews and updates the current:1. System and communications protection policy [Assignment: organization-defined frequency]; and2. System and communications protection procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-1 SYSTEM AND COMMUNICATIONS PROTECTION POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000651"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000035", 
+  "compliance_control_uri": "CIS-Azure/0003/300000035", 
+  "Control Name": "7.5. Ensure that the latest OS Patches for all Virtual Machines are applied ", 
+  "Control Family": "7. Virtual Machines", 
+  "Control Statement": "Ensure that the latest OS patches for all virtual machines are applied.", 
+  "control_attributes": {
+    "Control": "7.5. Ensure that the latest OS Patches for all Virtual Machines are applied ", 
+    "Control_Clause": "7. Virtual Machines", 
+    "description": "Ensure that the latest OS patches for all virtual machines are applied."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

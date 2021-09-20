@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000161", 
+  "control_attributes": {
+    "Control": "AC-4 (19) VALIDATION OF METADATA", 
+    "control_description": "The information system, when transferring information between different security domains, applies the same security policy filtering to metadata as it applies to data payloads.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system prevents non-privileged users from executing privileged functions to include disabling, circumventing, or altering implemented security safeguards/countermeasures."
+  }, 
+  "Control Statement": "The information system, when transferring information between different security domains, applies the same security policy filtering to metadata as it applies to data payloads.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (19) VALIDATION OF METADATA", 
+  "compliance_control_number": "600000161"
+}

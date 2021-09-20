@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000016", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000016", 
+  "Control Name": "2.1 Ensure that Cloud Audit Logging is configured properly across all services and all users from a project", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "It is recommended that Cloud Audit Logging is configured to track all admin activities and read, write access to user data.", 
+  "control_attributes": {
+    "Control": "2.1 Ensure that Cloud Audit Logging is configured properly across all services and all users from a project", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "It is recommended that Cloud Audit Logging is configured to track all admin activities and read, write access to user data."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

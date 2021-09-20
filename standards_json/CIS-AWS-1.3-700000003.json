@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000003", 
+  "compliance_control_uri": "CIS-AWS/0007/700000003", 
+  "Control Name": "1.3 Ensure security questions are registered in the AWS account", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "The AWS support portal allows account owners to establish security questions that can be used to authenticate individuals calling AWS customer service for support. It is recommended that security questions be established.", 
+  "control_attributes": {
+    "Control": "1.3 Ensure security questions are registered in the AWS account", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "The AWS support portal allows account owners to establish security questions that can be used to authenticate individuals calling AWS customer service for support. It is recommended that security questions be established."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

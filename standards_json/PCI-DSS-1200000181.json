@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000181", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000181", 
+  "Control Name": "Review logs of all other system components periodically based on the organization\\u2019s policies and risk management strategy, as determined by the organization\\u2019s annual risk assessment.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Review logs of all other system components periodically based on the organization\\u2019s policies and risk management strategy, as determined by the organization\\u2019s annual risk assessment.", 
+    "Requirement": "10.6.2. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

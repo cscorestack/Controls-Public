@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000046",
+  "compliance_control_uri": "SOC2/0017/1700000046",
+  "Control Name": "Selects Relevant Method of Communication—The method of communication considers the timing, audience, and nature of the communication and legal, regulatory, and fiduciary requirements and expectations. ",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Selects Relevant Method of Communication—The method of communication considers the timing, audience, and nature of the communication and legal, regulatory, and fiduciary requirements and expectations. ",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.5",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

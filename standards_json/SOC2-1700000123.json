@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000123",
+  "compliance_control_uri": "SOC2/0017/1700000123",
+  "Control Name": "Protects Encryption Keys—Processes are in place to protect encryption keys during generation, storage, use, and destruction.",
+  "Control Family": "Logical and Physical Access Controls",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Protects Encryption Keys—Processes are in place to protect encryption keys during generation, storage, use, and destruction.",
+    "Category": "Logical and Physical Access Controls",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC6.1 The entity implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the entity’s objectives",
+    "ControlNo": "CC6.1.10",
+    "TrustID": "CC6.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

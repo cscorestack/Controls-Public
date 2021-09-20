@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000080",
+  "compliance_control_uri": "AWS-WAF/0016/160000080",
+  "Control Name": "OPS 11.7 Perform operations metrics reviews",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Regularly perform retrospective analysis of operations metrics with cross-team participants from diﬀerent areas of the business. Use these reviews to identify opportunities for improvement, potential courses of action, and to share lessons learned.",
+  "control_attributes": {
+    "Control": "OPS 11.7 Perform operations metrics reviews",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_metrics_review"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

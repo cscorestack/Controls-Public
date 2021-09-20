@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000093", 
+  "compliance_control_uri": "Azure-WAF/0015/150000093", 
+  "Control Name": "2.3.8 Any application components which are less critical and have lower availability or performance requirements are well understood", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are there any application components which are less critical and have lower availability or performance requirements?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.8 Any application components which are less critical and have lower availability or performance requirements are well understood", 
+    "Description": "Are there any application components which are less critical and have lower availability or performance requirements?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

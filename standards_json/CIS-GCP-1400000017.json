@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000017", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000017", 
+  "Control Name": "2.2 Ensure that sinks are configured for all log entries", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "It is recommended to create a sink that will export copies of all the log entries. This can help aggregate logs from multiple projects and export them to a Security Information and Event Management (SIEM).", 
+  "control_attributes": {
+    "Control": "2.2 Ensure that sinks are configured for all log entries", 
+    "Security_Category": "Logging and Monitoring", 
+    "Control_description": "It is recommended to create a sink that will export copies of all the log entries. This can help aggregate logs from multiple projects and export them to a Security Information and Event Management (SIEM)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

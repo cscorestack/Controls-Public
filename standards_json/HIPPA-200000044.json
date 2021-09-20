@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000044", 
+  "compliance_control_uri": "HIPAA/0002/200000044", 
+  "Control Name": "Information Access Management  Isolating Healthcare Clearinghouse Functions - 164.308(a)(4)(ii)(A)", 
+  "Control Family": "Information Access Management", 
+  "Control Statement": "If a health care clearinghouse is part of a larger organization, the clearinghouse must implement policies and procedures that protect the electronic protected health information of the clearinghouse from unauthorized access by the larger organization.", 
+  "control_attributes": {
+    "Control": "Information Access Management  Isolating Healthcare Clearinghouse Functions - 164.308(a)(4)(ii)(A)", 
+    "Security_Category": "Information Access Management", 
+    "Control_description": "If a health care clearinghouse is part of a larger organization, the clearinghouse must implement policies and procedures that protect the electronic protected health information of the clearinghouse from unauthorized access by the larger organization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000070", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000070", 
+  "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES | AUDIT STORAGE CAPACITY", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system provides a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit record storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit record storage capacity.Supplemental Guidance:  Organizations may have multiple audit data storage repositories distributed across multiple information system components, with each repository having different storage volume capacities.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system provides a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit record storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit record storage capacity.Supplemental Guidance:  Organizations may have multiple audit data storage repositories distributed across multiple information system components, with each repository having different storage volume capacities.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AU-05 (01)", 
+    "CNTL NO": "AU-5 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "RESPONSE TO AUDIT PROCESSING FAILURES | AUDIT STORAGE CAPACITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000233", 
+  "control_attributes": {
+    "Control": "AU-4 (1) TRANSFER TO ALTERNATE STORAGE", 
+    "control_description": "The information system off-loads audit records [Assignment: organization-defined frequency] onto a different system or media than the system being audited.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system identifies a secondary authoritative time source that is located in a different geographic region than the primary authoritative time source."
+  }, 
+  "Control Statement": "The information system off-loads audit records [Assignment: organization-defined frequency] onto a different system or media than the system being audited.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-4 (1) TRANSFER TO ALTERNATE STORAGE", 
+  "compliance_control_number": "600000233"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000113", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000113", 
+  "Control Name": "In addition to assigning a unique ID, ensure proper user-authentication management for non-consumer users and administrators on all system components by employing at least one of the following methods to authenticate all users:\\n- Something you know, such as a password or passphrase\\n- Something you have, such as a token device or smart card\\n- Something you are, such as a biometric.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "In addition to assigning a unique ID, ensure proper user-authentication management for non-consumer users and administrators on all system components by employing at least one of the following methods to authenticate all users:\\n- Something you know, such as a password or passphrase\\n- Something you have, such as a token device or smart card\\n- Something you are, such as a biometric.", 
+    "Requirement": "8.2.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

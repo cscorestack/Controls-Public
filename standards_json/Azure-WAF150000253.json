@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000253", 
+  "compliance_control_uri": "Azure-WAF/0015/150000253", 
+  "Control Name": "3.6.2 You have documented plans for data growth and retention.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "The amount of data stored by an application grows over time, how are you going to handle that growth?", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.2 You have documented plans for data growth and retention.", 
+    "Description": "The amount of data stored by an application grows over time, how are you going to handle that growth?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

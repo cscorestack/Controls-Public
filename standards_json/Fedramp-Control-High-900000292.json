@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000292", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000292", 
+  "Control Name": "SYSTEM SECURITY PLAN | PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES", 
+  "Control Family": "PLANNING", 
+  "Control Statement": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities.Supplemental Guidance:  Security-related activities include, for example, security assessments, audits, hardware and software maintenance, patch management, and contingency plan testing. Advance planning and coordination includes emergency and nonemergency (i.e., planned or nonurgent unplanned) situations. The process defined by organizations to plan and coordinate security-related activities can be included in security plans for information systems or other documents, as appropriate. Related controls: CP-4, IR-4.", 
+  "control_attributes": {
+    "Category": "PLANNING", 
+    "description": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities.Supplemental Guidance:  Security-related activities include, for example, security assessments, audits, hardware and software maintenance, patch management, and contingency plan testing. Advance planning and coordination includes emergency and nonemergency (i.e., planned or nonurgent unplanned) situations. The process defined by organizations to plan and coordinate security-related activities can be included in security plans for information systems or other documents, as appropriate. Related controls: CP-4, IR-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PL-02 (03)", 
+    "CNTL NO": "PL-2 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SYSTEM SECURITY PLAN | PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

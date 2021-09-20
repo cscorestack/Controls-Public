@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000197", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000197", 
+  "Control Name": "Exploitable vulnerabilities found during penetration testing are corrected and testing is repeated to verify the corrections.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Exploitable vulnerabilities found during penetration testing are corrected and testing is repeated to verify the corrections.", 
+    "Requirement": "11.3.3.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

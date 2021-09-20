@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000257", 
+  "compliance_control_uri": "Azure-WAF/0015/150000257", 
+  "Control Name": "3.6.6 Normalize the data appropriately.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Data normalization helps to avoid duplication and inconsistency.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.6 Normalize the data appropriately.", 
+    "Description": "Data normalization helps to avoid duplication and inconsistency."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

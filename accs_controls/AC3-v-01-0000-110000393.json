@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000393",
+  "compliance_control_uri": "AC3-v-01/0000/110000393",
+  "Control Name": "MA-2 CONTROLLED MAINTENANCE",
+  "Control Family": "MAINTENANCE",
+  "Control Statement": "The organization: a. Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;b. Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;c. Requires that [Assignment: organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;d. Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;e. Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; andf. Includes [Assignment: organization-defined maintenance-related information] in organizational maintenance records",
+  "control_attributes": {
+    "Control Name": "MA-2 CONTROLLED MAINTENANCE",
+    "Control Family": "MAINTENANCE",
+    "Control Statement": "The organization: a. Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;b. Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;c. Requires that [Assignment: organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;d. Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;e. Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; andf. Includes [Assignment: organization-defined maintenance-related information] in organizational maintenance records"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000439",
+      "ISO-27001/0011/1100000051",
+      "ISO-27001/0011/1100000052",
+      "Fedramp-Control-Moderate/0010/1000000177",
+      "Fedramp-Control-High/0009/900000238",
+      "HIPAA/0002/200000060",
+      "ISO/0001/100000112",
+      "ISO/0001/100000113"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

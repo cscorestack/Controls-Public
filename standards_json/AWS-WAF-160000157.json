@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000157",
+  "compliance_control_uri": "AWS-WAF/0016/160000157",
+  "Control Name": "REL 5.1 Implement graceful degradation to transform applicable hard dependencies into soft dependencies",
+  "Control Family": "Reliability",
+  "Control Statement": "When a component's dependencies are unhealthy, the component itself can still function, although in a degraded manner. For example, when a dependency call fails, failover to a predetermined static response.",
+  "control_attributes": {
+    "Control": "REL 5.1 Implement graceful degradation to transform applicable hard dependencies into soft dependencies",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_graceful_degradation"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

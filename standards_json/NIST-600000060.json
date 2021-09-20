@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000060", 
+  "control_attributes": {
+    "Control": "SI-4 INFORMATION SYSTEM MONITORING", 
+    "control_description": "The organization:a. Monitors the information system to detect:1. Attacks and indicators of potential attacks in accordance with [Assignment: organization-defined monitoring objectives]; and2. Unauthorized local, network, and remote connections;b. Identifies unauthorized use of the information system through [Assignment: organization-defined techniques and methods];c. Deploys monitoring devices:1. Strategically within the information system to collect organization-determined essential information; and2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;d. Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;e. Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;f. Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; andg. Provides [Assignment: organization-defined information system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection (one or more): as needed; [Assignment: organization-defined frequency]].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization:a. Monitors the information system to detect:1. Attacks and indicators of potential attacks in accordance with [Assignment: organization-defined monitoring objectives]; and2. Unauthorized local, network, and remote connections;b. Identifies unauthorized use of the information system through [Assignment: organization-defined techniques and methods];c. Deploys monitoring devices:1. Strategically within the information system to collect organization-determined essential information; and2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;d. Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;e. Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;f. Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; andg. Provides [Assignment: organization-defined information system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection (one or more): as needed; [Assignment: organization-defined frequency]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 INFORMATION SYSTEM MONITORING", 
+  "compliance_control_number": "600000060"
+}

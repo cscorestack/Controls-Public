@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000397", 
+  "compliance_control_uri": "Azure-WAF/0015/150000397", 
+  "Control Name": "5.1.5 Threat protection was addressed for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Enterprise workloads are subjected to many threats that can jeopardize confidentiality, availability, or integrity and should be protected with advanced security solutions.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.1 Have you done a threat analysis of your workload?", 
+    "Control": "5.1.5 Threat protection was addressed for this workload.", 
+    "Description": "Enterprise workloads are subjected to many threats that can jeopardize confidentiality, availability, or integrity and should be protected with advanced security solutions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

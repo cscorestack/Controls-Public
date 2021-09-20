@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000201",
+  "compliance_control_uri": "AWS-WAF/0016/160000201",
+  "Control Name": "REL 13.4 Manage conﬁguration drift at the DR site or region",
+  "Control Family": "Reliability",
+  "Control Statement": "Ensure that the infrastructure, data, and conﬁguration are as needed at the DR site or region. For example, check that AMIs and service quotas are up to date.",
+  "control_attributes": {
+    "Control": "REL 13.4 Manage conﬁguration drift at the DR site or region",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan for disaster recovery (DR)?",
+    "question_id": "planning-for-recovery",
+    "choice_id": "rel_planning_for_recovery_config_drift"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000197", 
+  "control_attributes": {
+    "Control": "AC-16 (10) ATTRIBUTE CONFIGURATION BY AUTHORIZED INDIVIDUALS", 
+    "control_description": "The information system provides authorized individuals the capability to define or change the type and value of security attributes available for association with subjects and objects.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system provides authorized individuals the capability to define or change the type and value of security attributes available for association with subjects and objects.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (10) ATTRIBUTE CONFIGURATION BY AUTHORIZED INDIVIDUALS", 
+  "compliance_control_number": "600000197"
+}

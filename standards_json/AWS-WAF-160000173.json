@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000173",
+  "compliance_control_uri": "AWS-WAF/0016/160000173",
+  "Control Name": "REL 7.3 Obtain resources upon detection that more resources are needed for a workload",
+  "Control Family": "Reliability",
+  "Control Statement": "Scale resources proactively to meet demand and avoid availability impact.",
+  "control_attributes": {
+    "Control": "REL 7.3 Obtain resources upon detection that more resources are needed for a workload",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to adapt to changes in demand?",
+    "question_id": "adapt-to-changes",
+    "choice_id": "rel_adapt_to_changes_proactive_adapt_auto"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

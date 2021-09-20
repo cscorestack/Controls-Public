@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000279", 
+  "compliance_control_uri": "Azure-WAF/0015/150000279", 
+  "Control Name": "3.9.4 The health model can distinguish between transient and non-transient faults.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "The health model should clearly distinguish between expected-transient but recoverable failures and a true disaster state.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.4 The health model can distinguish between transient and non-transient faults.", 
+    "Description": "The health model should clearly distinguish between expected-transient but recoverable failures and a true disaster state."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000050", 
+  "compliance_control_uri": "HIPAA/0002/200000050", 
+  "Control Name": "Security Awareness, Training, and Tools  Password Management - 164.308(a)(5)(ii)(D)", 
+  "Control Family": "Security Awareness and Training", 
+  "Control Statement": "Procedures for creating, changing, and safeguarding passwords.", 
+  "control_attributes": {
+    "Control": "Security Awareness, Training, and Tools  Password Management - 164.308(a)(5)(ii)(D)", 
+    "Security_Category": "Security Awareness and Training", 
+    "Control_description": "Procedures for creating, changing, and safeguarding passwords."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

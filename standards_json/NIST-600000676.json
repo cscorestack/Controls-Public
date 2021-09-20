@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000676", 
+  "control_attributes": {
+    "Control": "SC-7 (18) FAIL SECURE", 
+    "control_description": "The information system fails securely in the event of an operational failure of a boundary protection device.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system maintains the [Selection (one or more): confidentiality; integrity] of information during preparation for transmission and during reception."
+  }, 
+  "Control Statement": "The information system fails securely in the event of an operational failure of a boundary protection device.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (18) FAIL SECURE", 
+  "compliance_control_number": "600000676"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000219",
+  "compliance_control_uri": "AWS-WAF/0016/160000219",
+  "Control Name": "PERF 4.1 Understand data characteristics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Understand the diﬀerent characteristics of data in your workload. Determine if the workload requires transactions, how it interacts with data, and what its performance demands are. Use this data to select the best performing database approach for your workload (for example, relational databases, NoSQL Key-value, document, wide column, graph, time series, or in- memory storage).",
+  "control_attributes": {
+    "Control": "PERF 4.1 Understand data characteristics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your database solution?",
+    "question_id": "right-database-solution",
+    "choice_id": "perf_right_database_solution_understand_char"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

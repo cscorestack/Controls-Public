@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000020", 
+  "compliance_control_uri": "Azure-WAF/0015/150000020", 
+  "Control Name": "1.2.11 Azure Tags are used to enrich Azure resources with operational metadata.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Azure Tags provide the ability to associate critical meta-data as a name-value pair, such as billing information (e.g. cost center code), environment information (e.g. environment type), with Azure resources, resource groups, and subscriptions. See Tagging Strategies for best practices. Using tags can help manage resources and make it easier to find relevant items during operational procedures.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.11 Azure Tags are used to enrich Azure resources with operational metadata.", 
+    "Description": "Azure Tags provide the ability to associate critical meta-data as a name-value pair, such as billing information (e.g. cost center code), environment information (e.g. environment type), with Azure resources, resource groups, and subscriptions. See Tagging Strategies for best practices. Using tags can help manage resources and make it easier to find relevant items during operational procedures."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

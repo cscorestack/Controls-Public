@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000032", 
+  "compliance_control_uri": "CIS-AWS/0007/700000032", 
+  "Control Name": "3.7 Ensure CloudTrail logs are encrypted at rest using KMS CMKs", 
+  "Control Family": "Logging", 
+  "Control Statement": "It is recommended that CloudTrail be configured to use SSE-KMS. Configuring CloudTrail to use SSE-KMS provides additional confidentiality controls on log data as a given user must have S3 read permission on the corresponding log bucket and must be granted decrypt permission by the CMK policy.", 
+  "control_attributes": {
+    "Control": "3.7 Ensure CloudTrail logs are encrypted at rest using KMS CMKs", 
+    "Category": "Logging", 
+    "Control_description": "It is recommended that CloudTrail be configured to use SSE-KMS. Configuring CloudTrail to use SSE-KMS provides additional confidentiality controls on log data as a given user must have S3 read permission on the corresponding log bucket and must be granted decrypt permission by the CMK policy."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

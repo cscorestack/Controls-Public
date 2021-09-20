@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000054", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000054", 
+  "Control Name": "PUBLICLY ACCESSIBLE CONTENT", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system; b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information; c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; and d. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.Supplemental Guidance:  In accordance with federal laws, Executive Orders, directives, policies, regulations, standards, and/or guidance, the general public is not authorized access to nonpublic information (e.g., information protected under the Privacy Act and proprietary information). This control addresses information systems that are controlled by the organization and accessible to the general public, typically without identification or authentication. The posting of information onnon-organization information systems is covered by organizational policy. Related controls: AC-3, AC-4, AT-2, AT-3, AU-13.Control Enhancements: None.References: None.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system; b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information; c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; and d. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.Supplemental Guidance:  In accordance with federal laws, Executive Orders, directives, policies, regulations, standards, and/or guidance, the general public is not authorized access to nonpublic information (e.g., information protected under the Privacy Act and proprietary information). This control addresses information systems that are controlled by the organization and accessible to the general public, typically without identification or authentication. The posting of information onnon-organization information systems is covered by organizational policy. Related controls: AC-3, AC-4, AT-2, AT-3, AU-13.Control Enhancements: None.References: None.", 
+    "SelectionParam": "AC-22 (d) [at least quarterly]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-22", 
+    "CNTL NO": "AC-22", 
+    "AdditionalReq": " ", 
+    "Control Name": "PUBLICLY ACCESSIBLE CONTENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

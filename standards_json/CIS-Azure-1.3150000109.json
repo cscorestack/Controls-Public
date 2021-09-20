@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000109", 
+  "compliance_control_uri": "CIS-Azure/0015/150000109", 
+  "Control Name": "9.9 Ensure that 'HTTP Version' is the latest, if used to run the web app", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "Periodically, newer versions are released for HTTP either due to security flaws or to include additional functionality. Using the latest HTTP version for web apps to take advantage of security fixes, if any, and/or new functionalities of the newer version.", 
+  "control_attributes": {
+    "Control": "9.9 Ensure that 'HTTP Version' is the latest, if used to run the web app", 
+    "Control_Clause": "9 AppService", 
+    "description": "Periodically, newer versions are released for HTTP either due to security flaws or to include additional functionality. Using the latest HTTP version for web apps to take advantage of security fixes, if any, and/or new functionalities of the newer version."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

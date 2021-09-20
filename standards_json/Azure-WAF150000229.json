@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000229", 
+  "compliance_control_uri": "Azure-WAF/0015/150000229", 
+  "Control Name": "3.2.2 There are well-defined performance requirements for the workload and its key scenarios.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Non-functional performance requirements, such as those relating to end-user experiences (e.g. average and maximum response times) are vital to assessing the overall health of an application, and is a critical lens required for assessing operations.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.2 Have you identified the performance targets and non-functional requirements for your workload?", 
+    "Control": "3.2.2 There are well-defined performance requirements for the workload and its key scenarios.", 
+    "Description": "Non-functional performance requirements, such as those relating to end-user experiences (e.g. average and maximum response times) are vital to assessing the overall health of an application, and is a critical lens required for assessing operations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

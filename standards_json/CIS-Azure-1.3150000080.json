@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000080", 
+  "compliance_control_uri": "CIS-Azure/0015/150000080", 
+  "Control Name": "5.2.8 Ensure that Activity Log Alert exists for Delete Security Solution", 
+  "Control Family": "5 Logging and Monitoring", 
+  "Control Statement": "Create an activity log alert for the Delete Security Solution event.", 
+  "control_attributes": {
+    "Control": "5.2.8 Ensure that Activity Log Alert exists for Delete Security Solution", 
+    "Control_Clause": "5 Logging and Monitoring", 
+    "description": "Create an activity log alert for the Delete Security Solution event."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

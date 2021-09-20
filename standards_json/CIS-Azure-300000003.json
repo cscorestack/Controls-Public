@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000003", 
+  "compliance_control_uri": "CIS-Azure/0003/300000003", 
+  "Control Name": "2.4. Ensure ASC Default policy setting 'Monitor OS Vulnerabilities' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "When this setting is enabled, it analyzes operating system configurations daily to determine issues that could make the virtual machine vulnerable to attack. The policy also recommends configuration changes to address these vulnerabilities", 
+  "control_attributes": {
+    "Control": "2.4. Ensure ASC Default policy setting 'Monitor OS Vulnerabilities' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "When this setting is enabled, it analyzes operating system configurations daily to determine issues that could make the virtual machine vulnerable to attack. The policy also recommends configuration changes to address these vulnerabilities"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000175", 
+  "compliance_control_uri": "Azure-WAF/0015/150000175", 
+  "Control Name": "2.14.10 Security and penetration testing is performed regularly", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What degree of security testing is performed?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.10 Security and penetration testing is performed regularly", 
+    "Description": "What degree of security testing is performed?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

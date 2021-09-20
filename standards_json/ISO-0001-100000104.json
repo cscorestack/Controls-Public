@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000104", 
+  "compliance_control_uri": "ISO/0001/100000079", 
+  "Control Name": "17.1.2 Implementing information security continuity", 
+  "Control Family": "17. Information security aspects of business continuity management", 
+  "Control Statement": "Plans shall be developed and implemented to maintain or restore operations and ensure availability of information at the required level and in the required time scales following interruption to, or failure of, critical business processes", 
+  "control_attributes": {
+    "Control_Objective": "17.1.2 Implementing information security continuity", 
+    "Security_Control_Clause": "17. Information security aspects of business continuity management", 
+    "Security_Category": "17.1 Information Security Continuity", 
+    "description": "Plans shall be developed and implemented to maintain or restore operations and ensure availability of information at the required level and in the required time scales following interruption to, or failure of, critical business processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

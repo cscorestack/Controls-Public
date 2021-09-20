@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000232", 
+  "compliance_control_uri": "Azure-WAF/0015/150000232", 
+  "Control Name": "3.3.1 The workload can scale horizontally in response to changing load.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "A scale-unit approach should be taken to ensure that each application component and the application as a whole can scale effectively in response to changing demand. A robust capacity model should be used to define when and how the application should scale.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.3 How are you ensuring that your workload is elastic and responsive to changes?", 
+    "Control": "3.3.1 The workload can scale horizontally in response to changing load.", 
+    "Description": "A scale-unit approach should be taken to ensure that each application component and the application as a whole can scale effectively in response to changing demand. A robust capacity model should be used to define when and how the application should scale."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

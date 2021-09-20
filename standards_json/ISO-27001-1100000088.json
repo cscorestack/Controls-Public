@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000088", 
+  "compliance_control_uri": "ISO-27001/0011/1100000088", 
+  "Control Name": "14.2.8 Systems security testing", 
+  "Control Family": "14. System acquisition, development and maintenance", 
+  "Control Statement": "Check for a thorough testing and verification procedure for all new and updated systems which include a detailed schedule of activities, test inputs and outputs under a range of conditions.  Check licensing arrangements, code ownership and intellectual property rights related to the outsourced content", 
+  "control_attributes": {
+    "Clause_Category": "14.2 Security in development and support processes", 
+    "description": "Check for a thorough testing and verification procedure for all new and updated systems which include a detailed schedule of activities, test inputs and outputs under a range of conditions.  Check licensing arrangements, code ownership and intellectual property rights related to the outsourced content", 
+    "Control_Title": "14.2.8 Systems security testing", 
+    "Control_Clause": "14. System acquisition, development and maintenance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

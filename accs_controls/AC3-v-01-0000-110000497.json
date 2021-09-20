@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000497",
+  "compliance_control_uri": "AC3-v-01/0000/110000497",
+  "Control Name": "PL-8 INFORMATION SECURITY ARCHITECTURE",
+  "Control Family": "PLANNING",
+  "Control Statement": "The organization: a. Develops an information security architecture for the information system that:1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and3. Describes any information security assumptions about, and dependencies on, external services;b. Reviews and updates the information security architecture [Assignment: organization-defined frequency] to reflect updates in the enterprise architecture; andc. Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.",
+  "control_attributes": {
+    "Control Name": "PL-8 INFORMATION SECURITY ARCHITECTURE",
+    "Control Family": "PLANNING",
+    "Control Statement": "The organization: a. Develops an information security architecture for the information system that:1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and3. Describes any information security assumptions about, and dependencies on, external services;b. Reviews and updates the information security architecture [Assignment: organization-defined frequency] to reflect updates in the enterprise architecture; andc. Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000539",
+      "ISO-27001/0011/1100000078",
+      "Fedramp-Control-Moderate/0010/1000000221",
+      "Fedramp-Control-High/0009/900000294",
+      "ISO/0001/100000053",
+      "Azure-WAF/0015/150000467"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000170", 
+  "compliance_control_uri": "Azure-WAF/0015/150000170", 
+  "Control Name": "2.14.5 Smoke tests are performed during application deployments", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are smoke tests performed during application deployments?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.5 Smoke tests are performed during application deployments", 
+    "Description": "Are smoke tests performed during application deployments?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

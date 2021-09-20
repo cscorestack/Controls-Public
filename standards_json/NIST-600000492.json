@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000492", 
+  "control_attributes": {
+    "Control": "PE-3 (4) LOCKABLE CASINGS", 
+    "control_description": "The organization uses lockable physical casings to protect [Assignment: organization-defined information system components] from unauthorized physical access.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization marks [Assignment: organization-defined information system output devices] indicating the appropriate security marking of the information permitted to be output from the device."
+  }, 
+  "Control Statement": "The organization uses lockable physical casings to protect [Assignment: organization-defined information system components] from unauthorized physical access.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-3 (4) LOCKABLE CASINGS", 
+  "compliance_control_number": "600000492"
+}

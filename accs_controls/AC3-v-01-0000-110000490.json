@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000490",
+  "compliance_control_uri": "AC3-v-01/0000/110000490",
+  "Control Name": "PL-2 (3) PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES",
+  "Control Family": "PLANNING",
+  "Control Statement": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities.",
+  "control_attributes": {
+    "Control Name": "PL-2 (3) PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES",
+    "Control Family": "PLANNING",
+    "Control Statement": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000535",
+      "Fedramp-Control-Moderate/0010/1000000218",
+      "Fedramp-Control-High/0009/900000291",
+      "AWS-WAF/0005/500000092",
+      "AWS-WAF/0005/500000093"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000072", 
+  "compliance_control_uri": "ISO-27001/0011/1100000072", 
+  "Control Name": "13.1.2 Security of Network services", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Security features, service levels, and management requirements of all network services shall be identified and included in any network services agreement, whether these services are provided in-house or outsourced", 
+  "control_attributes": {
+    "Clause_Category": "13.1 Network security management", 
+    "description": "Security features, service levels, and management requirements of all network services shall be identified and included in any network services agreement, whether these services are provided in-house or outsourced", 
+    "Control_Title": "13.1.2 Security of Network services", 
+    "Control_Clause": "13. Communications security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

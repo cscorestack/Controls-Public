@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000140",
+  "compliance_control_uri": "AWS-WAF/0016/160000140",
+  "Control Name": "REL 1.2 Manage service quotas across accounts and regions",
+  "Control Family": "Reliability",
+  "Control Statement": "If you are using multiple AWS accounts or AWS Regions, ensure that you request the appropriate quotas in all environments in which your production workloads run.",
+  "control_attributes": {
+    "Control": "REL 1.2 Manage service quotas across accounts and regions",
+    "Category": "Reliability",
+    "Subcategory": "How do you manage service quotas and constraints?",
+    "question_id": "manage-service-limits",
+    "choice_id": "rel_manage_service_limits_limits_considered"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

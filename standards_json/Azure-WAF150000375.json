@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000375", 
+  "compliance_control_uri": "Azure-WAF/0015/150000375", 
+  "Control Name": "4.10.6 Emergency access break glass accounts have been tested and secured for recovering from Identity provider failure scenarios.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are break glass AAD accounts setup and secured?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.6 Emergency access break glass accounts have been tested and secured for recovering from Identity provider failure scenarios.", 
+    "Description": "Are break glass AAD accounts setup and secured?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

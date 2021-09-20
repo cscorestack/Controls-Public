@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000221", 
+  "compliance_control_uri": "Azure-WAF/0015/150000221", 
+  "Control Name": "3.1.5 Within a region the application architecture is designed to use Availability Zones.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Availability Zones can be used to optimize application availability within a region by providing datacenter level fault tolerance. However, the application architecture must not share dependencies between zones to use them effectively. It is also important to note that Availability Zones may introduce performance and cost considerations for applications which are extremely 'chatty' across zones given the implied physical separation between each zone and inter-zone bandwidth charges.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.5 Within a region the application architecture is designed to use Availability Zones.", 
+    "Description": "Availability Zones can be used to optimize application availability within a region by providing datacenter level fault tolerance. However, the application architecture must not share dependencies between zones to use them effectively. It is also important to note that Availability Zones may introduce performance and cost considerations for applications which are extremely 'chatty' across zones given the implied physical separation between each zone and inter-zone bandwidth charges."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

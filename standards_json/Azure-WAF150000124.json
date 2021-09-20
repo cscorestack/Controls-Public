@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000124", 
+  "compliance_control_uri": "Azure-WAF/0015/150000124", 
+  "Control Name": "2.8.1 Recovery steps are defined and well understood for failover and failback", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are recovery steps defined for failover and failback?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.8 What is your approach to recovery and failover?", 
+    "Control": "2.8.1 Recovery steps are defined and well understood for failover and failback", 
+    "Description": "Are recovery steps defined for failover and failback?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

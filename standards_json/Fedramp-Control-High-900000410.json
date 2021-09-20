@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000410", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000410", 
+  "Control Name": "SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY | INTEGRITY CHECKS", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization- defined frequency]].Supplemental Guidance:  Security-relevant events include, for example, the identification of a new threat to which organizational information systems are susceptible, and the installation of new hardware, software, or firmware. Transitional states include, for example, system startup, restart, shutdown, and abort.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The information system performs an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization- defined frequency]].Supplemental Guidance:  Security-relevant events include, for example, the identification of a new threat to which organizational information systems are susceptible, and the installation of new hardware, software, or firmware. Transitional states include, for example, system startup, restart, shutdown, and abort.", 
+    "SelectionParam": "SI-7(1)-1 [selection to include security relevant events]  SI-7(1)-2 [at least monthly]", 
+    "FedRampParam": "x", 
+    "SORTID": "SI-07 (01)", 
+    "CNTL NO": "SI-7 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY | INTEGRITY CHECKS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

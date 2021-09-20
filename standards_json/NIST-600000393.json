@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000393", 
+  "control_attributes": {
+    "Control": "IA-5 (12) BIOMETRIC-BASED AUTHENTICATION", 
+    "control_description": "The information system, for biometric-based authentication, employs mechanisms that satisfy [Assignment: organization-defined biometric quality requirements].", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization employs only FICAM-approved information system components in [Assignment: organization-defined information systems] to accept third-party credentials."
+  }, 
+  "Control Statement": "The information system, for biometric-based authentication, employs mechanisms that satisfy [Assignment: organization-defined biometric quality requirements].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (12) BIOMETRIC-BASED AUTHENTICATION", 
+  "compliance_control_number": "600000393"
+}

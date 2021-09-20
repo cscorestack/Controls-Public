@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000024", 
+  "compliance_control_uri": "HIPAA/0002/200000024", 
+  "Control Name": "Access Control - 164.312(a)(1)", 
+  "Control Family": "Access Control", 
+  "Control Statement": "Implement technical policies and procedures for electronic information systems that maintain electronic protected health information to allow access only to those persons or software programs that have been granted access rights as specified in 164.308(a)(4).", 
+  "control_attributes": {
+    "Control": "Access Control - 164.312(a)(1)", 
+    "Security_Category": "Access Control", 
+    "Control_description": "Implement technical policies and procedures for electronic information systems that maintain electronic protected health information to allow access only to those persons or software programs that have been granted access rights as specified in 164.308(a)(4)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

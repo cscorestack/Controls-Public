@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000339", 
+  "control_attributes": {
+    "Control": "CP-7 (4) PREPARATION FOR USE", 
+    "control_description": "The organization prepares the alternate processing site so that the site is ready to be used as the operational site supporting essential missions and business functions.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization uses a sample of backup information in the restoration of selected information system functions as part of contingency plan testing."
+  }, 
+  "Control Statement": "The organization prepares the alternate processing site so that the site is ready to be used as the operational site supporting essential missions and business functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-7 (4) PREPARATION FOR USE", 
+  "compliance_control_number": "600000339"
+}

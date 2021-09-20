@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000099", 
+  "compliance_control_uri": "CIS-Azure/0015/150000099", 
+  "Control Name": "8.4 Ensure the key vault is recoverable", 
+  "Control Family": "8 Other Security Considerations", 
+  "Control Statement": "It is recommended the key vault be made recoverable by enabling the \"Do Not Purge\" and \"Soft Delete\" functions.", 
+  "control_attributes": {
+    "Control": "8.4 Ensure the key vault is recoverable", 
+    "Control_Clause": "8 Other Security Considerations", 
+    "description": "It is recommended the key vault be made recoverable by enabling the \"Do Not Purge\" and \"Soft Delete\" functions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

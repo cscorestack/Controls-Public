@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000052", 
+  "compliance_control_uri": "HIPAA/0002/200000052", 
+  "Control Name": "Contingency Plan Application and Data Criticality Analysis - 164.308(a)(7)(ii)(E)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Assess the relative criticality of specific applications and data in support of other contingency plan components.", 
+  "control_attributes": {
+    "Control": "Contingency Plan Application and Data Criticality Analysis - 164.308(a)(7)(ii)(E)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Assess the relative criticality of specific applications and data in support of other contingency plan components."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

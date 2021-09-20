@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000281",
+  "compliance_control_uri": "AWS-WAF/0016/160000281",
+  "Control Name": "COST 7.5 Perform pricing model analysis at the master account level",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Use Cost Explorer Savings Plans and Reserved Instance recommendations to perform regular analysis at the master account level for commitment discounts.",
+  "control_attributes": {
+    "Control": "COST 7.5 Perform pricing model analysis at the master account level",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you use pricing models to reduce cost?",
+    "question_id": "pricing-model",
+    "choice_id": "cost_pricing_model_master_analysis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

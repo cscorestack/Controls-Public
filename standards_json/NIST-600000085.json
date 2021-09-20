@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000085", 
+  "control_attributes": {
+    "Control": "IA-5 AUTHENTICATOR MANAGEMENT", 
+    "control_description": "The organization manages information system authenticators by: a. Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator;b. Establishing initial authenticator content for authenticators defined by the organization;c. Ensuring that authenticators have sufficient strength of mechanism for their intended use;d. Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators;e. Changing default content of authenticators prior to information system installation;f. Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;g. Changing/refreshing authenticators [Assignment: organization-defined time period by authenticator type];h. Protecting authenticator content from unauthorized disclosure and modification;i. Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators; andj. Changing authenticators for group/role accounts when membership to those accounts changes.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization manages information system authenticators by: a. Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator;b. Establishing initial authenticator content for authenticators defined by the organization;c. Ensuring that authenticators have sufficient strength of mechanism for their intended use;d. Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators;e. Changing default content of authenticators prior to information system installation;f. Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;g. Changing/refreshing authenticators [Assignment: organization-defined time period by authenticator type];h. Protecting authenticator content from unauthorized disclosure and modification;i. Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators; andj. Changing authenticators for group/role accounts when membership to those accounts changes.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 AUTHENTICATOR MANAGEMENT", 
+  "compliance_control_number": "600000085"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000451", 
+  "control_attributes": {
+    "Control": "MA-4 (5) APPROVALS AND NOTIFICATIONS", 
+    "control_description": "The organization: (a) Requires the approval of each nonlocal maintenance session by [Assignment: organization-defined personnel or roles]; and(b) Notifies [Assignment: organization-defined personnel or roles] of the date and time of planned nonlocal maintenance.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization performs preventive maintenance on [Assignment: organization-defined information system components] at [Assignment: organization-defined time intervals]."
+  }, 
+  "Control Statement": "The organization: (a) Requires the approval of each nonlocal maintenance session by [Assignment: organization-defined personnel or roles]; and(b) Notifies [Assignment: organization-defined personnel or roles] of the date and time of planned nonlocal maintenance.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-4 (5) APPROVALS AND NOTIFICATIONS", 
+  "compliance_control_number": "600000451"
+}

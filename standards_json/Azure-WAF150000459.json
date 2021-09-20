@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000459", 
+  "compliance_control_uri": "Azure-WAF/0015/150000459", 
+  "Control Name": "5.8.8 All public endpoints of this workload are protected/secured with appropriate solution (i.e. Azure Front Door, Azure Firewall...).", 
+  "Control Family": "5. Security", 
+  "Control Statement": "External application endpoints should be protected against common attack vectors, such as Denial of Service (DoS) attacks like Slowloris, to prevent potential application downtime due to malicious intent. Azure-native technologies such as Azure Firewall, Application Gateway/Azure Front Door WAF, and DDoS Protection Standard Plan can be used to achieve requisite protection (Azure DDoS Protection).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.8 All public endpoints of this workload are protected/secured with appropriate solution (i.e. Azure Front Door, Azure Firewall...).", 
+    "Description": "External application endpoints should be protected against common attack vectors, such as Denial of Service (DoS) attacks like Slowloris, to prevent potential application downtime due to malicious intent. Azure-native technologies such as Azure Firewall, Application Gateway/Azure Front Door WAF, and DDoS Protection Standard Plan can be used to achieve requisite protection (Azure DDoS Protection)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000427", 
+  "compliance_control_uri": "Azure-WAF/0015/150000427", 
+  "Control Name": "5.4.10 CI/CD roles and permissions are clearly defined for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Defining CI/CD permissions properly ensures that only users responsible for production releases are able to initiate the process and that only developers can access the source code. Azure DevOps offers pre-defined roles which can be assigned to individual users of groups. Using them properly can make sure that for example only users responsible for production releases are able to initiate the process and that only developers can access the source code. Variable groups often contain sensitive configuration information and can be protected as well.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.10 CI/CD roles and permissions are clearly defined for this workload.", 
+    "Description": "Defining CI/CD permissions properly ensures that only users responsible for production releases are able to initiate the process and that only developers can access the source code. Azure DevOps offers pre-defined roles which can be assigned to individual users of groups. Using them properly can make sure that for example only users responsible for production releases are able to initiate the process and that only developers can access the source code. Variable groups often contain sensitive configuration information and can be protected as well."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

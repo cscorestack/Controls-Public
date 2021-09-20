@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000274",
+  "compliance_control_uri": "SOC2/0017/1700000274",
+  "Control Name": "Discloses Information to Third Parties for New Purposes and Uses—Personal information is disclosed to third parties for new purposes or uses only with the prior implicit or explicit consent of data subjects.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Discloses Information to Third Parties for New Purposes and Uses—Personal information is disclosed to third parties for new purposes or uses only with the prior implicit or explicit consent of data subjects.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P6.1 The entity discloses personal information to third parties with the explicit consent of data subjects, and such consent is obtained prior to disclosure to meet the entity’s objectives related to privacy",
+    "ControlNo": "P6.1.4",
+    "TrustID": "P6.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

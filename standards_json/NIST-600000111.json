@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000111", 
+  "control_attributes": {
+    "Control": "AU-5 RESPONSE TO AUDIT PROCESSING FAILURES", 
+    "control_description": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; andb. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; andb. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-5 RESPONSE TO AUDIT PROCESSING FAILURES", 
+  "compliance_control_number": "600000111"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000065", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000065", 
+  "Control Name": "5.2 Ensure that all anti-virus mechanisms are maintained as follows:\\n- Are kept current,\\n- Perform periodic scans\\n- Generate audit logs which are retained per PCI DSS Requirement 10.7.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "5.2 Ensure that all anti-virus mechanisms are maintained as follows:\\n- Are kept current,\\n- Perform periodic scans\\n- Generate audit logs which are retained per PCI DSS Requirement 10.7.", 
+    "Requirement": "Requirement 5. Protect all systems against malware and regularly update anti-virus software or programs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000208", 
+  "compliance_control_uri": "Azure-WAF/0015/150000208", 
+  "Control Name": "2.17.8 Specific owners and processes are defined for each alert type.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Having well-defined owners and response playbooks per alert is vital to optimizing operational effectiveness. Alerts don't have to be only technical, for example the budget owner should be made aware of capacity issues so that budgets can be adjusted and discussed.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.8 Specific owners and processes are defined for each alert type.", 
+    "Description": "Having well-defined owners and response playbooks per alert is vital to optimizing operational effectiveness. Alerts don't have to be only technical, for example the budget owner should be made aware of capacity issues so that budgets can be adjusted and discussed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

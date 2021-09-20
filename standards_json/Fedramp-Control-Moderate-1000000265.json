@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000265", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000265", 
+  "Control Name": "DEVELOPER SECURITY TESTING AND EVALUATION | DYNAMIC CODE ANALYSIS", 
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to employ dynamic code analysis tools to identify common flaws and document the results of the analysis.Supplemental Guidance:  Dynamic code analysis provides run-time verification of software programs, using tools capable of monitoring programs for memory corruption, user privilege issues, and other potential security problems. Dynamic code analysis employs run-time tools to help to ensure that security functionality performs in the manner in which it was designed. A specialized type of dynamic analysis, known as fuzz testing, induces program failures by deliberately introducing malformed or random data into software programs. Fuzz testing strategies derive from the intended use of applications and the functional and design specifications for the applications.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND SERVICES ACQUISITION", 
+    "description": "The organization requires the developer of the information system, system component, or information system service to employ dynamic code analysis tools to identify common flaws and document the results of the analysis.Supplemental Guidance:  Dynamic code analysis provides run-time verification of software programs, using tools capable of monitoring programs for memory corruption, user privilege issues, and other potential security problems. Dynamic code analysis employs run-time tools to help to ensure that security functionality performs in the manner in which it was designed. A specialized type of dynamic analysis, known as fuzz testing, induces program failures by deliberately introducing malformed or random data into software programs. Fuzz testing strategies derive from the intended use of applications and the functional and design specifications for the applications.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SA-11 (08)", 
+    "CNTL NO": "SA-11 (8)", 
+    "AdditionalReq": "SA-11 (8) Requirement: The service provider documents in the Continuous Monitoring Plan, how newly developed code for the information system is reviewed.", 
+    "Control Name": "DEVELOPER SECURITY TESTING AND EVALUATION | DYNAMIC CODE ANALYSIS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

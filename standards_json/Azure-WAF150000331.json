@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000331", 
+  "compliance_control_uri": "Azure-WAF/0015/150000331", 
+  "Control Name": "4.5.7 Application platform components are deployed across multiple active regions.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application platform deployed across multiple regions? The ability to respond to disaster scenarios for overall compute platform availability and application resiliency is dependant on the use of multiple regions or other deployment locations", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.7 Application platform components are deployed across multiple active regions.", 
+    "Description": "Is the application platform deployed across multiple regions? The ability to respond to disaster scenarios for overall compute platform availability and application resiliency is dependant on the use of multiple regions or other deployment locations"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

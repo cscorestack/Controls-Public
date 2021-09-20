@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000009", 
+  "compliance_control_uri": "ISO/0001/100000097", 
+  "Control Name": "6.2.2 Teleworking", 
+  "Control Family": "6. Organization of Information Security", 
+  "Control Statement": "A policy and supporting security measures shall be implemented to protect information accessed, processed or stored at teleworking sites.", 
+  "control_attributes": {
+    "Control_Objective": "6.2.2 Teleworking", 
+    "Security_Control_Clause": "6. Organization of Information Security", 
+    "Security_Category": "6.2 Mobile devices and teleworking", 
+    "description": "A policy and supporting security measures shall be implemented to protect information accessed, processed or stored at teleworking sites."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

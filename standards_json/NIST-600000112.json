@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000112", 
+  "control_attributes": {
+    "Control": "SC-21 SECURE NAME / ADDRESS RESOLUTION SERVICE (RECURSIVE OR CACHING RESOLVER)", 
+    "control_description": "The information system requests and performs data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization employs automated mechanisms to support the management of information system accounts."
+  }, 
+  "Control Statement": "The information system requests and performs data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-21 SECURE NAME / ADDRESS RESOLUTION SERVICE (RECURSIVE OR CACHING RESOLVER)", 
+  "compliance_control_number": "600000112"
+}

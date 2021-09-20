@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000093",
+  "compliance_control_uri": "SOC2/0017/1700000093",
+  "Control Name": "Objectively Evaluates—Separate evaluations are performed periodically to provide objective feedback.",
+  "Control Family": "Monitoring Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Objectively Evaluates—Separate evaluations are performed periodically to provide objective feedback.",
+    "Category": "Monitoring Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC4.1 COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning.",
+    "ControlNo": "CC4.1.7",
+    "TrustID": "CC4.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000111", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000111", 
+  "Control Name": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nSet the lockout duration to a minimum of 30 minutes or until an administrator enables the user ID.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nSet the lockout duration to a minimum of 30 minutes or until an administrator enables the user ID.", 
+    "Requirement": "8.1.7.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

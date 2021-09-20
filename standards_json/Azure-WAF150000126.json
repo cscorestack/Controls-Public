@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000126", 
+  "compliance_control_uri": "Azure-WAF/0015/150000126", 
+  "Control Name": "2.8.3 The health model is being used to classify failover situations", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the health model being used to classify failover situations?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.8 What is your approach to recovery and failover?", 
+    "Control": "2.8.3 The health model is being used to classify failover situations", 
+    "Description": "Is the health model being used to classify failover situations?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

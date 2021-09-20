@@ -1,0 +1,60 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000378",
+  "compliance_control_uri": "AC3-v-01/0000/110000378",
+  "Control Name": "IR-6 (1) AUTOMATED REPORTING",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization employs automated mechanisms to assist in the reporting of security incidents.",
+  "control_attributes": {
+    "Control Name": "IR-6 (1) AUTOMATED REPORTING",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization employs automated mechanisms to assist in the reporting of security incidents."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Identity, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000044",
+      "ISO-27001/0011/1100000005",
+      "ISO-27001/0011/1100000097",
+      "Fedramp-Control-Moderate/0010/1000000166",
+      "HIPAA/0002/200000014",
+      "HIPAA/0002/200000018",
+      "ISO/0001/100000005",
+      "ISO/0001/100000072",
+      "CIS-Azure/0003/300000062",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000211", 
+  "control_attributes": {
+    "Control": "AC-19 (5) FULL DEVICE / CONTAINER-BASED  ENCRYPTION", 
+    "control_description": "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization includes practical exercises in security awareness training that simulate actual cyber attacks."
+  }, 
+  "Control Statement": "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-19 (5) FULL DEVICE / CONTAINER-BASED  ENCRYPTION", 
+  "compliance_control_number": "600000211"
+}

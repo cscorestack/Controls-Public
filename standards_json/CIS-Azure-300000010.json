@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000010", 
+  "compliance_control_uri": "CIS-Azure/0003/300000010", 
+  "Control Name": "2.12. Ensure ASC Default policy setting 'Monitor JIT Network Access' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Just in time virtual machine (VM) access can be used to lock down inbound traffic to the Azure VMs, reducing exposure to attacks while providing easy access to connect to VMs when needed", 
+  "control_attributes": {
+    "Control": "2.12. Ensure ASC Default policy setting 'Monitor JIT Network Access' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Just in time virtual machine (VM) access can be used to lock down inbound traffic to the Azure VMs, reducing exposure to attacks while providing easy access to connect to VMs when needed"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000429", 
+  "compliance_control_uri": "Azure-WAF/0015/150000429", 
+  "Control Name": "5.5.2 Detailed error messages and verbose information are hidden from the end user/client applications. ", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Exceptions in code are handled gracefully and logged.Providing unnecessary information to end users in case of application failure should be avoided. Revealing detailed error information (call stack, SQL queries, out of range errors...) can provide attackers with valuable information about the internals of the application. Error handlers should make the application fail gracefully and log the error.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.2 Detailed error messages and verbose information are hidden from the end user/client applications. ", 
+    "Description": "Exceptions in code are handled gracefully and logged.Providing unnecessary information to end users in case of application failure should be avoided. Revealing detailed error information (call stack, SQL queries, out of range errors...) can provide attackers with valuable information about the internals of the application. Error handlers should make the application fail gracefully and log the error."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000187",
+  "compliance_control_uri": "AWS-WAF/0016/160000187",
+  "Control Name": "REL 11.1 Monitor all components of the workload to detect failures",
+  "Control Family": "Reliability",
+  "Control Statement": "Continuously monitor the health of your workload so that you and your automated systems are aware of degradation or complete failure as soon as they occur. Monitor for key performance indicators (KPIs) based on business value.",
+  "control_attributes": {
+    "Control": "REL 11.1 Monitor all components of the workload to detect failures",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to withstand component failures?",
+    "question_id": "withstand-component-failures",
+    "choice_id": "rel_withstand_component_failures_monitoring_health"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

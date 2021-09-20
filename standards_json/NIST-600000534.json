@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000534", 
+  "control_attributes": {
+    "Control": "PL-2 SYSTEM SECURITY PLAN", 
+    "control_description": "The organization: a. Develops a security plan for the information system that:1. Is consistent with the organizations enterprise architecture;2. Explicitly defines the authorization boundary for the system;3. Describes the operational context of the information system in terms of missions and business processes;4. Provides the security categorization of the information system including supporting rationale;5. Describes the operational environment for the information system and relationships with or connections to other information systems;6. Provides an overview of the security requirements for the system;7. Identifies any relevant overlays, if applicable;", 
+    "Family": "PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that [Assignment: organization-defined security safeguards] allocated to [Assignment: organization-defined locations and architectural layers] are obtained from different suppliers."
+  }, 
+  "Control Statement": "The organization: a. Develops a security plan for the information system that:1. Is consistent with the organizations enterprise architecture;2. Explicitly defines the authorization boundary for the system;3. Describes the operational context of the information system in terms of missions and business processes;4. Provides the security categorization of the information system including supporting rationale;5. Describes the operational environment for the information system and relationships with or connections to other information systems;6. Provides an overview of the security requirements for the system;7. Identifies any relevant overlays, if applicable;", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-2 SYSTEM SECURITY PLAN", 
+  "compliance_control_number": "600000534"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000163", 
+  "compliance_control_uri": "Azure-WAF/0015/150000163", 
+  "Control Name": "2.13.1 You have a defined process to patch and update all relevant workload components.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "The PNU process will vary based on the type of Azure service used (i.e. Virtual Machines, Virtual Machine Scale Sets, Containers on Azure Kubernetes Service). Applications using IaaS will typically require more investment to define a PNU process.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.13 How are you managing and distributing your patches", 
+    "Control": "2.13.1 You have a defined process to patch and update all relevant workload components.", 
+    "Description": "The PNU process will vary based on the type of Azure service used (i.e. Virtual Machines, Virtual Machine Scale Sets, Containers on Azure Kubernetes Service). Applications using IaaS will typically require more investment to define a PNU process."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

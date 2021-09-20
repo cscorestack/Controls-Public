@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000211", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000211", 
+  "Control Name": "FIRE PROTECTION", 
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "Control Statement": "The organization employs and maintains fire suppression and detection devices/systems for the information system that are supported by an independent energy source.Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources including, for example, data centers, server rooms, and mainframe computer rooms. Fire suppression and detection devices/systems include, for example, sprinkler systems, handheld fire extinguishers, fixed fire hoses, and smoke detectors.References: None.", 
+  "control_attributes": {
+    "Category": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "description": "The organization employs and maintains fire suppression and detection devices/systems for the information system that are supported by an independent energy source.Supplemental Guidance:  This control applies primarily to facilities containing concentrations of information system resources including, for example, data centers, server rooms, and mainframe computer rooms. Fire suppression and detection devices/systems include, for example, sprinkler systems, handheld fire extinguishers, fixed fire hoses, and smoke detectors.References: None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "PE-13", 
+    "CNTL NO": "PE-13", 
+    "AdditionalReq": "", 
+    "Control Name": "FIRE PROTECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

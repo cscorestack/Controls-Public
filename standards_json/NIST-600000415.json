@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000415", 
+  "control_attributes": {
+    "Control": "IR-3 (1) AUTOMATED TESTING", 
+    "control_description": "The organization employs automated mechanisms to more thoroughly and effectively test the incident response capability.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization coordinates with [Assignment: organization-defined external organizations] to correlate and share [Assignment: organization-defined incident information] to achieve a cross-organization perspective on incident awareness and more effective incident responses."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to more thoroughly and effectively test the incident response capability.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-3 (1) AUTOMATED TESTING", 
+  "compliance_control_number": "600000415"
+}

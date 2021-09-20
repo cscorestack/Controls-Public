@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000372", 
+  "control_attributes": {
+    "Control": "IA-3 (1) CRYPTOGRAPHIC BIDIRECTIONAL AUTHENTICATION", 
+    "control_description": "The information system authenticates [Assignment: organization-defined specific devices and/or types of devices] before establishing [Selection (one or more): local; remote; network] connection using bidirectional authentication that is cryptographically based.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires that the registration process to receive an individual identifier be conducted in person before a designated registration authority."
+  }, 
+  "Control Statement": "The information system authenticates [Assignment: organization-defined specific devices and/or types of devices] before establishing [Selection (one or more): local; remote; network] connection using bidirectional authentication that is cryptographically based.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-3 (1) CRYPTOGRAPHIC BIDIRECTIONAL AUTHENTICATION", 
+  "compliance_control_number": "600000372"
+}

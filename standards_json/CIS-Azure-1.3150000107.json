@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000107", 
+  "compliance_control_uri": "CIS-Azure/0015/150000107", 
+  "Control Name": "9.7 Ensure that 'Python version' is the latest, if used to run the web app", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "Periodically, newer versions are released for Python software either due to security flaws or to include additional functionality. Using the latest Python version for web apps is recommended in order to take advantage of security fixes, if any, and/or additional functionalities of the newer version.", 
+  "control_attributes": {
+    "Control": "9.7 Ensure that 'Python version' is the latest, if used to run the web app", 
+    "Control_Clause": "9 AppService", 
+    "description": "Periodically, newer versions are released for Python software either due to security flaws or to include additional functionality. Using the latest Python version for web apps is recommended in order to take advantage of security fixes, if any, and/or additional functionalities of the newer version."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000087", 
+  "control_attributes": {
+    "Control": "AU-16 CROSS-ORGANIZATIONAL AUDITING", 
+    "control_description": "The organization employs [Assignment: organization-defined methods] for coordinating [Assignment: organization-defined audit information] among external organizations when audit information is transmitted across organizational boundaries.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization partitions the information system into [Assignment: organization-defined information system components] residing in separate physical domains or environments based on [Assignment: organization-defined circumstances for physical separation of components]."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined methods] for coordinating [Assignment: organization-defined audit information] among external organizations when audit information is transmitted across organizational boundaries.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-16 CROSS-ORGANIZATIONAL AUDITING", 
+  "compliance_control_number": "600000087"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000090", 
+  "compliance_control_uri": "CIS-Azure/0015/150000090", 
+  "Control Name": "7.2 Ensure that 'OS and Data' disks are encrypted with CMK", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Ensure that OS disks (boot volumes) and data disks (non-boot volumes) are encrypted with CMK.", 
+  "control_attributes": {
+    "Control": "7.2 Ensure that 'OS and Data' disks are encrypted with CMK", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Ensure that OS disks (boot volumes) and data disks (non-boot volumes) are encrypted with CMK."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

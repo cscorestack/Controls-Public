@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000060", 
+  "compliance_control_uri": "HIPAA/0002/200000060", 
+  "Control Name": "Facility Access Controls  Maintain Maintenance Records - 164.310(a)(2)(iv)", 
+  "Control Family": "Facility Access Controls", 
+  "Control Statement": "Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (As one illustrative example, hardware, walls, doors, and locks).", 
+  "control_attributes": {
+    "Control": "Facility Access Controls  Maintain Maintenance Records - 164.310(a)(2)(iv)", 
+    "Security_Category": "Facility Access Controls", 
+    "Control_description": "Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (As one illustrative example, hardware, walls, doors, and locks)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

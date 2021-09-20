@@ -1,0 +1,64 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000757",
+  "compliance_control_uri": "AC3-v-01/0000/110000757",
+  "Control Name": "SI-13 (5) FAILOVER CAPABILITY",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization provides [Selection: real-time; near real-time] [Assignment: organization-defined failover capability] for the information system.",
+  "control_attributes": {
+    "Control Name": "SI-13 (5) FAILOVER CAPABILITY",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization provides [Selection: real-time; near real-time] [Assignment: organization-defined failover capability] for the information system."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application,Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000807",
+      "SOC2/0017/1700000215"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/PMYiL",
+        "policy_name": "Azure_Audit_KeyValut_Recoverable",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/rftfk",
+        "policy_name": "Azure_Audit_VM_DR",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/consumption/vm/zlm75",
+        "policy_name": "Azure_Recovery_Vault_Backup_Disabled_VMs",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

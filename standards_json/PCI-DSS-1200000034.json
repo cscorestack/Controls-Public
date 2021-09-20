@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000034", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000034", 
+  "Control Name": "2.6 Shared hosting providers must protect each entity hosted environment and cardholder data. These providers must meet specific requirements as detailed in Appendix A: Additional PCI DSS Requirements for Shared Hosting Providers.",
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "2.6 Shared hosting providers must protect each entity hosted environment and cardholder data. These providers must meet specific requirements as detailed in Appendix A: Additional PCI DSS Requirements for Shared Hosting Providers.",
+    "Requirement": "2. Do not use vendor-supplied defaults for system passwords and other security parameters"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

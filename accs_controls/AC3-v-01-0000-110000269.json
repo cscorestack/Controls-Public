@@ -1,0 +1,63 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000269",
+  "compliance_control_uri": "AC3-v-01/0000/110000269",
+  "Control Name": "CP-2 CONTINGENCY PLAN",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization: a. Develops a contingency plan for the information system that:1. Identifies essential missions and business functions and associated contingency requirements;2. Provides recovery objectives, restoration priorities, and metrics;3. Addresses contingency roles, responsibilities, assigned individuals with contact information;4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure; 5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and6. Is reviewed and approved by [Assignment: organization-defined personnel or roles];b. Distributes copies of the contingency plan to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements];c. Coordinates contingency planning activities with incident handling activities;d. Reviews the contingency plan for the information system [Assignment: organization-defined frequency];e. Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;f. Communicates contingency plan changes to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]; andg. Protects the contingency plan from unauthorized disclosure and modification.",
+  "control_attributes": {
+    "Control Name": "CP-2 CONTINGENCY PLAN",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization: a. Develops a contingency plan for the information system that:1. Identifies essential missions and business functions and associated contingency requirements;2. Provides recovery objectives, restoration priorities, and metrics;3. Addresses contingency roles, responsibilities, assigned individuals with contact information;4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure; 5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and6. Is reviewed and approved by [Assignment: organization-defined personnel or roles];b. Distributes copies of the contingency plan to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements];c. Coordinates contingency planning activities with incident handling activities;d. Reviews the contingency plan for the information system [Assignment: organization-defined frequency];e. Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;f. Communicates contingency plan changes to [Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]; andg. Protects the contingency plan from unauthorized disclosure and modification."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Service_Catalog",
+      "service_resource": "AWS/Governance/Service_Catalog/TagOptionAssociation"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000082",
+      "ISO/0001/100000078",
+      "ISO/0001/100000003",
+      "NIST-SP800-53/0006/600000315",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000106",
+      "Fedramp-Control-Moderate/0010/1000000110",
+      "Fedramp-Control-High/0009/900000146",
+      "HIPAA/0002/200000021",
+      "HIPAA/0002/200000022",
+      "HIPAA/0002/200000052",
+      "HIPAA/0002/200000057",
+      "HIPAA/0002/200000026"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

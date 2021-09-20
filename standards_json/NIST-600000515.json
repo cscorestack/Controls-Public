@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000515", 
+  "control_attributes": {
+    "Control": "PE-12 (1) ESSENTIAL MISSIONS / BUSINESS FUNCTIONS", 
+    "control_description": "The organization provides emergency lighting for all areas within the facility supporting essential missions and business functions.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automatic temperature and humidity controls in the facility to prevent fluctuations potentially harmful to the information system."
+  }, 
+  "Control Statement": "The organization provides emergency lighting for all areas within the facility supporting essential missions and business functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-12 (1) ESSENTIAL MISSIONS / BUSINESS FUNCTIONS", 
+  "compliance_control_number": "600000515"
+}

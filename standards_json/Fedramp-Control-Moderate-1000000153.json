@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000153", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000153", 
+  "Control Name": "AUTHENTICATOR FEEDBACK", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system obscures feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.Supplemental Guidance:  The feedback from information systems does not provide information that would allow unauthorized individuals to compromise authentication mechanisms. For some types of information systems or system components, for example, desktops/notebooks with relatively large monitors, the threat (often referred to as shoulder surfing) may be significant. For other types of systems or components, for example, mobile devices with 2-4 inch screens, this threat may be less significant, and may need to be balanced against the increased likelihood of typographic input errors due to the small keyboards. Therefore, the means for obscuring the authenticator feedback is selected accordingly. Obscuring the feedback of authentication information includes, for example, displaying asterisks when users type passwords into input devices, or displaying feedback for a very limited time before fully obscuring it. Related control: PE-18.Control Enhancements:  None.References:  None.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system obscures feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.Supplemental Guidance:  The feedback from information systems does not provide information that would allow unauthorized individuals to compromise authentication mechanisms. For some types of information systems or system components, for example, desktops/notebooks with relatively large monitors, the threat (often referred to as shoulder surfing) may be significant. For other types of systems or components, for example, mobile devices with 2-4 inch screens, this threat may be less significant, and may need to be balanced against the increased likelihood of typographic input errors due to the small keyboards. Therefore, the means for obscuring the authenticator feedback is selected accordingly. Obscuring the feedback of authentication information includes, for example, displaying asterisks when users type passwords into input devices, or displaying feedback for a very limited time before fully obscuring it. Related control: PE-18.Control Enhancements:  None.References:  None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-06", 
+    "CNTL NO": "IA-6", 
+    "AdditionalReq": "", 
+    "Control Name": "AUTHENTICATOR FEEDBACK"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

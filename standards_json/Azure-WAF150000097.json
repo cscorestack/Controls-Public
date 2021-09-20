@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000097", 
+  "compliance_control_uri": "Azure-WAF/0015/150000097", 
+  "Control Name": "2.4.4 Application events are correlated across all application components", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are application events correlated across all application components?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.4 Application events are correlated across all application components", 
+    "Description": "Are application events correlated across all application components?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

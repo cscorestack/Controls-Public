@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000749", 
+  "control_attributes": {
+    "Control": "SI-2 (5) AUTOMATIC SOFTWARE / FIRMWARE UPDATES", 
+    "control_description": "The organization installs [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined information system components].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system automatically updates malicious code protection mechanisms."
+  }, 
+  "Control Statement": "The organization installs [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined information system components].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-2 (5) AUTOMATIC SOFTWARE / FIRMWARE UPDATES", 
+  "compliance_control_number": "600000749"
+}

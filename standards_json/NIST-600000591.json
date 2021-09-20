@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000591", 
+  "control_attributes": {
+    "Control": "SA-10 (3) HARDWARE INTEGRITY VERIFICATION", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of hardware components.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to perform threat and vulnerability analyses and subsequent testing/evaluation of the as-built system, component, or service."
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of hardware components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-10 (3) HARDWARE INTEGRITY VERIFICATION", 
+  "compliance_control_number": "600000591"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000229",
+  "compliance_control_uri": "AWS-WAF/0016/160000229",
+  "Control Name": "PERF 5.6 Choose your workload’s location based on network requirements",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use the cloud location options available to reduce network latency or improve throughput. Utilize AWS Regions, Availability Zones, placement groups, and edge locations such as Outposts, Local Regions, and Wavelength, to reduce network latency or improve throughput.",
+  "control_attributes": {
+    "Control": "PERF 5.6 Choose your workload’s location based on network requirements",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_location"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

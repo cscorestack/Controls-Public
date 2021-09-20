@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000248",
+  "compliance_control_uri": "AWS-WAF/0016/160000248",
+  "Control Name": "COST 1.4 Implement cost awareness in your organizational processes",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement cost awareness into new or existing processes that impact usage, and leverage existing processes for cost awareness. Implement cost awareness into employee training.",
+  "control_attributes": {
+    "Control": "COST 1.4 Implement cost awareness in your organizational processes",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_cost_awareness"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

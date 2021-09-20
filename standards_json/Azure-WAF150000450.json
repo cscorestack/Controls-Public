@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000450", 
+  "compliance_control_uri": "Azure-WAF/0015/150000450", 
+  "Control Name": "5.7.6 There's a security operations center (SOC) that leverages a modern security approach.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "A SOC has a critical role in limiting the time and access an attacker can get to valuable systems and data. In addition, it provides the vital role of detecting the presence of adversaries, reacting to an alert of suspicious activity, or proactively hunting for anomalous events in the enterprise activity logs.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.6 There's a security operations center (SOC) that leverages a modern security approach.", 
+    "Description": "A SOC has a critical role in limiting the time and access an attacker can get to valuable systems and data. In addition, it provides the vital role of detecting the presence of adversaries, reacting to an alert of suspicious activity, or proactively hunting for anomalous events in the enterprise activity logs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

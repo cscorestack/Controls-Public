@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000051", 
+  "compliance_control_uri": "HIPAA/0002/200000051", 
+  "Control Name": "Contingency Plan  Testing and Revision Procedure - 164.308(a)(7)(ii)(D)", 
+  "Control Family": "Contingency Plan", 
+  "Control Statement": "Implement procedures for periodic testing and revision of contingency plans.", 
+  "control_attributes": {
+    "Control": "Contingency Plan  Testing and Revision Procedure - 164.308(a)(7)(ii)(D)", 
+    "Security_Category": "Contingency Plan", 
+    "Control_description": "Implement procedures for periodic testing and revision of contingency plans."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

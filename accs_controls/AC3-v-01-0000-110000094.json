@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000094",
+  "compliance_control_uri": "AC3-v-01/0000/110000094",
+  "Control Name": "AC-6 (1) AUTHORIZE ACCESS TO SECURITY FUNCTIONS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].",
+  "control_attributes": {
+    "Control Name": "AC-6 (1) AUTHORIZE ACCESS TO SECURITY FUNCTIONS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization explicitly authorizes access to [Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000165",
+      "PCI-DSS/0012/1200000091",
+      "PCI-DSS/0012/1200000096",
+      "PCI-DSS/0012/1200000097",
+      "Fedramp-Control-Moderate/0010/1000000017",
+      "Fedramp-Control-High/0009/900000020",
+      "HIPAA/0002/200000015",
+      "HIPAA/0002/200000043",
+      "HIPAA/0002/200000045",
+      "HIPAA/0002/200000024",
+      "AWS-WAF/0005/500000067"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

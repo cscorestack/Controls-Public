@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000049", 
+  "compliance_control_uri": "HIPAA/0002/200000049", 
+  "Control Name": "Security Awareness, Training, and Tools  Protection from Malicious Software - 164.308(a)(5)(ii)(B)", 
+  "Control Family": "Security Awareness and Training", 
+  "Control Statement": "Procedures for guarding against, detecting, and reporting malicious software.", 
+  "control_attributes": {
+    "Control": "Security Awareness, Training, and Tools  Protection from Malicious Software - 164.308(a)(5)(ii)(B)", 
+    "Security_Category": "Security Awareness and Training", 
+    "Control_description": "Procedures for guarding against, detecting, and reporting malicious software."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

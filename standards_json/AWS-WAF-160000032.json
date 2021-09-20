@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000032",
+  "compliance_control_uri": "AWS-WAF/0016/160000032",
+  "Control Name": "OPS 5.5 Perform patch management",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Perform patch management to gain features, address issues, and remain compliant with governance. Automate patch management to reduce errors caused by manual processes, and reduce the level of eﬀort to patch.",
+  "control_attributes": {
+    "Control": "OPS 5.5 Perform patch management",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_patch_mgmt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

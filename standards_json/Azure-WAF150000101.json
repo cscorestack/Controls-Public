@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000101", 
+  "compliance_control_uri": "Azure-WAF/0015/150000101", 
+  "Control Name": "2.5.1 A log aggregation technology, such as Azure Log Analytics or Splunk, is used to collect logs and metrics from Azure resources", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Which log aggregation technology is used to collect logs and metrics from Azure resources?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.1 A log aggregation technology, such as Azure Log Analytics or Splunk, is used to collect logs and metrics from Azure resources", 
+    "Description": "Which log aggregation technology is used to collect logs and metrics from Azure resources?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

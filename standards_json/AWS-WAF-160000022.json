@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000022",
+  "compliance_control_uri": "AWS-WAF/0016/160000022",
+  "Control Name": "OPS 3.8 Diverse opinions are encouraged and sought within and across teams",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Leverage cross-organizational diversity to seek multiple unique perspectives. Use this perspective to increase innovation, challenge your assumptions, and reduce the risk of conﬁrmation bias. Grow inclusion, diversity, and accessibility within your teams to gain beneﬁcial perspectives.",
+  "control_attributes": {
+    "Control": "OPS 3.8 Diverse opinions are encouraged and sought within and across teams",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_diverse_inc_access"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000215", 
+  "compliance_control_uri": "Azure-WAF/0015/150000215", 
+  "Control Name": "2.18.2 There are tools and processes in place to grant just-in-time access.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Minimizing the number of people who have access to secure information or resources reduces the chance of a malicious actor gaining access or an authorized user inadvertently impacting a sensitive resource. For example, Azure AD Privileged Identity Management provides time-based and approval-based role activation to mitigate the risks of excessive, unnecessary, or misused access permissions on resources that you care about.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.18 What operational excellence allowances for security have you made?", 
+    "Control": "2.18.2 There are tools and processes in place to grant just-in-time access.", 
+    "Description": "Minimizing the number of people who have access to secure information or resources reduces the chance of a malicious actor gaining access or an authorized user inadvertently impacting a sensitive resource. For example, Azure AD Privileged Identity Management provides time-based and approval-based role activation to mitigate the risks of excessive, unnecessary, or misused access permissions on resources that you care about."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

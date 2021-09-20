@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000304", 
+  "control_attributes": {
+    "Control": "CM-8 (6) ASSESSED CONFIGURATIONS / APPROVED DEVIATIONS", 
+    "control_description": "The organization includes assessed component configurations and any approved deviations to current deployed configurations in the information system component inventory.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prohibits user installation of software without explicit privileged status."
+  }, 
+  "Control Statement": "The organization includes assessed component configurations and any approved deviations to current deployed configurations in the information system component inventory.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (6) ASSESSED CONFIGURATIONS / APPROVED DEVIATIONS", 
+  "compliance_control_number": "600000304"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000340", 
+  "control_attributes": {
+    "Control": "CP-7 (6) INABILITY TO RETURN TO PRIMARY SITE", 
+    "control_description": "The organization plans and prepares for circumstances that preclude returning to the primary processing site.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization stores backup copies of [Assignment: organization-defined critical information system software and other security-related information] in a separate facility or in a fire-rated container that is not collocated with the operational system."
+  }, 
+  "Control Statement": "The organization plans and prepares for circumstances that preclude returning to the primary processing site.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-7 (6) INABILITY TO RETURN TO PRIMARY SITE", 
+  "compliance_control_number": "600000340"
+}

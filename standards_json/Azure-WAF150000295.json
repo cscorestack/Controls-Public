@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000295", 
+  "compliance_control_uri": "Azure-WAF/0015/150000295", 
+  "Control Name": "3.11.4 You use profiling tools to profile your application code.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Application profiling will involve tooling like Visual Studio Performance Profile, AQTime, dotTrace, and others. These tools will give you in-depth analysis of individual code paths.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.11 What common problems do you have steps to troubleshoot in your operations playbook?", 
+    "Control": "3.11.4 You use profiling tools to profile your application code.", 
+    "Description": "Application profiling will involve tooling like Visual Studio Performance Profile, AQTime, dotTrace, and others. These tools will give you in-depth analysis of individual code paths."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

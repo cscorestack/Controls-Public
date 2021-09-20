@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000341",
+  "compliance_control_uri": "AC3-v-01/0000/110000341",
+  "Control Name": "IA-5 (6) PROTECTION OF AUTHENTICATORS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.",
+  "control_attributes": {
+    "Control Name": "IA-5 (6) PROTECTION OF AUTHENTICATORS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000387",
+      "ISO-27001/0011/1100000036",
+      "Fedramp-Control-Moderate/0010/1000000148",
+      "Fedramp-Control-High/0009/900000199",
+      "ISO-27001/0011/1100000037",
+      "ISO-27001/0011/1100000031"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

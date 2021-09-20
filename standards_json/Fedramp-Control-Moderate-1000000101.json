@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000101", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000101", 
+  "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization: a. Develops and documents an inventory of information system components that:   1. Accurately reflects the current information system;   2. Includes all components within the authorization boundary of the information system;   3. Is at the level of granularity deemed necessary for tracking and reporting; and   4. Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]; and b. Reviews and updates the information system component inventory [Assignment: organization-defined frequency].Supplemental Guidance:  Organizations may choose to implement centralized information system component inventories that include components from all organizational information systems. In such situations, organizations ensure that the resulting inventories include system-specific information required for proper component accountability (e.g., information system association, information system owner). Information deemed necessary for effective accountability of information system components includes, for example, hardware inventory specifications, software license information, software version numbers, component owners, and for networked components or devices, machine names and network addresses. Inventory specifications include, for example, manufacturer, device type, model, serial number, and physical location. Related controls: CM-2, CM-6, PM-5.References: NIST Special Publication 800-128.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization: a. Develops and documents an inventory of information system components that:   1. Accurately reflects the current information system;   2. Includes all components within the authorization boundary of the information system;   3. Is at the level of granularity deemed necessary for tracking and reporting; and   4. Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]; and b. Reviews and updates the information system component inventory [Assignment: organization-defined frequency].Supplemental Guidance:  Organizations may choose to implement centralized information system component inventories that include components from all organizational information systems. In such situations, organizations ensure that the resulting inventories include system-specific information required for proper component accountability (e.g., information system association, information system owner). Information deemed necessary for effective accountability of information system components includes, for example, hardware inventory specifications, software license information, software version numbers, component owners, and for networked components or devices, machine names and network addresses. Inventory specifications include, for example, manufacturer, device type, model, serial number, and physical location. Related controls: CM-2, CM-6, PM-5.References: NIST Special Publication 800-128.", 
+    "SelectionParam": "CM-8 (b) [at least monthly]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-08", 
+    "CNTL NO": "CM-8", 
+    "AdditionalReq": "CM-8 Requirement: must be provided at least monthly or when there is a change.", 
+    "Control Name": "INFORMATION SYSTEM COMPONENT INVENTORY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

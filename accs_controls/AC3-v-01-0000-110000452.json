@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000452",
+  "compliance_control_uri": "AC3-v-01/0000/110000452",
+  "Control Name": "PE-14 (2) MONITORING WITH ALARMS / NOTIFICATIONS",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization employs temperature and humidity monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment.",
+  "control_attributes": {
+    "Control Name": "PE-14 (2) MONITORING WITH ALARMS / NOTIFICATIONS",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization employs temperature and humidity monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000523",
+      "ISO-27001/0011/1100000045",
+      "ISO-27001/0011/1100000046",
+      "ISO-27001/0011/1100000048",
+      "ISO-27001/0011/1100000049",
+      "Fedramp-Control-Moderate/0010/1000000212",
+      "Fedramp-Control-High/0009/900000283",
+      "ISO/0001/100000106",
+      "ISO/0001/100000109",
+      "ISO/0001/100000107",
+      "ISO/0001/100000110"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

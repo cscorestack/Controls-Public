@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000899", 
+  "compliance_control_uri": "AC3-v-01/0000/110000899", 
+  "Control Name": "Ensure that activity log alert exists for the Delete Network Security Group Rule", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "Create an activity log alert for the Delete Network Security Group Rule event.", 
+  "control_attributes": {
+    "Control Name": "Ensure that activity log alert exists for the Delete Network Security Group Rule", 
+    "Control Family": "Logging and Monitoring", 
+    "Control Statement": "Create an activity log alert for the Delete Network Security Group Rule event."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Account", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "cloud account", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Subscription/Subscription",
+      "service_resource": "Azure/Subscription/Subscription/Subscription"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000078"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

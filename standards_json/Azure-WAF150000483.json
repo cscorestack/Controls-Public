@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000483", 
+  "compliance_control_uri": "Azure-WAF/0015/150000483", 
+  "Control Name": "5.11.6 Expiry dates of SSL/TLS certificates are monitored and there are renewal processes in place.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Expired SSL/TLS certificates are one of the most common yet avoidable causes of application outages; even Azure and more recently Microsoft Teams have experienced outages due to expired certificates.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.11 Are keys, secrets and certificates managed in a secure way?", 
+    "Control": "5.11.6 Expiry dates of SSL/TLS certificates are monitored and there are renewal processes in place.", 
+    "Description": "Expired SSL/TLS certificates are one of the most common yet avoidable causes of application outages; even Azure and more recently Microsoft Teams have experienced outages due to expired certificates."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

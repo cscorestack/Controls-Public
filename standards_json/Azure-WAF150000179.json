@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000179", 
+  "compliance_control_uri": "Azure-WAF/0015/150000179", 
+  "Control Name": "2.15.1 Specific methodologies, like DevOps, are used to structure the development and operations process", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are specific methodologies, like DevOps, used to structure the development and operations process?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.1 Specific methodologies, like DevOps, are used to structure the development and operations process", 
+    "Description": "Are specific methodologies, like DevOps, used to structure the development and operations process?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

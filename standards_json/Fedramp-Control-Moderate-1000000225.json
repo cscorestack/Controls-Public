@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000225", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000225", 
+  "Control Name": "PERSONNEL SECURITY POLICY AND PROCEDURES", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:   1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and   2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; and b. Reviews and updates the current:   1. Personnel security policy [Assignment: organization-defined frequency]; and   2. Personnel security procedures [Assignment: organization-defined frequency].Supplemental Guidance:  This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the PS family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures. Related control: PM-9.Control Enhancements:  None.References:  NIST Special Publications 800-12, 800-100.", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:   1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and   2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; and b. Reviews and updates the current:   1. Personnel security policy [Assignment: organization-defined frequency]; and   2. Personnel security procedures [Assignment: organization-defined frequency].Supplemental Guidance:  This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the PS family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures. Related control: PM-9.Control Enhancements:  None.References:  NIST Special Publications 800-12, 800-100.", 
+    "SelectionParam": "PS-1 (b) (1) [at least every 3 years]PS-1 (b) (2) [at least annually]", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-01", 
+    "CNTL NO": "PS-1", 
+    "AdditionalReq": " ", 
+    "Control Name": "PERSONNEL SECURITY POLICY AND PROCEDURES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000062", 
+  "compliance_control_uri": "CIS-Azure/0003/300000062", 
+  "Control Name": "2.2. Ensure that 'Automatic provisioning of monitoring agent' is set to 'On'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "When Automatic provisioning of monitoring agent is turned on, Azure Security Center provisions the Microsoft Monitoring Agent on all existing supported Azure virtual machines and any new ones that are created. The Microsoft Monitoring Agent scans for various security-related configurations and events such as system updates, OS vulnerabilities, endpoint protection, and provides alerts.", 
+  "control_attributes": {
+    "Control": "2.2. Ensure that 'Automatic provisioning of monitoring agent' is set to 'On'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "When Automatic provisioning of monitoring agent is turned on, Azure Security Center provisions the Microsoft Monitoring Agent on all existing supported Azure virtual machines and any new ones that are created. The Microsoft Monitoring Agent scans for various security-related configurations and events such as system updates, OS vulnerabilities, endpoint protection, and provides alerts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

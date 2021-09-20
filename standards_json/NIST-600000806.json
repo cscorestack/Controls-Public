@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000806", 
+  "control_attributes": {
+    "Control": "SI-13 (4) STANDBY COMPONENT INSTALLATION / NOTIFICATION", 
+    "control_description": "The organization, if information system component failures are detected:", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization manually initiates transfers between active and standby information system components [Assignment: organization-defined frequency] if the mean time to failure exceeds [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The organization, if information system component failures are detected:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-13 (4) STANDBY COMPONENT INSTALLATION / NOTIFICATION", 
+  "compliance_control_number": "600000806"
+}

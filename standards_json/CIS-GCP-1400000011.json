@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000011", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000011", 
+  "Control Name": "1.11 Ensure that Separation of duties is enforced while assigning KMS related roles to users", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "It is recommended that the principle of 'Separation of Duties' is enforced while assigning KMS related roles to users.", 
+  "control_attributes": {
+    "Control": "1.11 Ensure that Separation of duties is enforced while assigning KMS related roles to users", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "It is recommended that the principle of 'Separation of Duties' is enforced while assigning KMS related roles to users."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

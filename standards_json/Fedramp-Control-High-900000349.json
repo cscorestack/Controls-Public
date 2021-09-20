@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000349", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000349", 
+  "Control Name": "RESOURCE AVAILABILITY", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system protects the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more); priority; quota; [Assignment: organization-defined security safeguards]].Supplemental Guidance:  Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.Control Enhancements:  None.References:  None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system protects the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more); priority; quota; [Assignment: organization-defined security safeguards]].Supplemental Guidance:  Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.Control Enhancements:  None.References:  None.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-06", 
+    "CNTL NO": "SC-6", 
+    "AdditionalReq": " ", 
+    "Control Name": "RESOURCE AVAILABILITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

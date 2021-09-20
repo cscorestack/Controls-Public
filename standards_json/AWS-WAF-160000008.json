@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000008",
+  "compliance_control_uri": "AWS-WAF/0016/160000008",
+  "Control Name": "OPS 2.1 Resources have identiﬁed owners",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Understand who has ownership of each application, workload, platform, and infrastructure component, what business value is provided by that component, and why that ownership exists. Understanding the business value of these individual components and how they support business outcomes informs the processes and procedures applied against them.",
+  "control_attributes": {
+    "Control": "OPS 2.1 Resources have identiﬁed owners",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_def_resource_owners"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

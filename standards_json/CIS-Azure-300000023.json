@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000023", 
+  "compliance_control_uri": "CIS-Azure/0003/300000023", 
+  "Control Name": "4.19. Ensure that Azure Active Directory Admin is configured", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "With Azure AD authentication, identities of database users and other Microsoft services can be managed in one central location. Central ID management provides a single place to manage database users and simplifies permission management.", 
+  "control_attributes": {
+    "Control": "4.19. Ensure that Azure Active Directory Admin is configured", 
+    "Control_Clause": "4. Database Services", 
+    "description": "With Azure AD authentication, identities of database users and other Microsoft services can be managed in one central location. Central ID management provides a single place to manage database users and simplifies permission management."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

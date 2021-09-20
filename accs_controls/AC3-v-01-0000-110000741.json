@@ -1,0 +1,104 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000741",
+  "compliance_control_uri": "AC3-v-01/0000/110000741",
+  "Control Name": "SC-8 (2) PRE / POST TRANSMISSION HANDLING",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system maintains the [Selection (one or more): confidentiality; integrity] of information during preparation for transmission and during reception.",
+  "control_attributes": {
+    "Control Name": "SC-8 (2) PRE / POST TRANSMISSION HANDLING",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system maintains the [Selection (one or more): confidentiality; integrity] of information during preparation for transmission and during reception."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/OpsWorks",
+      "service_resource": "AWS/Governance/OpsWorks/ElasticLoadBalancerAttachment"
+    },
+    {
+      "service_resource_type": "AWS/Analytics/Elasticsearch Service",
+      "service_resource": "AWS/Analytics/Elasticsearch Service/Domain"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Cluster_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Governance/AWS_Config",
+      "service_resource": "AWS/Governance/AWS_Config/AWS::ACM::Certificate"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000682",
+      "CIS-AWS/0007/700000024",
+      "SOC2/0017/1700000140"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_S3_Bucket_SSL_Request_Only",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/6ghyt",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

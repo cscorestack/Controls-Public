@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000094", 
+  "compliance_control_uri": "CIS-Azure/0015/150000094", 
+  "Control Name": "7.6 Ensure that the endpoint protection for all Virtual Machines is installed", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Install endpoint protection for all virtual machines.", 
+  "control_attributes": {
+    "Control": "7.6 Ensure that the endpoint protection for all Virtual Machines is installed", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Install endpoint protection for all virtual machines."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

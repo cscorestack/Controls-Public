@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000064", 
+  "compliance_control_uri": "ISO-27001/0011/1100000064", 
+  "Control Name": "12.4.2 Protection of log information", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Logging facilities and log information shall be protected against tampering and unauthorized access", 
+  "control_attributes": {
+    "Clause_Category": "12.4 Logging and monitoring", 
+    "description": "Logging facilities and log information shall be protected against tampering and unauthorized access", 
+    "Control_Title": "12.4.2 Protection of log information", 
+    "Control_Clause": "12. Operations security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

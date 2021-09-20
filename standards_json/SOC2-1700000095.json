@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000095",
+  "compliance_control_uri": "SOC2/0017/1700000095",
+  "Control Name": "Assesses Results—Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.",
+  "Control Family": "Monitoring Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Results—Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.",
+    "Category": "Monitoring Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC4.2 COSO Principle 17: The entity evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate.",
+    "ControlNo": "CC4.2.1",
+    "TrustID": "CC4.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

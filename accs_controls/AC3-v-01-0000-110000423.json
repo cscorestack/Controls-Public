@@ -1,0 +1,61 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000423",
+  "compliance_control_uri": "AC3-v-01/0000/110000423",
+  "Control Name": "MP-5 (4) CRYPTOGRAPHIC PROTECTION",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas.",
+  "control_attributes": {
+    "Control Name": "MP-5 (4) CRYPTOGRAPHIC PROTECTION",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000074",
+      "PCI-DSS/0012/1200000143",
+      "PCI-DSS/0012/1200000144",
+      "Fedramp-Control-Moderate/0010/1000000192",
+      "Fedramp-Control-High/0009/900000257",
+      "HIPAA/0002/200000063",
+      "HIPAA/0002/200000066",
+      "HIPAA/0002/200000029",
+      "Azure-WAF/0015/150000477",
+      "CIS-AWS/0007/700000025",
+      "SOC2/0017/1700000140"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ikuz4",
+        "policy_name": "Azure_Monitor_Unencrypted_VM_Disks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_Encrypted_Volumes",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/wgb1L",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

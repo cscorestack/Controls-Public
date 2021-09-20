@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000199",
+  "compliance_control_uri": "SOC2/0017/1700000199",
+  "Control Name": "Assesses Vendor and Business Partner Risks—The entity assesses, on a periodic basis, the risks that vendors and business partners (and those entities’ vendors and business partners) represent to the achievement of the entity's objectives.  ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Vendor and Business Partner Risks—The entity assesses, on a periodic basis, the risks that vendors and business partners (and those entities’ vendors and business partners) represent to the achievement of the entity's objectives.  ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.2",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

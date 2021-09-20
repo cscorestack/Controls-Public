@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000324", 
+  "compliance_control_uri": "Azure-WAF/0015/150000324", 
+  "Control Name": "4.4.9 Network connectivity redundancy for on premise data/application sources.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "For cross-premises connectivity (ExpressRoute or VPN) are there redundant connections from different locations? i.e. at least two connections from two different locations", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.9 Network connectivity redundancy for on premise data/application sources.", 
+    "Description": "For cross-premises connectivity (ExpressRoute or VPN) are there redundant connections from different locations? i.e. at least two connections from two different locations"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

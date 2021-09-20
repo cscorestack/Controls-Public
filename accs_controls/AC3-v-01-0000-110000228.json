@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000228",
+  "compliance_control_uri": "AC3-v-01/0000/110000228",
+  "Control Name": "CM-5 (4) DUAL AUTHORIZATION",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization enforces dual authorization for implementing changes to [Assignment: organization-defined information system components and system-level information].",
+  "control_attributes": {
+    "Control Name": "CM-5 (4) DUAL AUTHORIZATION",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization enforces dual authorization for implementing changes to [Assignment: organization-defined information system components and system-level information]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000057",
+      "NIST-SP800-53/0006/600000294",
+      "ISO-27001/0011/1100000082"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000269",
+  "compliance_control_uri": "AWS-WAF/0016/160000269",
+  "Control Name": "COST 5.2 Analyze all components of this workload",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Ensure every workload component is analyzed, regardless of current size or current costs. Review eﬀort should reﬂect potential beneﬁt, such as current and projected costs.",
+  "control_attributes": {
+    "Control": "COST 5.2 Analyze all components of this workload",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_analyze_all"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

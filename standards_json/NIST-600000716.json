@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000716", 
+  "control_attributes": {
+    "Control": "SC-30 (3) CHANGE PROCESSING / STORAGE LOCATIONS", 
+    "control_description": "The organization changes the location of [Assignment: organization-defined processing and/or storage] [Selection: [Assignment: organization-defined time frequency]; at random time intervals]].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization tests a subset of the identified covert channels to determine which channels are exploitable."
+  }, 
+  "Control Statement": "The organization changes the location of [Assignment: organization-defined processing and/or storage] [Selection: [Assignment: organization-defined time frequency]; at random time intervals]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-30 (3) CHANGE PROCESSING / STORAGE LOCATIONS", 
+  "compliance_control_number": "600000716"
+}

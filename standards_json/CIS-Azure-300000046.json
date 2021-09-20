@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000046", 
+  "compliance_control_uri": "CIS-Azure/0003/300000046", 
+  "Control Name": "1.9. Ensure that 'Users can consent to apps accessing company data on their behalf' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Require administrators to provide consent for the apps before use", 
+  "control_attributes": {
+    "Control": "1.9. Ensure that 'Users can consent to apps accessing company data on their behalf' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Require administrators to provide consent for the apps before use"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

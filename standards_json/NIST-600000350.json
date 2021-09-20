@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000350", 
+  "control_attributes": {
+    "Control": "CP-9 (5) TRANSFER TO ALTERNATE STORAGE SITE", 
+    "control_description": "The organization transfers information system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives].", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined alternative or supplemental security mechanisms] for satisfying [Assignment: organization-defined security functions] when the primary means of implementing the security function is unavailable or compromised."
+  }, 
+  "Control Statement": "The organization transfers information system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 (5) TRANSFER TO ALTERNATE STORAGE SITE", 
+  "compliance_control_number": "600000350"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000017", 
+  "compliance_control_uri": "CIS-AWS/0007/700000017", 
+  "Control Name": "1.17 Ensure a support role has been created to manage incidents with AWS Support", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS provides a support center that can be used for incident notification and response, as well as technical support and customer services. Create an IAM Role to allow authorized users to manage incidents with AWS Support.", 
+  "control_attributes": {
+    "Control": "1.17 Ensure a support role has been created to manage incidents with AWS Support", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS provides a support center that can be used for incident notification and response, as well as technical support and customer services. Create an IAM Role to allow authorized users to manage incidents with AWS Support."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

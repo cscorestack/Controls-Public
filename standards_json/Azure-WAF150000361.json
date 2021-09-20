@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000361", 
+  "compliance_control_uri": "Azure-WAF/0015/150000361", 
+  "Control Name": "4.9.3 Gateways (ExpressRoute or VPN) have been sized according to expected cross-premises network throughput.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have gateways (ExpressRoute or VPN) been sized accordingly to the expected cross-premises network throughput?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.3 Gateways (ExpressRoute or VPN) have been sized according to expected cross-premises network throughput.", 
+    "Description": "Have gateways (ExpressRoute or VPN) been sized accordingly to the expected cross-premises network throughput?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

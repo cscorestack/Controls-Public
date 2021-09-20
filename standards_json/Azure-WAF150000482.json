@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000482", 
+  "compliance_control_uri": "Azure-WAF/0015/150000482", 
+  "Control Name": "5.11.5 Secret/key rotation procedures are in place.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "In the situation where a key or secret becomes compromised, it is important to be able to quickly act and generate new versions. Key rotation reduces the attack vectors and should be automated and executed without any human interactions.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.11 Are keys, secrets and certificates managed in a secure way?", 
+    "Control": "5.11.5 Secret/key rotation procedures are in place.", 
+    "Description": "In the situation where a key or secret becomes compromised, it is important to be able to quickly act and generate new versions. Key rotation reduces the attack vectors and should be automated and executed without any human interactions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

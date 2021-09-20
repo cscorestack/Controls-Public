@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000127", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000127", 
+  "Control Name": "All access to any database containing cardholder data (including access by applications, administrators, and all other users) is restricted as follows:\\n- All user access to, user queries of, and user actions on databases are through programmatic methods.\\n- Only database administrators have the ability to directly access or query databases.\\n- Application IDs for database applications can only be used by the applications (and not by individual users or other non-application processes).", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "All access to any database containing cardholder data (including access by applications, administrators, and all other users) is restricted as follows:\\n- All user access to, user queries of, and user actions on databases are through programmatic methods.\\n- Only database administrators have the ability to directly access or query databases.\\n- Application IDs for database applications can only be used by the applications (and not by individual users or other non-application processes).", 
+    "Requirement": "8.7.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

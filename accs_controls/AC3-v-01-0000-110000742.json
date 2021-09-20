@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000742",
+  "compliance_control_uri": "AC3-v-01/0000/110000742",
+  "Control Name": "SC-8 (3) CRYPTOGRAPHIC PROTECTION FOR MESSAGE EXTERNALS",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system implements cryptographic mechanisms to protect message externals unless otherwise protected by [Assignment: organization-defined alternative physical safeguards].",
+  "control_attributes": {
+    "Control Name": "SC-8 (3) CRYPTOGRAPHIC PROTECTION FOR MESSAGE EXTERNALS",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system implements cryptographic mechanisms to protect message externals unless otherwise protected by [Assignment: organization-defined alternative physical safeguards]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000683",
+      "AWS-WAF/0005/500000120",
+      "AWS-WAF/0005/500000122",
+      "CIS-AWS/0007/700000028",
+      "Azure-WAF/0015/150000434",
+      "Azure-WAF/0015/150000472",
+      "Azure-WAF/0015/150000476"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

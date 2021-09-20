@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000282", 
+  "control_attributes": {
+    "Control": "CM-2 (7) CONFIGURE SYSTEMS, COMPONENTS, OR DEVICES FOR HIGH-RISK AREAS", 
+    "control_description": "The organization:                                                                                          (a) Issues [Assignment: organization-defined information systems, system components, or devices] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and(b) Applies [Assignment: organization-defined security safeguards] to the devices when the individuals return.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization defines, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system."
+  }, 
+  "Control Statement": "The organization:                                                                                          (a) Issues [Assignment: organization-defined information systems, system components, or devices] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and(b) Applies [Assignment: organization-defined security safeguards] to the devices when the individuals return.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-2 (7) CONFIGURE SYSTEMS, COMPONENTS, OR DEVICES FOR HIGH-RISK AREAS", 
+  "compliance_control_number": "600000282"
+}

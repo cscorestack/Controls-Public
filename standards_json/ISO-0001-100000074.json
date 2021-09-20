@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000074", 
+  "compliance_control_uri": "ISO/0001/100000049", 
+  "Control Name": "13.2.1 Information transfer policies and procedures", 
+  "Control Family": "13. Communications security", 
+  "Control Statement": "Formal exchange policies, procedures, and controls shall be in place to protect the exchange of information through the use of all types of communication facilities", 
+  "control_attributes": {
+    "Control_Objective": "13.2.1 Information transfer policies and procedures", 
+    "Security_Control_Clause": "13. Communications security", 
+    "Security_Category": "13.2 Information transfer", 
+    "description": "Formal exchange policies, procedures, and controls shall be in place to protect the exchange of information through the use of all types of communication facilities"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

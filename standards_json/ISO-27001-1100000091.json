@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000091", 
+  "compliance_control_uri": "ISO-27001/0011/1100000091", 
+  "Control Name": "15.1.1 Information security policy for supplier relationships", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "Review the policies, processes, practices and records relating to the management of supplier relationships involving outsourced IT and cloud, logistics, utilities, HR, medical, financial, legal and other services with significant information risk, security or compliance implications. ", 
+  "control_attributes": {
+    "Clause_Category": "15.1 Information security in supplier relationships", 
+    "description": "Review the policies, processes, practices and records relating to the management of supplier relationships involving outsourced IT and cloud, logistics, utilities, HR, medical, financial, legal and other services with significant information risk, security or compliance implications. ", 
+    "Control_Title": "15.1.1 Information security policy for supplier relationships", 
+    "Control_Clause": "15. Supplier relationships"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

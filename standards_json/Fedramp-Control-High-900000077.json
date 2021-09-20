@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000077", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000077", 
+  "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CORRELATION WITH PHYSICAL MONITORING", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The organization correlates information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.Supplemental Guidance:  The correlation of physical audit information and audit logs from information systems may assist organizations in identifying examples of suspicious behavior or supporting evidence of such behavior. For example, the correlation of an individual\u00e2\u20ac\u2122s identify for logical access to certain information systems with the additional physical security information that the individual was actually present at the facility when the logical access occurred, may prove to be useful in investigations.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The organization correlates information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.Supplemental Guidance:  The correlation of physical audit information and audit logs from information systems may assist organizations in identifying examples of suspicious behavior or supporting evidence of such behavior. For example, the correlation of an individual\u00e2\u20ac\u2122s identify for logical access to certain information systems with the additional physical security information that the individual was actually present at the facility when the logical access occurred, may prove to be useful in investigations.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AU-06 (06)", 
+    "CNTL NO": "AU-6 (6)", 
+    "AdditionalReq": "AU-6 (6) Requirement: Coordination between service provider and consumer shall be documented and accepted by the JAB/AO.", 
+    "Control Name": "AUDIT REVIEW, ANALYSIS, AND REPORTING | CORRELATION WITH PHYSICAL MONITORING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

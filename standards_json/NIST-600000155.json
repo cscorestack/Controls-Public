@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000155", 
+  "control_attributes": {
+    "Control": "AC-4 (12) DATA TYPE IDENTIFIERS", 
+    "control_description": "The information system, when transferring information between different security domains, uses [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides separate processing domains to enable finer-grained allocation of user privileges."
+  }, 
+  "Control Statement": "The information system, when transferring information between different security domains, uses [Assignment: organization-defined data type identifiers] to validate data essential for information flow decisions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (12) DATA TYPE IDENTIFIERS", 
+  "compliance_control_number": "600000155"
+}

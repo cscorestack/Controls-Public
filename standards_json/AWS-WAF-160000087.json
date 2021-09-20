@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000087",
+  "compliance_control_uri": "AWS-WAF/0016/160000087",
+  "Control Name": "SEC 1.5 Keep up to date with security recommendations",
+  "Control Family": "Security",
+  "Control Statement": "Stay up to date with both AWS and industry security recommendations to evolve the security posture of your workload.",
+  "control_attributes": {
+    "Control": "SEC 1.5 Keep up to date with security recommendations",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_updated_recommendations"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

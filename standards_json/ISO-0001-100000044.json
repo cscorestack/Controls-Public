@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000044", 
+  "compliance_control_uri": "ISO/0001/100000105", 
+  "Control Name": "11.1.3 Securing offices, rooms and facilities", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Physical security for offices, rooms and facilities shall be designed and applied.", 
+  "control_attributes": {
+    "Control_Objective": "11.1.3 Securing offices, rooms and facilities", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.1 - Secure areas", 
+    "description": "Physical security for offices, rooms and facilities shall be designed and applied."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

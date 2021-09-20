@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000151", 
+  "compliance_control_uri": "Azure-WAF/0015/150000151", 
+  "Control Name": "2.11.3 There is a documented process for any portions of the deployment that require manual intervention", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is there a documented process for any portions of the deployment that require manual intervention?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.11 What operational considerations are you making regarding the deployment of your workload?", 
+    "Control": "2.11.3 There is a documented process for any portions of the deployment that require manual intervention", 
+    "Description": "Is there a documented process for any portions of the deployment that require manual intervention?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

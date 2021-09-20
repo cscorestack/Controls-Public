@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000434", 
+  "compliance_control_uri": "Azure-WAF/0015/150000434", 
+  "Control Name": "5.5.7 Authentication tokens are cached securely and encrypted when sharing across web servers.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "OAuth tokens are usually cached after they've been acquired. Application code should first try to get tokens silently from a cache before attempting to acquire a token from the identity provider, to optimise performance and maximize availability. Tokens should be stored securely and handled as any other credentials. When there's a need to share tokens across application servers (instead of each server acquiring and caching their own) encryption should be used.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.5 Is the workload developed and configured in a secure way?", 
+    "Control": "5.5.7 Authentication tokens are cached securely and encrypted when sharing across web servers.", 
+    "Description": "OAuth tokens are usually cached after they've been acquired. Application code should first try to get tokens silently from a cache before attempting to acquire a token from the identity provider, to optimise performance and maximize availability. Tokens should be stored securely and handled as any other credentials. When there's a need to share tokens across application servers (instead of each server acquiring and caching their own) encryption should be used."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

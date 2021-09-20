@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000262", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000262", 
+  "Control Name": "MEDIA USE | PROHIBIT USE WITHOUT OWNER", 
+  "Control Family": "MEDIA PROTECTION", 
+  "Control Statement": "The organization prohibits the use of portable storage devices in organizational information systems when such devices have no identifiable owner.Supplemental Guidance:  Requiring identifiable owners (e.g., individuals, organizations, or projects) for portable storage devices reduces the risk of using such technologies by allowing organizations to assign responsibility and accountability for addressing known vulnerabilities in the devices (e.g., malicious code insertion). Related control: PL-4.", 
+  "control_attributes": {
+    "Category": "MEDIA PROTECTION", 
+    "description": "The organization prohibits the use of portable storage devices in organizational information systems when such devices have no identifiable owner.Supplemental Guidance:  Requiring identifiable owners (e.g., individuals, organizations, or projects) for portable storage devices reduces the risk of using such technologies by allowing organizations to assign responsibility and accountability for addressing known vulnerabilities in the devices (e.g., malicious code insertion). Related control: PL-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "MP-07 (01)", 
+    "CNTL NO": "MP-7 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "MEDIA USE | PROHIBIT USE WITHOUT OWNER"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

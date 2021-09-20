@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000016", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000016", 
+  "Control Name": "1.3.3 Implement anti-spoofing measures to detect and block forged source IP addresses from entering the network.", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "1.3.3 Implement anti-spoofing measures to detect and block forged source IP addresses from entering the network.", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

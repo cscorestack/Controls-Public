@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000083", 
+  "compliance_control_uri": "ISO/0001/100000058", 
+  "Control Name": "14.2.3 Technical review of applications after operating platform changes", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "When operating systems are changed, business critical applications shall be reviewed and tested to ensure there is no adverse impact on organizational operations or security", 
+  "control_attributes": {
+    "Control_Objective": "14.2.3 Technical review of applications after operating platform changes", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "When operating systems are changed, business critical applications shall be reviewed and tested to ensure there is no adverse impact on organizational operations or security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

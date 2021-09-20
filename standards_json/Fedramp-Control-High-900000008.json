@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000008", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000008", 
+  "Control Name": "ACCOUNT MANAGEMENT | ROLE-BASED SCHEMES", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.Supplemental Guidance: Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization:(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;(b) Monitors privileged role assignments; and(c) Takes [Assignment: organization-defined actions] when privileged role assignments are no longer appropriate.Supplemental Guidance: Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.", 
+    "SelectionParam": "AC-2 (7) (c) [disables/revokes access within a organization-specified timeframe]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (07)", 
+    "CNTL NO": "AC-2 (7)", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCOUNT MANAGEMENT | ROLE-BASED SCHEMES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

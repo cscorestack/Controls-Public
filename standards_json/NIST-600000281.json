@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000281", 
+  "control_attributes": {
+    "Control": "CM-2 (6) DEVELOPMENT AND TEST ENVIRONMENTS", 
+    "control_description": "The organization maintains a baseline configuration for information system development and test environments that is managed separately from the operational baseline configuration.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization, after the information system is changed, checks the security functions to verify that the functions are implemented correctly, operating as intended, and producing the desired outcome with regard to meeting the security requirements for the system."
+  }, 
+  "Control Statement": "The organization maintains a baseline configuration for information system development and test environments that is managed separately from the operational baseline configuration.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-2 (6) DEVELOPMENT AND TEST ENVIRONMENTS", 
+  "compliance_control_number": "600000281"
+}

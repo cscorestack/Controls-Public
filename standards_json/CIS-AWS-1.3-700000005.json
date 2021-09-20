@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000005", 
+  "compliance_control_uri": "CIS-AWS/0007/700000005", 
+  "Control Name": "1.5 Ensure MFA is enabled for the root user account", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "The root user account is the most privileged user in an AWS account. Multi-factor Authentication (MFA) adds an extra layer of protection on top of a username and password.", 
+  "control_attributes": {
+    "Control": "1.5 Ensure MFA is enabled for the root user account", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "The root user account is the most privileged user in an AWS account. Multi-factor Authentication (MFA) adds an extra layer of protection on top of a username and password."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000589", 
+  "control_attributes": {
+    "Control": "SA-10 (1) SOFTWARE / FIRMWARE INTEGRITY VERIFICATION", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of software and firmware components.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to:"
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of software and firmware components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-10 (1) SOFTWARE / FIRMWARE INTEGRITY VERIFICATION", 
+  "compliance_control_number": "600000589"
+}

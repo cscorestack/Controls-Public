@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000171",
+  "compliance_control_uri": "AWS-WAF/0016/160000171",
+  "Control Name": "REL 7.1 Use automation when obtaining or scaling resources",
+  "Control Family": "Reliability",
+  "Control Statement": "When replacing impaired resources or scaling your workload, automate the process by using managed AWS services, such as Amazon S3 and AWS Auto Scaling. You can also use third-party tools and AWS SDKs to automate scaling.",
+  "control_attributes": {
+    "Control": "REL 7.1 Use automation when obtaining or scaling resources",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to adapt to changes in demand?",
+    "question_id": "adapt-to-changes",
+    "choice_id": "rel_adapt_to_changes_autoscale_adapt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

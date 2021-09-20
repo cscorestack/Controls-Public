@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000091", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000091", 
+  "Control Name": "AUDIT GENERATION | SYSTEM-WIDE / TIME-CORRELATED AUDIT TRAIL", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system compiles audit records from [Assignment: organization-defined information system components] into a system-wide (logical or physical) audit trail that is time- correlated to within [Assignment: organization-defined level of tolerance for relationship between time stamps of individual records in the audit trail].Supplemental Guidance:  Audit trails are time-correlated if the time stamps in the individual audit records can be reliably related to the time stamps in other audit records to achieve a time ordering of the records within organizational tolerances. Related controls: AU-8, AU-12.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system compiles audit records from [Assignment: organization-defined information system components] into a system-wide (logical or physical) audit trail that is time- correlated to within [Assignment: organization-defined level of tolerance for relationship between time stamps of individual records in the audit trail].Supplemental Guidance:  Audit trails are time-correlated if the time stamps in the individual audit records can be reliably related to the time stamps in other audit records to achieve a time ordering of the records within organizational tolerances. Related controls: AU-8, AU-12.", 
+    "SelectionParam": "AU-12 (1) [all network, data storage, and computing devices]", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-12 (01)", 
+    "CNTL NO": "AU-12 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT GENERATION | SYSTEM-WIDE / TIME-CORRELATED AUDIT TRAIL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

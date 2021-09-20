@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000081", 
+  "compliance_control_uri": "Azure-WAF/0015/150000081", 
+  "Control Name": "2.2.2 Deployed the application across multiple regions.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Does the application support multi-region deployments for failover purposes?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.2 What design considerations for operations have you made?", 
+    "Control": "2.2.2 Deployed the application across multiple regions.", 
+    "Description": "Does the application support multi-region deployments for failover purposes?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

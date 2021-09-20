@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000084",
+  "compliance_control_uri": "SOC2/0017/1700000084",
+  "Control Name": "Assesses Changes in Leadership—The entity considers changes in management and respective attitudes and philosophies on the system of internal control.",
+  "Control Family": "Risk Assessment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Changes in Leadership—The entity considers changes in management and respective attitudes and philosophies on the system of internal control.",
+    "Category": "Risk Assessment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC3.4 COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control.",
+    "ControlNo": "CC3.4.3",
+    "TrustID": "CC3.4"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

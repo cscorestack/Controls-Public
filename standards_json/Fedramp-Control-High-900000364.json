@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000364", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000364", 
+  "Control Name": "NETWORK DISCONNECT", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system terminates the network connection associated with a communications session at the end of the session or after [Assignment: organization-defined time period] of inactivity.Supplemental Guidance:  This control applies to both internal and external networks. Terminating network connections associated with communications sessions include, for example, de-allocating associated TCP/IP address/port pairs at the operating system level, or de-allocating networking assignments at the application level if multiple application sessions are using a single, operating system-level network connection. Time periods of inactivity may be established by organizations and include, for example, time periods by type of network access or for specific network accesses.Control Enhancements:  None.References:  None.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system terminates the network connection associated with a communications session at the end of the session or after [Assignment: organization-defined time period] of inactivity.Supplemental Guidance:  This control applies to both internal and external networks. Terminating network connections associated with communications sessions include, for example, de-allocating associated TCP/IP address/port pairs at the operating system level, or de-allocating networking assignments at the application level if multiple application sessions are using a single, operating system-level network connection. Time periods of inactivity may be established by organizations and include, for example, time periods by type of network access or for specific network accesses.Control Enhancements:  None.References:  None.", 
+    "SelectionParam": "SC-10  [no longer than ten (10) minutes for privileged sessions and no longer than fifteen (15) minutes for user sessions]", 
+    "FedRampParam": "x", 
+    "SORTID": "SC-10", 
+    "CNTL NO": "SC-10", 
+    "AdditionalReq": " ", 
+    "Control Name": "NETWORK DISCONNECT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

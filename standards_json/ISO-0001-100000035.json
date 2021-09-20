@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000035", 
+  "compliance_control_uri": "ISO/0001/100000094", 
+  "Control Name": "9.4.1 Information access restriction", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Access to information and application system functions shall be restricted in accordance with the access control policy.", 
+  "control_attributes": {
+    "Control_Objective": "9.4.1 Information access restriction", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.4 - System and application access control", 
+    "description": "Access to information and application system functions shall be restricted in accordance with the access control policy."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

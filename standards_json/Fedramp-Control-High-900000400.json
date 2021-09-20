@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000400", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000400", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | ANALYZE TRAFFIC / COVERT EXFILTRATION", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization analyzes outbound communications traffic at the external boundary of the information system (i.e., system perimeter) and at [Assignment: organization-defined interior points within the system (e.g., subsystems, subnetworks)] to detect covert exfiltration of information.Supplemental Guidance:  Covert means that can be used for the unauthorized exfiltration of organizational information include, for example, steganography.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization analyzes outbound communications traffic at the external boundary of the information system (i.e., system perimeter) and at [Assignment: organization-defined interior points within the system (e.g., subsystems, subnetworks)] to detect covert exfiltration of information.Supplemental Guidance:  Covert means that can be used for the unauthorized exfiltration of organizational information include, for example, steganography.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (18)", 
+    "CNTL NO": "SI-4 (18)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | ANALYZE TRAFFIC / COVERT EXFILTRATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000054", 
+  "compliance_control_uri": "HIPAA/0002/200000054", 
+  "Control Name": "Business Associate Contracts and Other Arrangements - 164.308(b)(1)", 
+  "Control Family": "Business Associate Contracts and Other Arrangements", 
+  "Control Statement": "A covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity\\u0080\\u0099's behalf only if the covered entity obtains satisfactory assurances, in accordance with \\u00a7164.314(a) that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.\\n\\n\\t\\t\\t\\t\\u00a7164.308(b)(2): A business associate may permit a business associate that is a subcontractor to create, receive, maintain, or transmit electronic protected health information on its behalf only if the business associate obtains satisfactory assurances, in accordance with \\u00a7164.314(a), that the subcontractor will appropriately safeguard the information.", 
+  "control_attributes": {
+    "Control": "Business Associate Contracts and Other Arrangements - 164.308(b)(1)", 
+    "Security_Category": "Business Associate Contracts and Other Arrangements", 
+    "Control_description": "A covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity\\u0080\\u0099's behalf only if the covered entity obtains satisfactory assurances, in accordance with \\u00a7164.314(a) that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.\\n\\n\\t\\t\\t\\t\\u00a7164.308(b)(2): A business associate may permit a business associate that is a subcontractor to create, receive, maintain, or transmit electronic protected health information on its behalf only if the business associate obtains satisfactory assurances, in accordance with \\u00a7164.314(a), that the subcontractor will appropriately safeguard the information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

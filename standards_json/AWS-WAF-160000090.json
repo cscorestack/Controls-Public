@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000090",
+  "compliance_control_uri": "AWS-WAF/0016/160000090",
+  "Control Name": "SEC 1.8 Evaluate and implement new security services and features regularly",
+  "Control Family": "Security",
+  "Control Statement": "AWS and APN Partners constantly release new features and services that allow you to evolve the security posture of your workload.",
+  "control_attributes": {
+    "Control": "SEC 1.8 Evaluate and implement new security services and features regularly",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_implement_services_features"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000063", 
+  "control_attributes": {
+    "Control": "SI-5 (1) AUTOMATED ALERTS AND ADVISORIES", 
+    "control_description": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system enforces approved authorizations for logical access to information           and system resources in accordance with applicable access control policies."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-5 (1) AUTOMATED ALERTS AND ADVISORIES", 
+  "compliance_control_number": "600000063"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000225", 
+  "control_attributes": {
+    "Control": "AT-3 ROLE-BASED SECURITY TRAINING", 
+    "control_description": "The organization provides role-based security training to personnel with assigned security roles and responsibilities:", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability to centrally review and analyze audit records from multiple components within the system."
+  }, 
+  "Control Statement": "The organization provides role-based security training to personnel with assigned security roles and responsibilities:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-3 ROLE-BASED SECURITY TRAINING", 
+  "compliance_control_number": "600000225"
+}

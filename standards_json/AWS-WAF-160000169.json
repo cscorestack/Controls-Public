@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000169",
+  "compliance_control_uri": "AWS-WAF/0016/160000169",
+  "Control Name": "REL 6.6 Conduct reviews regularly",
+  "Control Family": "Reliability",
+  "Control Statement": "Frequently review how workload monitoring is implemented and update it based on signiﬁcant events and changes",
+  "control_attributes": {
+    "Control": "REL 6.6 Conduct reviews regularly",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_review_monitoring"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

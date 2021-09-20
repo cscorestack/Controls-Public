@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000272",
+  "compliance_control_uri": "AWS-WAF/0016/160000272",
+  "Control Name": "COST 5.5 Select components of this workload to optimize cost in line with organization priorities",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Factor in cost when selecting all components. This includes using application level and managed services, such as Amazon RDS, Amazon DynamoDB, Amazon SNS, and Amazon SES to reduce overall organization cost. Use serverless and containers for compute, such as AWS Lambda, Amazon S3 for static websites, and Amazon ECS. Minimize license costs by using open source software, or software that does not have license fees: for example, Amazon Linux for compute workloads or migrate databases to Amazon Aurora.",
+  "control_attributes": {
+    "Control": "COST 5.5 Select components of this workload to optimize cost in line with organization priorities",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_select_for_cost"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

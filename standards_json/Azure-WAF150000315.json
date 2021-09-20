@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000315", 
+  "compliance_control_uri": "Azure-WAF/0015/150000315", 
+  "Control Name": "4.3.7 Aligned with Azure roadmaps for required preview services and capabilities.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are any preview services/capabilities required in production?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.7 Aligned with Azure roadmaps for required preview services and capabilities.", 
+    "Description": "Are any preview services/capabilities required in production?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

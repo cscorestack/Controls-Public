@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000113", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000113", 
+  "Control Name": "BASELINE CONFIGURATION | RETENTION OF PREVIOUS CONFIGURATIONS", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.Supplemental Guidance:  Retaining previous versions of baseline configurations to support rollback may include, for example, hardware, software, firmware, configuration files, and configuration records.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.Supplemental Guidance:  Retaining previous versions of baseline configurations to support rollback may include, for example, hardware, software, firmware, configuration files, and configuration records.", 
+    "SelectionParam": "CM-2 (3) [organization-defined previous versions of baseline configurations of the previously approved baseline configuration of IS components]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-02 (03)", 
+    "CNTL NO": "CM-2 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BASELINE CONFIGURATION | RETENTION OF PREVIOUS CONFIGURATIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

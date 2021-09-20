@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000129", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000129", 
+  "Control Name": "Use appropriate facility entry controls to limit and monitor physical access to systems in the cardholder data environment.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Use appropriate facility entry controls to limit and monitor physical access to systems in the cardholder data environment.", 
+    "Requirement": "9.1. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

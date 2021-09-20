@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000263",
+  "compliance_control_uri": "AWS-WAF/0016/160000263",
+  "Control Name": "COST 3.6 Allocate costs based on workload metrics",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Allocate the workload's costs by metrics or business outcomes to measure workload cost eﬃciency. Implement a process to analyze the AWS Cost and Usage Report with Amazon Athena, which can provide insight and charge back capability.",
+  "control_attributes": {
+    "Control": "COST 3.6 Allocate costs based on workload metrics",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you monitor usage and cost?",
+    "question_id": "monitor-usage",
+    "choice_id": "cost_monitor_usage_allocate_outcome"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000002", 
+  "compliance_control_uri": "CIS-AWS/0007/700000002", 
+  "Control Name": "1.2 Ensure security contact information is registered", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "AWS provides customers with the option of specifying the contact information for account's security team. It is recommended that this information be provided.", 
+  "control_attributes": {
+    "Control": "1.2 Ensure security contact information is registered", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "AWS provides customers with the option of specifying the contact information for account's security team. It is recommended that this information be provided."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

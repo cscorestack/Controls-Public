@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000758", 
+  "control_attributes": {
+    "Control": "SI-4 (1) SYSTEM-WIDE INTRUSION DETECTION SYSTEM", 
+    "control_description": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions."
+  }, 
+  "Control Statement": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (1) SYSTEM-WIDE INTRUSION DETECTION SYSTEM", 
+  "compliance_control_number": "600000758"
+}

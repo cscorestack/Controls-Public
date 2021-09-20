@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000010",
+  "compliance_control_uri": "AWS-WAF/0016/160000010",
+  "Control Name": "OPS 2.3 Operations activities have identiﬁed owners responsible for their performance",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Understand who has responsibility to perform speciﬁc activities on deﬁned workloads and why that responsibility exists. Understanding who has responsibility to perform activities informs who will conduct the activity, validate the result, and provide feedback to the owner of the activity.",
+  "control_attributes": {
+    "Control": "OPS 2.3 Operations activities have identiﬁed owners responsible for their performance",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you structure your organization to support your business outcomes?",
+    "question_id": "ops-model",
+    "choice_id": "ops_ops_model_def_activity_owners"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

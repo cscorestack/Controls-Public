@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000616",
+  "compliance_control_uri": "AC3-v-01/0000/110000616",
+  "Control Name": "SA-4 (6) USE OF INFORMATION ASSURANCE PRODUCTS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization: (a) Employs only government off-the-shelf (GOTS) or commercial off-the-shelf (COTS) information assurance (IA) and IA-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and(b) Ensures that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures.",
+  "control_attributes": {
+    "Control Name": "SA-4 (6) USE OF INFORMATION ASSURANCE PRODUCTS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization: (a) Employs only government off-the-shelf (GOTS) or commercial off-the-shelf (COTS) information assurance (IA) and IA-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and(b) Ensures that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000575",
+      "AWS-WAF/0005/500000110",
+      "AWS-WAF/0005/500000112",
+      "AWS-WAF/0005/500000113",
+      "AWS-WAF/0005/500000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

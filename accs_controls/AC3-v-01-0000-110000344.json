@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000344",
+  "compliance_control_uri": "AC3-v-01/0000/110000344",
+  "Control Name": "IA-5 (9) CROSS-ORGANIZATION CREDENTIAL MANAGEMENT",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of credentials.",
+  "control_attributes": {
+    "Control Name": "IA-5 (9) CROSS-ORGANIZATION CREDENTIAL MANAGEMENT",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of credentials."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000390",
+      "AWS-WAF/0016/160000104"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

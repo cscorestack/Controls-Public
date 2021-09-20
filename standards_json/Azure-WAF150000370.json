@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000370", 
+  "compliance_control_uri": "Azure-WAF/0015/150000370", 
+  "Control Name": "4.10.1 The identity provider (AAD/ADFS/AD/Other) is highly available and aligns with application availability and recovery targets.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the identity provider (AAD/ADFS/AD/Other) and network connectivity to the identity provider highly available?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.1 The identity provider (AAD/ADFS/AD/Other) is highly available and aligns with application availability and recovery targets.", 
+    "Description": "Is the identity provider (AAD/ADFS/AD/Other) and network connectivity to the identity provider highly available?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

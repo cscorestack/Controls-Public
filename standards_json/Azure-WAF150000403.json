@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000403", 
+  "compliance_control_uri": "Azure-WAF/0015/150000403", 
+  "Control Name": "5.2.4 Root management group is used and any changes that are applied using this group are carefully considered.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "The root management group ensures consistency across the enterprise by applying policies, permissions, and tags across all subscriptions. This group can affect all resources in Azure and incorrect use can impact the security of all workloads in Azure.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.4 Root management group is used and any changes that are applied using this group are carefully considered.", 
+    "Description": "The root management group ensures consistency across the enterprise by applying policies, permissions, and tags across all subscriptions. This group can affect all resources in Azure and incorrect use can impact the security of all workloads in Azure."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000061", 
+  "compliance_control_uri": "Azure-WAF/0015/150000061", 
+  "Control Name": "1.8.4 DDoS attack mitigation plans and capabilities are in place.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "DDoS attacks can be very debilitating and completely block access to your services or even take down the services, depending on the type of DDoS attack. Use Standard protection for critical workloads where outage would have business impact. Also consider CDN as another layer of protection.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.8 How do you manage networking costs for this workload?", 
+    "Control": "1.8.4 DDoS attack mitigation plans and capabilities are in place.", 
+    "Description": "DDoS attacks can be very debilitating and completely block access to your services or even take down the services, depending on the type of DDoS attack. Use Standard protection for critical workloads where outage would have business impact. Also consider CDN as another layer of protection."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

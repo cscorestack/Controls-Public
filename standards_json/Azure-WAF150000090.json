@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000090", 
+  "compliance_control_uri": "Azure-WAF/0015/150000090", 
+  "Control Name": "2.3.5 There are targets defined for the time it takes to perform scale operations", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are there any targets defined for the time it takes to perform scale operations?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.5 There are targets defined for the time it takes to perform scale operations", 
+    "Description": "Are there any targets defined for the time it takes to perform scale operations?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

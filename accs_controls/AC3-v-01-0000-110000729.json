@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000729",
+  "compliance_control_uri": "AC3-v-01/0000/110000729",
+  "Control Name": "SC-7 (20) DYNAMIC ISOLATION / SEGREGATION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system provides the capability to dynamically isolate/segregate [Assignment: organization-defined information system components] from other components of the system.",
+  "control_attributes": {
+    "Control Name": "SC-7 (20) DYNAMIC ISOLATION / SEGREGATION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system provides the capability to dynamically isolate/segregate [Assignment: organization-defined information system components] from other components of the system."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000678",
+      "Fedramp-Control-High/0009/900000359"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

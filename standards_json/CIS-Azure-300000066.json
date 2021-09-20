@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000066", 
+  "compliance_control_uri": "CIS-Azure/0003/300000066", 
+  "Control Name": "2.18. Ensure that 'Send email notification for high severity alerts' is set to 'On'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "This ensures that the designated security contact are aware of any potential compromise in order to mitigate the risk in a timely fashion.", 
+  "control_attributes": {
+    "Control": "2.18. Ensure that 'Send email notification for high severity alerts' is set to 'On'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "This ensures that the designated security contact are aware of any potential compromise in order to mitigate the risk in a timely fashion."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

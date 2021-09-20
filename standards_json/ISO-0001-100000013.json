@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000013", 
+  "compliance_control_uri": "ISO/0001/100000012", 
+  "Control Name": "7.2.2 Informtion security awareness, education and training", 
+  "Control Family": "7. Human resources security", 
+  "Control Statement": "All employees of the organization and, where relevant, contractors and third party users shall receive appropriate awareness training and regular updates in organizational policies and procedures, as relevant for their job function", 
+  "control_attributes": {
+    "Control_Objective": "7.2.2 Informtion security awareness, education and training", 
+    "Security_Control_Clause": "7. Human resources security", 
+    "Security_Category": "7.2 During employment", 
+    "description": "All employees of the organization and, where relevant, contractors and third party users shall receive appropriate awareness training and regular updates in organizational policies and procedures, as relevant for their job function"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

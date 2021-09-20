@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000036", 
+  "compliance_control_uri": "Azure-WAF/0015/150000036", 
+  "Control Name": "1.5.4 The application has been designed to scale both in and out.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Azure provides elastic scalability, however, applications must leverage a scale-unit approach to navigate service and subscription limits to ensure that individual components and the application as a whole can scale horizontally. Don't forget about scale in as well, as this is important to drive cost down. For example, scale in and out for App Service is done via rules. Often customers write scale out rule and never write scale in rule, this leaves the App Service more expensive.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.4 The application has been designed to scale both in and out.", 
+    "Description": "Azure provides elastic scalability, however, applications must leverage a scale-unit approach to navigate service and subscription limits to ensure that individual components and the application as a whole can scale horizontally. Don't forget about scale in as well, as this is important to drive cost down. For example, scale in and out for App Service is done via rules. Often customers write scale out rule and never write scale in rule, this leaves the App Service more expensive."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

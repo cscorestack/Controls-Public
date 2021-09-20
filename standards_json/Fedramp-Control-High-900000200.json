@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000200", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000200", 
+  "Control Name": "AUTHENTICATOR MANAGEMENT | NO EMBEDDED UNENCRYPTED STATIC AUTHENTICATORS", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The organization ensures that unencrypted static authenticators are not embedded in applications or access scripts or stored on function keys.Supplemental Guidance:  Organizations exercise caution in determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators. This is irrespective of whether that representation is perhaps an encrypted version of something else (e.g., a password).", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The organization ensures that unencrypted static authenticators are not embedded in applications or access scripts or stored on function keys.Supplemental Guidance:  Organizations exercise caution in determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators. This is irrespective of whether that representation is perhaps an encrypted version of something else (e.g., a password).", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-05 (07)", 
+    "CNTL NO": "IA-5 (7)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUTHENTICATOR MANAGEMENT | NO EMBEDDED UNENCRYPTED STATIC AUTHENTICATORS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

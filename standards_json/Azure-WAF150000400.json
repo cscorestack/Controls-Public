@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000400", 
+  "compliance_control_uri": "Azure-WAF/0015/150000400", 
+  "Control Name": "5.2.1 Regulatory and governance requirements of this workload are known and well understood.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Regulatory requirements may mandate that operational data, such as application logs and metrics, remain within a certain geo-political region. This has obvious implications for how the application should be operationalized.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.1 Regulatory and governance requirements of this workload are known and well understood.", 
+    "Description": "Regulatory requirements may mandate that operational data, such as application logs and metrics, remain within a certain geo-political region. This has obvious implications for how the application should be operationalized."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

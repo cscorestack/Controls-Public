@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000117", 
+  "compliance_control_uri": "Azure-WAF/0015/150000117", 
+  "Control Name": "2.7.3 A tool such as Azure Monitor or Splunk is used for alerting", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "What technology in used for alerting?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.3 A tool such as Azure Monitor or Splunk is used for alerting", 
+    "Description": "What technology in used for alerting?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

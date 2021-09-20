@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000271", 
+  "control_attributes": {
+    "Control": "CA-3 (4) CONNECTIONS TO PUBLIC NETWORKS", 
+    "control_description": "The organization prohibits the direct connection of an [Assignment: organization-defined information system] to a public network.", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization maintains a baseline configuration for information system development and test environments that is managed separately from the operational baseline configuration."
+  }, 
+  "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined information system] to a public network.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-3 (4) CONNECTIONS TO PUBLIC NETWORKS", 
+  "compliance_control_number": "600000271"
+}

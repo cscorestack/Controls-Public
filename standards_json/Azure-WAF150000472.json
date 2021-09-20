@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000472", 
+  "compliance_control_uri": "Azure-WAF/0015/150000472", 
+  "Control Name": "5.10.2 The workload communicates over encrypted (TLS / HTTPS) network channels only.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Any network communication between client and server where man-in-the-middle attack can occur, needs to be encrypted. All website communication should use HTTPS, no matter the perceived sensitivity of transferred data (man-in-the-middle attacks can occur anywhere on the site, not just on login forms).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.2 The workload communicates over encrypted (TLS / HTTPS) network channels only.", 
+    "Description": "Any network communication between client and server where man-in-the-middle attack can occur, needs to be encrypted. All website communication should use HTTPS, no matter the perceived sensitivity of transferred data (man-in-the-middle attacks can occur anywhere on the site, not just on login forms)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

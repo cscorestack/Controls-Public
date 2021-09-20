@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000313", 
+  "control_attributes": {
+    "Control": "CM-11 (2) PROHIBIT INSTALLATION WITHOUT PRIVILEGED STATUS", 
+    "control_description": "The information system prohibits user installation of software without explicit privileged status.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization coordinates its contingency plan with the contingency plans of external service providers to ensure that contingency requirements can be satisfied."
+  }, 
+  "Control Statement": "The information system prohibits user installation of software without explicit privileged status.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-11 (2) PROHIBIT INSTALLATION WITHOUT PRIVILEGED STATUS", 
+  "compliance_control_number": "600000313"
+}

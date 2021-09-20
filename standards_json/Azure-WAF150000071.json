@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000071", 
+  "compliance_control_uri": "Azure-WAF/0015/150000071", 
+  "Control Name": "1.9.6 Bursting for P20 and below disks is utilized for suitable workloads.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Azure Disks offer variety of SKUs and sizes to satisfy different workload requirements. Some of the more recent features could help further optimize cost-performance of existing disk use cases. You can leverage disk bursting for Premium (disks P20 and below). Example scenarios that could benefit from this feature are improving OS boot time, handling batch jobs and handling traffic spikes.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.6 Bursting for P20 and below disks is utilized for suitable workloads.", 
+    "Description": "Azure Disks offer variety of SKUs and sizes to satisfy different workload requirements. Some of the more recent features could help further optimize cost-performance of existing disk use cases. You can leverage disk bursting for Premium (disks P20 and below). Example scenarios that could benefit from this feature are improving OS boot time, handling batch jobs and handling traffic spikes."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000544", 
+  "control_attributes": {
+    "Control": "PS-3 PERSONNEL SCREENING", 
+    "control_description": "The organization: a. Screens individuals prior to authorizing access to the information system; andb. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Screens individuals prior to authorizing access to the information system; andb. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-3 PERSONNEL SCREENING", 
+  "compliance_control_number": "600000544"
+}

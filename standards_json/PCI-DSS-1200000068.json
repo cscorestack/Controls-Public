@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000068", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000068", 
+  "Control Name": "6.1 Establish a process to identify security vulnerabilities, using reputable outside sources for security vulnerability information, and assign a risk ranking (for example, as \\u201chigh,\\u201d \\u201cmedium,\\u201d or \\u201clow\\u201d) to newly discovered security vulnerabilities. \\n", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.1 Establish a process to identify security vulnerabilities, using reputable outside sources for security vulnerability information, and assign a risk ranking (for example, as \\u201chigh,\\u201d \\u201cmedium,\\u201d or \\u201clow\\u201d) to newly discovered security vulnerabilities. \\n", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

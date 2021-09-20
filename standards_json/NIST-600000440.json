@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000440", 
+  "control_attributes": {
+    "Control": "MA-2 (2) AUTOMATED MAINTENANCE ACTIVITIES", 
+    "control_description": "The organization: (a) Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and(b) Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: (a) Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and(b) Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-2 (2) AUTOMATED MAINTENANCE ACTIVITIES", 
+  "compliance_control_number": "600000440"
+}

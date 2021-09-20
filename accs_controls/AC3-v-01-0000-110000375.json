@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000375",
+  "compliance_control_uri": "AC3-v-01/0000/110000375",
+  "Control Name": "IR-4 INCIDENT HANDLING",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization: a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;b. Coordinates incident handling activities with contingency planning activities; andc. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.",
+  "control_attributes": {
+    "Control Name": "IR-4 INCIDENT HANDLING",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization: a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;b. Coordinates incident handling activities with contingency planning activities; andc. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Identity, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000095",
+      "ISO-27001/0011/1100000099",
+      "ISO-27001/0011/1100000100",
+      "ISO-27001/0011/1100000101",
+      "PCI-DSS/0012/1200000189",
+      "PCI-DSS/0012/1200000237",
+      "Fedramp-Control-Moderate/0010/1000000162",
+      "Fedramp-Control-High/0009/900000217",
+      "HIPAA/0002/200000018",
+      "ISO/0001/100000074",
+      "ISO/0001/100000075",
+      "ISO/0001/100000076",
+      "AWS-WAF/0005/500000091",
+      "Azure-WAF/0015/150000468"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

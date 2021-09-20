@@ -1,0 +1,62 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000377",
+  "compliance_control_uri": "AC3-v-01/0000/110000377",
+  "Control Name": "IR-5 INCIDENT MONITORING",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization tracks and documents information system security incidents.",
+  "control_attributes": {
+    "Control Name": "IR-5 INCIDENT MONITORING",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization tracks and documents information system security incidents."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Computer, Storage, Network, Identity, Databases,  Application, Container",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000042",
+      "PCI-DSS/0012/1200000239",
+      "Fedramp-Control-Moderate/0010/1000000164",
+      "Fedramp-Control-High/0009/900000224",
+      "HIPAA/0002/200000014",
+      "HIPAA/0002/200000018"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/nanny",
+        "policy_name": "AWS_S3_Bucket_Logging_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

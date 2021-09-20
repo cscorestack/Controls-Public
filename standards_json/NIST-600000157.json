@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000157", 
+  "control_attributes": {
+    "Control": "AC-4 (14) SECURITY POLICY FILTER CONSTRAINTS", 
+    "control_description": "The information system, when transferring information between different security domains, implements [Assignment: organization-defined security policy filters] requiring fully enumerated formats that restrict data structure and content.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization prohibits privileged access to the information system by non-organizational users."
+  }, 
+  "Control Statement": "The information system, when transferring information between different security domains, implements [Assignment: organization-defined security policy filters] requiring fully enumerated formats that restrict data structure and content.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (14) SECURITY POLICY FILTER CONSTRAINTS", 
+  "compliance_control_number": "600000157"
+}

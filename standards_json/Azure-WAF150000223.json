@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000223", 
+  "compliance_control_uri": "Azure-WAF/0015/150000223", 
+  "Control Name": "3.1.7 Component proximity is considered for application performance reasons.If all or part of the application is highly sensitive to latency it may mandate component co-locality which can limit the applicability of multi-region and multi-zone strategies.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Microservices is a software engineering technique to decompose software into isolated, fine grained, and loosely coupled modules that can independently deployed and independently versioned.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.7 Component proximity is considered for application performance reasons.If all or part of the application is highly sensitive to latency it may mandate component co-locality which can limit the applicability of multi-region and multi-zone strategies.", 
+    "Description": "Microservices is a software engineering technique to decompose software into isolated, fine grained, and loosely coupled modules that can independently deployed and independently versioned."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

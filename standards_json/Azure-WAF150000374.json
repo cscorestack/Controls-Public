@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000374", 
+  "compliance_control_uri": "Azure-WAF/0015/150000374", 
+  "Control Name": "4.10.5 The process for key rotation is automated and tested", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the process for key rotation is automated and tested?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.5 The process for key rotation is automated and tested", 
+    "Description": "Is the process for key rotation is automated and tested?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

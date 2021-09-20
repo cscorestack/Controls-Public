@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000249",
+  "compliance_control_uri": "AWS-WAF/0016/160000249",
+  "Control Name": "COST 1.5 Report and notify on cost optimization",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Conﬁgure AWS Budgets to provide notiﬁcations on cost and usage against targets. Have regular meetings to analyze this workload's cost eﬃciency and to promote cost aware culture.",
+  "control_attributes": {
+    "Control": "COST 1.5 Report and notify on cost optimization",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_usage_report"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

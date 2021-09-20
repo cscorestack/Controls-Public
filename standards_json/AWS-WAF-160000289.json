@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000289",
+  "compliance_control_uri": "AWS-WAF/0016/160000289",
+  "Control Name": "COST 10.2 Review and analyze this workload regularly",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Existing workloads are regularly reviewed as per deﬁned processes.",
+  "control_attributes": {
+    "Control": "COST 10.2 Review and analyze this workload regularly",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate new services?",
+    "question_id": "evaluate-new-services",
+    "choice_id": "cost_evaluate_new_services_review_workload"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

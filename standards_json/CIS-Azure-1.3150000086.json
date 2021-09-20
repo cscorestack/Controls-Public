@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000086", 
+  "compliance_control_uri": "CIS-Azure/0015/150000086", 
+  "Control Name": "6.4 Ensure that Network Security Group Flow Log retention period is 'greater than 90 days'", 
+  "Control Family": "6 Networking", 
+  "Control Statement": "Network Security Group Flow Logs should be enabled and the retention period is set to greater than or equal to 90 days.", 
+  "control_attributes": {
+    "Control": "6.4 Ensure that Network Security Group Flow Log retention period is 'greater than 90 days'", 
+    "Control_Clause": "6 Networking", 
+    "description": "Network Security Group Flow Logs should be enabled and the retention period is set to greater than or equal to 90 days."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

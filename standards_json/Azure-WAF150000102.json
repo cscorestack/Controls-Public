@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000102", 
+  "compliance_control_uri": "Azure-WAF/0015/150000102", 
+  "Control Name": "2.5.2 Azure Activity Logs are collected within the log aggregation tool", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are you collecting Azure Activity Logs within the log aggregation tool?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.5 How do you interpret the collected data to inform about application health?", 
+    "Control": "2.5.2 Azure Activity Logs are collected within the log aggregation tool", 
+    "Description": "Are you collecting Azure Activity Logs within the log aggregation tool?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000567",
+  "compliance_control_uri": "AC3-v-01/0000/110000567",
+  "Control Name": "SA-12 (2) SUPPLIER REVIEWS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization conducts a supplier review prior to entering into a contractual agreement to acquire the information system, system component, or information system service.",
+  "control_attributes": {
+    "Control Name": "SA-12 (2) SUPPLIER REVIEWS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization conducts a supplier review prior to entering into a contractual agreement to acquire the information system, system component, or information system service."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000606",
+      "ISO-27001/0011/1100000091",
+      "ISO-27001/0011/1100000092",
+      "ISO-27001/0011/1100000093",
+      "ISO/0001/100000066",
+      "ISO/0001/100000067",
+      "ISO/0001/100000068"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

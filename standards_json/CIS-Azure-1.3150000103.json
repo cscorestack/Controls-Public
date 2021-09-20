@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000103", 
+  "compliance_control_uri": "CIS-Azure/0015/150000103", 
+  "Control Name": "9.3 Ensure web app is using the latest version of TLS encryption", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "The TLS(Transport Layer Security) protocol secures transmission of data over the internet using standard encryption technology. Encryption should be set with the latest version of TLS", 
+  "control_attributes": {
+    "Control": "9.3 Ensure web app is using the latest version of TLS encryption", 
+    "Control_Clause": "9 AppService", 
+    "description": "The TLS(Transport Layer Security) protocol secures transmission of data over the internet using standard encryption technology. Encryption should be set with the latest version of TLS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

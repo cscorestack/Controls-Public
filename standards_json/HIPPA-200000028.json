@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000028", 
+  "compliance_control_uri": "HIPAA/0002/200000028", 
+  "Control Name": "Audit Controls - 164.312(b)", 
+  "Control Family": "Audit Controls", 
+  "Control Statement": "Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Audit Controls - 164.312(b)", 
+    "Security_Category": "Audit Controls", 
+    "Control_description": "Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

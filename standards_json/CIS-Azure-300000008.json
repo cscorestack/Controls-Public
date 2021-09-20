@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000008", 
+  "compliance_control_uri": "CIS-Azure/0003/300000008", 
+  "Control Name": "2.10. Ensure ASC Default policy setting Monitor Vulnerability Assessment is not Disabled (Scored)", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Enable vulnerability assessment recommendations for virtual machines", 
+  "control_attributes": {
+    "Control": "2.10. Ensure ASC Default policy setting Monitor Vulnerability Assessment is not Disabled (Scored)", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Enable vulnerability assessment recommendations for virtual machines"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

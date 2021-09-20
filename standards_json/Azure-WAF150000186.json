@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000186", 
+  "compliance_control_uri": "Azure-WAF/0015/150000186", 
+  "Control Name": "2.15.8 Standards, policies, restrictions and best practices are defined as code, for example by using solutions like Azure Policy or HashiCorp Sentinel", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are standards, policies, restrictions and best practices defined as code?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.8 Standards, policies, restrictions and best practices are defined as code, for example by using solutions like Azure Policy or HashiCorp Sentinel", 
+    "Description": "Are standards, policies, restrictions and best practices defined as code?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

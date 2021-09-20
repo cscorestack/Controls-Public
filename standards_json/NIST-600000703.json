@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000703", 
+  "control_attributes": {
+    "Control": "SC-20 (2) DATA ORIGIN / INTEGRITY", 
+    "control_description": "The information system provides data origin and integrity protection artifacts for internal name/address resolution queries.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined information system components] with minimal functionality and information storage."
+  }, 
+  "Control Statement": "The information system provides data origin and integrity protection artifacts for internal name/address resolution queries.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-20 (2) DATA ORIGIN / INTEGRITY", 
+  "compliance_control_number": "600000703"
+}

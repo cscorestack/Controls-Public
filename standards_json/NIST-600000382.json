@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000382", 
+  "control_attributes": {
+    "Control": "IA-5 (1) PASSWORD-BASED AUTHENTICATION", 
+    "control_description": "The information system, for password-based authentication:                                                         (a) Enforces minimum password complexity of [Assignment: organization-defined requirements for case sensitivity, number of characters, mix of upper-case letters, lower-case letters, numbers, and special characters, including minimum requirements for each type];(b) Enforces at least the following number of changed characters when new passwords are created: [Assignment: organization-defined number];(c) Stores and transmits only cryptographically-protected passwords;(d) Enforces password minimum and maximum lifetime restrictions of [Assignment: organization-defined numbers for lifetime minimum, lifetime maximum];(e) Prohibits password reuse for [Assignment: organization-defined number] generations; and(f) Allows the use of a temporary password for system logons with an immediate change to a permanent password.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system dynamically provisions identities."
+  }, 
+  "Control Statement": "The information system, for password-based authentication:                                                         (a) Enforces minimum password complexity of [Assignment: organization-defined requirements for case sensitivity, number of characters, mix of upper-case letters, lower-case letters, numbers, and special characters, including minimum requirements for each type];(b) Enforces at least the following number of changed characters when new passwords are created: [Assignment: organization-defined number];(c) Stores and transmits only cryptographically-protected passwords;(d) Enforces password minimum and maximum lifetime restrictions of [Assignment: organization-defined numbers for lifetime minimum, lifetime maximum];(e) Prohibits password reuse for [Assignment: organization-defined number] generations; and(f) Allows the use of a temporary password for system logons with an immediate change to a permanent password.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (1) PASSWORD-BASED AUTHENTICATION", 
+  "compliance_control_number": "600000382"
+}

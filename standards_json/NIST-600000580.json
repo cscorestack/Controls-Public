@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000580", 
+  "control_attributes": {
+    "Control": "SA-5 INFORMATION SYSTEM DOCUMENTATION", 
+    "control_description": "The organization: a. Obtains administrator documentation for the information system, system component, or information system service that describes:1. Secure configuration, installation, and operation of the system, component, or service; 2. Effective use and maintenance of security functions/mechanisms; and3. Known vulnerabilities regarding configuration and use of administrative (i.e., privileged) functions;b. Obtains user documentation for the information system, system component, or information system service that describes:1. User-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;2. Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner; and3. User responsibilities in maintaining the security of the system, component, or service;c. Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes [Assignment: organization-defined actions] in response;d. Protects documentation as required, in accordance with the risk management strategy; ande. Distributes documentation to [Assignment: organization-defined personnel or roles", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined security safeguards] to ensure that the interests of [Assignment: organization-defined external service providers] are consistent with and reflect organizational interests."
+  }, 
+  "Control Statement": "The organization: a. Obtains administrator documentation for the information system, system component, or information system service that describes:1. Secure configuration, installation, and operation of the system, component, or service; 2. Effective use and maintenance of security functions/mechanisms; and3. Known vulnerabilities regarding configuration and use of administrative (i.e., privileged) functions;b. Obtains user documentation for the information system, system component, or information system service that describes:1. User-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;2. Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner; and3. User responsibilities in maintaining the security of the system, component, or service;c. Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes [Assignment: organization-defined actions] in response;d. Protects documentation as required, in accordance with the risk management strategy; ande. Distributes documentation to [Assignment: organization-defined personnel or roles", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-5 INFORMATION SYSTEM DOCUMENTATION", 
+  "compliance_control_number": "600000580"
+}

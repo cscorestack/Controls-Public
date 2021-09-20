@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000030", 
+  "compliance_control_uri": "HIPAA/0002/200000030", 
+  "Control Name": "Integrity  Mechanism to Authenticate ePHI - 164.312(c)(2)", 
+  "Control Family": "Integrity", 
+  "Control Statement": "Implement electronic mechanisms to corroborate that electronic protected health information has not been altered or destroyed in an unauthorized manner.", 
+  "control_attributes": {
+    "Control": "Integrity  Mechanism to Authenticate ePHI - 164.312(c)(2)", 
+    "Security_Category": "Integrity", 
+    "Control_description": "Implement electronic mechanisms to corroborate that electronic protected health information has not been altered or destroyed in an unauthorized manner."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

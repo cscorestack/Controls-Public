@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000537",
+  "compliance_control_uri": "AC3-v-01/0000/110000537",
+  "Control Name": "RA-5 (4) DISCOVERABLE INFORMATION",
+  "Control Family": "RISK ASSESSMENT",
+  "Control Statement": "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions].",
+  "control_attributes": {
+    "Control Name": "RA-5 (4) DISCOVERABLE INFORMATION",
+    "Control Family": "RISK ASSESSMENT",
+    "Control Statement": "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000561",
+      "ISO-27001/0011/1100000068",
+      "ISO-27001/0011/1100000056",
+      "PCI-DSS/0012/1200000094",
+      "PCI-DSS/0012/1200000187",
+      "PCI-DSS/0012/1200000190",
+      "PCI-DSS/0012/1200000191",
+      "PCI-DSS/0012/1200000192",
+      "PCI-DSS/0012/1200000193",
+      "Fedramp-Control-High/0009/900000312",
+      "ISO/0001/100000044",
+      "ISO/0001/100000117",
+      "AWS-WAF/0005/500000108"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

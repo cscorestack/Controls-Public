@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000052", 
+  "compliance_control_uri": "CIS-AWS/0007/700000052", 
+  "Control Name": "5.1 Ensure no Network ACLs allow ingress from 0.0.0.0/0 to remote server administration ports", 
+  "Control Family": "Networking", 
+  "Control Statement": "It is recommended that no NACL allows unrestricted ingress access to remote server administration ports, such as SSH to port 22 and RDP to port 3389.", 
+  "control_attributes": {
+    "Control": "5.1 Ensure no Network ACLs allow ingress from 0.0.0.0/0 to remote server administration ports", 
+    "Category": "Networking", 
+    "Control_description": "It is recommended that no NACL allows unrestricted ingress access to remote server administration ports, such as SSH to port 22 and RDP to port 3389."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

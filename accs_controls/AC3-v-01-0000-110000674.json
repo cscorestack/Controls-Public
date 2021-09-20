@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000674",
+  "compliance_control_uri": "AC3-v-01/0000/110000674",
+  "Control Name": "SC-3 (4) MODULE COUPLING AND COHESIVENESS",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization implements security functions as largely independent modules that maximize internal cohesiveness within modules and minimize coupling between modules.",
+  "control_attributes": {
+    "Control Name": "SC-3 (4) MODULE COUPLING AND COHESIVENESS",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization implements security functions as largely independent modules that maximize internal cohesiveness within modules and minimize coupling between modules."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000656",
+      "AWS-WAF/0005/500000103"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

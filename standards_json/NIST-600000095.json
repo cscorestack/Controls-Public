@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000095", 
+  "control_attributes": {
+    "Control": "IR-4 INCIDENT HANDLING", 
+    "control_description": "The organization: a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;b. Coordinates incident handling activities with contingency planning activities; andc. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements a reference monitor for [Assignment: organization-defined access control policies] that is tamperproof, always invoked, and small enough to be subject to analysis and testing, the completeness of which can be assured."
+  }, 
+  "Control Statement": "The organization: a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;b. Coordinates incident handling activities with contingency planning activities; andc. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-4 INCIDENT HANDLING", 
+  "compliance_control_number": "600000095"
+}

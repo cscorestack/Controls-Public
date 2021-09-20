@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000441", 
+  "compliance_control_uri": "Azure-WAF/0015/150000441", 
+  "Control Name": "5.6.6 Communication, investigation and hunting activities are aligned with the workload team.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Development team needs to be aware of those activities to align their security improvement activities with the outcome of those activities.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.6 Communication, investigation and hunting activities are aligned with the workload team.", 
+    "Description": "Development team needs to be aware of those activities to align their security improvement activities with the outcome of those activities."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

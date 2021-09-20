@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000106", 
+  "control_attributes": {
+    "Control": "PS-4 PERSONNEL TERMINATION", 
+    "control_description": "The organization, upon termination of individual employment:                                              a. Disables information system access within [Assignment: organization-defined time period];b. Terminates/revokes any authenticators/credentials associated with the individual;c. Conducts exit interviews that include a discussion of [Assignment: organization-defined information security topics];d. Retrieves all security-related organizational information system-related property;e. Retains access to organizational information and information systems formerly controlled by terminated individual; andf. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements a tamper protection program for the information system, system component, or information system service."
+  }, 
+  "Control Statement": "The organization, upon termination of individual employment:                                              a. Disables information system access within [Assignment: organization-defined time period];b. Terminates/revokes any authenticators/credentials associated with the individual;c. Conducts exit interviews that include a discussion of [Assignment: organization-defined information security topics];d. Retrieves all security-related organizational information system-related property;e. Retains access to organizational information and information systems formerly controlled by terminated individual; andf. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-4 PERSONNEL TERMINATION", 
+  "compliance_control_number": "600000106"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000045", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000045", 
+  "Control Name": "SECURITY AWARENESS TRAINING", 
+  "Control Family": "AWARENESS AND TRAINING", 
+  "Control Statement": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors): a. As part of initial training for new users; b. When required by information system changes; and c. [Assignment: organization-defined frequency] thereafter.Supplemental Guidance:  Organizations determine the appropriate content of security awareness training and security awareness techniques based on the specific organizational requirements and the information systems to which personnel have authorized access. The content includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. The content also addresses awareness of the need for operations security. Security awareness techniques can include, for example, displaying posters, offering supplies inscribed with security reminders, generating email advisories/notices from senior organizational officials, displaying logon screen messages, and conducting information security awareness events. Related controls: AT-3, AT-4, PL-4.References: C.F.R. Part 5 Subpart C (5 C.F.R. 930.301); Executive Order 13587; NIST Special Publication 800-50.", 
+  "control_attributes": {
+    "Category": "AWARENESS AND TRAINING", 
+    "description": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors): a. As part of initial training for new users; b. When required by information system changes; and c. [Assignment: organization-defined frequency] thereafter.Supplemental Guidance:  Organizations determine the appropriate content of security awareness training and security awareness techniques based on the specific organizational requirements and the information systems to which personnel have authorized access. The content includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. The content also addresses awareness of the need for operations security. Security awareness techniques can include, for example, displaying posters, offering supplies inscribed with security reminders, generating email advisories/notices from senior organizational officials, displaying logon screen messages, and conducting information security awareness events. Related controls: AT-3, AT-4, PL-4.References: C.F.R. Part 5 Subpart C (5 C.F.R. 930.301); Executive Order 13587; NIST Special Publication 800-50.", 
+    "SelectionParam": "AT-2 (c) [at least annually]", 
+    "FedRampParam": "x", 
+    "SORTID": "AT-02", 
+    "CNTL NO": "AT-2", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY AWARENESS TRAINING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

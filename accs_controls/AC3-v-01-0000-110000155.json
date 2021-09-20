@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000155",
+  "compliance_control_uri": "AC3-v-01/0000/110000155",
+  "Control Name": "AU-5 (4) SHUTDOWN ON FAILURE",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system invokes a [Selection: full system shutdown; partial system shutdown; degraded operational mode with limited mission/business functionality available] in the event of [Assignment: organization-defined audit failures], unless an alternate audit capability exists.",
+  "control_attributes": {
+    "Control Name": "AU-5 (4) SHUTDOWN ON FAILURE",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system invokes a [Selection: full system shutdown; partial system shutdown; degraded operational mode with limited mission/business functionality available] in the event of [Assignment: organization-defined audit failures], unless an alternate audit capability exists."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000235"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

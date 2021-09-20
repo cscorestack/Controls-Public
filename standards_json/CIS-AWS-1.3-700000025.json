@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000025", 
+  "compliance_control_uri": "CIS-AWS/0007/700000025", 
+  "Control Name": "2.2.1 Ensure EBS volume encryption is enabled", 
+  "Control Family": "Storage", 
+  "Control Statement": "Encrypting data at rest reduces the likelihood that it is unintentionally exposed and can nullify the impact of disclosure if the encryption remains unbroken.", 
+  "control_attributes": {
+    "Control": "2.2.1 Ensure EBS volume encryption is enabled", 
+    "Category": "Storage", 
+    "Control_description": "Encrypting data at rest reduces the likelihood that it is unintentionally exposed and can nullify the impact of disclosure if the encryption remains unbroken."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

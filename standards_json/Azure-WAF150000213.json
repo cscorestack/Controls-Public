@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000213", 
+  "compliance_control_uri": "Azure-WAF/0015/150000213", 
+  "Control Name": "2.17.13 All internal and external dependencies identified and categorized as either weak or strong.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Categorize dependencies as either weak or strong. Dependencies may be categorized as either strong or weak based on whether or not the application is able to continue operating in a degraded fashion in their absence.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.13 All internal and external dependencies identified and categorized as either weak or strong.", 
+    "Description": "Categorize dependencies as either weak or strong. Dependencies may be categorized as either strong or weak based on whether or not the application is able to continue operating in a degraded fashion in their absence."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

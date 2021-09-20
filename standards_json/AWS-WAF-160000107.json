@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000107",
+  "compliance_control_uri": "AWS-WAF/0016/160000107",
+  "Control Name": "SEC 4.3 Automate response to events",
+  "Control Family": "Security",
+  "Control Statement": "Using automation to investigate and remediate events reduces human eﬀort and error, and enables you to scale investigation capabilities. Regular reviews will help you tune automation tools, and continuously iterate. For example, automate responses to Amazon GuardDuty events by automating the ﬁrst investigation step, then iterate to gradually remove human eﬀort.",
+  "control_attributes": {
+    "Control": "SEC 4.3 Automate response to events",
+    "Category": "Security",
+    "Subcategory": "How do you detect and investigate security events?",
+    "question_id": "detect-investigate-events",
+    "choice_id": "sec_detect_investigate_events_auto_response"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

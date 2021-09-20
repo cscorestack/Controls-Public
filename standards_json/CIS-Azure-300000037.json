@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000037", 
+  "compliance_control_uri": "CIS-Azure/0003/300000037", 
+  "Control Name": "8.3. Ensure that Resource Locks are set for mission critical Azure resources", 
+  "Control Family": "8. Other Security Considerations", 
+  "Control Statement": "Resource Manager Locks provide a way for administrators to lock down Azure resources to prevent deletion of, or modifications to, a resource. These locks sit outside of the Role Based Access Controls (RBAC) hierarchy and, when applied, will place restrictions on the resource for all users. These are very useful when there is have an important resource in a subscription that users should not be able to delete or change and can help prevent accidental and malicious changes or deletion.", 
+  "control_attributes": {
+    "Control": "8.3. Ensure that Resource Locks are set for mission critical Azure resources", 
+    "Control_Clause": "8. Other Security Considerations", 
+    "description": "Resource Manager Locks provide a way for administrators to lock down Azure resources to prevent deletion of, or modifications to, a resource. These locks sit outside of the Role Based Access Controls (RBAC) hierarchy and, when applied, will place restrictions on the resource for all users. These are very useful when there is have an important resource in a subscription that users should not be able to delete or change and can help prevent accidental and malicious changes or deletion."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

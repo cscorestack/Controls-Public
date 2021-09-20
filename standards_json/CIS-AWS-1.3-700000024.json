@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000024", 
+  "compliance_control_uri": "CIS-AWS/0007/700000024", 
+  "Control Name": "2.1.2 Ensure S3 Bucket Policy allows HTTPS requests", 
+  "Control Family": "Storage", 
+  "Control Statement": "By default, Amazon S3 allows both HTTP and HTTPS requests. To achieve only allowing access to Amazon S3 objects through HTTPS you also have to explicitly deny access to HTTP requests.", 
+  "control_attributes": {
+    "Control": "2.1.2 Ensure S3 Bucket Policy allows HTTPS requests", 
+    "Category": "Storage", 
+    "Control_description": "By default, Amazon S3 allows both HTTP and HTTPS requests. To achieve only allowing access to Amazon S3 objects through HTTPS you also have to explicitly deny access to HTTP requests."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000368", 
+  "compliance_control_uri": "Azure-WAF/0015/150000368", 
+  "Control Name": "4.9.10 Validated that long-running TCP connections are not required for the workload.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Does the workload require a large amount of long running TCP connections which may cause SNAT port exhaustion?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.10 Validated that long-running TCP connections are not required for the workload.", 
+    "Description": "Does the workload require a large amount of long running TCP connections which may cause SNAT port exhaustion?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

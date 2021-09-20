@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000133", 
+  "compliance_control_uri": "Azure-WAF/0015/150000133", 
+  "Control Name": "2.9.3 The process to provision and deprovision capacity is codified", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the process to provision and deprovision capacity codified?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.3 The process to provision and deprovision capacity is codified", 
+    "Description": "Is the process to provision and deprovision capacity codified?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

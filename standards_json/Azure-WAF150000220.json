@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000220", 
+  "compliance_control_uri": "Azure-WAF/0015/150000220", 
+  "Control Name": "3.1.4 You have ensured that both (all) regions in use have the same performance and scale SKUs that are currently leveraged in the primary region.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "When planning for scale and efficiency, it is important that regions are not only paired, but homogenous in their service offerings. Additionally, you should make sure that, if one region fails, the second region can scale appropriately to sufficiently handle the influx of additional user requests.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.4 You have ensured that both (all) regions in use have the same performance and scale SKUs that are currently leveraged in the primary region.", 
+    "Description": "When planning for scale and efficiency, it is important that regions are not only paired, but homogenous in their service offerings. Additionally, you should make sure that, if one region fails, the second region can scale appropriately to sufficiently handle the influx of additional user requests."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

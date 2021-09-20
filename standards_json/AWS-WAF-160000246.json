@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000246",
+  "compliance_control_uri": "AWS-WAF/0016/160000246",
+  "Control Name": "COST 1.2 Establish a partnership between ﬁnance and technology",
+  "Control Family": "Cost Optimization",
+  "Control Statement": " Involve ﬁnance and technology teams in cost and usage discussions at all stages of your cloud journey. Teams regularly meet and discuss topics such as organizational goals and targets, current state of cost and usage, and ﬁnancial and accounting practices.",
+  "control_attributes": {
+    "Control": "COST 1.2 Establish a partnership between ﬁnance and technology",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_partnership"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

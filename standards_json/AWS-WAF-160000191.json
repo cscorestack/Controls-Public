@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000191",
+  "compliance_control_uri": "AWS-WAF/0016/160000191",
+  "Control Name": "REL 11.5 Send notiﬁcations when events impact availability",
+  "Control Family": "Reliability",
+  "Control Statement": "Notiﬁcations are sent upon the detection of signiﬁcant events, even if the issue caused by the event was automatically resolved.",
+  "control_attributes": {
+    "Control": "REL 11.5 Send notiﬁcations when events impact availability",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload to withstand component failures?",
+    "question_id": "withstand-component-failures",
+    "choice_id": "rel_withstand_component_failures_notifications_sent_system"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

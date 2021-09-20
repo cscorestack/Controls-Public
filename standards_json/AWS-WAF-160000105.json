@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000105",
+  "compliance_control_uri": "AWS-WAF/0016/160000105",
+  "Control Name": "SEC 4.1 Conﬁgure service and application logging",
+  "Control Family": "Security",
+  "Control Statement": "Conﬁgure logging throughout the workload, including application logs, resource logs, and AWS service logs. For example, ensure that AWS CloudTrail, Amazon CloudWatch Logs, Amazon GuardDuty and AWS Security Hub are enabled for all accounts within your organization.",
+  "control_attributes": {
+    "Control": "SEC 4.1 Conﬁgure service and application logging",
+    "Category": "Security",
+    "Subcategory": "How do you detect and investigate security events?",
+    "question_id": "detect-investigate-events",
+    "choice_id": "sec_detect_investigate_events_app_service_logging"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

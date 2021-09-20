@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000004",
+  "compliance_control_uri": "AWS-WAF/0016/160000004",
+  "Control Name": "OPS 1.4 Evaluate compliance requirements",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Evaluate external factors, such as regulatory compliance requirements and industry standards, to ensure that you are aware of guidelines or obligations that may mandate or emphasize speciﬁc focus. If no compliance requirements are identiﬁed, ensure that you apply due diligence to this determination.",
+  "control_attributes": {
+    "Control": "OPS 1.4 Evaluate compliance requirements",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_compliance_reqs"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

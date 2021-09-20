@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000044", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000044", 
+  "Control Name": "3.5.1 Additional requirement for service providers only: Maintain a documented description of the cryptographic architecture that includes:\\n- Details of all algorithms, protocols, and keys used for the protection of cardholder data, including key strength and expiry date\\n- Description of the key usage for each key\\n- Inventory of any HSMs and other SCDs used for key management", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.5.1 Additional requirement for service providers only: Maintain a documented description of the cryptographic architecture that includes:\\n- Details of all algorithms, protocols, and keys used for the protection of cardholder data, including key strength and expiry date\\n- Description of the key usage for each key\\n- Inventory of any HSMs and other SCDs used for key management", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

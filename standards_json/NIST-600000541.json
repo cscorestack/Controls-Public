@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000541", 
+  "control_attributes": {
+    "Control": "PL-8 (2) SUPPLIER DIVERSITY", 
+    "control_description": "The organization requires that [Assignment: organization-defined security safeguards] allocated to [Assignment: organization-defined locations and architectural layers] are obtained from different suppliers.", 
+    "Family": "PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting information requiring special protection:"
+  }, 
+  "Control Statement": "The organization requires that [Assignment: organization-defined security safeguards] allocated to [Assignment: organization-defined locations and architectural layers] are obtained from different suppliers.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-8 (2) SUPPLIER DIVERSITY", 
+  "compliance_control_number": "600000541"
+}

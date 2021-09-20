@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000029", 
+  "compliance_control_uri": "ISO/0001/100000022", 
+  "Control Name": "9.2.2 User access provisioning", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "Users shall be required to follow good security practices in the selection and use of passwords", 
+  "control_attributes": {
+    "Control_Objective": "9.2.2 User access provisioning", 
+    "Security_Control_Clause": "9. Access control", 
+    "Security_Category": "9.2 User access management", 
+    "description": "Users shall be required to follow good security practices in the selection and use of passwords"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

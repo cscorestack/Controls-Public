@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000251",
+  "compliance_control_uri": "AWS-WAF/0016/160000251",
+  "Control Name": "COST 1.7 Keep up to date with new service releases",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Consult regularly with experts or APN Partners to consider which services and features provide lower cost. Review AWS blogs and other information sources.",
+  "control_attributes": {
+    "Control": "COST 1.7 Keep up to date with new service releases",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_scheduled"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

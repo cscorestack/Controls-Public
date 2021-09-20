@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000128", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000128", 
+  "Control Name": "Ensure that security policies and operational procedures for identification and authentication are documented, in use, and known to all affected parties.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Ensure that security policies and operational procedures for identification and authentication are documented, in use, and known to all affected parties.", 
+    "Requirement": "8.8.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

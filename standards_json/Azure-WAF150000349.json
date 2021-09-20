@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000349", 
+  "compliance_control_uri": "Azure-WAF/0015/150000349", 
+  "Control Name": "4.7.2 Request timeouts are configured to manage inter-component calls.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you configured timeouts for inter-component calls?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.7 How does your application logic handle exceptions and errors?", 
+    "Control": "4.7.2 Request timeouts are configured to manage inter-component calls.", 
+    "Description": "Have you configured timeouts for inter-component calls?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

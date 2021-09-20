@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000748", 
+  "control_attributes": {
+    "Control": "SI-2 (3) TIME TO REMEDIATE FLAWS / BENCHMARKS FOR CORRECTIVE ACTIONS", 
+    "control_description": "The organization: (a) Measures the time between flaw identification and flaw remediation; and(b) Establishes [Assignment: organization-defined benchmarks] for taking corrective actions.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization centrally manages malicious code protection mechanisms."
+  }, 
+  "Control Statement": "The organization: (a) Measures the time between flaw identification and flaw remediation; and(b) Establishes [Assignment: organization-defined benchmarks] for taking corrective actions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-2 (3) TIME TO REMEDIATE FLAWS / BENCHMARKS FOR CORRECTIVE ACTIONS", 
+  "compliance_control_number": "600000748"
+}

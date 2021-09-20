@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000023", 
+  "compliance_control_uri": "CIS-Azure/0015/150000023", 
+  "Control Name": "1.23 Ensure Custom Role is assigned for Administering Resource Locks", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Resource locking is a powerful protection mechanism that can prevent inadvertent modification/deletion of resources within Azure subscriptions/Resource Groups and is a recommended NIST configuration.", 
+  "control_attributes": {
+    "Control": "1.23 Ensure Custom Role is assigned for Administering Resource Locks", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Resource locking is a powerful protection mechanism that can prevent inadvertent modification/deletion of resources within Azure subscriptions/Resource Groups and is a recommended NIST configuration."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

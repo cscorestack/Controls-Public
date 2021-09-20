@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000015", 
+  "compliance_control_uri": "CIS-Azure/0015/150000015", 
+  "Control Name": "1.15 Ensure that 'Restrict access to Azure AD administration portal' is set to 'Yes'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Restrict access to the Azure AD administration portal to administrators only.", 
+  "control_attributes": {
+    "Control": "1.15 Ensure that 'Restrict access to Azure AD administration portal' is set to 'Yes'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Restrict access to the Azure AD administration portal to administrators only."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

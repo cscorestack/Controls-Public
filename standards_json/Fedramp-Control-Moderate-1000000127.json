@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000127", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000127", 
+  "Control Name": "TELECOMMUNICATIONS SERVICES | SINGLE POINTS OF FAILURE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization obtains alternate telecommunications services to reduce the likelihood of sharing a single point of failure with primary telecommunications services.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization obtains alternate telecommunications services to reduce the likelihood of sharing a single point of failure with primary telecommunications services.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-08 (02)", 
+    "CNTL NO": "CP-8 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "TELECOMMUNICATIONS SERVICES | SINGLE POINTS OF FAILURE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

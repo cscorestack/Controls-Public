@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000015", 
+  "compliance_control_uri": "CIS-AWS/0007/700000015", 
+  "Control Name": "1.15 Ensure IAM Users Receive Permissions Only Through Groups", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "By default, IAM users, groups, and roles have no access to AWS resources. IAM policies are the means by which privileges are granted to users, groups, or roles. It is recommended that IAM policies be applied directly to groups and roles but not users.", 
+  "control_attributes": {
+    "Control": "1.15 Ensure IAM Users Receive Permissions Only Through Groups", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "By default, IAM users, groups, and roles have no access to AWS resources. IAM policies are the means by which privileges are granted to users, groups, or roles. It is recommended that IAM policies be applied directly to groups and roles but not users."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

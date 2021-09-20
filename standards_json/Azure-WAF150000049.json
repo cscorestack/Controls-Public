@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000049", 
+  "compliance_control_uri": "Azure-WAF/0015/150000049", 
+  "Control Name": "1.7.2 Appropriate operating systems are used in the workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Analyze the technology stack and identify which workloads are capable of running on Linux and which require Windows. Linux-based VMs and App Services are significantly cheaper, but require the app to run on supported stack (.NET Core, Node.js etc.).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.2 Appropriate operating systems are used in the workload.", 
+    "Description": "Analyze the technology stack and identify which workloads are capable of running on Linux and which require Windows. Linux-based VMs and App Services are significantly cheaper, but require the app to run on supported stack (.NET Core, Node.js etc.)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

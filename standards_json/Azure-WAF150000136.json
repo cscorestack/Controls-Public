@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000136", 
+  "compliance_control_uri": "Azure-WAF/0015/150000136", 
+  "Control Name": "2.9.6 It has been validated that the required capacity (initial and future growth) is available within targeted regions within targeted regions?", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the required capacity (initial and future growth) available", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.6 It has been validated that the required capacity (initial and future growth) is available within targeted regions within targeted regions?", 
+    "Description": "Is the required capacity (initial and future growth) available"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

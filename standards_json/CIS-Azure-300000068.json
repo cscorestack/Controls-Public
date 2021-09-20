@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000068", 
+  "compliance_control_uri": "CIS-Azure/0003/300000068", 
+  "Control Name": "3.2. Ensure that storage account access keys are periodically regenerated", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "Regenerate storage account access keys periodically. Rotating these keys periodically ensures that any inadvertent access or exposure does not result in these keys being compromised.", 
+  "control_attributes": {
+    "Control": "3.2. Ensure that storage account access keys are periodically regenerated", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "Regenerate storage account access keys periodically. Rotating these keys periodically ensures that any inadvertent access or exposure does not result in these keys being compromised."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

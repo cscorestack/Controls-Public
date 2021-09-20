@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000575",
+  "compliance_control_uri": "AC3-v-01/0000/110000575",
+  "Control Name": "SA-15 (1) QUALITY METRICS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:(a) Define quality metrics at the beginning of the development process; and(b) Provide evidence of meeting the quality metrics [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined program review milestones]; upon delivery].",
+  "control_attributes": {
+    "Control Name": "SA-15 (1) QUALITY METRICS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:(a) Define quality metrics at the beginning of the development process; and(b) Provide evidence of meeting the quality metrics [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined program review milestones]; upon delivery]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000619",
+      "ISO-27001/0011/1100000007",
+      "ISO-27001/0011/1100000081",
+      "ISO/0001/100000007",
+      "ISO/0001/100000056",
+      "AWS-WAF/0005/500000035",
+      "AWS-WAF/0005/500000036",
+      "AWS-WAF/0005/500000037",
+      "AWS-WAF/0005/500000043",
+      "AWS-WAF/0005/500000044",
+      "AWS-WAF/0005/500000045",
+      "AWS-WAF/0005/500000046",
+      "Azure-WAF/0015/150000420"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

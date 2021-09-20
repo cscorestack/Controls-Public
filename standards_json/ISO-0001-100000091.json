@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000091", 
+  "compliance_control_uri": "ISO/0001/100000066", 
+  "Control Name": "15.1.1 Information security policy for supplier relationships", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "Review the policies, processes, practices and records relating to the management of supplier relationships involving outsourced IT and cloud, logistics, utilities, HR, medical, financial, legal and other services with significant information risk, security or compliance implications. ", 
+  "control_attributes": {
+    "Control_Objective": "15.1.1 Information security policy for supplier relationships", 
+    "Security_Control_Clause": "15. Supplier relationships", 
+    "Security_Category": "15.1 Information security in supplier relationships", 
+    "description": "Review the policies, processes, practices and records relating to the management of supplier relationships involving outsourced IT and cloud, logistics, utilities, HR, medical, financial, legal and other services with significant information risk, security or compliance implications. "
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

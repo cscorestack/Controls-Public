@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000017", 
+  "compliance_control_uri": "ISO/0001/100000016", 
+  "Control Name": "8.1.2 Ownership of assets", 
+  "Control Family": "8. Asset management", 
+  "Control Statement": "All information and assets associated with information processing facilities shall be 'owned' 3) by a designated part of the organization", 
+  "control_attributes": {
+    "Control_Objective": "8.1.2 Ownership of assets", 
+    "Security_Control_Clause": "8. Asset management", 
+    "Security_Category": "8.1 Responsibility for assets", 
+    "description": "All information and assets associated with information processing facilities shall be 'owned' 3) by a designated part of the organization"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

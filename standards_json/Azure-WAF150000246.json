@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000246", 
+  "compliance_control_uri": "Azure-WAF/0015/150000246", 
+  "Control Name": "3.5.2 You are offloading SSL.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "SSL offloading places the SSL certificate at an appliance that sits in front of the web server, instead of on the web server itself. This is beneficial for two reasons. First, the verification of the SSL certificate is conducted by the appliance instead of the web server, which reduces the taxation on the server. Second, SSL offloading increases operational efficiency as it can often eliminate the need to manage certificates across microservices.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.2 You are offloading SSL.", 
+    "Description": "SSL offloading places the SSL certificate at an appliance that sits in front of the web server, instead of on the web server itself. This is beneficial for two reasons. First, the verification of the SSL certificate is conducted by the appliance instead of the web server, which reduces the taxation on the server. Second, SSL offloading increases operational efficiency as it can often eliminate the need to manage certificates across microservices."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

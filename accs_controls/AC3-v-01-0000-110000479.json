@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000479",
+  "compliance_control_uri": "AC3-v-01/0000/110000479",
+  "Control Name": "PE-6 (1) INTRUSION ALARMS / SURVEILLANCE EQUIPMENT",
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+  "Control Statement": "The organization monitors physical intrusion alarms and surveillance equipment.",
+  "control_attributes": {
+    "Control Name": "PE-6 (1) INTRUSION ALARMS / SURVEILLANCE EQUIPMENT",
+    "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION",
+    "Control Statement": "The organization monitors physical intrusion alarms and surveillance equipment."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000501",
+      "PCI-DSS/0012/1200000130",
+      "Fedramp-Control-Moderate/0010/1000000202",
+      "Fedramp-Control-High/0009/900000269",
+      "HIPAA/0002/200000059"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

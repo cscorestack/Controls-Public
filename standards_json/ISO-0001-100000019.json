@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000019", 
+  "compliance_control_uri": "ISO/0001/100000018", 
+  "Control Name": "8.1.4 Return of assets", 
+  "Control Family": "8. Asset management", 
+  "Control Statement": "All employees, contractors and third party users shall return all of the organization's assets in their possession upon termination of their employment, contract or agreement", 
+  "control_attributes": {
+    "Control_Objective": "8.1.4 Return of assets", 
+    "Security_Control_Clause": "8. Asset management", 
+    "Security_Category": "8.1 Responsibility for assets", 
+    "description": "All employees, contractors and third party users shall return all of the organization's assets in their possession upon termination of their employment, contract or agreement"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

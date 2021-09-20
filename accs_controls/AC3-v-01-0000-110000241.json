@@ -1,0 +1,167 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000241",
+  "compliance_control_uri": "AC3-v-01/0000/110000241",
+  "Control Name": "CM-8 (1) UPDATES DURING INSTALLATIONS / REMOVALS",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization updates the inventory of information system components as an integral part of component installations, removals, and information system updates.",
+  "control_attributes": {
+    "Control Name": "CM-8 (1) UPDATES DURING INSTALLATIONS / REMOVALS",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization updates the inventory of information system components as an integral part of component installations, removals, and information system updates."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000037",
+      "Fedramp-Control-Moderate/0010/1000000102",
+      "Fedramp-Control-High/0009/900000135",
+      "HIPAA/0002/200000063",
+      "HIPAA/0002/200000066",
+      "SOC2/0017/1700000114"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/7lu26",
+        "policy_name": "Azure_Audit_AutoProvisioning_Monitoring",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/78028",
+        "policy_name": "AWS_Audit_IAM_Roles_for_Web_Tier_ASG_Launch_Configurations",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/4c4b3",
+        "policy_name": "AWS_AuditApp_Tier_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/56b6e",
+        "policy_name": "AWS_Audit_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/775dd",
+        "policy_name": "AWS_Audit_Web_Tier_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/v1I2D",
+        "policy_name": "AWS_IAM_Policy_No_Statements_With_Admin_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/t0mgp",
+        "policy_name": "AWS_IAM_Role_Managed_Policy",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/b5ac9",
+        "policy_name": "AWS_Audit_Check_for_Untrusted_Cross_Account_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/b9b3c",
+        "policy_name": "AWS_Audit_IAM_Master_and_IAM_Manager_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/340ee",
+        "policy_name": "AWS_Audit_IAM_Role_Policy_Too_Permissive",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/77539",
+        "policy_name": "AWS_Audit_Attach_Policy_IAM_Roles_App_Tier_EC2_Instances",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/96809",
+        "policy_name": "AWS_Audit_Attach_Policy_IAM_Roles_Web_Tier_EC2_Instances",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f2235",
+        "policy_name": "AWS_Audit_Using_IAM_Role_More_Than_One_Lambda_Function",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/bucket/o7wrv",
+        "policy_name": "AWS_Audit_S3_Full_Control_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ghjd4",
+        "policy_name": "Azure_Audit_External_Accounts_with_Owner_Permissions_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/c75tm",
+        "policy_name": "Azure_Audit_Max_No_Of_Owners_For_A_Subscription",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/BEaQN",
+        "policy_name": "Azure_Audit_Custom_Owner_Role_Exists",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

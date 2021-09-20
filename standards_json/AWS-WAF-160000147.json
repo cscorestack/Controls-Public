@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000147",
+  "compliance_control_uri": "AWS-WAF/0016/160000147",
+  "Control Name": "REL 2.3 Ensure IP subnet allocation accounts for expansion and availability",
+  "Control Family": "Reliability",
+  "Control Statement": "Amazon VPC IP address ranges must be large enough to accommodate workload requirements, including factoring in future expansion and allocation of IP addresses to subnets across Availability Zones. This includes load balancers, EC2 instances, and container-based applications.",
+  "control_attributes": {
+    "Control": "REL 2.3 Ensure IP subnet allocation accounts for expansion and availability",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan your network topology?",
+    "question_id": "planning-network-topology",
+    "choice_id": "rel_planning_network_topology_ip_subnet_allocation"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

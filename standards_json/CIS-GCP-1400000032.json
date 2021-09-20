@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000032", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000032", 
+  "Control Name": "3.6 Ensure that SSH access is restricted from the internet", 
+  "Control Family": "Networking", 
+  "Control Statement": "GCP Firewall Rules are specific to a VPC Network . Each rule either allows or denies traffic when its conditions are met. Its conditions allow the user to specify the type of traffic, such as ports and protocols, and the source or destination of the traffic, including IP addresses, subnets, and instances.", 
+  "control_attributes": {
+    "Control": "3.6 Ensure that SSH access is restricted from the internet", 
+    "Security_Category": "Networking", 
+    "Control_description": "GCP Firewall Rules are specific to a VPC Network . Each rule either allows or denies traffic when its conditions are met. Its conditions allow the user to specify the type of traffic, such as ports and protocols, and the source or destination of the traffic, including IP addresses, subnets, and instances."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

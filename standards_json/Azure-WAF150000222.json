@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000222", 
+  "compliance_control_uri": "Azure-WAF/0015/150000222", 
+  "Control Name": "3.1.6 The application is implemented with strategies for resiliency and self-healing.Strategies for resiliency and self-healing include retrying transient failures and failing over to a secondary instance or even another region.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "When an application calls a remote service leveraging a synchronous call, some of resources on the client (i.e caller thread, network socket, etc) are blocked and unavailable for use elsewhere until the remote service invocation completes.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.6 The application is implemented with strategies for resiliency and self-healing.Strategies for resiliency and self-healing include retrying transient failures and failing over to a secondary instance or even another region.", 
+    "Description": "When an application calls a remote service leveraging a synchronous call, some of resources on the client (i.e caller thread, network socket, etc) are blocked and unavailable for use elsewhere until the remote service invocation completes."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

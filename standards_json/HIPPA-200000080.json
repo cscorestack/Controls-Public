@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000080", 
+  "compliance_control_uri": "HIPAA/0002/200000080", 
+  "Control Name": "Policies and Procedures - 164.316(a)", 
+  "Control Family": "Policies and Procedures", 
+  "Control Statement": "Implement reasonable and appropriate policies and procedures to comply with the standards, implementation specifications, or other requirements of this subpart, taking into account those factors specified in \\u00a7164.306(b)(2)(i), (ii), (iii), and (iv). This standard is not to be construed to permit or excuse an action that violates any other standard, implementation specification, or other requirements of this subpart. A covered entity or business associate may change its policies and procedures at any time, provided that the changes are documented and are implemented in accordance with this subpart.", 
+  "control_attributes": {
+    "Control": "Policies and Procedures - 164.316(a)", 
+    "Security_Category": "Policies and Procedures", 
+    "Control_description": "Implement reasonable and appropriate policies and procedures to comply with the standards, implementation specifications, or other requirements of this subpart, taking into account those factors specified in \\u00a7164.306(b)(2)(i), (ii), (iii), and (iv). This standard is not to be construed to permit or excuse an action that violates any other standard, implementation specification, or other requirements of this subpart. A covered entity or business associate may change its policies and procedures at any time, provided that the changes are documented and are implemented in accordance with this subpart."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

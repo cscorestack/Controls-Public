@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000308", 
+  "compliance_control_uri": "Azure-WAF/0015/150000308", 
+  "Control Name": "4.2.6 Planned for dependency failures to minimize application downtime.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you validated the application can operate effectively in the absence of its dependencies?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.6 Planned for dependency failures to minimize application downtime.", 
+    "Description": "Have you validated the application can operate effectively in the absence of its dependencies?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

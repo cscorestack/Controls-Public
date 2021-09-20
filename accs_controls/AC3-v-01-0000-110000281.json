@@ -1,0 +1,84 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000281",
+  "compliance_control_uri": "AC3-v-01/0000/110000281",
+  "Control Name": "CP-6 ALTERNATE STORAGE SITE",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; andb. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.",
+  "control_attributes": {
+    "Control Name": "CP-6 ALTERNATE STORAGE SITE",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; andb. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Databases, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000082",
+      "NIST-SP800-53/0006/600000081",
+      "ISO-27001/0011/1100000106",
+      "Fedramp-Control-Moderate/0010/1000000117",
+      "Fedramp-Control-High/0009/900000158",
+      "HIPAA/0002/200000021",
+      "SOC2/0017/1700000221"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/rftfk",
+        "policy_name": "Azure_Audit_VM_DR",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/gdENH",
+        "policy_name": "Azure_Audit_MariaDB_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pcsYV",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/fVlBP",
+        "policy_name": "Azure_Audit_SQLDB_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/KbXaF",
+        "policy_name": "Azure_Audit_MySQL_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000092", 
+  "compliance_control_uri": "ISO/0001/100000067", 
+  "Control Name": "15.1.2 Addressing security within supplier agreements", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "if applicable, check for formal contracts or agreements with suppliers covering Relationship management, Comprehensive and binding non-disclosure agreement or clauses, Description of information that will be handled, methods of accessing the information etc.", 
+  "control_attributes": {
+    "Control_Objective": "15.1.2 Addressing security within supplier agreements", 
+    "Security_Control_Clause": "15. Supplier relationships", 
+    "Security_Category": "15.1 Information security in supplier relationships", 
+    "description": "if applicable, check for formal contracts or agreements with suppliers covering Relationship management, Comprehensive and binding non-disclosure agreement or clauses, Description of information that will be handled, methods of accessing the information etc."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

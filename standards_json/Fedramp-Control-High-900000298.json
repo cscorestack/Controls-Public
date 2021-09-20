@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000298", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000298", 
+  "Control Name": "PERSONNEL SCREENING", 
+  "Control Family": "PERSONNEL SECURITY", 
+  "Control Statement": "The organization: a. Screens individuals prior to authorizing access to the information system; and b. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].Supplemental Guidance:  Personnel screening and rescreening activities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, guidance, and specific criteria established for the risk designations of assigned positions. Organizations may define different rescreening conditions and frequencies for personnel accessing information systems based on types of information processed, stored, or transmitted by the systems. Related controls: AC-2, IA-4, PE-2, PS-2.References: 5 C.F.R. 731.106; FIPS Publications 199, 201; NIST Special Publications 800-60, 800-73, 800-76, 800-78; ICD 704.", 
+  "control_attributes": {
+    "Category": "PERSONNEL SECURITY", 
+    "description": "The organization: a. Screens individuals prior to authorizing access to the information system; and b. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].Supplemental Guidance:  Personnel screening and rescreening activities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, guidance, and specific criteria established for the risk designations of assigned positions. Organizations may define different rescreening conditions and frequencies for personnel accessing information systems based on types of information processed, stored, or transmitted by the systems. Related controls: AC-2, IA-4, PE-2, PS-2.References: 5 C.F.R. 731.106; FIPS Publications 199, 201; NIST Special Publications 800-60, 800-73, 800-76, 800-78; ICD 704.", 
+    "SelectionParam": "PS-3 (b) [for national security clearances; a reinvestigation is required during the fifth (5th) year for top secret security clearance, the tenth (10th) year for secret security clearance, and fifteenth (15th) year for confidential security clearance.For moderate risk law enforcement and high impact public trust level, a reinvestigation is required during the fifth (5th) year.  There is no reinvestigation for other moderate risk positions or any low risk positions]", 
+    "FedRampParam": "x", 
+    "SORTID": "PS-03", 
+    "CNTL NO": "PS-3", 
+    "AdditionalReq": " ", 
+    "Control Name": "PERSONNEL SCREENING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000178", 
+  "compliance_control_uri": "Azure-WAF/0015/150000178", 
+  "Control Name": "2.14.13 Mocks and stubs are used to test external dependencies in non-production environments.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Mocks/stubs can help to test and validate external dependencies, to increase test coverage, when accessing those external dependencies is not possible due to for example IP restrictions.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.13 Mocks and stubs are used to test external dependencies in non-production environments.", 
+    "Description": "Mocks/stubs can help to test and validate external dependencies, to increase test coverage, when accessing those external dependencies is not possible due to for example IP restrictions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

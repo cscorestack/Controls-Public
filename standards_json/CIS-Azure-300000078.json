@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000078", 
+  "compliance_control_uri": "CIS-Azure/0003/300000078", 
+  "Control Name": "4.7. Ensure that 'Email service and co-administrators' is 'Enabled'", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enable service and co-administrators to receive security alerts from the SQL server.", 
+  "control_attributes": {
+    "Control": "4.7. Ensure that 'Email service and co-administrators' is 'Enabled'", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enable service and co-administrators to receive security alerts from the SQL server."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,107 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000716",
+  "compliance_control_uri": "AC3-v-01/0000/110000716",
+  "Control Name": "SC-5 (3) DETECTION / MONITORING",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization: (a) Employs [Assignment: organization-defined monitoring tools] to detect indicators of denial of service attacks against the information system; and(b) Monitors [Assignment: organization-defined information system resources] to determine if sufficient resources exist to prevent effective denial of service attacks",
+  "control_attributes": {
+    "Control Name": "SC-5 (3) DETECTION / MONITORING",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization: (a) Employs [Assignment: organization-defined monitoring tools] to detect indicators of denial of service attacks against the information system; and(b) Monitors [Assignment: organization-defined information system resources] to determine if sufficient resources exist to prevent effective denial of service attacks"
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000662",
+      "CIS-Azure/0015/150000024",
+      "SOC2/0017/1700000154"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/pPP8z",
+        "policy_name": "AWS_DYNAMODB_Throughput_Limit_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/consumption/elastic_ips/f5qg2",
+        "policy_name": "AWS_Unused_Elastic_IPs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/keypair/2xx7i",
+        "policy_name": "AWS_Audit_Unused_EC2_KeyPairs",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/elb/snvdc",
+        "policy_name": "AWS_Audit_unused_ELB",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/ZYEN7",
+        "policy_name": "AWS_EIP_Attached",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/wk3pm",
+        "policy_name": "AWS_EC2_INSTANCE_IDLE",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/kfoiu",
+        "policy_name": "AWS_EC2_LOADBALANCERSV2_IDLE",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/corestack_policy/global/aws/compliance/others/psmlt",
+        "policy_name": "AWS_EC2_LOADBALANCERS_IDLE",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/ig/yl4t3",
+        "policy_name": "AWS_Audit_Unused_VPC_Internet_Gateways",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/aws/compliance/vpn/vousi",
+        "policy_name": "AWS_Audit_Unused_Virtual_Private_Gateways",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

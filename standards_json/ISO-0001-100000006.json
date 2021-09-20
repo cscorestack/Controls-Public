@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000006", 
+  "compliance_control_uri": "ISO/0001/100000006", 
+  "Control Name": "6.1.4 Contact with special interest groups", 
+  "Control Family": "6. Organization of information security", 
+  "Control Statement": "Appropriate contacts with special interest groups or other specialist security forums and professional associations shall be maintained", 
+  "control_attributes": {
+    "Control_Objective": "6.1.4 Contact with special interest groups", 
+    "Security_Control_Clause": "6. Organization of information security", 
+    "Security_Category": "6.1 internal organization", 
+    "description": "Appropriate contacts with special interest groups or other specialist security forums and professional associations shall be maintained"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000239", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000239", 
+  "Control Name": "VULNERABILITY SCANNING | UPDATE BY FREQUENCY / PRIOR TO NEW SCAN / WHEN IDENTIFIED", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The organization updates the information system vulnerabilities scanned [Selection (one or more): [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities are identified and reported].Supplemental Guidance:  Related controls: SI-3, SI-5.", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The organization updates the information system vulnerabilities scanned [Selection (one or more): [Assignment: organization-defined frequency]; prior to a new scan; when new vulnerabilities are identified and reported].Supplemental Guidance:  Related controls: SI-3, SI-5.", 
+    "SelectionParam": "RA-5 (2) [prior to a new scan] ", 
+    "FedRampParam": "x", 
+    "SORTID": "RA-05 (02)", 
+    "CNTL NO": "RA-5 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "VULNERABILITY SCANNING | UPDATE BY FREQUENCY / PRIOR TO NEW SCAN / WHEN IDENTIFIED"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

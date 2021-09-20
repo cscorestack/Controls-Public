@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000162",
+  "compliance_control_uri": "AWS-WAF/0016/160000162",
+  "Control Name": "REL 5.6 Make services stateless where possible",
+  "Control Family": "Reliability",
+  "Control Statement": "Services should either not require state, or should oﬄoad state such that between diﬀerent client requests, there is no dependence on locally stored data on disk or in memory. This enables servers to be replaced at will without causing an availability impact. Amazon ElastiCache or Amazon DynamoDB are good destinations for oﬄoaded state.",
+  "control_attributes": {
+    "Control": "REL 5.6 Make services stateless where possible",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_stateless"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

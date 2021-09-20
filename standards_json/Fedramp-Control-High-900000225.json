@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000225", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000225", 
+  "Control Name": "INCIDENT MONITORING | AUTOMATED TRACKING / DATA COLLECTION / ANALYSIS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.Supplemental Guidance:  Automated mechanisms for tracking security incidents and collecting/analyzing incident information include, for example, the Einstein network monitoring device and monitoring online Computer Incident Response Centers (CIRCs) or other electronic databases of incidents. Related controls: AU-7, IR-4.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.Supplemental Guidance:  Automated mechanisms for tracking security incidents and collecting/analyzing incident information include, for example, the Einstein network monitoring device and monitoring online Computer Incident Response Centers (CIRCs) or other electronic databases of incidents. Related controls: AU-7, IR-4.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "IR-05 (01)", 
+    "CNTL NO": "IR-5 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT MONITORING | AUTOMATED TRACKING / DATA COLLECTION / ANALYSIS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

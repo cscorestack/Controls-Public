@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000237", 
+  "control_attributes": {
+    "Control": "AU-6 (4) CENTRAL REVIEW AND ANALYSIS", 
+    "control_description": "The information system provides the capability to centrally review and analyze audit records from multiple components within the system.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization enforces dual authorization for [Selection (one or more): movement; deletion] of [Assignment: organization-defined audit information]."
+  }, 
+  "Control Statement": "The information system provides the capability to centrally review and analyze audit records from multiple components within the system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 (4) CENTRAL REVIEW AND ANALYSIS", 
+  "compliance_control_number": "600000237"
+}

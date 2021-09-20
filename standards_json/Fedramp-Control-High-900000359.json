@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000359", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000359", 
+  "Control Name": "BOUNDARY PROTECTION | FAIL SECURE", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system fails securely in the event of an operational failure of a boundary protection device. Supplemental Guidance:  Fail secure is a condition achieved by employing information system mechanisms to ensure that in the event of operational failures of boundary protection devices at managed interfaces (e.g., routers, firewalls, guards, and application gateways residing on protected subnetworks commonly referred to as demilitarized zones), information systems do not enter into unsecure states where intended security properties no longer hold. Failures of boundary protection devices cannot lead to, or cause information external to the devices to enter the devices, nor can failures permit unauthorized information releases. Related controls: CP-2, SC-24.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system fails securely in the event of an operational failure of a boundary protection device. Supplemental Guidance:  Fail secure is a condition achieved by employing information system mechanisms to ensure that in the event of operational failures of boundary protection devices at managed interfaces (e.g., routers, firewalls, guards, and application gateways residing on protected subnetworks commonly referred to as demilitarized zones), information systems do not enter into unsecure states where intended security properties no longer hold. Failures of boundary protection devices cannot lead to, or cause information external to the devices to enter the devices, nor can failures permit unauthorized information releases. Related controls: CP-2, SC-24.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (18)", 
+    "CNTL NO": "SC-7 (18)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BOUNDARY PROTECTION | FAIL SECURE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000110", 
+  "compliance_control_uri": "Azure-WAF/0015/150000110", 
+  "Control Name": "2.6.3 A health model is used to qualify what 'healthy' and 'unhealthy' states represent for the workload", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is a health model used to qualify what 'healthy' and 'unhealthy' states represent for the application?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.6 How do you visualize workload data and then alert relevant teams when issues occur?", 
+    "Control": "2.6.3 A health model is used to qualify what 'healthy' and 'unhealthy' states represent for the workload", 
+    "Description": "Is a health model used to qualify what 'healthy' and 'unhealthy' states represent for the application?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

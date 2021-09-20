@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000309", 
+  "control_attributes": {
+    "Control": "CM-9 (1) ASSIGNMENT OF RESPONSIBILITY", 
+    "control_description": "The organization assigns responsibility for developing the configuration management process to organizational personnel that are not directly involved in information system development.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization plans for the resumption of essential missions and business functions within [Assignment: organization-defined time period] of contingency plan activation."
+  }, 
+  "Control Statement": "The organization assigns responsibility for developing the configuration management process to organizational personnel that are not directly involved in information system development.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-9 (1) ASSIGNMENT OF RESPONSIBILITY", 
+  "compliance_control_number": "600000309"
+}

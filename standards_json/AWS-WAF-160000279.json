@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000279",
+  "compliance_control_uri": "AWS-WAF/0016/160000279",
+  "Control Name": "COST 7.3 Select third party agreements with cost eﬃcient terms",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Cost eﬃcient agreements and terms ensure the cost of these services scales with the beneﬁts they provide. Select agreements and pricing that scale when they provide additional beneﬁts to your organization.",
+  "control_attributes": {
+    "Control": "COST 7.3 Select third party agreements with cost eﬃcient terms",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you use pricing models to reduce cost?",
+    "question_id": "pricing-model",
+    "choice_id": "cost_pricing_model_third_party"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

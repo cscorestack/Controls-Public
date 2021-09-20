@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000088", 
+  "compliance_control_uri": "Azure-WAF/0015/150000088", 
+  "Control Name": "2.3.3 Recovery targets such as Recovery Time Objective (RTO) and Recovery Point Objective (RPO) are defined for the application and key scenarios", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are recovery targets such as Recovery Time Objective (RTO) and Recovery Point Objective (RPO) defined for the application and/or key scenarios?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.3 Recovery targets such as Recovery Time Objective (RTO) and Recovery Point Objective (RPO) are defined for the application and key scenarios", 
+    "Description": "Are recovery targets such as Recovery Time Objective (RTO) and Recovery Point Objective (RPO) defined for the application and/or key scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

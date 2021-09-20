@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000134",
+  "compliance_control_uri": "AWS-WAF/0016/160000134",
+  "Control Name": "SEC 10.3 Prepare forensic capabilities",
+  "Control Family": "Security",
+  "Control Statement": "Identify and prepare forensic investigation capabilities that are suitable, including external specialists, tools, and automation.",
+  "control_attributes": {
+    "Control": "SEC 10.3 Prepare forensic capabilities",
+    "Category": "Security",
+    "Subcategory": "How do you anticipate, respond to, and recover from incidents?",
+    "question_id": "incident-response",
+    "choice_id": "sec_incident_response_prepare_forensic"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

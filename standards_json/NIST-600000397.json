@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000397", 
+  "control_attributes": {
+    "Control": "IA-6 AUTHENTICATOR FEEDBACK", 
+    "control_description": "The information system obscures feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that service providers receive, validate, and transmit identification and authentication information."
+  }, 
+  "Control Statement": "The information system obscures feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-6 AUTHENTICATOR FEEDBACK", 
+  "compliance_control_number": "600000397"
+}

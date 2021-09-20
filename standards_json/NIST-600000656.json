@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000656", 
+  "control_attributes": {
+    "Control": "SC-3 (4) MODULE COUPLING AND COHESIVENESS", 
+    "control_description": "The organization implements security functions as largely independent modules that maximize internal cohesiveness within modules and minimize coupling between modules.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization implements security functions as largely independent modules that maximize internal cohesiveness within modules and minimize coupling between modules.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-3 (4) MODULE COUPLING AND COHESIVENESS", 
+  "compliance_control_number": "600000656"
+}

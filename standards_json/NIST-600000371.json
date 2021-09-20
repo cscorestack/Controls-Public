@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000371", 
+  "control_attributes": {
+    "Control": "IA-2 (13) OUT-OF-BAND AUTHENTICATION", 
+    "control_description": "The information system implements [Assignment: organization-defined out-of-band authentication] under [Assignment: organization-defined conditions].", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of identifiers."
+  }, 
+  "Control Statement": "The information system implements [Assignment: organization-defined out-of-band authentication] under [Assignment: organization-defined conditions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (13) OUT-OF-BAND AUTHENTICATION", 
+  "compliance_control_number": "600000371"
+}

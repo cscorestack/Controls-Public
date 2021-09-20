@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000378", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000378", 
+  "Control Name": "SESSION AUTHENTICITY | INVALIDATE SESSION IDENTIFIERS AT LOGOUT", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The information system invalidates session identifiers upon user logout or other session termination.Supplemental Guidance:  This control enhancement curtails the ability of adversaries from capturing and continuing to employ previously valid session IDs.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The information system invalidates session identifiers upon user logout or other session termination.Supplemental Guidance:  This control enhancement curtails the ability of adversaries from capturing and continuing to employ previously valid session IDs.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-23 (01)", 
+    "CNTL NO": "SC-23 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "SESSION AUTHENTICITY | INVALIDATE SESSION IDENTIFIERS AT LOGOUT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

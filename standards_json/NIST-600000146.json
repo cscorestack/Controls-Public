@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000146", 
+  "control_attributes": {
+    "Control": "AC-4 (3) DYNAMIC INFORMATION FLOW CONTROL", 
+    "control_description": "The information system enforces dynamic information flow control based on [Assignment: organization-defined policies].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system uniquely identifies and authenticates source and destination points by [Selection (one or more): organization, system, application, individual] for information transfer."
+  }, 
+  "Control Statement": "The information system enforces dynamic information flow control based on [Assignment: organization-defined policies].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (3) DYNAMIC INFORMATION FLOW CONTROL", 
+  "compliance_control_number": "600000146"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000014", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000014", 
+  "Control Name": "ACCESS ENFORCEMENT", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.Supplemental Guidance: Access control policies (e.g., identity-based policies, role-based policies, attribute-based policies) and access enforcement mechanisms (e.g., access control lists, access control matrices, cryptography) control access between active entities or subjects (i.e., users or processes acting on behalf of users) and passive entities or objects (e.g., devices, files, records, domains) in information systems. In addition to enforcing authorized access at the information system level and recognizing that information systems can host many applications and services in support of organizational missions and business operations, access enforcement mechanisms can also be employed at the application and service level to provide increased information security. Related controls: AC-2, AC-4, AC-5, AC-6, AC-16, AC-17, AC-18, AC-19, AC-20, AC-21, AC-22, AU-9, CM-5, CM-6, CM-11, MA-3, MA-4, MA-5, PE-3.References: None.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.Supplemental Guidance: Access control policies (e.g., identity-based policies, role-based policies, attribute-based policies) and access enforcement mechanisms (e.g., access control lists, access control matrices, cryptography) control access between active entities or subjects (i.e., users or processes acting on behalf of users) and passive entities or objects (e.g., devices, files, records, domains) in information systems. In addition to enforcing authorized access at the information system level and recognizing that information systems can host many applications and services in support of organizational missions and business operations, access enforcement mechanisms can also be employed at the application and service level to provide increased information security. Related controls: AC-2, AC-4, AC-5, AC-6, AC-16, AC-17, AC-18, AC-19, AC-20, AC-21, AC-22, AU-9, CM-5, CM-6, CM-11, MA-3, MA-4, MA-5, PE-3.References: None.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AC-03", 
+    "CNTL NO": "AC-3", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCESS ENFORCEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

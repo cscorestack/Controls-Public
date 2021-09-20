@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000564", 
+  "control_attributes": {
+    "Control": "RA-5 (8) REVIEW HISTORIC AUDIT LOGS", 
+    "control_description": "The organization reviews historic audit logs to determine if a vulnerability identified in the information system has been previously exploited.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization includes the following requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs:"
+  }, 
+  "Control Statement": "The organization reviews historic audit logs to determine if a vulnerability identified in the information system has been previously exploited.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (8) REVIEW HISTORIC AUDIT LOGS", 
+  "compliance_control_number": "600000564"
+}

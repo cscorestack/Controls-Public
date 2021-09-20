@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000119", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000119", 
+  "Control Name": "CONFIGURATION CHANGE CONTROL | CRYPTOGRAPHY MANAGEMENT", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization ensures that cryptographic mechanisms used to provide [Assignment: organization-defined security safeguards] are under configuration management.Supplemental Guidance:  Regardless of the cryptographic means employed (e.g., public key, private key, shared secrets), organizations ensure that there are processes and procedures in place to effectively manage those means. For example, if devices use certificates as a basis for identification and authentication, there needs to be a process in place to address the expiration of those certificates. Related control: SC-13.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization ensures that cryptographic mechanisms used to provide [Assignment: organization-defined security safeguards] are under configuration management.Supplemental Guidance:  Regardless of the cryptographic means employed (e.g., public key, private key, shared secrets), organizations ensure that there are processes and procedures in place to effectively manage those means. For example, if devices use certificates as a basis for identification and authentication, there needs to be a process in place to address the expiration of those certificates. Related control: SC-13.", 
+    "SelectionParam": "CM-3 (6) All security safeguards that rely on cryptography", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-03 (06)", 
+    "CNTL NO": "CM-3 (6)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONFIGURATION CHANGE CONTROL | CRYPTOGRAPHY MANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

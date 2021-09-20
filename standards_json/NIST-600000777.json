@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000777", 
+  "control_attributes": {
+    "Control": "SI-4 (24) INDICATORS OF COMPROMISE", 
+    "control_description": "The information system discovers, collects, distributes, and uses indicators of compromise.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements automated mechanisms to support the management of distributed security testing."
+  }, 
+  "Control Statement": "The information system discovers, collects, distributes, and uses indicators of compromise.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (24) INDICATORS OF COMPROMISE", 
+  "compliance_control_number": "600000777"
+}

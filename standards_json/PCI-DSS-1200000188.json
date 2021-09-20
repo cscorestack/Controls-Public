@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000188", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000188", 
+  "Control Name": "Maintain an inventory of authorized wireless access points including a documented business justification.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Maintain an inventory of authorized wireless access points including a documented business justification.", 
+    "Requirement": "11.1.1.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

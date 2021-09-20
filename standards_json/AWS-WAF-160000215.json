@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000215",
+  "compliance_control_uri": "AWS-WAF/0016/160000215",
+  "Control Name": "PERF 2.6 Re-evaluate compute needs based on metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use system-level metrics to identify the behavior and requirements of your workload over time. Evaluate your workload's needs by comparing the available resources with these requirements and make changes to your compute environment to best match your workload's proﬁle. For example, over time a system might be observed to be more memory- intensive than initially thought, so moving to a diﬀerent instance family or size could improve both performance and eﬃciency.",
+  "control_attributes": {
+    "Control": "PERF 2.6 Re-evaluate compute needs based on metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_use_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

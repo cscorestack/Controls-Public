@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000001", 
+  "compliance_control_uri": "ISO/0001/100000001", 
+  "Control Name": "5.1.1 Information Security policy document", 
+  "Control Family": "5. Security policy", 
+  "Control Statement": "An information security policy document shall be approved by management, and published and communicated to all employees and relevant external parties", 
+  "control_attributes": {
+    "Control_Objective": "5.1.1 Information Security policy document", 
+    "Security_Control_Clause": "5. Security policy", 
+    "Security_Category": "5.1 Information Security Policy", 
+    "description": "An information security policy document shall be approved by management, and published and communicated to all employees and relevant external parties"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000053",
+  "compliance_control_uri": "AWS-WAF/0016/160000053",
+  "Control Name": "OPS 8.3 Collect and analyze workload metrics",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Perform regular proactive reviews of metrics to identify trends and determine where appropriate responses are needed.",
+  "control_attributes": {
+    "Control": "OPS 8.3 Collect and analyze workload metrics",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_collect_analyze_workload_metrics"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000185", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000185", 
+  "Control Name": "Additional requirement for service providers only: Respond to failures of any critical security controls in a timely manner. Processes for responding to failures in security controls must include:\\n- Restoring security functions\\n- Identifying and documenting the duration (date and time start to end) of the security failure\\n- Identifying and documenting cause(s) of failure, including root cause, and documenting\\nremediation required to address root cause\\n- Identifying and addressing any security issues that arose during the failure\\n- Performing a risk assessment to determine whether further actions are required as a result of the security failure\\n- Implementing controls to prevent cause of failure from reoccurring\\n- Resuming monitoring of security controls", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Additional requirement for service providers only: Respond to failures of any critical security controls in a timely manner. Processes for responding to failures in security controls must include:\\n- Restoring security functions\\n- Identifying and documenting the duration (date and time start to end) of the security failure\\n- Identifying and documenting cause(s) of failure, including root cause, and documenting\\nremediation required to address root cause\\n- Identifying and addressing any security issues that arose during the failure\\n- Performing a risk assessment to determine whether further actions are required as a result of the security failure\\n- Implementing controls to prevent cause of failure from reoccurring\\n- Resuming monitoring of security controls", 
+    "Requirement": "10.8.1. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

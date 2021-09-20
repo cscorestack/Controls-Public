@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000112",
+  "compliance_control_uri": "SOC2/0017/1700000112",
+  "Control Name": "Performs Using Competent Personnel—Competent personnel with sufficient authority perform control activities with diligence and continuing focus.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Performs Using Competent Personnel—Competent personnel with sufficient authority perform control activities with diligence and continuing focus.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.3 COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "ControlNo": "CC5.3.5",
+    "TrustID": "CC5.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

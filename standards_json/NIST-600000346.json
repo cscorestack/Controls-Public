@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000346", 
+  "control_attributes": {
+    "Control": "CP-8 (5) ALTERNATE TELECOMMUNICATION SERVICE TESTING", 
+    "control_description": "The organization tests alternate telecommunication services [Assignment: organization-defined frequency].", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components."
+  }, 
+  "Control Statement": "The organization tests alternate telecommunication services [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-8 (5) ALTERNATE TELECOMMUNICATION SERVICE TESTING", 
+  "compliance_control_number": "600000346"
+}

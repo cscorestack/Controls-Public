@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000681", 
+  "control_attributes": {
+    "Control": "SC-7 (23) DISABLE SENDER FEEDBACK ON PROTOCOL VALIDATION FAILURE", 
+    "control_description": "The information system disables feedback to senders on protocol format validation failure.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization maintains availability of information in the event of the loss of cryptographic keys by users."
+  }, 
+  "Control Statement": "The information system disables feedback to senders on protocol format validation failure.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (23) DISABLE SENDER FEEDBACK ON PROTOCOL VALIDATION FAILURE", 
+  "compliance_control_number": "600000681"
+}

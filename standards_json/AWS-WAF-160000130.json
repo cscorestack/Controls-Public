@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000130",
+  "compliance_control_uri": "AWS-WAF/0016/160000130",
+  "Control Name": "SEC 9.3 Automate detection of unintended data access",
+  "Control Family": "Security",
+  "Control Statement": "Use tools such as GuardDuty to automatically detect attempts to move data outside of deﬁned boundaries based on data classiﬁcation level, for example, to detect a trojan that is copying data to an unknown or untrusted network using the DNS protocol.",
+  "control_attributes": {
+    "Control": "SEC 9.3 Automate detection of unintended data access",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data in transit?",
+    "question_id": "protect-data-transit",
+    "choice_id": "sec_protect_data_transit_auto_unintended_access"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

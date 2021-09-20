@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000045",
+  "compliance_control_uri": "AWS-WAF/0016/160000045",
+  "Control Name": "OPS 6.8 Automate testing and rollback",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Automate testing of deployed environments to conﬁrm desired outcomes. Automate rollback to previous known good state when outcomes are not achieved to minimize recovery time and reduce errors caused by manual processes.",
+  "control_attributes": {
+    "Control": "OPS 6.8 Automate testing and rollback",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_auto_testing_and_rollback"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

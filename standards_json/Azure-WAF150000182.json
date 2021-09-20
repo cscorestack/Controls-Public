@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000182", 
+  "compliance_control_uri": "Azure-WAF/0015/150000182", 
+  "Control Name": "2.15.4 There are tools or processes in place, such as Azure AD Privileged Identity Management, to grant access to critical systems on a just in-time basis", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are tools or processes in place to grant access on a just in-time basis?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.4 There are tools or processes in place, such as Azure AD Privileged Identity Management, to grant access to critical systems on a just in-time basis", 
+    "Description": "Are tools or processes in place to grant access on a just in-time basis?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

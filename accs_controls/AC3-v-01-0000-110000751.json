@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000751",
+  "compliance_control_uri": "AC3-v-01/0000/110000751",
+  "Control Name": "SI-10 INFORMATION INPUT VALIDATION",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system checks the validity of [Assignment: organization-defined information inputs].",
+  "control_attributes": {
+    "Control Name": "SI-10 INFORMATION INPUT VALIDATION",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system checks the validity of [Assignment: organization-defined information inputs]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000797",
+      "PCI-DSS/0012/1200000084",
+      "PCI-DSS/0012/1200000090",
+      "Fedramp-Control-Moderate/0010/1000000319",
+      "Fedramp-Control-High/0009/900000417",
+      "SOC2/0017/1700000231"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/cd449",
+        "policy_name": "AWS_Audit_Web_Application_Firewall_In_Use",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

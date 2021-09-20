@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000389", 
+  "control_attributes": {
+    "Control": "IA-5 (8) MULTIPLE INFORMATION SYSTEM ACCOUNTS", 
+    "control_description": "The organization implements [Assignment: organization-defined security safeguards] to manage the risk of compromise due to individuals having accounts on multiple information systems.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication."
+  }, 
+  "Control Statement": "The organization implements [Assignment: organization-defined security safeguards] to manage the risk of compromise due to individuals having accounts on multiple information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (8) MULTIPLE INFORMATION SYSTEM ACCOUNTS", 
+  "compliance_control_number": "600000389"
+}

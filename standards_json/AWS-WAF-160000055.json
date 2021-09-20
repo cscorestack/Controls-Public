@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000055",
+  "compliance_control_uri": "AWS-WAF/0016/160000055",
+  "Control Name": "OPS 8.5 Learn expected patterns of activity for workload",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Establish patterns of workload activity to identify anomalous behavior so that you can respond appropriately if required.",
+  "control_attributes": {
+    "Control": "OPS 8.5 Learn expected patterns of activity for workload",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your workload?",
+    "question_id": "workload-health",
+    "choice_id": "ops_workload_health_learn_workload_usage_patterns"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000215", 
+  "control_attributes": {
+    "Control": "AC-20 (4) NETWORK ACCESSIBLE STORAGE DEVICES", 
+    "control_description": "The organization prohibits the use of [Assignment: organization-defined network accessible storage devices] in external information systems.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of physical security controls."
+  }, 
+  "Control Statement": "The organization prohibits the use of [Assignment: organization-defined network accessible storage devices] in external information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-20 (4) NETWORK ACCESSIBLE STORAGE DEVICES", 
+  "compliance_control_number": "600000215"
+}

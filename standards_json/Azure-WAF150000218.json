@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000218", 
+  "compliance_control_uri": "Azure-WAF/0015/150000218", 
+  "Control Name": "3.1.2 Regions were chosen based on location, proximity to users, and resource type availability.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Not only is it important to utilize regions close to your audience, but it is equally important to choose regions that offer the SKUs that will support your future growth. Not all regions share the same parity when it comes to product SKUs.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.2 Regions were chosen based on location, proximity to users, and resource type availability.", 
+    "Description": "Not only is it important to utilize regions close to your audience, but it is equally important to choose regions that offer the SKUs that will support your future growth. Not all regions share the same parity when it comes to product SKUs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

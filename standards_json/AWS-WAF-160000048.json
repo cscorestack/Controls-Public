@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000048",
+  "compliance_control_uri": "AWS-WAF/0016/160000048",
+  "Control Name": "OPS 7.3 Use runbooks to perform procedures",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Runbooks are documented procedures to achieve speciﬁc outcomes. Enable consistent and prompt responses to well-understood events by documenting procedures in runbooks. Implement runbooks as code and trigger the execution of runbooks in response to events where appropriate, to ensure consistency, speed responses, and reduce errors caused by manual processes.",
+  "control_attributes": {
+    "Control": "OPS 7.3 Use runbooks to perform procedures",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you know that you are ready to support a workload?",
+    "question_id": "ready-to-support",
+    "choice_id": "ops_ready_to_support_use_runbooks"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000167", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000167", 
+  "Control Name": "INCIDENT REPORTING", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization: a. Requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and b. Reports security incident information to [Assignment: organization-defined authorities].Supplemental Guidance:  The intent of this control is to address both specific incident reporting requirements within an organization and the formal incident reporting requirements for federal agencies and their subordinate organizations. Suspected security incidents include, for example, the receipt of suspicious email communications that can potentially contain malicious code. The types of security incidents reported, the content and timeliness of the reports, and the designated reporting authorities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Current federal policy requires that all federal agencies (unless specifically exempted from such requirements) report security incidents to the United States Computer Emergency Readiness Team (US-CERT) within specified time frames designated in the US-CERT Concept of Operations for Federal Cyber Security Incident Handling. Related controls: IR-4, IR-5, IR-8.References: NIST Special Publication 800-61; Web: http://www.us-cert.gov.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization: a. Requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and b. Reports security incident information to [Assignment: organization-defined authorities].Supplemental Guidance:  The intent of this control is to address both specific incident reporting requirements within an organization and the formal incident reporting requirements for federal agencies and their subordinate organizations. Suspected security incidents include, for example, the receipt of suspicious email communications that can potentially contain malicious code. The types of security incidents reported, the content and timeliness of the reports, and the designated reporting authorities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Current federal policy requires that all federal agencies (unless specifically exempted from such requirements) report security incidents to the United States Computer Emergency Readiness Team (US-CERT) within specified time frames designated in the US-CERT Concept of Operations for Federal Cyber Security Incident Handling. Related controls: IR-4, IR-5, IR-8.References: NIST Special Publication 800-61; Web: http://www.us-cert.gov.", 
+    "SelectionParam": "IR-6 (a) [US-CERT incident reporting timelines as specified in NIST Special Publication 800-61 (as amended)]", 
+    "FedRampParam": "x", 
+    "SORTID": "IR-06", 
+    "CNTL NO": "IR-6", 
+    "AdditionalReq": "IR-6 Requirement: Reports security incident information according to FedRAMP Incident Communications Procedure.", 
+    "Control Name": "INCIDENT REPORTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

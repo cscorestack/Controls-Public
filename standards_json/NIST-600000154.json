@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000154", 
+  "control_attributes": {
+    "Control": "AC-4 (11) CONFIGURATION OF SECURITY POLICY FILTERS", 
+    "control_description": "The information system provides the capability for privileged administrators to configure [Assignment: organization-defined security policy filters] to support different security policies.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization authorizes network access to [Assignment: organization-defined privileged commands] only for [Assignment: organization-defined compelling operational needs] and documents the rationale for such access in the security plan for the information system."
+  }, 
+  "Control Statement": "The information system provides the capability for privileged administrators to configure [Assignment: organization-defined security policy filters] to support different security policies.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (11) CONFIGURATION OF SECURITY POLICY FILTERS", 
+  "compliance_control_number": "600000154"
+}

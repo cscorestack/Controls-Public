@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000085", 
+  "compliance_control_uri": "CIS-Azure/0015/150000085", 
+  "Control Name": "6.3 Ensure no SQL Databases allow ingress 0000/0 (ANY IP)", 
+  "Control Family": "6 Networking", 
+  "Control Statement": "Ensure that no SQL Databases allow ingress from 0.0.0.0/0 (ANY IP).", 
+  "control_attributes": {
+    "Control": "6.3 Ensure no SQL Databases allow ingress 0000/0 (ANY IP)", 
+    "Control_Clause": "6 Networking", 
+    "description": "Ensure that no SQL Databases allow ingress from 0.0.0.0/0 (ANY IP)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

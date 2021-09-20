@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000044", 
+  "compliance_control_uri": "CIS-Azure/0015/150000044", 
+  "Control Name": "3.6 Ensure default network access rule for Storage Accounts is set to deny", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Restricting default network access helps to provide a new layer of security, since storage accounts accept connections from clients on any network. To limit access to selected networks, the default action must be changed.", 
+  "control_attributes": {
+    "Control": "3.6 Ensure default network access rule for Storage Accounts is set to deny", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Restricting default network access helps to provide a new layer of security, since storage accounts accept connections from clients on any network. To limit access to selected networks, the default action must be changed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

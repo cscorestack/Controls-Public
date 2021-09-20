@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000184",
+  "compliance_control_uri": "AWS-WAF/0016/160000184",
+  "Control Name": "REL 10.1 Deploy the workload to multiple locations",
+  "Control Family": "Reliability",
+  "Control Statement": "Distribute workload data and resources across multiple Availability Zones or, where necessary, across AWS Regions. These locations can be as diverse as required.",
+  "control_attributes": {
+    "Control": "REL 10.1 Deploy the workload to multiple locations",
+    "Category": "Reliability",
+    "Subcategory": "How do you use fault isolation to protect your workload?",
+    "question_id": "fault-isolation",
+    "choice_id": "rel_fault_isolation_multiaz_region_system"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

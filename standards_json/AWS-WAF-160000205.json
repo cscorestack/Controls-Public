@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000205",
+  "compliance_control_uri": "AWS-WAF/0016/160000205",
+  "Control Name": "PERF 1.3 Factor cost requirements into decisions",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Workloads often have cost requirements for operation. Use internal cost controls to select resource types and sizes based on predicted resource need.",
+  "control_attributes": {
+    "Control": "PERF 1.3 Factor cost requirements into decisions",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_cost"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

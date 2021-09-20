@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000018", 
+  "control_attributes": {
+    "Control": "AU-12 AUDIT GENERATION", 
+    "control_description": "The information system:a. Provides audit record generation capability for the auditable events defined in AU-2 a. at [Assignment: organization-defined information system components];b. Allows [Assignment: organization-defined personnel or roles] to select which auditable events are to be audited by specific components of the information system; andc. Generates audit records for the events defined in AU-2 d. with the content defined in AU-3", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system compiles audit records from [Assignment: organization-defined information system components] into a system-wide (logical or physical) audit trail that is time-correlated to within [Assignment: organization-defined level of tolerance for the relationship between time stamps of individual records in the audit trail]."
+  }, 
+  "Control Statement": "The information system:a. Provides audit record generation capability for the auditable events defined in AU-2 a. at [Assignment: organization-defined information system components];b. Allows [Assignment: organization-defined personnel or roles] to select which auditable events are to be audited by specific components of the information system; andc. Generates audit records for the events defined in AU-2 d. with the content defined in AU-3", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-12 AUDIT GENERATION", 
+  "compliance_control_number": "600000018"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000339", 
+  "compliance_control_uri": "Azure-WAF/0015/150000339", 
+  "Control Name": "4.6.3 Data is replicated across multiple regions.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is data replicated across paired regions?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.3 Data is replicated across multiple regions.", 
+    "Description": "Is data replicated across paired regions?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

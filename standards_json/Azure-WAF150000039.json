@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000039", 
+  "compliance_control_uri": "Azure-WAF/0015/150000039", 
+  "Control Name": "1.5.7 Resources are reviewed weekly or bi-weekly for optimization.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Your under-utilized resources need to be reviewed often in order to be identified and dealt with accordingly, in addition to ensuring that your actionable recommendations are up-to-date and fully optimized. For example, Azure Advisor monitors your virtual machine (VM) usage for 7 days and then identifies low-utilization VMs.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.5 How do you ensure that cloud services are appropriately provisioned?", 
+    "Control": "1.5.7 Resources are reviewed weekly or bi-weekly for optimization.", 
+    "Description": "Your under-utilized resources need to be reviewed often in order to be identified and dealt with accordingly, in addition to ensuring that your actionable recommendations are up-to-date and fully optimized. For example, Azure Advisor monitors your virtual machine (VM) usage for 7 days and then identifies low-utilization VMs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

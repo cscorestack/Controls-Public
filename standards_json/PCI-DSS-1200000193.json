@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000193", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000193", 
+  "Control Name": "Perform internal and external scans, and rescans as needed, after any significant change. Scans must be performed by qualified personnel.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Perform internal and external scans, and rescans as needed, after any significant change. Scans must be performed by qualified personnel.", 
+    "Requirement": "11.2.3.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

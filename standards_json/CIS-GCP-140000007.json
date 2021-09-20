@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000007", 
+  "compliance_control_uri": "CIS-GCP/0014/140000007", 
+  "Control Name": "1.7 Ensure user-managed/external keys for service accounts are rotated every 90 days or less", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Service Account keys consist of a key ID  and Private key, which are used to sign programmatic requests users make to Google cloud services accessible to that particular service account. It is recommended that all Service Account keys are regularly rotated.", 
+  "control_attributes": {
+    "Control": "1.7 Ensure user-managed/external keys for service accounts are rotated every 90 days or less", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Service Account keys consist of a key ID  and Private key, which are used to sign programmatic requests users make to Google cloud services accessible to that particular service account. It is recommended that all Service Account keys are regularly rotated."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

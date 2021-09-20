@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000266",
+  "compliance_control_uri": "AWS-WAF/0016/160000266",
+  "Control Name": "COST 4.3 Decommission resources",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Decommission resources triggered by events such as periodic audits, or changes in usage. Decommissioning is typically performed periodically, and is manual or automated.",
+  "control_attributes": {
+    "Control": "COST 4.3 Decommission resources",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you decommission resources?",
+    "question_id": "decomissioning-resources",
+    "choice_id": "cost_decomissioning_resources_decommission"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

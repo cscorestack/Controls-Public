@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000105", 
+  "compliance_control_uri": "CIS-Azure/0015/150000105", 
+  "Control Name": "9.5 Ensure that Register with Azure Active Directory is enabled on App Service", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "Managed service identity in App Service makes the app more secure by eliminating secrets from the app, such as credentials in the connection strings.", 
+  "control_attributes": {
+    "Control": "9.5 Ensure that Register with Azure Active Directory is enabled on App Service", 
+    "Control_Clause": "9 AppService", 
+    "description": "Managed service identity in App Service makes the app more secure by eliminating secrets from the app, such as credentials in the connection strings."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000498", 
+  "control_attributes": {
+    "Control": "PE-5 (2) ACCESS TO OUTPUT BY INDIVIDUAL IDENTITY", 
+    "control_description": "The information system: (a) Controls physical access to output from [Assignment: organization-defined output devices]; and(b) Links individual identity to receipt of the output from the device.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P3", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system: (a) Controls physical access to output from [Assignment: organization-defined output devices]; and(b) Links individual identity to receipt of the output from the device.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-5 (2) ACCESS TO OUTPUT BY INDIVIDUAL IDENTITY", 
+  "compliance_control_number": "600000498"
+}

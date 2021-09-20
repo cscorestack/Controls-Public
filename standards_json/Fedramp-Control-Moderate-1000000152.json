@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000152", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000152", 
+  "Control Name": "AUTHENTICATOR MANAGEMENT | HARDWARE TOKEN-BASED AUTHENTICATION", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system, for hardware token-based authentication, employs mechanisms that satisfy [Assignment: organization-defined token quality requirements].Supplemental Guidance:  Hardware token-based authentication typically refers to the use of PKI-based tokens, such as the U.S. Government Personal Identity Verification (PIV) card. Organizations define specific requirements for tokens, such as working with a particular PKI.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system, for hardware token-based authentication, employs mechanisms that satisfy [Assignment: organization-defined token quality requirements].Supplemental Guidance:  Hardware token-based authentication typically refers to the use of PKI-based tokens, such as the U.S. Government Personal Identity Verification (PIV) card. Organizations define specific requirements for tokens, such as working with a particular PKI.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-05 (11)", 
+    "CNTL NO": "IA-5 (11)", 
+    "AdditionalReq": "", 
+    "Control Name": "AUTHENTICATOR MANAGEMENT | HARDWARE TOKEN-BASED AUTHENTICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

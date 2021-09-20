@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000070", 
+  "compliance_control_uri": "CIS-Azure/0003/300000070", 
+  "Control Name": "3.4. Ensure that shared access signature tokens expire within an hour", 
+  "Control Family": "3. Storage Accounts", 
+  "Control Statement": "Expire shared access signature tokens within an hour. This time should be set as low as possible, and preferably no longer than an hour.", 
+  "control_attributes": {
+    "Control": "3.4. Ensure that shared access signature tokens expire within an hour", 
+    "Control_Clause": "3. Storage Accounts", 
+    "description": "Expire shared access signature tokens within an hour. This time should be set as low as possible, and preferably no longer than an hour."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

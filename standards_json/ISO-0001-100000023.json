@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000023", 
+  "compliance_control_uri": "ISO/0001/100000100", 
+  "Control Name": "8.3.1 Management of removable media", 
+  "Control Family": "8. Asset Management", 
+  "Control Statement": "Procedures shall be implemented for the management of removable media in accordance with the classification scheme adopted by the organization.", 
+  "control_attributes": {
+    "Control_Objective": "8.3.1 Management of removable media", 
+    "Security_Control_Clause": "8. Asset Management", 
+    "Security_Category": "8.3 Media handling", 
+    "description": "Procedures shall be implemented for the management of removable media in accordance with the classification scheme adopted by the organization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000027", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000027", 
+  "Control Name": "3.1 Ensure that the default network does not exist in a project", 
+  "Control Family": "Networking", 
+  "Control Statement": "To prevent use of default network, a project should not have a default network.", 
+  "control_attributes": {
+    "Control": "3.1 Ensure that the default network does not exist in a project", 
+    "Security_Category": "Networking", 
+    "Control_description": "To prevent use of default network, a project should not have a default network."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

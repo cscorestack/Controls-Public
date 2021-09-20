@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000303", 
+  "control_attributes": {
+    "Control": "CM-8 (5) NO DUPLICATE ACCOUNTING OF COMPONENTS", 
+    "control_description": "The organization verifies that all components within the authorization boundary of the information system are not duplicated in other information system component inventories.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system alerts [Assignment: organization-defined personnel or roles] when the unauthorized installation of software is detected."
+  }, 
+  "Control Statement": "The organization verifies that all components within the authorization boundary of the information system are not duplicated in other information system component inventories.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (5) NO DUPLICATE ACCOUNTING OF COMPONENTS", 
+  "compliance_control_number": "600000303"
+}

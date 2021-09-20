@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000338", 
+  "compliance_control_uri": "Azure-WAF/0015/150000338", 
+  "Control Name": "4.6.2 Data platform services are running in a highly available configuration/SKU.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are data store(s) running in a HA configuration/SKU? i.e. SQL DB in a Zone Redundant configuration, or SQL MI Always-On.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.2 Data platform services are running in a highly available configuration/SKU.", 
+    "Description": "Are data store(s) running in a HA configuration/SKU? i.e. SQL DB in a Zone Redundant configuration, or SQL MI Always-On."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

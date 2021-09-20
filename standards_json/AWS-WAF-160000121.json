@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000121",
+  "compliance_control_uri": "AWS-WAF/0016/160000121",
+  "Control Name": "SEC 7.3 Automate identiﬁcation and classiﬁcation",
+  "Control Family": "Security",
+  "Control Statement": "Automate identiﬁcation and classiﬁcation of data to reduce the risk of human error from manual interactions.",
+  "control_attributes": {
+    "Control": "SEC 7.3 Automate identiﬁcation and classiﬁcation",
+    "Category": "Security",
+    "Subcategory": "How do you classify your data?",
+    "question_id": "data-classification",
+    "choice_id": "sec_data_classification_auto_classification"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

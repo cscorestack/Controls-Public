@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000649", 
+  "control_attributes": {
+    "Control": "SA-22 UNSUPPORTED SYSTEM COMPONENTS", 
+    "control_description": "The organization: a. Replaces information system components when support for the components is no longer available from the developer, vendor, or manufacturer; andb. Provides justification and documents approval for the continued use of unsupported system components required to satisfy mission/business needs.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization minimizes the number of nonsecurity functions included within the isolation boundary containing security functions."
+  }, 
+  "Control Statement": "The organization: a. Replaces information system components when support for the components is no longer available from the developer, vendor, or manufacturer; andb. Provides justification and documents approval for the continued use of unsupported system components required to satisfy mission/business needs.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-22 UNSUPPORTED SYSTEM COMPONENTS", 
+  "compliance_control_number": "600000649"
+}

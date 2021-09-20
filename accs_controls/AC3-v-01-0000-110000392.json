@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000392",
+  "compliance_control_uri": "AC3-v-01/0000/110000392",
+  "Control Name": "MA-2 (2) AUTOMATED MAINTENANCE ACTIVITIES",
+  "Control Family": "MAINTENANCE",
+  "Control Statement": "The organization: (a) Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and(b) Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed.",
+  "control_attributes": {
+    "Control Name": "MA-2 (2) AUTOMATED MAINTENANCE ACTIVITIES",
+    "Control Family": "MAINTENANCE",
+    "Control Statement": "The organization: (a) Employs automated mechanisms to schedule, conduct, and document maintenance and repairs; and(b) Produces up-to date, accurate, and complete records of all maintenance and repair actions requested, scheduled, in process, and completed."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000440",
+      "ISO-27001/0011/1100000051",
+      "Fedramp-Control-High/0009/900000239",
+      "ISO/0001/100000112"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

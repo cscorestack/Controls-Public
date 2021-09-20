@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000316", 
+  "control_attributes": {
+    "Control": "CP-2 (1) COORDINATE WITH RELATED PLANS", 
+    "control_description": "The organization coordinates contingency plan development with organizational elements responsible for related plans.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization incorporates simulated events into contingency training to facilitate effective response by personnel in crisis situations."
+  }, 
+  "Control Statement": "The organization coordinates contingency plan development with organizational elements responsible for related plans.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (1) COORDINATE WITH RELATED PLANS", 
+  "compliance_control_number": "600000316"
+}

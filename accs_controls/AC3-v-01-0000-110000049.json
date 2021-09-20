@@ -1,0 +1,41 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000049",
+  "compliance_control_uri": "AC3-v-01/0000/110000049",
+  "Control Name": "AC-20 (2) PORTABLE STORAGE DEVICES",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The organization [Selection: restricts; prohibits] the use of organization-controlled portable storage devices by authorized individuals on external information systems.",
+  "control_attributes": {
+    "Control Name": "AC-20 (2) PORTABLE STORAGE DEVICES",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The organization [Selection: restricts; prohibits] the use of organization-controlled portable storage devices by authorized individuals on external information systems."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000114",
+      "NIST-SP800-53/0006/600000213",
+      "Fedramp-Control-Moderate/0010/1000000041",
+      "Fedramp-Control-High/0009/900000052"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000500", 
+  "control_attributes": {
+    "Control": "PE-6 MONITORING PHYSICAL ACCESS", 
+    "control_description": "The organization: a. Monitors physical access to the facility where the information system resides to detect and respond to physical security incidents;b. Reviews physical access logs [Assignment: organization-defined frequency] and upon occurrence of [Assignment: organization-defined events or potential indications of events]; andc. Coordinates results of reviews and investigations with the organizational incident response capability", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization protects power equipment and power cabling for the information system from damage and destruction."
+  }, 
+  "Control Statement": "The organization: a. Monitors physical access to the facility where the information system resides to detect and respond to physical security incidents;b. Reviews physical access logs [Assignment: organization-defined frequency] and upon occurrence of [Assignment: organization-defined events or potential indications of events]; andc. Coordinates results of reviews and investigations with the organizational incident response capability", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-6 MONITORING PHYSICAL ACCESS", 
+  "compliance_control_number": "600000500"
+}

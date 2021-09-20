@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000060", 
+  "compliance_control_uri": "ISO/0001/100000036", 
+  "Control Name": "12.1.4 Seperation of development, testing and operational environments", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Review policies, procedures, practices, associated records and architectures that separate or segregate development, testing and operational ICT environments.", 
+  "control_attributes": {
+    "Control_Objective": "12.1.4 Seperation of development, testing and operational environments", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.1 Operational procedures and responsibiities", 
+    "description": "Review policies, procedures, practices, associated records and architectures that separate or segregate development, testing and operational ICT environments."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

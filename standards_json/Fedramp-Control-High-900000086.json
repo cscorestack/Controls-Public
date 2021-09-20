@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000086", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000086", 
+  "Control Name": "PROTECTION OF AUDIT INFORMATION | CRYPTOGRAPHIC PROTECTION", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools.Supplemental Guidance:  Cryptographic mechanisms used for protecting the integrity of audit information include, for example, signed hash functions using asymmetric cryptography enabling distribution of the public key to verify the hash information while maintaining the confidentiality of the secret key used to generate the hash. Related controls: AU-10, SC-12, SC-13.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system implements cryptographic mechanisms to protect the integrity of audit information and audit tools.Supplemental Guidance:  Cryptographic mechanisms used for protecting the integrity of audit information include, for example, signed hash functions using asymmetric cryptography enabling distribution of the public key to verify the hash information while maintaining the confidentiality of the secret key used to generate the hash. Related controls: AU-10, SC-12, SC-13.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AU-09 (03)", 
+    "CNTL NO": "AU-9 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "PROTECTION OF AUDIT INFORMATION | CRYPTOGRAPHIC PROTECTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

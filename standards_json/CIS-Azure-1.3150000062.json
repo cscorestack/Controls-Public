@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000062", 
+  "compliance_control_uri": "CIS-Azure/0015/150000062", 
+  "Control Name": "4.3.5 Ensure server parameter 'log_disconnections' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable log_disconnections on PostgreSQL Servers.", 
+  "control_attributes": {
+    "Control": "4.3.5 Ensure server parameter 'log_disconnections' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable log_disconnections on PostgreSQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

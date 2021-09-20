@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000210",
+  "compliance_control_uri": "AWS-WAF/0016/160000210",
+  "Control Name": "PERF 2.1 Evaluate the available compute options",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Understand the performance characteristics of the compute- related options available to you. Know how instances, containers, and functions work, and what advantages, or disadvantages, they bring to your workload.",
+  "control_attributes": {
+    "Control": "PERF 2.1 Evaluate the available compute options",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_evaluate_options"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

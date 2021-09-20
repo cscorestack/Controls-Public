@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000211",
+  "compliance_control_uri": "AWS-WAF/0016/160000211",
+  "Control Name": "PERF 2.2 Understand the available compute conﬁguration options",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Understand how various options complement your workload, and which conﬁguration options are best for your system. Examples of these options include instance family, sizes, features (GPU, I/O), function sizes, container instances, and single versus multi-tenancy.",
+  "control_attributes": {
+    "Control": "PERF 2.2 Understand the available compute conﬁguration options",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your compute solution?",
+    "question_id": "select-compute",
+    "choice_id": "perf_select_compute_config_options"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

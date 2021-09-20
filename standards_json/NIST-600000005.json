@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000005", 
+  "control_attributes": {
+    "Control": "AU-2 AUDIT EVENTS", 
+    "control_description": "The organization:a. Determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events];b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; andd. Determines that the following events are to be audited within the information system: [Assignment: organization-defined audited events (the subset of the auditable events defined in AU-2 a.) along with the frequency of (or situation requiring) auditing for each identified event].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system generates audit records containing information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event."
+  }, 
+  "Control Statement": "The organization:a. Determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events];b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; andd. Determines that the following events are to be audited within the information system: [Assignment: organization-defined audited events (the subset of the auditable events defined in AU-2 a.) along with the frequency of (or situation requiring) auditing for each identified event].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-2 AUDIT EVENTS", 
+  "compliance_control_number": "600000005"
+}

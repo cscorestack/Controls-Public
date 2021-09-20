@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000289",
+  "compliance_control_uri": "SOC2/0017/1700000289",
+  "Control Name": "Documents and Communicates Dispute Resolution and Recourse—Each complaint is addressed, and the resolution is documented and communicated to the individual.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Documents and Communicates Dispute Resolution and Recourse—Each complaint is addressed, and the resolution is documented and communicated to the individual.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P8.1 The entity implements a process for receiving, addressing, resolving, and communicating the resolution of inquiries, complaints, and disputes from data subjects and others and periodically monitors compliance to meet the entity’s objectives related to privacy. Corrections and other necessary actions related to identified deficiencies are made or taken in a timely manner.",
+    "ControlNo": "P8.1.3",
+    "TrustID": "P8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

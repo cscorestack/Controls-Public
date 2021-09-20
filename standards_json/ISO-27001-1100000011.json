@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000011", 
+  "compliance_control_uri": "ISO-27001/0011/1100000011", 
+  "Control Name": "7.1.2 Terms and conditions of employment", 
+  "Control Family": "7. Human resource security", 
+  "Control Statement": "As part of their contractual obligation, employees, contractors and third party users shall agree and sign the terms and conditions of their employment contract, which shall state their and the organization's responsibilities for information security", 
+  "control_attributes": {
+    "Clause_Category": " 7.1 Prior to employment", 
+    "description": "As part of their contractual obligation, employees, contractors and third party users shall agree and sign the terms and conditions of their employment contract, which shall state their and the organization's responsibilities for information security", 
+    "Control_Title": "7.1.2 Terms and conditions of employment", 
+    "Control_Clause": "7. Human resource security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

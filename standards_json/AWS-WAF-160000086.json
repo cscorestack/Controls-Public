@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000086",
+  "compliance_control_uri": "AWS-WAF/0016/160000086",
+  "Control Name": "SEC 1.4 Keep up to date with security threats",
+  "Control Family": "Security",
+  "Control Statement": "Recognize attack vectors by staying up to date with the latest security threats to help you deﬁne and implement appropriate controls.",
+  "control_attributes": {
+    "Control": "SEC 1.4 Keep up to date with security threats",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_updated_threats"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

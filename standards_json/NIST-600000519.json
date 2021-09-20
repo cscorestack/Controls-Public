@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000519", 
+  "control_attributes": {
+    "Control": "PE-13 (3) AUTOMATIC FIRE SUPPRESSION", 
+    "control_description": "The organization employs an automatic fire suppression capability for the information system when the facility is not staffed on a continuous basis.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items."
+  }, 
+  "Control Statement": "The organization employs an automatic fire suppression capability for the information system when the facility is not staffed on a continuous basis.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-13 (3) AUTOMATIC FIRE SUPPRESSION", 
+  "compliance_control_number": "600000519"
+}

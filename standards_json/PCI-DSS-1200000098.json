@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000098", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000098", 
+  "Control Name": "Restrict access to privileged user IDs to least privileges necessary to perform job responsibilities.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Restrict access to privileged user IDs to least privileges necessary to perform job responsibilities.", 
+    "Requirement": "7.1.2.Restrict access to cardholder data by business need to know"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

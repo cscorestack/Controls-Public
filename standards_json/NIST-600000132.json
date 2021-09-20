@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000132", 
+  "control_attributes": {
+    "Control": "AC-2 (10) SHARED / GROUP ACCOUNT CREDENTIAL TERMINATION", 
+    "control_description": "The information system terminates shared/group account credentials when members leave the group.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system uses protected processing domains to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions."
+  }, 
+  "Control Statement": "The information system terminates shared/group account credentials when members leave the group.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (10) SHARED / GROUP ACCOUNT CREDENTIAL TERMINATION", 
+  "compliance_control_number": "600000132"
+}

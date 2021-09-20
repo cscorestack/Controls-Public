@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000075", 
+  "compliance_control_uri": "CIS-Azure/0003/300000075", 
+  "Control Name": "4.3. Ensure that 'Auditing' Retention is 'greater than 90 days'", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "SQL Server Audit Retention should be configured to be greater than 90 days.", 
+  "control_attributes": {
+    "Control": "4.3. Ensure that 'Auditing' Retention is 'greater than 90 days'", 
+    "Control_Clause": "4. Database Services", 
+    "description": "SQL Server Audit Retention should be configured to be greater than 90 days."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

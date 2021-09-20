@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000074", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000074", 
+  "Control Name": "6.4.1 Separate development/test environments from production environments, and enforce the separation with access controls.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "6.4.1 Separate development/test environments from production environments, and enforce the separation with access controls.", 
+    "Requirement": "6. Develop and maintain secure systems and applications"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

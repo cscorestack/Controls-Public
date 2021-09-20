@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000443", 
+  "control_attributes": {
+    "Control": "MA-3 (2) INSPECT MEDIA", 
+    "control_description": "The organization checks media containing diagnostic and test programs for malicious code before the media are used in the information system.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system implements cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications."
+  }, 
+  "Control Statement": "The organization checks media containing diagnostic and test programs for malicious code before the media are used in the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-3 (2) INSPECT MEDIA", 
+  "compliance_control_number": "600000443"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000698", 
+  "control_attributes": {
+    "Control": "SC-18 (3) PREVENT DOWNLOADING / EXECUTION", 
+    "control_description": "The information system prevents the download and execution of [Assignment: organization-defined unacceptable mobile code].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides data origin and integrity protection artifacts for internal name/address resolution queries."
+  }, 
+  "Control Statement": "The information system prevents the download and execution of [Assignment: organization-defined unacceptable mobile code].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-18 (3) PREVENT DOWNLOADING / EXECUTION", 
+  "compliance_control_number": "600000698"
+}

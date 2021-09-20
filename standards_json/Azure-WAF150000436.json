@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000436", 
+  "compliance_control_uri": "Azure-WAF/0015/150000436", 
+  "Control Name": "5.6.1 Tools like Azure Security Center are used to discover and remediate common risks within Azure tenants.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Identifying and remediating common security hygiene risks significantly reduces overall risk to the organization by increasing cost to attackers. Azure Secure Score in Azure Security Center monitors the security posture of machines, networks, storage and data services, and applications to discover potential security issues (internet connected VMs, or missing security updates, missing endpoint protection or encryption, deviations from baseline security configurations, missing Web Application Firewall (WAF), and more).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.1 Tools like Azure Security Center are used to discover and remediate common risks within Azure tenants.", 
+    "Description": "Identifying and remediating common security hygiene risks significantly reduces overall risk to the organization by increasing cost to attackers. Azure Secure Score in Azure Security Center monitors the security posture of machines, networks, storage and data services, and applications to discover potential security issues (internet connected VMs, or missing security updates, missing endpoint protection or encryption, deviations from baseline security configurations, missing Web Application Firewall (WAF), and more)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

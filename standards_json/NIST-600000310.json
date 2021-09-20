@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000310", 
+  "control_attributes": {
+    "Control": "CM-10 SOFTWARE USAGE RESTRICTIONS", 
+    "control_description": "The organization: a. Uses software and associated documentation in accordance with contract agreements and copyright laws;b. Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution; andc. Controls and documents the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization plans for the resumption of all missions and business functions within [Assignment: organization-defined time period] of contingency plan activation."
+  }, 
+  "Control Statement": "The organization: a. Uses software and associated documentation in accordance with contract agreements and copyright laws;b. Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution; andc. Controls and documents the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-10 SOFTWARE USAGE RESTRICTIONS", 
+  "compliance_control_number": "600000310"
+}

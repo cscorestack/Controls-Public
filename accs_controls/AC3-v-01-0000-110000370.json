@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000370",
+  "compliance_control_uri": "AC3-v-01/0000/110000370",
+  "Control Name": "IR-4 (5) AUTOMATIC DISABLING OF INFORMATION SYSTEM",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization implements a configurable capability to automatically disable the information system if [Assignment: organization-defined security violations] are detected.",
+  "control_attributes": {
+    "Control Name": "IR-4 (5) AUTOMATIC DISABLING OF INFORMATION SYSTEM",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization implements a configurable capability to automatically disable the information system if [Assignment: organization-defined security violations] are detected."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Detective",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000421"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

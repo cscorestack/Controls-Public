@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000126",
+  "compliance_control_uri": "AWS-WAF/0016/160000126",
+  "Control Name": "SEC 8.4 Enforce access control",
+  "Control Family": "Security",
+  "Control Statement": "Enforce access control with least privileges and mechanisms, including backups, isolation, and versioning, to help protect your data at rest. Consider what data you have that is publicly accessible.",
+  "control_attributes": {
+    "Control": "SEC 8.4 Enforce access control",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data at rest?",
+    "question_id": "protect-data-rest",
+    "choice_id": "sec_protect_data_rest_access_control"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

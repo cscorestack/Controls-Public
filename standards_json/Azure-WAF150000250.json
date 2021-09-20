@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000250", 
+  "compliance_control_uri": "Azure-WAF/0015/150000250", 
+  "Control Name": "3.5.6 You have identified all components that are sensitive to network latency.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Components or scenarios that are sensitive to network latency may indicate a need for co-locality within a single Availability Zone or even closer using Proximity Placement Groups with Accelerated Networking enabled.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.6 You have identified all components that are sensitive to network latency.", 
+    "Description": "Components or scenarios that are sensitive to network latency may indicate a need for co-locality within a single Availability Zone or even closer using Proximity Placement Groups with Accelerated Networking enabled."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000126", 
+  "control_attributes": {
+    "Control": "AC-2 (2) REMOVAL OF TEMPORARY / EMERGENCY ACCOUNTS", 
+    "control_description": "The information system automatically [Selection: removes; disables] temporary and emergency accounts after [Assignment: organization-defined time period for each type of account].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system prevents access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states."
+  }, 
+  "Control Statement": "The information system automatically [Selection: removes; disables] temporary and emergency accounts after [Assignment: organization-defined time period for each type of account].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-2 (2) REMOVAL OF TEMPORARY / EMERGENCY ACCOUNTS", 
+  "compliance_control_number": "600000126"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000144", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000144", 
+  "Control Name": "Maintain strict control over the internal or external distribution of any kind of media, including the following:\\nEnsure management approves any and all media that is moved from a secured area (including when media is distributed to individuals).", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Maintain strict control over the internal or external distribution of any kind of media, including the following:\\nEnsure management approves any and all media that is moved from a secured area (including when media is distributed to individuals).", 
+    "Requirement": "9.6.3. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

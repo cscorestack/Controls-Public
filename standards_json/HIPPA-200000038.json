@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000038", 
+  "compliance_control_uri": "HIPAA/0002/200000038", 
+  "Control Name": "Security Management Process  Sanction Policy - 164.308(a)(1)(ii)(C)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity or business associate.", 
+  "control_attributes": {
+    "Control": "Security Management Process  Sanction Policy - 164.308(a)(1)(ii)(C)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity or business associate."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

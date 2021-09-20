@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000160",
+  "compliance_control_uri": "AWS-WAF/0016/160000160",
+  "Control Name": "REL 5.4 Fail fast and limit queues",
+  "Control Family": "Reliability",
+  "Control Statement": "If the workload is unable to respond successfully to a request, then fail fast. This allows the releasing of resources associated with a request, and permits the service to recover if it’s running out of resources. If the workload is able to respond successfully but the rate of requests is too high, then use a queue to buﬀer requests instead. However, do not allow long queues that can result in serving stale requests that the client has already given up on.",
+  "control_attributes": {
+    "Control": "REL 5.4 Fail fast and limit queues",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_fail_fast"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

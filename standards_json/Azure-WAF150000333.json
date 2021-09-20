@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000333", 
+  "compliance_control_uri": "Azure-WAF/0015/150000333", 
+  "Control Name": "4.5.9 Health probes are implemented to check the health of application components and compound application health.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are health probes used for load balancers to check next hop component health and compound application health for key workloads?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.9 Health probes are implemented to check the health of application components and compound application health.", 
+    "Description": "Are health probes used for load balancers to check next hop component health and compound application health for key workloads?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

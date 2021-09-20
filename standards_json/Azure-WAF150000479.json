@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000479", 
+  "compliance_control_uri": "Azure-WAF/0015/150000479", 
+  "Control Name": "5.11.2 Passwords and secrets are managed outside of application artifacts, using tools like Azure Key Vault.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "API keys, database connection string and passwords need to be stored in a secure store and not within the application code or configuration. This simplifies operational tasks like key rotation as well as improving overall security.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.11 Are keys, secrets and certificates managed in a secure way?", 
+    "Control": "5.11.2 Passwords and secrets are managed outside of application artifacts, using tools like Azure Key Vault.", 
+    "Description": "API keys, database connection string and passwords need to be stored in a secure store and not within the application code or configuration. This simplifies operational tasks like key rotation as well as improving overall security."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

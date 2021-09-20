@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000351", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000351", 
+  "Control Name": "BOUNDARY PROTECTION | ACCESS POINTS", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization limits the number of external network connections to the information system.Supplemental Guidance:  Limiting the number of external network connections facilitates more comprehensive monitoring of inbound and outbound communications traffic. The Trusted Internet Connection (TIC) initiative is an example of limiting the number of external network connections.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization limits the number of external network connections to the information system.Supplemental Guidance:  Limiting the number of external network connections facilitates more comprehensive monitoring of inbound and outbound communications traffic. The Trusted Internet Connection (TIC) initiative is an example of limiting the number of external network connections.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-07 (03)", 
+    "CNTL NO": "SC-7 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "BOUNDARY PROTECTION | ACCESS POINTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

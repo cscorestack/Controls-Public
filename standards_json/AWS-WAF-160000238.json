@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000238",
+  "compliance_control_uri": "AWS-WAF/0016/160000238",
+  "Control Name": "PERF 7.5 Review metrics at regular intervals",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "As routine maintenance, or in response to events or incidents, review which metrics are collected. Use these reviews to identify which metrics were key in addressing issues and which additional metrics, if they were being tracked, would help to identify, address, or prevent issues.",
+  "control_attributes": {
+    "Control": "PERF 7.5 Review metrics at regular intervals",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_review_metrics_collected"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

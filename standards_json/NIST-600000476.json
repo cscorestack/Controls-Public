@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000476", 
+  "control_attributes": {
+    "Control": "MP-7 (1) PROHIBIT USE WITHOUT OWNER", 
+    "control_description": "The organization prohibits the use of portable storage devices in organizational information systems when such devices have no identifiable owner.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization prohibits the use of portable storage devices in organizational information systems when such devices have no identifiable owner.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-7 (1) PROHIBIT USE WITHOUT OWNER", 
+  "compliance_control_number": "600000476"
+}

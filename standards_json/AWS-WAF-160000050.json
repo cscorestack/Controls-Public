@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000050",
+  "compliance_control_uri": "AWS-WAF/0016/160000050",
+  "Control Name": "OPS 7.5 Make informed decisions to deploy systems and changes",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Evaluate the capabilities of the team to support the workload and the workload's compliance with governance. Evaluate these against the beneﬁts of deployment when determining whether to transition a system or change into production. Understand the beneﬁts and risks to make informed decisions.",
+  "control_attributes": {
+    "Control": "OPS 7.5 Make informed decisions to deploy systems and changes",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you know that you are ready to support a workload?",
+    "question_id": "ready-to-support",
+    "choice_id": "ops_ready_to_support_informed_deploy_decisions"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

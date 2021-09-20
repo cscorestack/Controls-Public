@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000151",
+  "compliance_control_uri": "AWS-WAF/0016/160000151",
+  "Control Name": "REL 3.2 Build services focused on speciﬁc business domains and functionality",
+  "Control Family": "Reliability",
+  "Control Statement": "SOA builds services with well-delineated functions deﬁned by business needs. Microservices use domain models and bounded context to limit this further so that each service does just one thing. Focusing on speciﬁc functionality enables you to diﬀerentiate the reliability requirements of diﬀerent services, and target investments more speciﬁcally. A concise business problem and having a small team associated with each service also enables easier organizational scaling.",
+  "control_attributes": {
+    "Control": "REL 3.2 Build services focused on speciﬁc business domains and functionality",
+    "Category": "Reliability",
+    "Subcategory": "How do you design your workload service architecture?",
+    "question_id": "service-architecture",
+    "choice_id": "rel_service_architecture_business_domains"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

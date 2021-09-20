@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000164", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000164", 
+  "Control Name": "Record at least the following audit trail entries for all system components for each event:\\nType of event.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Record at least the following audit trail entries for all system components for each event:\\nType of event.", 
+    "Requirement": "10.3.2. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

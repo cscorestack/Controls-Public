@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000104",
+  "compliance_control_uri": "AWS-WAF/0016/160000104",
+  "Control Name": "SEC 3.8 Share resources securely",
+  "Control Family": "Security",
+  "Control Statement": "Govern the consumption of shared resources across accounts or within your AWS Organization. Monitor shared resources and review shared resource access.",
+  "control_attributes": {
+    "Control": "SEC 3.8 Share resources securely",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_share_securely"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000283",
+  "compliance_control_uri": "AWS-WAF/0016/160000283",
+  "Control Name": "COST 8.2 Select components to optimize data transfer cost",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "All components are selected, and architecture is designed to reduce data transfer costs. This includes using components such as WAN optimization and Multi-AZ conﬁgurations",
+  "control_attributes": {
+    "Control": "COST 8.2 Select components to optimize data transfer cost",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you plan for data transfer charges?",
+    "question_id": "data-transfer",
+    "choice_id": "cost_data_transfer_optimized_components"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

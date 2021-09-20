@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000112", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000112", 
+  "Control Name": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nIf a session has been idle for more than 15 minutes, require the user to re-authenticate to re-activate the terminal or session.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components as follows:\\nIf a session has been idle for more than 15 minutes, require the user to re-authenticate to re-activate the terminal or session.", 
+    "Requirement": "8.1.8.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

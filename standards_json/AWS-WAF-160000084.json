@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000084",
+  "compliance_control_uri": "AWS-WAF/0016/160000084",
+  "Control Name": "SEC 1.2 Secure AWS account",
+  "Control Family": "Security",
+  "Control Statement": "Secure access to your accounts, for example by enabling MFA and restrict use of the root user, and conﬁgure account contacts.",
+  "control_attributes": {
+    "Control": "SEC 1.2 Secure AWS account",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_aws_account"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

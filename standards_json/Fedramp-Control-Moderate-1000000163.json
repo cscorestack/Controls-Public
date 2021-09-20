@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000163", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000163", 
+  "Control Name": "INCIDENT RESPONSE TESTING | COORDINATION WITH RELATED PLANS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization coordinates incident response testing with organizational elements responsible for related plans.Supplemental Guidance:  Organizational plans related to incident response testing include, for example, Business Continuity Plans, Contingency Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, andOccupant Emergency Plans.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization coordinates incident response testing with organizational elements responsible for related plans.Supplemental Guidance:  Organizational plans related to incident response testing include, for example, Business Continuity Plans, Contingency Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, andOccupant Emergency Plans.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-03 (02)", 
+    "CNTL NO": "IR-3 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT RESPONSE TESTING | COORDINATION WITH RELATED PLANS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

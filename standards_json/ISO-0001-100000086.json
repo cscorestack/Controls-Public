@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000086", 
+  "compliance_control_uri": "ISO/0001/100000061", 
+  "Control Name": "14.2.6 Secure development environment", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Review the controls isolating development from testing and production environments.  How is software developed, tested and released?  Who is responsible for ensuring that new/changed software does not disrupt other operations", 
+  "control_attributes": {
+    "Control_Objective": "14.2.6 Secure development environment", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Review the controls isolating development from testing and production environments.  How is software developed, tested and released?  Who is responsible for ensuring that new/changed software does not disrupt other operations"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

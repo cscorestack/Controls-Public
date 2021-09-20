@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000036", 
+  "compliance_control_uri": "CIS-Azure/0003/300000036", 
+  "Control Name": "7.6. Ensure that the endpoint protection for all Virtual Machines is installed", 
+  "Control Family": "7. Virtual Machines", 
+  "Control Statement": "Installing endpoint protection systems (like Antimalware for Azure) provides for real-time protection capability that helps identify and remove viruses, spyware, and other malicious software, with configurable alerts when known malicious or unwanted software attempts to install itself or run on Azure systems.", 
+  "control_attributes": {
+    "Control": "7.6. Ensure that the endpoint protection for all Virtual Machines is installed", 
+    "Control_Clause": "7. Virtual Machines", 
+    "description": "Installing endpoint protection systems (like Antimalware for Azure) provides for real-time protection capability that helps identify and remove viruses, spyware, and other malicious software, with configurable alerts when known malicious or unwanted software attempts to install itself or run on Azure systems."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

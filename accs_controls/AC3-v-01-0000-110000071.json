@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000071",
+  "compliance_control_uri": "AC3-v-01/0000/110000071",
+  "Control Name": "AC-4 (1) OBJECT SECURITY ATTRIBUTES",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system uses [Assignment: organization-defined security attributes] associated with [Assignment: organization-defined information, source, and destination objects] to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions.",
+  "control_attributes": {
+    "Control Name": "AC-4 (1) OBJECT SECURITY ATTRIBUTES",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system uses [Assignment: organization-defined security attributes] associated with [Assignment: organization-defined information, source, and destination objects] to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000144"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000543", 
+  "control_attributes": {
+    "Control": "PS-2 POSITION RISK DESIGNATION", 
+    "control_description": "The organization: a. Assigns a risk designation to all organizational positions;b. Establishes screening criteria for individuals filling those positions; andc. Reviews and updates position risk designations [Assignment: organization-defined frequency].", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual."
+  }, 
+  "Control Statement": "The organization: a. Assigns a risk designation to all organizational positions;b. Establishes screening criteria for individuals filling those positions; andc. Reviews and updates position risk designations [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-2 POSITION RISK DESIGNATION", 
+  "compliance_control_number": "600000543"
+}

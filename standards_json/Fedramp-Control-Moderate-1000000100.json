@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000100", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000100", 
+  "Control Name": "LEAST FUNCTIONALITY | AUTHORIZED SOFTWARE / WHITELISTING", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization: (a)   Identifies [Assignment: organization-defined software programs authorized to execute on the information system]; (b)   Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and (c)   Reviews and updates the list of authorized software programs [Assignment: organization- defined frequency].Supplemental Guidance:  The process used to identify software programs that are authorized to execute on organizational information systems is commonly referred to as whitelisting. In addition to whitelisting, organizations consider verifying the integrity of white-listed software programs using, for example, cryptographic checksums, digital signatures, or hash functions. Verification of white-listed software can occur either prior to execution or at system startup. Related controls: CM-2, CM-6, CM-8, PM-5, SA-10, SC-34, SI-7.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization: (a)   Identifies [Assignment: organization-defined software programs authorized to execute on the information system]; (b)   Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and (c)   Reviews and updates the list of authorized software programs [Assignment: organization- defined frequency].Supplemental Guidance:  The process used to identify software programs that are authorized to execute on organizational information systems is commonly referred to as whitelisting. In addition to whitelisting, organizations consider verifying the integrity of white-listed software programs using, for example, cryptographic checksums, digital signatures, or hash functions. Verification of white-listed software can occur either prior to execution or at system startup. Related controls: CM-2, CM-6, CM-8, PM-5, SA-10, SC-34, SI-7.", 
+    "SelectionParam": "CM-7(5) (c) [ at least Annually or when there is a change]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-07 (05)", 
+    "CNTL NO": "CM-7 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "LEAST FUNCTIONALITY | AUTHORIZED SOFTWARE / WHITELISTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000204",
+  "compliance_control_uri": "SOC2/0017/1700000204",
+  "Control Name": "Implements Procedures for Addressing Issues Identified During Vendor and Business Partner Assessments—The entity implements procedures for addressing issues identified with vendor and business partner relationships.   ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Implements Procedures for Addressing Issues Identified During Vendor and Business Partner Assessments—The entity implements procedures for addressing issues identified with vendor and business partner relationships.   ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.7",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

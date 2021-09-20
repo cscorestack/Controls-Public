@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000116",
+  "compliance_control_uri": "AWS-WAF/0016/160000116",
+  "Control Name": "SEC 6.4 Automate compute protection",
+  "Control Family": "Security",
+  "Control Statement": "Automate your protective compute mechanisms including vulnerability management, reduction in attack surface, and management of resources.",
+  "control_attributes": {
+    "Control": "SEC 6.4 Automate compute protection",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_auto_protection"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

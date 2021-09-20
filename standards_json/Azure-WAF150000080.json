@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000080", 
+  "compliance_control_uri": "Azure-WAF/0015/150000080", 
+  "Control Name": "2.2.1 You have documented any components that are on-premises or in another cloud.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Hybrid and cross-cloud workloads with components on-premises or on different cloud platforms, such as AWS or GCP, introduce additional operational considerations around achieving a 'single pane of glass' for operations.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.2 What design considerations for operations have you made?", 
+    "Control": "2.2.1 You have documented any components that are on-premises or in another cloud.", 
+    "Description": "Hybrid and cross-cloud workloads with components on-premises or on different cloud platforms, such as AWS or GCP, introduce additional operational considerations around achieving a 'single pane of glass' for operations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

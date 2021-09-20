@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000254",
+  "compliance_control_uri": "AC3-v-01/0000/110000254",
+  "Control Name": "CP-10 (2) TRANSACTION RECOVERY",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The information system implements transaction recovery for systems that are transaction-based.",
+  "control_attributes": {
+    "Control Name": "CP-10 (2) TRANSACTION RECOVERY",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The information system implements transaction recovery for systems that are transaction-based."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000079",
+      "NIST-SP800-53/0006/600000354",
+      "ISO-27001/0011/1100000104",
+      "Fedramp-Control-Moderate/0010/1000000131",
+      "Fedramp-Control-High/0009/900000178",
+      "HIPAA/0002/200000021",
+      "HIPAA/0002/200000022"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

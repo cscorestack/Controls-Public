@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000093",
+  "compliance_control_uri": "AWS-WAF/0016/160000093",
+  "Control Name": "SEC 2.3 Store and use secrets securely",
+  "Control Family": "Security",
+  "Control Statement": "For workforce and machine identities that require secrets such as passwords to third party applications, store them with automatic rotation using the latest industry standards in a specialized service.",
+  "control_attributes": {
+    "Control": "SEC 2.3 Store and use secrets securely",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_secrets"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

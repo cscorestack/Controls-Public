@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000100", 
+  "compliance_control_uri": "ISO-27001/0011/1100000100", 
+  "Control Name": "16.1.5 Response to information security incidents", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "Check what actions are taken once an incident is identified and prioritised.  How is evidence collected, stored and evaluated?  Is there an escalation matrix to use as needed? ", 
+  "control_attributes": {
+    "Clause_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "Check what actions are taken once an incident is identified and prioritised.  How is evidence collected, stored and evaluated?  Is there an escalation matrix to use as needed? ", 
+    "Control_Title": "16.1.5 Response to information security incidents", 
+    "Control_Clause": "16. Information security incident management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000224", 
+  "control_attributes": {
+    "Control": "AT-2 (2) INSIDER THREAT", 
+    "control_description": "The organization includes security awareness training on recognizing and reporting potential indicators of insider threat.", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization analyzes and correlates audit records across different repositories to gain organization-wide situational awareness."
+  }, 
+  "Control Statement": "The organization includes security awareness training on recognizing and reporting potential indicators of insider threat.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-2 (2) INSIDER THREAT", 
+  "compliance_control_number": "600000224"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000233",
+  "compliance_control_uri": "AWS-WAF/0016/160000233",
+  "Control Name": "PERF 6.3 Evolve workload performance over time",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "As an organization, use the information gathered through the evaluation process to actively drive adoption of new services or resources when they become available.",
+  "control_attributes": {
+    "Control": "PERF 6.3 Evolve workload performance over time",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you evolve your workload to take advantage of new releases?",
+    "question_id": "continue-having-appropriate-resource-type",
+    "choice_id": "perf_continue_having_appropriate_resource_type_evolve"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

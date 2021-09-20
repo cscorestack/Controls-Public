@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000004", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000004", 
+  "Control Name": "1.1.3 Current diagram that shows all cardholder data flows across systems and networks.", 
+  "Control Family": "Build and Maintain a Secure a Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure a Network and Systems",
+    "Control": "1.1.3 Current diagram that shows all cardholder data flows across systems and networks.", 
+    "Requirement": "1. Install and maintain a firewall configuration to protect cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

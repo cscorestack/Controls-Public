@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000011", 
+  "compliance_control_uri": "CIS-Azure/0003/300000011", 
+  "Control Name": "2.13. Ensure ASC Default policy setting 'Monitor Adaptive Application Whitelisting' is not 'Disabled'", 
+  "Control Family": "2. Security Center", 
+  "Control Statement": "Adaptive application controls help control which applications can run on VMs located in Azure, which among other benefits helps harden those VMs against malware", 
+  "control_attributes": {
+    "Control": "2.13. Ensure ASC Default policy setting 'Monitor Adaptive Application Whitelisting' is not 'Disabled'", 
+    "Control_Clause": "2. Security Center", 
+    "description": "Adaptive application controls help control which applications can run on VMs located in Azure, which among other benefits helps harden those VMs against malware"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

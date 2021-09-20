@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000002", 
+  "compliance_control_uri": "CIS-Azure/0015/150000002", 
+  "Control Name": "1.2 Ensure that multi-factor authentication is enabled for all non-privileged users", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Require multi-factor authentication for all user accounts, on all systems, whether managed onsite or by a third-party provider", 
+  "control_attributes": {
+    "Control": "1.2 Ensure that multi-factor authentication is enabled for all non-privileged users", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Require multi-factor authentication for all user accounts, on all systems, whether managed onsite or by a third-party provider"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

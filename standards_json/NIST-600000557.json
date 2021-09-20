@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000557", 
+  "control_attributes": {
+    "Control": "RA-2 SECURITY CATEGORIZATION", 
+    "control_description": "The organization: a. Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;b. Documents the security categorization results (including supporting rationale) in the security plan for the information system; andc. Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to compare the results of vulnerability scans over time to determine trends in information system vulnerabilities."
+  }, 
+  "Control Statement": "The organization: a. Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;b. Documents the security categorization results (including supporting rationale) in the security plan for the information system; andc. Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-2 SECURITY CATEGORIZATION", 
+  "compliance_control_number": "600000557"
+}

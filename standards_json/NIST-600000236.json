@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000236", 
+  "control_attributes": {
+    "Control": "AU-6 (3) CORRELATE AUDIT REPOSITORIES", 
+    "control_description": "The organization analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization authorizes access to management of audit functionality to only [Assignment: organization-defined subset of privileged users]."
+  }, 
+  "Control Statement": "The organization analyzes and correlates audit records across different repositories to gain organization-wide situational awareness.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 (3) CORRELATE AUDIT REPOSITORIES", 
+  "compliance_control_number": "600000236"
+}

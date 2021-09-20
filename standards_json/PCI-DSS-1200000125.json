@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000125", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000125", 
+  "Control Name": "Additional requirement for service providers only: Service providers with remote access to customer premises (for example, for support of POS systems or servers) must use a unique authentication credential (such as a password/phrase) for each customer. \\nNote: This requirement is not intended to apply to shared hosting providers accessing their own hosting environment, where multiple customer environments are hosted. ", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Additional requirement for service providers only: Service providers with remote access to customer premises (for example, for support of POS systems or servers) must use a unique authentication credential (such as a password/phrase) for each customer. \\nNote: This requirement is not intended to apply to shared hosting providers accessing their own hosting environment, where multiple customer environments are hosted. ", 
+    "Requirement": "8.5.1.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

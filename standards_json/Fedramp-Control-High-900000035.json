@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000035", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000035", 
+  "Control Name": "SESSION TERMINATION | USER-INITIATED LOGOUTS / MESSAGE DISPLAYS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system: (a)   Provides a logout capability for user-initiated communications sessions whenever authentication is used to gain access to [Assignment: organization-defined information resources]; and (b)   Displays an explicit logout message to users indicating the reliable termination of authenticated communications sessions.Supplemental Guidance:  Information resources to which users gain access via authentication include, for example, local workstations, databases, and password-protected websites/web- based services. Logout messages for web page access, for example, can be displayed after authenticated sessions have been terminated. However, for some types of interactive sessions including, for example, file transfer protocol (FTP) sessions, information systems typically send logout messages as final messages prior to terminating sessions.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system: (a)   Provides a logout capability for user-initiated communications sessions whenever authentication is used to gain access to [Assignment: organization-defined information resources]; and (b)   Displays an explicit logout message to users indicating the reliable termination of authenticated communications sessions.Supplemental Guidance:  Information resources to which users gain access via authentication include, for example, local workstations, databases, and password-protected websites/web- based services. Logout messages for web page access, for example, can be displayed after authenticated sessions have been terminated. However, for some types of interactive sessions including, for example, file transfer protocol (FTP) sessions, information systems typically send logout messages as final messages prior to terminating sessions.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-12 (01)", 
+    "CNTL NO": "AC-12 (1)", 
+    "AdditionalReq": "AC-12 (1) Guidance: https://www.owasp.org/index.php/Testing_for_logout_functionality_%28OTG-SESS-006%29  ", 
+    "Control Name": "SESSION TERMINATION | USER-INITIATED LOGOUTS / MESSAGE DISPLAYS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000227", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000227", 
+  "Control Name": "INCIDENT REPORTING | AUTOMATED REPORTING", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs automated mechanisms to assist in the reporting of security incidents.Supplemental Guidance:  Related control: IR-7.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs automated mechanisms to assist in the reporting of security incidents.Supplemental Guidance:  Related control: IR-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-06 (01)", 
+    "CNTL NO": "IR-6 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INCIDENT REPORTING | AUTOMATED REPORTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

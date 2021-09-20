@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000223", 
+  "control_attributes": {
+    "Control": "AT-2 (1) PRACTICAL EXERCISES", 
+    "control_description": "The organization includes practical exercises in security awareness training that simulate actual cyber attacks.", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system invokes a [Selection: full system shutdown; partial system shutdown; degraded operational mode with limited mission/business functionality available] in the event of [Assignment: organization-defined audit failures], unless an alternate audit capability exists."
+  }, 
+  "Control Statement": "The organization includes practical exercises in security awareness training that simulate actual cyber attacks.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-2 (1) PRACTICAL EXERCISES", 
+  "compliance_control_number": "600000223"
+}

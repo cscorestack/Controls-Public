@@ -1,0 +1,71 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000239",
+  "compliance_control_uri": "AC3-v-01/0000/110000239",
+  "Control Name": "CM-7 (5) AUTHORIZED SOFTWARE / WHITELISTING",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization:(a) Identifies [Assignment: organization-defined software programs authorized to execute on the information system];(b) Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and(c) Reviews and updates the list of authorized software programs [Assignment: organization-defined frequency].",
+  "control_attributes": {
+    "Control Name": "CM-7 (5) AUTHORIZED SOFTWARE / WHITELISTING",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization:(a) Identifies [Assignment: organization-defined software programs authorized to execute on the information system];(b) Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and(c) Reviews and updates the list of authorized software programs [Assignment: organization-defined frequency]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000043",
+      "NIST-SP800-53/0006/600000035",
+      "ISO-27001/0011/1100000067",
+      "PCI-DSS/0012/1200000007",
+      "PCI-DSS/0012/1200000027",
+      "PCI-DSS/0012/1200000028",
+      "PCI-DSS/0012/1200000029",
+      "PCI-DSS/0012/1200000030",
+      "Fedramp-Control-Moderate/0010/1000000100",
+      "Fedramp-Control-High/0009/900000133",
+      "CIS-Azure/0003/300000011",
+      "SOC2/0017/1700000182"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pdqfq",
+        "policy_name": "Azure_Monitor_Possible_App_Whitelisting",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/48kjx",
+        "policy_name": "AWS_EC2_Managedinstance_Applications_Blacklisted",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

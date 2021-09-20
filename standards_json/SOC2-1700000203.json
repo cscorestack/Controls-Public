@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000203",
+  "compliance_control_uri": "SOC2/0017/1700000203",
+  "Control Name": "Assesses Vendor and Business Partner Performance—The entity periodically assesses the performance of vendors and business partners. ",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Vendor and Business Partner Performance—The entity periodically assesses the performance of vendors and business partners. ",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.6",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

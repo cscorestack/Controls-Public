@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000159",
+  "compliance_control_uri": "AWS-WAF/0016/160000159",
+  "Control Name": "REL 5.3 Control and limit retry calls",
+  "Control Family": "Reliability",
+  "Control Statement": "Use exponential backoﬀ to retry after progressively longer intervals. Introduce jitter to randomize those retry intervals, and limit the maximum number of retries.",
+  "control_attributes": {
+    "Control": "REL 5.3 Control and limit retry calls",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_limit_retries"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

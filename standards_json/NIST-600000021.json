@@ -1,0 +1,18 @@
+{
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000021", 
+  "control_attributes": {
+    "Control": "CA-2 SECURITY ASSESSMENTS", 
+    "control_description": "The organization:a. Develops a security assessment plan that describes the scope of the assessment including:1. Security controls and control enhancements under assessment;2. Assessment procedures to be used to determine security control effectiveness; and3. Assessment environment, assessment team, and assessment roles and responsibilities;b. Assesses the security controls in the information system and its environment of operation [Assignment: organization-defined frequency] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;c. Produces a security assessment report that documents the results of the assessment; andd. Provides the results of the security control assessment to [Assignment: organization-defined individuals or roles].", 
+    "Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization includes as part of security control assessments, [Assignment: organization-defined frequency], [Selection: announced; unannounced], [Selection (one or more): in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; [Assignment: organization-defined other forms of security assessment]]."
+  }, 
+  "Control Statement": "The organization:a. Develops a security assessment plan that describes the scope of the assessment including:1. Security controls and control enhancements under assessment;2. Assessment procedures to be used to determine security control effectiveness; and3. Assessment environment, assessment team, and assessment roles and responsibilities;b. Assesses the security controls in the information system and its environment of operation [Assignment: organization-defined frequency] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;c. Produces a security assessment report that documents the results of the assessment; andd. Provides the results of the security control assessment to [Assignment: organization-defined individuals or roles].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CA-2 SECURITY ASSESSMENTS", 
+  "compliance_control_number": "600000021"
+}

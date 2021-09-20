@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000015", 
+  "compliance_control_uri": "Azure-WAF/0015/150000015", 
+  "Control Name": "1.2.6 Every environment has a plan for migrating to PaaS or serverless to lower the all up cost and transfer risk.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "To bring down cost the goal should be to get as many applications to only consume resources when they are used, this goes as an evolution from IaaS to PaaS to serverless where you only pay when a service is triggered. The PaaS and serverless might appear more expensive, but risk and other operational work is transferred to the cloud provider which should also be factored in as part of the cost (e.g. patching, monitoring, licenses).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.6 Every environment has a plan for migrating to PaaS or serverless to lower the all up cost and transfer risk.", 
+    "Description": "To bring down cost the goal should be to get as many applications to only consume resources when they are used, this goes as an evolution from IaaS to PaaS to serverless where you only pay when a service is triggered. The PaaS and serverless might appear more expensive, but risk and other operational work is transferred to the cloud provider which should also be factored in as part of the cost (e.g. patching, monitoring, licenses)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

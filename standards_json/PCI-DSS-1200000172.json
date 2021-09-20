@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000172", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000172", 
+  "Control Name": "Time settings are received from industry-accepted time sources.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Time settings are received from industry-accepted time sources.", 
+    "Requirement": "10.4.3. Track and monitor all access to network resources and cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

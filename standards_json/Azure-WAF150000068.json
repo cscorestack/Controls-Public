@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000068", 
+  "compliance_control_uri": "Azure-WAF/0015/150000068", 
+  "Control Name": "1.9.3 Lifecycle policy is used to move data between access tiers.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Lifecycle management policy periodically moves data between tiers. Policies can move data based on rules that specified by the user. For example, you might create rules that move blobs to the archive tier if that blob has not been modified in 90 days. Unused data can be also completely removed using a policy. By creating policies that adjust the access tier of your data, you can design the least expensive storage options for your need.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.3 Lifecycle policy is used to move data between access tiers.", 
+    "Description": "Lifecycle management policy periodically moves data between tiers. Policies can move data based on rules that specified by the user. For example, you might create rules that move blobs to the archive tier if that blob has not been modified in 90 days. Unused data can be also completely removed using a policy. By creating policies that adjust the access tier of your data, you can design the least expensive storage options for your need."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

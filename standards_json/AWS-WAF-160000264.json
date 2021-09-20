@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000264",
+  "compliance_control_uri": "AWS-WAF/0016/160000264",
+  "Control Name": "COST 4.1 Track resources over their life time",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Deﬁne and implement a method to track resources and their associations with systems over their life time. You can use tagging to identify the workload or function of the resource.",
+  "control_attributes": {
+    "Control": "COST 4.1 Track resources over their life time",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you decommission resources?",
+    "question_id": "decomissioning-resources",
+    "choice_id": "cost_decomissioning_resources_track"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

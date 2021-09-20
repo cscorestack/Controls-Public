@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000061", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000061", 
+  "Control Name": "4.3 Ensure that security policies and operational procedures for encrypting transmissions of cardholder data are documented, in use, and known to all affected parties.", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "4.3 Ensure that security policies and operational procedures for encrypting transmissions of cardholder data are documented, in use, and known to all affected parties.", 
+    "Requirement": "Requirement 4: Encrypt transmission of cardholder data across open, public networks"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

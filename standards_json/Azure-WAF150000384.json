@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000384", 
+  "compliance_control_uri": "Azure-WAF/0015/150000384", 
+  "Control Name": "4.12.5 Critical test environments have 1:1 parity with the production environment.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Do key test environments have 1:1 parity with the production environment?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.12 How do you test the application to ensure it is fault tolerant?", 
+    "Control": "4.12.5 Critical test environments have 1:1 parity with the production environment.", 
+    "Description": "Do key test environments have 1:1 parity with the production environment?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

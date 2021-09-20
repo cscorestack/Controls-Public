@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000010", 
+  "compliance_control_uri": "ISO/0001/100000009", 
+  "Control Name": "7.1.1 Screening", 
+  "Control Family": "7. Human resources security", 
+  "Control Statement": "Background verification checks on all candidates for employment, contractors, and third party users shall be carried out in accordance with relevant laws, regulations and ethics, and proportional to the business requirements, the classification of the information to be accessed, and the perceived risks", 
+  "control_attributes": {
+    "Control_Objective": "7.1.1 Screening", 
+    "Security_Control_Clause": "7. Human resources security", 
+    "Security_Category": "7.1 Prior to employment", 
+    "description": "Background verification checks on all candidates for employment, contractors, and third party users shall be carried out in accordance with relevant laws, regulations and ethics, and proportional to the business requirements, the classification of the information to be accessed, and the perceived risks"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

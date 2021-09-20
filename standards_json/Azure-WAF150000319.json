@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000319", 
+  "compliance_control_uri": "Azure-WAF/0015/150000319", 
+  "Control Name": "4.4.4 Defined a backup strategy in alignment with recovery targets.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is application state backed-up and restorable within target recovery times?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.4 How are you handling disaster recovery for this workload?", 
+    "Control": "4.4.4 Defined a backup strategy in alignment with recovery targets.", 
+    "Description": "Is application state backed-up and restorable within target recovery times?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

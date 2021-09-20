@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000089", 
+  "compliance_control_uri": "ISO/0001/100000064", 
+  "Control Name": "14.2.9 Systems acceptance testing", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Acceptance criteria for new information systems, upgrades, and new versions shall be established and suitable tests of the system(s) carried out during development and prior to acceptance", 
+  "control_attributes": {
+    "Control_Objective": "14.2.9 Systems acceptance testing", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Acceptance criteria for new information systems, upgrades, and new versions shall be established and suitable tests of the system(s) carried out during development and prior to acceptance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

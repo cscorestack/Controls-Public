@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000048", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000048", 
+  "Control Name": "6.1 Ensure that a MySQL database instance does not allow anyone to connect with administrative privileges", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to set a password for the administrative user (root by default) to prevent unauthorized access to the SQL database instances. This recommendation is applicable only for MySQL Instances. PostgreSQL does not offer any setting for No Password from the cloud console.", 
+  "control_attributes": {
+    "Control": "6.1 Ensure that a MySQL database instance does not allow anyone to connect with administrative privileges", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to set a password for the administrative user (root by default) to prevent unauthorized access to the SQL database instances. This recommendation is applicable only for MySQL Instances. PostgreSQL does not offer any setting for No Password from the cloud console."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

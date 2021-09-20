@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000652", 
+  "control_attributes": {
+    "Control": "SC-2 (1) INTERFACES FOR NON-PRIVILEGED USERS", 
+    "control_description": "The information system prevents the presentation of information system management-related functionality at an interface for non-privileged users.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system prevents unauthorized and unintended information transfer via shared system resources."
+  }, 
+  "Control Statement": "The information system prevents the presentation of information system management-related functionality at an interface for non-privileged users.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-2 (1) INTERFACES FOR NON-PRIVILEGED USERS", 
+  "compliance_control_number": "600000652"
+}

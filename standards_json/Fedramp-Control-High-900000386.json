@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000386", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000386", 
+  "Control Name": "FLAW REMEDIATION | AUTOMATED FLAW REMEDIATION STATUS", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization employs automated mechanisms [Assignment: organization-defined frequency] to determine the state of information system components with regard to flaw remediation.Supplemental Guidance:  Related controls: CM-6, SI-4.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization employs automated mechanisms [Assignment: organization-defined frequency] to determine the state of information system components with regard to flaw remediation.Supplemental Guidance:  Related controls: CM-6, SI-4.", 
+    "SelectionParam": "SI-2 (2) [at least monthly] ", 
+    "FedRampParam": "x", 
+    "SORTID": "SI-02 (02)", 
+    "CNTL NO": "SI-2 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "FLAW REMEDIATION | AUTOMATED FLAW REMEDIATION STATUS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000001",
+  "compliance_control_uri": "SOC2/0017/1700000001",
+  "Control Name": "Sets the Tone at the Top—The board of directors and management, at all levels, demonstrate through their directives, actions, and behavior the importance of integrity and ethical values to support the functioning of the system of internal control.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Sets the Tone at the Top—The board of directors and management, at all levels, demonstrate through their directives, actions, and behavior the importance of integrity and ethical values to support the functioning of the system of internal control.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.1 COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.",
+    "ControlNo": "CC1.1.1",
+    "TrustID": "CC1.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

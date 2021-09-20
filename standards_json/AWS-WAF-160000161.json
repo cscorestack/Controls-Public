@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000161",
+  "compliance_control_uri": "AWS-WAF/0016/160000161",
+  "Control Name": "REL 5.5 Set client timeouts",
+  "Control Family": "Reliability",
+  "Control Statement": "Set timeouts appropriately, verify them systematically, and do not rely on default values as they are generally set too high.",
+  "control_attributes": {
+    "Control": "REL 5.5 Set client timeouts",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "question_id": "mitigate-interaction-failure",
+    "choice_id": "rel_mitigate_interaction_failure_client_timeouts"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

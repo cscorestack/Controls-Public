@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000074", 
+  "compliance_control_uri": "Azure-WAF/0015/150000074", 
+  "Control Name": "1.9.9 Selective disk backup and restore for Azure VMs is used.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Using the selective disks backup and restore functionality, you can back up a subset of the data disks in a VM. This provides an efficient and cost-effective solution for your backup and restore needs.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.9 Selective disk backup and restore for Azure VMs is used.", 
+    "Description": "Using the selective disks backup and restore functionality, you can back up a subset of the data disks in a VM. This provides an efficient and cost-effective solution for your backup and restore needs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

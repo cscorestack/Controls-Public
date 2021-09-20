@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000308", 
+  "control_attributes": {
+    "Control": "CM-9 CONFIGURATION MANAGEMENT PLAN", 
+    "control_description": "The organization develops, documents, and implements a configuration management plan for the information system that:", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations."
+  }, 
+  "Control Statement": "The organization develops, documents, and implements a configuration management plan for the information system that:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-9 CONFIGURATION MANAGEMENT PLAN", 
+  "compliance_control_number": "600000308"
+}

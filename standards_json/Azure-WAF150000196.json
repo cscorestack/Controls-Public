@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000196", 
+  "compliance_control_uri": "Azure-WAF/0015/150000196", 
+  "Control Name": "2.16.10 Tested and validated defined latency and throughput targets per scenario and component.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Throughput targets, which are commonly defined in terms of IOPS, MB/s and Block Size, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health. Available throughput typically varies based on SKU, so defined targets should be used to inform the use of appropriate SKUs.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.10 Tested and validated defined latency and throughput targets per scenario and component.", 
+    "Description": "Throughput targets, which are commonly defined in terms of IOPS, MB/s and Block Size, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health. Available throughput typically varies based on SKU, so defined targets should be used to inform the use of appropriate SKUs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

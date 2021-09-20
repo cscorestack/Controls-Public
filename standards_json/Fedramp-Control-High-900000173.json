@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000173", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000173", 
+  "Control Name": "INFORMATION SYSTEM BACKUP | TESTING FOR RELIABILITY / INTEGRITY", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization tests backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity. Supplemental Guidance:  Related control: CP-4.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization tests backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity. Supplemental Guidance:  Related control: CP-4.", 
+    "SelectionParam": "CP-9 (1). [at least monthly]", 
+    "FedRampParam": "x", 
+    "SORTID": "CP-09 (01)", 
+    "CNTL NO": "CP-9 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM BACKUP | TESTING FOR RELIABILITY / INTEGRITY"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

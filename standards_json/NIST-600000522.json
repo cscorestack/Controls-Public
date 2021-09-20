@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000522", 
+  "control_attributes": {
+    "Control": "PE-14 (1) AUTOMATIC CONTROLS", 
+    "control_description": "The organization employs automatic temperature and humidity controls in the facility to prevent fluctuations potentially harmful to the information system.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization plans the location or site of the facility where the information system resides with regard to physical and environmental hazards and for existing facilities, considers the physical and environmental hazards in its risk mitigation strategy."
+  }, 
+  "Control Statement": "The organization employs automatic temperature and humidity controls in the facility to prevent fluctuations potentially harmful to the information system.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-14 (1) AUTOMATIC CONTROLS", 
+  "compliance_control_number": "600000522"
+}

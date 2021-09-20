@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000076",
+  "compliance_control_uri": "AWS-WAF/0016/160000076",
+  "Control Name": "OPS 11.3 Implement feedback loops",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Include feedback loops in your procedures and workloads to help you identify issues and areas that need improvement.",
+  "control_attributes": {
+    "Control": "OPS 11.3 Implement feedback loops",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_feedback_loops"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

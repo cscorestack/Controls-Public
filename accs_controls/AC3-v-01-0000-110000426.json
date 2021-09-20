@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000426",
+  "compliance_control_uri": "AC3-v-01/0000/110000426",
+  "Control Name": "MP-6 (2) EQUIPMENT TESTING",
+  "Control Family": "MEDIA PROTECTION",
+  "Control Statement": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved.",
+  "control_attributes": {
+    "Control Name": "MP-6 (2) EQUIPMENT TESTING",
+    "Control Family": "MEDIA PROTECTION",
+    "Control Statement": "The organization tests sanitization equipment and procedures [Assignment: organization-defined frequency] to verify that the intended sanitization is being achieved."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000471",
+      "ISO-27001/0011/1100000054",
+      "Fedramp-Control-Moderate/0010/1000000194",
+      "Fedramp-Control-High/0009/900000259",
+      "ISO/0001/100000115"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

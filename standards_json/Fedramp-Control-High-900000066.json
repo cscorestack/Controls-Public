@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000066", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000066", 
+  "Control Name": "CONTENT OF AUDIT RECORDS | ADDITIONAL AUDIT INFORMATION", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system generates audit records containing the following additional information: [Assignment: organization-defined additional, more detailed information].Supplemental Guidance:  Detailed information that organizations may consider in audit records includes, for example, full text recording of privileged commands or the individual identities of group account users. Organizations consider limiting the additional audit information to only that information explicitly needed for specific audit requirements. This facilitates the use of audit trails and audit logs by not including information that could potentially be misleading or could make it more difficult to locate information of interest.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system generates audit records containing the following additional information: [Assignment: organization-defined additional, more detailed information].Supplemental Guidance:  Detailed information that organizations may consider in audit records includes, for example, full text recording of privileged commands or the individual identities of group account users. Organizations consider limiting the additional audit information to only that information explicitly needed for specific audit requirements. This facilitates the use of audit trails and audit logs by not including information that could potentially be misleading or could make it more difficult to locate information of interest.", 
+    "SelectionParam": "AU-3 (1) [session, connection, transaction, or activity duration; for client-server transactions, the number of bytes received and bytes sent; additional informational messages to diagnose or identify the event; characteristics that describe or identify the object or resource being acted upon; individual identities of group account users; full-text of privileged commands]", 
+    "FedRampParam": "x", 
+    "SORTID": "AU-03 (01)", 
+    "CNTL NO": "AU-3 (1)", 
+    "AdditionalReq": "AU-3 (1) Guidance: For client-server transactions, the number of bytes sent and received gives bidirectional transfer information that can be helpful during an investigation or inquiry.", 
+    "Control Name": "CONTENT OF AUDIT RECORDS | ADDITIONAL AUDIT INFORMATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

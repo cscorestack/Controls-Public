@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000156",
+  "compliance_control_uri": "SOC2/0017/1700000156",
+  "Control Name": "Monitors Detection Tools for Effective Operation—Management has implemented processes to monitor the effectiveness of detection tools.",
+  "Control Family": "System Operations",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Monitors Detection Tools for Effective Operation—Management has implemented processes to monitor the effectiveness of detection tools.",
+    "Category": "System Operations",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC7.2 The entity monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the entity’s ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.",
+    "ControlNo": "CC7.2.4",
+    "TrustID": "CC7.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

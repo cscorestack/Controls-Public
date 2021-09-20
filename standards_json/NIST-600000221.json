@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000221", 
+  "control_attributes": {
+    "Control": "AT-1 SECURITY AWARENESS AND TRAINING POLICY AND PROCEDURES", 
+    "control_description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defin ed personnel or roles]:1. A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2.  Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; andb. Reviews and updates the current:1. Security awareness and training policy [Assignment: organization-defined frequency]; and2.  Security awareness and training procedures [Assignment: organization-defined frequency].", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system off-loads audit records [Assignment: organization-defined frequency] onto a different system or media than the system being audited."
+  }, 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defin ed personnel or roles]:1. A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2.  Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; andb. Reviews and updates the current:1. Security awareness and training policy [Assignment: organization-defined frequency]; and2.  Security awareness and training procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-1 SECURITY AWARENESS AND TRAINING POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000221"
+}

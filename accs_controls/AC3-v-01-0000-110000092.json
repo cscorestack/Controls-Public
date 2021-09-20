@@ -1,0 +1,183 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000092",
+  "compliance_control_uri": "AC3-v-01/0000/110000092",
+  "Control Name": "AC-4 INFORMATION FLOW ENFORCEMENT",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies].",
+  "control_attributes": {
+    "Control Name": "AC-4 INFORMATION FLOW ENFORCEMENT",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Detective",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/Lambda",
+      "service_resource": "AWS/Compute/Lambda/Functions"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Redshift_Clusters"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/DB_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Network_Acls"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Machine_Learning/Amazon_SageMaker",
+      "service_resource": "AWS/Machine_Learning/Amazon_SageMaker/EndpointConfig"
+    },
+    {
+      "service_resource_type": "Azure/Management_Tools/Automation",
+      "service_resource": "Azure/Management_Tools/Automation/Automation_Account"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MS-SQL_DB"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Security_Rule"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000048",
+      "ISO/0001/100000049",
+      "ISO/0001/100000054",
+      "ISO/0001/100000055",
+      "NIST-SP800-53/0006/600000098",
+      "ISO-27001/0011/1100000073",
+      "ISO-27001/0011/1100000074",
+      "ISO-27001/0011/1100000079",
+      "ISO-27001/0011/1100000080",
+      "Fedramp-Control-Moderate/0010/1000000013",
+      "Fedramp-Control-High/0009/900000015",
+      "HIPAA/0002/200000040,HIPAA/0002/200000045",
+      "HIPAA/0002/200000061",
+      "SOC2/0017/1700000139"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/iReKX",
+        "policy_name": "Azure_Audit_APIApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/NPtzo",
+        "policy_name": "Azure_Audit_WebApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lKMjK",
+        "policy_name": "Azure_Audit_WebApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/cxzqw",
+        "policy_name": "Azure_Audit_CORS_Restrictions_for_Function_App",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LjgiO",
+        "policy_name": "Azure_Audit_APIApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/mnmn2",
+        "policy_name": "Azure_Audit_CORS_Restrictions_for_API_App",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/wertt",
+        "policy_name": "Azure_Audit_CORS_Restrictions_for_Web_App",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dCqwP",
+        "policy_name": "Azure_Audit_FunctionApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jPnKB",
+        "policy_name": "Azure_Audit_FunctionApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/kpyyq",
+        "policy_name": "Azure_Audit_AuthorizationRules_EventHub",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zblyj",
+        "policy_name": "Azure_Audit_Authorization_EventHub_Namespaces",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/AyyxM",
+        "policy_name": "Azure_Audit_All_Auth_Rules_Removed_from_EventHub_Namespace",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/aiZYl",
+        "policy_name": "Azure_Audit_All_Auth_Rules_Removed_from_ServiceBus_Namespace",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

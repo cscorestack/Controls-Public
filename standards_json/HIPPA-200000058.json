@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000058", 
+  "compliance_control_uri": "HIPAA/0002/200000058", 
+  "Control Name": "Facility Access Controls  Facility Security Plan - 164.310(a)(2)(ii)", 
+  "Control Family": "Facility Access Controls", 
+  "Control Statement": "Implement policies and procedures to safeguard the facility and the equipment therein from unauthorized physical access, tampering, and theft.", 
+  "control_attributes": {
+    "Control": "Facility Access Controls  Facility Security Plan - 164.310(a)(2)(ii)", 
+    "Security_Category": "Facility Access Controls", 
+    "Control_description": "Implement policies and procedures to safeguard the facility and the equipment therein from unauthorized physical access, tampering, and theft."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

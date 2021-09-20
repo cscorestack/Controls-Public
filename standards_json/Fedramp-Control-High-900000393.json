@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000393", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000393", 
+  "Control Name": "INFORMATION SYSTEM MONITORING | SYSTEM-WIDE INTRUSION DETECTION SYSTEM", 
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "Control Statement": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND INFORMATION INTEGRITY", 
+    "description": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "SI-04 (01)", 
+    "CNTL NO": "SI-4 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM MONITORING | SYSTEM-WIDE INTRUSION DETECTION SYSTEM"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000147", 
+  "control_attributes": {
+    "Control": "AC-4 (4) CONTENT CHECK ENCRYPTED INFORMATION", 
+    "control_description": "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system binds security attributes to information using [Assignment: organization-defined binding techniques] to facilitate information flow policy enforcement."
+  }, 
+  "Control Statement": "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (4) CONTENT CHECK ENCRYPTED INFORMATION", 
+  "compliance_control_number": "600000147"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000008", 
+  "compliance_control_uri": "CIS-Azure/0015/150000008", 
+  "Control Name": "1.8 Ensure that 'Notify all admins when other admins reset their password?' is set to 'Yes'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Ensure that all administrators are notified if any other administrator resets their password", 
+  "control_attributes": {
+    "Control": "1.8 Ensure that 'Notify all admins when other admins reset their password?' is set to 'Yes'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Ensure that all administrators are notified if any other administrator resets their password"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

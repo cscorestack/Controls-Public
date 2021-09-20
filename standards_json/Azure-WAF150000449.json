@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000449", 
+  "compliance_control_uri": "Azure-WAF/0015/150000449", 
+  "Control Name": "5.7.5 Playbooks are built to help incident responders quickly understand the workload and components, to mitigate an attack and do an investigation.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Incident responders are part of a central SecOps team and need to understand security insights of an application. Playbooks can help to understand the security concepts and cover the typical investigation activities. These procedures can and should be automated as much as possible (while maintaining confidence and security).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.5 Playbooks are built to help incident responders quickly understand the workload and components, to mitigate an attack and do an investigation.", 
+    "Description": "Incident responders are part of a central SecOps team and need to understand security insights of an application. Playbooks can help to understand the security concepts and cover the typical investigation activities. These procedures can and should be automated as much as possible (while maintaining confidence and security)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

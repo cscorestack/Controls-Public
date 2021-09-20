@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000133",
+  "compliance_control_uri": "AC3-v-01/0000/110000133",
+  "Control Name": "AU-12 (3) CHANGES BY AUTHORIZED INDIVIDUALS",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds].",
+  "control_attributes": {
+    "Control Name": "AU-12 (3) CHANGES BY AUTHORIZED INDIVIDUALS",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system provides the capability for [Assignment: organization-defined individuals or roles] to change the auditing to be performed on [Assignment: organization-defined information system components] based on [Assignment: organization-defined selectable event criteria] within [Assignment: organization-defined time thresholds]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000041",
+      "NIST-SP800-53/0006/600000020",
+      "ISO-27001/0011/1100000065",
+      "PCI-DSS/0012/1200000155",
+      "Fedramp-Control-High/0009/900000092"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000475", 
+  "compliance_control_uri": "Azure-WAF/0015/150000475", 
+  "Control Name": "5.10.5 Data at rest is protected with encryption.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "This includes all information storage objects, containers, and types that exist statically on physical media, whether magnetic or optical disk. All data should be classified and encrypted with an encryption standard. How is the data classified and tagged as such so that it can be audited.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.5 Data at rest is protected with encryption.", 
+    "Description": "This includes all information storage objects, containers, and types that exist statically on physical media, whether magnetic or optical disk. All data should be classified and encrypted with an encryption standard. How is the data classified and tagged as such so that it can be audited."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

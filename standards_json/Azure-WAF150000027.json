@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000027", 
+  "compliance_control_uri": "Azure-WAF/0015/150000027", 
+  "Control Name": "1.4.1 The application was built natively for the cloud.While cloud-native workloads are preferred, migrated or modernized applications are reality and they might not utilize the available cloud functionality like auto-scaling, platform notifications and other features the underlying cloud platform can offer. Understanding if the application is cloud-native or not provides a very useful high level indication about potential technical debt for operability and cost efficiency.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.1 The application was built natively for the cloud.While cloud-native workloads are preferred, migrated or modernized applications are reality and they might not utilize the available cloud functionality like auto-scaling, platform notifications and other features the underlying cloud platform can offer. Understanding if the application is cloud-native or not provides a very useful high level indication about potential technical debt for operability and cost efficiency.", 
+    "Description": ""
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

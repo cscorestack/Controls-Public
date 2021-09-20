@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000726", 
+  "control_attributes": {
+    "Control": "SC-34 (3) HARDWARE-BASED PROTECTION", 
+    "control_description": "The organization: a. Loads and executes the operating environment from hardware-enforced, read-only media; andb. Loads and executes [Assignment: organization-defined applications] from hardware-enforced, read-only media.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined security safeguards] to ensure that only [Assignment: organization-defined individuals or information systems] receive the [Assignment: organization-defined information, information system components, or devices]."
+  }, 
+  "Control Statement": "The organization: a. Loads and executes the operating environment from hardware-enforced, read-only media; andb. Loads and executes [Assignment: organization-defined applications] from hardware-enforced, read-only media.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-34 (3) HARDWARE-BASED PROTECTION", 
+  "compliance_control_number": "600000726"
+}

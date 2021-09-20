@@ -1,0 +1,56 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000918", 
+  "compliance_control_uri": "AC3-v-01/0000/110000918", 
+  "Control Name": "Ensure that Register with Azure Active Directory is enabled on App Service", 
+  "Control Family": "AppService", 
+  "Control Statement": "Managed service identity in App Service makes the app more secure by eliminating secrets from the app, such as credentials in the connection strings.", 
+  "control_attributes": {
+    "Control Name": "Ensure that Register with Azure Active Directory is enabled on App Service", 
+    "Control Family": "AppService", 
+    "Control Statement": "Managed service identity in App Service makes the app more secure by eliminating secrets from the app, such as credentials in the connection strings."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000105"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_WebApp_Registered_With_AzureAD",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/fftnu",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_APIApp_Registered_With_AzureAD",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/BpJCr",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

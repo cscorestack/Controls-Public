@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000024", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000024", 
+  "Control Name": "LEAST PRIVILEGE | REVIEW OF USER PRIVILEGES", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization: (a)   Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and (b)   Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs.Supplemental Guidance:  The need for certain assigned user privileges may change over time reflecting changes in organizational missions/business function, environments of operation, technologies, or threat. Periodic review of assigned user privileges is necessary to determine if the rationale for assigning such privileges remains valid. If the need cannot be revalidated, organizations take appropriate corrective actions. Related control: CA-7.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization: (a)   Reviews [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and (b)   Reassigns or removes privileges, if necessary, to correctly reflect organizational mission/business needs.Supplemental Guidance:  The need for certain assigned user privileges may change over time reflecting changes in organizational missions/business function, environments of operation, technologies, or threat. Periodic review of assigned user privileges is necessary to determine if the rationale for assigning such privileges remains valid. If the need cannot be revalidated, organizations take appropriate corrective actions. Related control: CA-7.", 
+    "SelectionParam": "AC-6 (7)(a)-1  at a minimum, annuallyAC-6 (7)(a)-2  all users with privileges", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-06 (07)", 
+    "CNTL NO": "AC-6 (7)", 
+    "AdditionalReq": "", 
+    "Control Name": "LEAST PRIVILEGE | REVIEW OF USER PRIVILEGES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

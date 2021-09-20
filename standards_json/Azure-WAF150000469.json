@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000469", 
+  "compliance_control_uri": "Azure-WAF/0015/150000469", 
+  "Control Name": "5.9.6 Legacy network security controls for data loss prevention were deprecated.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Network-based data loss prevention (DLP) is decreasingly effective at identifying both inadvertent and deliberate data loss. The reason for this is that most modern protocols and attackers use network-level encryption for inbound and outbound communications. While the organization can use \"SSL-bridging\" to provide an \"authorized man-in-the-middle\" that terminates and then reestablishes encrypted network connections, this can also introduce privacy, security and reliability challenges.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.6 Legacy network security controls for data loss prevention were deprecated.", 
+    "Description": "Network-based data loss prevention (DLP) is decreasingly effective at identifying both inadvertent and deliberate data loss. The reason for this is that most modern protocols and attackers use network-level encryption for inbound and outbound communications. While the organization can use \"SSL-bridging\" to provide an \"authorized man-in-the-middle\" that terminates and then reestablishes encrypted network connections, this can also introduce privacy, security and reliability challenges."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

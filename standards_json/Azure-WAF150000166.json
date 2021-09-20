@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000166", 
+  "compliance_control_uri": "Azure-WAF/0015/150000166", 
+  "Control Name": "2.14.1 The application is tested for performance, scalability, and resiliency", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the application tested for performance, scalability, and resiliency?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.1 The application is tested for performance, scalability, and resiliency", 
+    "Description": "Is the application tested for performance, scalability, and resiliency?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000259", 
+  "compliance_control_uri": "Azure-WAF/0015/150000259", 
+  "Control Name": "3.7.1 There is a defined testing strategy.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "It is critical that your team understands the importance of performance testing. Additionally, the team should be committed to providing the necessary time and resources for adequately executing performance testing proven practices.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.7 How are you testing to ensure that you workload can appropriately handle user load?", 
+    "Control": "3.7.1 There is a defined testing strategy.", 
+    "Description": "It is critical that your team understands the importance of performance testing. Additionally, the team should be committed to providing the necessary time and resources for adequately executing performance testing proven practices."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

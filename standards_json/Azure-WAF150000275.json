@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000275", 
+  "compliance_control_uri": "Azure-WAF/0015/150000275", 
+  "Control Name": "3.8.8 You have a methodology to determine what acceptable performance is.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "There is almost no limit to how much an application can be performance-tuned. How do you know when you have tuned an application enough? It really comes down to the 80/20 rule--generally, 80% of the application can be optimized by focusing on just 20%. While you can continue optimizing certain elements of the application, after optimizing the initial 20%, a company typically sees a diminishing return on any further optimization.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.8 You have a methodology to determine what acceptable performance is.", 
+    "Description": "There is almost no limit to how much an application can be performance-tuned. How do you know when you have tuned an application enough? It really comes down to the 80/20 rule--generally, 80% of the application can be optimized by focusing on just 20%. While you can continue optimizing certain elements of the application, after optimizing the initial 20%, a company typically sees a diminishing return on any further optimization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

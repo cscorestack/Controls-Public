@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000023", 
+  "compliance_control_uri": "CIS-AWS/0007/700000023", 
+  "Control Name": "2.1.1 Ensure all S3 buckets employ encryption-at-rest", 
+  "Control Family": "Storage", 
+  "Control Statement": "Encrypting data at rest reduces the likelihood that it is unintentionally exposed and can nullify the impact of disclosure if the encryption remains unbroken.", 
+  "control_attributes": {
+    "Control": "2.1.1 Ensure all S3 buckets employ encryption-at-rest", 
+    "Category": "Storage", 
+    "Control_description": "Encrypting data at rest reduces the likelihood that it is unintentionally exposed and can nullify the impact of disclosure if the encryption remains unbroken."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

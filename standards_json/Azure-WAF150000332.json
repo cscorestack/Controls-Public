@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000332", 
+  "compliance_control_uri": "Azure-WAF/0015/150000332", 
+  "Control Name": "4.5.8 Load balancing is implemented to distribute traffic across multiple nodes.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are application components hosted across multiple nodes based on expected traffic patterns?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.8 Load balancing is implemented to distribute traffic across multiple nodes.", 
+    "Description": "Are application components hosted across multiple nodes based on expected traffic patterns?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

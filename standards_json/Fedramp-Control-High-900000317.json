@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000317", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000317", 
+  "Control Name": "VULNERABILITY SCANNING | CORRELATE SCANNING INFORMATION", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The organization correlates the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors.", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The organization correlates the output from vulnerability scanning tools to determine the presence of multi-vulnerability/multi-hop attack vectors.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "RA-05 (10)", 
+    "CNTL NO": "RA-5 (10)", 
+    "AdditionalReq": "RA-5 (10) Guidance: If multiple tools are not used, this control is not applicable. ", 
+    "Control Name": "VULNERABILITY SCANNING | CORRELATE SCANNING INFORMATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

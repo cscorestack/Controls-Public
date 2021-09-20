@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000010", 
+  "compliance_control_uri": "CIS-AWS/0007/700000010", 
+  "Control Name": "1.10 Ensure multi-factor authentication (MFA) is enabled for all IAM users that have a console password", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "Multi-Factor Authentication (MFA) adds an extra layer of protection on top of a user nameand pa ssword. With MFA enabled, when a user signs in to an AWS website, they will be prompted for their user name and password as well as for an authentication code from their AWS MFA device. It is recommended that MFA be enabled for all accounts that have a console password.", 
+  "control_attributes": {
+    "Control": "1.10 Ensure multi-factor authentication (MFA) is enabled for all IAM users that have a console password", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "Multi-Factor Authentication (MFA) adds an extra layer of protection on top of a user nameand pa ssword. With MFA enabled, when a user signs in to an AWS website, they will be prompted for their user name and password as well as for an authentication code from their AWS MFA device. It is recommended that MFA be enabled for all accounts that have a console password."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

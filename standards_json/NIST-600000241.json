@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000241", 
+  "control_attributes": {
+    "Control": "AU-6 (9) CORRELATION WITH INFORMATION FROM NONTECHNICAL SOURCES", 
+    "control_description": "The organization correlates information from nontechnical sources with audit information to enhance organization-wide situational awareness.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system maintains reviewer/releaser identity and credentials within the established chain of custody for all information reviewed or released."
+  }, 
+  "Control Statement": "The organization correlates information from nontechnical sources with audit information to enhance organization-wide situational awareness.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 (9) CORRELATION WITH INFORMATION FROM NONTECHNICAL SOURCES", 
+  "compliance_control_number": "600000241"
+}

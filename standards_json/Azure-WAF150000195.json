@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000195", 
+  "compliance_control_uri": "Azure-WAF/0015/150000195", 
+  "Control Name": "2.16.9 Operational procedures are defined in case data sizes exceed limits.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Mitigation plans such as purging or archiving data can help the application to remain available in scenarios where data size exceeds expected limits.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.9 Operational procedures are defined in case data sizes exceed limits.", 
+    "Description": "Mitigation plans such as purging or archiving data can help the application to remain available in scenarios where data size exceeds expected limits."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

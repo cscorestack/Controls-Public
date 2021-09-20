@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000252", 
+  "compliance_control_uri": "Azure-WAF/0015/150000252", 
+  "Control Name": "3.6.1 You know the growth rate of your data.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Your solution might work great in the first week or month, but what happens when data just keeps increasing? Will the solution slow down, or will it even break at a particular threshold? Planning for data growth, data retention, and archiving is essential in capacity planning. Without adequately planning capacity for your datastores, performance will be negatively affected.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.6 How are you managing your data to handle scale?", 
+    "Control": "3.6.1 You know the growth rate of your data.", 
+    "Description": "Your solution might work great in the first week or month, but what happens when data just keeps increasing? Will the solution slow down, or will it even break at a particular threshold? Planning for data growth, data retention, and archiving is essential in capacity planning. Without adequately planning capacity for your datastores, performance will be negatively affected."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

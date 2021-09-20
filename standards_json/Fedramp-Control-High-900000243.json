@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000243", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000243", 
+  "Control Name": "MAINTENANCE TOOLS | PREVENT UNAUTHORIZED REMOVAL", 
+  "Control Family": "MAINTENANCE", 
+  "Control Statement": "The organization prevents the unauthorized removal of maintenance equipment containing organizational information by: (a)   Verifying that there is no organizational information contained on the equipment;  (b)   Sanitizing or destroying the equipment; (c)   Retaining the equipment within the facility; or (d)   Obtaining an exemption from [Assignment: organization-defined personnel or roles] explicitly authorizing removal of the equipment from the facility.Supplemental Guidance:  Organizational information includes all information specifically owned by organizations and information provided to organizations in which organizations serve as information stewards.", 
+  "control_attributes": {
+    "Category": "MAINTENANCE", 
+    "description": "The organization prevents the unauthorized removal of maintenance equipment containing organizational information by: (a)   Verifying that there is no organizational information contained on the equipment;  (b)   Sanitizing or destroying the equipment; (c)   Retaining the equipment within the facility; or (d)   Obtaining an exemption from [Assignment: organization-defined personnel or roles] explicitly authorizing removal of the equipment from the facility.Supplemental Guidance:  Organizational information includes all information specifically owned by organizations and information provided to organizations in which organizations serve as information stewards.", 
+    "SelectionParam": "MA-3 (3) (d) [the information owner explicitly authorizing removal of the equipment from the facility]", 
+    "FedRampParam": "x", 
+    "SORTID": "MA-03 (03)", 
+    "CNTL NO": "MA-3 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "MAINTENANCE TOOLS | PREVENT UNAUTHORIZED REMOVAL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

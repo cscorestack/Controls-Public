@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000322", 
+  "control_attributes": {
+    "Control": "CP-2 (7) COORDINATE  WITH EXTERNAL SERVICE PROVIDERS", 
+    "control_description": "The organization coordinates its contingency plan with the contingency plans of external service providers to ensure that contingency requirements can be satisfied.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization includes a full recovery and reconstitution of the information system to a known state as part of contingency plan testing."
+  }, 
+  "Control Statement": "The organization coordinates its contingency plan with the contingency plans of external service providers to ensure that contingency requirements can be satisfied.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (7) COORDINATE  WITH EXTERNAL SERVICE PROVIDERS", 
+  "compliance_control_number": "600000322"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000034", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000034", 
+  "Control Name": "3.8 Ensure that VPC Flow Logs is enabled for every subnet in a VPC Network", 
+  "Control Family": "Networking", 
+  "Control Statement": "Flow Logs is a feature that enables users to capture information about the IP traffic going to and from network interfaces in the organization's VPC Subnets. Once a flow log is created, the user can view and retrieve its data in Stackdriver Logging. It is recommended that Flow Logs be enabled for every business-critical VPC subnet.", 
+  "control_attributes": {
+    "Control": "3.8 Ensure that VPC Flow Logs is enabled for every subnet in a VPC Network", 
+    "Security_Category": "Networking", 
+    "Control_description": "Flow Logs is a feature that enables users to capture information about the IP traffic going to and from network interfaces in the organization's VPC Subnets. Once a flow log is created, the user can view and retrieve its data in Stackdriver Logging. It is recommended that Flow Logs be enabled for every business-critical VPC subnet."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

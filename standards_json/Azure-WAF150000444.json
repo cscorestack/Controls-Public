@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000444", 
+  "compliance_control_uri": "Azure-WAF/0015/150000444", 
+  "Control Name": "5.6.9 A designated point of contact was assigned for this workload to receive Azure incident notifications from Microsoft.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Security alerts need to reach the right people in your organization. It is important to ensure a security contact receives Azure incident notifications, or alerts from Microsoft / Azure Security Center, such as a notification that your resource is compromised and/or attacking another customer.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.6 How are you monitoring security-related events in this workload?", 
+    "Control": "5.6.9 A designated point of contact was assigned for this workload to receive Azure incident notifications from Microsoft.", 
+    "Description": "Security alerts need to reach the right people in your organization. It is important to ensure a security contact receives Azure incident notifications, or alerts from Microsoft / Azure Security Center, such as a notification that your resource is compromised and/or attacking another customer."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

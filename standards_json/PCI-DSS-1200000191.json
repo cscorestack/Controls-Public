@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000191", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000191", 
+  "Control Name": "Perform quarterly internal vulnerability scans and rescans as needed, until all \\u201chigh-risk\\u201d vulnerabilities (as identified in Requirement 6.1) are resolved. Scans must be performed by qualified personnel.", 
+  "Control Family": "Regularly Monitor and Test Networks", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Regularly Monitor and Test Networks", 
+    "Control": "Perform quarterly internal vulnerability scans and rescans as needed, until all \\u201chigh-risk\\u201d vulnerabilities (as identified in Requirement 6.1) are resolved. Scans must be performed by qualified personnel.", 
+    "Requirement": "11.2.1.Regularly test security systems and processes"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

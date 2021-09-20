@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000003", 
+  "compliance_control_uri": "ISO/0001/100000003", 
+  "Control Name": "6.1.1 Information security responsibiities", 
+  "Control Family": "6. Organization of information security", 
+  "Control Statement": "All information security responsibilities shall be clearly define", 
+  "control_attributes": {
+    "Control_Objective": "6.1.1 Information security responsibiities", 
+    "Security_Control_Clause": "6. Organization of information security", 
+    "Security_Category": "6.1 internal organization", 
+    "description": "All information security responsibilities shall be clearly define"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

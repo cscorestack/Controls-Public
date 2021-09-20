@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000006",
+  "compliance_control_uri": "AWS-WAF/0016/160000006",
+  "Control Name": "OPS 1.6 Evaluate tradeoﬀs",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Evaluate the impact of tradeoﬀs between competing interests or alternative approaches, to help make informed decisions when determining where to focus eﬀorts or choosing a course of action. For example, accelerating speed to market for new features may be emphasized over cost optimization, or you may choose a relational database for non-relational data to simplify the eﬀort to migrate a system, rather than migrating to a database optimized for your data type and updating your application.",
+  "control_attributes": {
+    "Control": "OPS 1.6 Evaluate tradeoﬀs",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you determine what your priorities are?",
+    "question_id": "priorities",
+    "choice_id": "ops_priorities_eval_tradeoffs"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

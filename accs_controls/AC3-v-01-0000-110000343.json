@@ -1,0 +1,46 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000343",
+  "compliance_control_uri": "AC3-v-01/0000/110000343",
+  "Control Name": "IA-5 (8) MULTIPLE INFORMATION SYSTEM ACCOUNTS",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization implements [Assignment: organization-defined security safeguards] to manage the risk of compromise due to individuals having accounts on multiple information systems.",
+  "control_attributes": {
+    "Control Name": "IA-5 (8) MULTIPLE INFORMATION SYSTEM ACCOUNTS",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization implements [Assignment: organization-defined security safeguards] to manage the risk of compromise due to individuals having accounts on multiple information systems."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Developer_Tools/CodeBuild",
+      "service_resource": "AWS/Developer_Tools/CodeBuild/Project"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000389",
+      "ISO-27001/0011/1100000028",
+      "Fedramp-Control-High/0009/900000201",
+      "ISO-27001/0011/1100000032"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

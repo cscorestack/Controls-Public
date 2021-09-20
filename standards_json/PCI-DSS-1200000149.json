@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000149", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000149", 
+  "Control Name": "Render cardholder data on electronic media unrecoverable so that cardholder data cannot be reconstructed.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Render cardholder data on electronic media unrecoverable so that cardholder data cannot be reconstructed.", 
+    "Requirement": "9.8.2. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

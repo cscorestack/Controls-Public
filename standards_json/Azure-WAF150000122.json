@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000122", 
+  "compliance_control_uri": "Azure-WAF/0015/150000122", 
+  "Control Name": "2.7.8 Azure Service Health alerts been created to respond to Service-level events.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Azure Service Health Alerts should be configured to operationalize Service Health events. However, Service Health alerts should not be used to detect issues due to associated latencies; there is a 5 minute Service Level Objectives (SLOs) for automated issues, but many issues require manual interpretation to define an RCA (Root Cause Analysis). Instead, they should be used to provide extremely useful information to help interpret issues that have already been detected and surfaced via the health model, to inform how best to operationally respond.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.8 Azure Service Health alerts been created to respond to Service-level events.", 
+    "Description": "Azure Service Health Alerts should be configured to operationalize Service Health events. However, Service Health alerts should not be used to detect issues due to associated latencies; there is a 5 minute Service Level Objectives (SLOs) for automated issues, but many issues require manual interpretation to define an RCA (Root Cause Analysis). Instead, they should be used to provide extremely useful information to help interpret issues that have already been detected and surfaced via the health model, to inform how best to operationally respond."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

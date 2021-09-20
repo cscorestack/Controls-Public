@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000154",
+  "compliance_control_uri": "AWS-WAF/0016/160000154",
+  "Control Name": "REL 4.2 Implement loosely coupled dependencies",
+  "Control Family": "Reliability",
+  "Control Statement": "Dependencies such as queuing systems, streaming systems, workﬂows, and load balancers are loosely coupled. Loose coupling helps isolate behavior of a component from other components that depend on it, increasing resiliency and agility",
+  "control_attributes": {
+    "Control": "REL 4.2 Implement loosely coupled dependencies",
+    "Category": "Reliability",
+    "Subcategory": "How do you design interactions in a distributed system to prevent failures?",
+    "question_id": "prevent-interaction-failure",
+    "choice_id": "rel_prevent_interaction_failure_loosely_coupled_system"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

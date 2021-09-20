@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000041", 
+  "compliance_control_uri": "CIS-Azure/0015/150000041", 
+  "Control Name": "3.3 Ensure Storage logging is enabled for Queue service for read, write, and delete requests", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "These logs allow users to see the details of read, write, and delete operations against the queues.", 
+  "control_attributes": {
+    "Control": "3.3 Ensure Storage logging is enabled for Queue service for read, write, and delete requests", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "These logs allow users to see the details of read, write, and delete operations against the queues."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

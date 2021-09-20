@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000101", 
+  "compliance_control_uri": "ISO-27001/0011/1100000101", 
+  "Control Name": "16.1.6 Learning from information security incidents", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "There shall be mechanisms in place to enable the types, volumes, and costs of information security incidents to be quantified and monitored", 
+  "control_attributes": {
+    "Clause_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "There shall be mechanisms in place to enable the types, volumes, and costs of information security incidents to be quantified and monitored", 
+    "Control_Title": "16.1.6 Learning from information security incidents", 
+    "Control_Clause": "16. Information security incident management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

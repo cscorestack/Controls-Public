@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000042",
+  "compliance_control_uri": "AWS-WAF/0016/160000042",
+  "Control Name": "OPS 6.5 Deploy using parallel environments",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Implement changes onto parallel environments, and then transition over to the new environment. Maintain the prior environment until there is conﬁrmation of successful deployment. Doing so minimizes recovery time by enabling rollback to the previous environment.",
+  "control_attributes": {
+    "Control": "OPS 6.5 Deploy using parallel environments",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_deploy_to_parallel_env"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000113", 
+  "compliance_control_uri": "ISO/0001/100000089", 
+  "Control Name": "18.2.2 Compliance with security policies and standards", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Managers shall ensure that all security procedures within their area of responsibility are carried out correctly to achieve compliance with security policies and standards", 
+  "control_attributes": {
+    "Control_Objective": "18.2.2 Compliance with security policies and standards", 
+    "Security_Control_Clause": "18. Compliance", 
+    "Security_Category": "18.2 Information security reviews", 
+    "description": "Managers shall ensure that all security procedures within their area of responsibility are carried out correctly to achieve compliance with security policies and standards"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

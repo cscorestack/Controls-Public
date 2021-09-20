@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000590", 
+  "control_attributes": {
+    "Control": "SA-10 (2) ALTERNATIVE CONFIGURATION MANAGEMENT PROCESSES", 
+    "control_description": "The organization provides an alternate configuration management process using organizational personnel in the absence of a dedicated developer configuration management team.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to employ static code analysis tools to identify common flaws and document the results of the analysis."
+  }, 
+  "Control Statement": "The organization provides an alternate configuration management process using organizational personnel in the absence of a dedicated developer configuration management team.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-10 (2) ALTERNATIVE CONFIGURATION MANAGEMENT PROCESSES", 
+  "compliance_control_number": "600000590"
+}

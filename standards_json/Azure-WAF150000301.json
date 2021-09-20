@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000301", 
+  "compliance_control_uri": "Azure-WAF/0015/150000301", 
+  "Control Name": "4.1.5 SLAs for all internal and external dependencies.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are SLAs defined and measured for third-party dependencies.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.1 What reliability targets and metrics have you defined for your application?", 
+    "Control": "4.1.5 SLAs for all internal and external dependencies.", 
+    "Description": "Are SLAs defined and measured for third-party dependencies."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

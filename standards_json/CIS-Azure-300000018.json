@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000018", 
+  "compliance_control_uri": "CIS-Azure/0003/300000018", 
+  "Control Name": "4.1. Ensure that 'Auditing' is set to 'On'", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Enabling auditing at the server level ensures that all existing and newly created databases on the SQL server instance are audited", 
+  "control_attributes": {
+    "Control": "4.1. Ensure that 'Auditing' is set to 'On'", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Enabling auditing at the server level ensures that all existing and newly created databases on the SQL server instance are audited"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

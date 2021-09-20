@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000158", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000158", 
+  "Control Name": "IDENTIFICATION AND AUTHENTICATION | USE OF FICAM-APPROVED PRODUCTS", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The organization employs only FICAM-approved information system components in [Assignment:organization-defined information systems] to accept third-party credentials.Supplemental Guidance:  This control enhancement typically applies to information systems that are accessible to the general public, for example, public-facing websites. FICAM-approved information system components include, for example, information technology products and software libraries that have been approved by the Federal Identity, Credential, and Access Management conformance program. Related control: SA-4.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The organization employs only FICAM-approved information system components in [Assignment:organization-defined information systems] to accept third-party credentials.Supplemental Guidance:  This control enhancement typically applies to information systems that are accessible to the general public, for example, public-facing websites. FICAM-approved information system components include, for example, information technology products and software libraries that have been approved by the Federal Identity, Credential, and Access Management conformance program. Related control: SA-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-08 (03)", 
+    "CNTL NO": "IA-8 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "IDENTIFICATION AND AUTHENTICATION | USE OF FICAM-APPROVED PRODUCTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

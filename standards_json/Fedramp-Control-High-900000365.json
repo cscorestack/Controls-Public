@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000365", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000365", 
+  "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT ANDMANAGEMENT", 
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "Control Statement": "The organization establishes and manages cryptographic keys for required cryptography employed within the information system in accordance with [Assignment: organization-defined requirements for key generation, distribution, storage, access, and destruction].Supplemental Guidance:  Cryptographic key management and establishment can be performed using manual procedures or automated mechanisms with supporting manual procedures. Organizations define key management requirements in accordance with applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance, specifying appropriate options, levels, and parameters. Organizations manage trust stores to ensure that only approved trust anchors are in such trust stores. This includes certificates with visibility external to organizational information systems and certificates related to the internal operations of systems. Related controls: SC-13, SC-17.References: NIST Special Publications 800-56, 800-57.", 
+  "control_attributes": {
+    "Category": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "description": "The organization establishes and manages cryptographic keys for required cryptography employed within the information system in accordance with [Assignment: organization-defined requirements for key generation, distribution, storage, access, and destruction].Supplemental Guidance:  Cryptographic key management and establishment can be performed using manual procedures or automated mechanisms with supporting manual procedures. Organizations define key management requirements in accordance with applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance, specifying appropriate options, levels, and parameters. Organizations manage trust stores to ensure that only approved trust anchors are in such trust stores. This includes certificates with visibility external to organizational information systems and certificates related to the internal operations of systems. Related controls: SC-13, SC-17.References: NIST Special Publications 800-56, 800-57.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "SC-12", 
+    "CNTL NO": "SC-12", 
+    "AdditionalReq": "SC-12 Guidance: Federally approved cryptography", 
+    "Control Name": "CRYPTOGRAPHIC KEY ESTABLISHMENT ANDMANAGEMENT"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

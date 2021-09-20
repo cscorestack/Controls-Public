@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000040", 
+  "control_attributes": {
+    "Control": "IA-2 IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)", 
+    "control_description": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users).", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization tracks and documents information system security incidents."
+  }, 
+  "Control Statement": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users).", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)", 
+  "compliance_control_number": "600000040"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000036", 
+  "compliance_control_uri": "HIPAA/0002/200000036", 
+  "Control Name": "Security Management Process Risk Analysis - 164.308(a)(1)(ii)(A)", 
+  "Control Family": "Security Management Process", 
+  "Control Statement": "Conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information held by the covered entity or business associate.", 
+  "control_attributes": {
+    "Control": "Security Management Process Risk Analysis - 164.308(a)(1)(ii)(A)", 
+    "Security_Category": "Security Management Process", 
+    "Control_description": "Conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information held by the covered entity or business associate."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

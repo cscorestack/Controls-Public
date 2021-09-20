@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000146",
+  "compliance_control_uri": "AWS-WAF/0016/160000146",
+  "Control Name": "REL 2.2 Provision redundant connectivity between private networks in the cloud and on-premises environments",
+  "Control Family": "Reliability",
+  "Control Statement": "Use multiple AWS Direct Connect (DX) connections or VPN tunnels between separately deployed private networks. Use multiple DX locations for high availability. If using multiple AWS Regions, ensure redundancy in at least two of them. You might want to evaluate AWS Marketplace appliances that terminate VPNs. If you use AWS Marketplace appliances, deploy redundant instances for high availability in diﬀerent Availability Zones.",
+  "control_attributes": {
+    "Control": "REL 2.2 Provision redundant connectivity between private networks in the cloud and on-premises environments",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan your network topology?",
+    "question_id": "planning-network-topology",
+    "choice_id": "rel_planning_network_topology_ha_conn_private_networks"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

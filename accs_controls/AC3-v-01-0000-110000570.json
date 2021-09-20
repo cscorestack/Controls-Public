@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000570",
+  "compliance_control_uri": "AC3-v-01/0000/110000570",
+  "Control Name": "SA-12 (8) USE OF ALL-SOURCE INTELLIGENCE",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization uses all-source intelligence analysis of suppliers and potential suppliers of the information system, system component, or information system service.",
+  "control_attributes": {
+    "Control Name": "SA-12 (8) USE OF ALL-SOURCE INTELLIGENCE",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization uses all-source intelligence analysis of suppliers and potential suppliers of the information system, system component, or information system service."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000609"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

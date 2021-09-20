@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000110",
+  "compliance_control_uri": "SOC2/0017/1700000110",
+  "Control Name": "Performs in a Timely Manner—Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.",
+  "Control Family": "Control Activities",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Performs in a Timely Manner—Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.",
+    "Category": "Control Activities",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC5.3 COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "ControlNo": "CC5.3.3",
+    "TrustID": "CC5.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

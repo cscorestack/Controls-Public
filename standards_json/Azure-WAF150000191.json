@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000191", 
+  "compliance_control_uri": "Azure-WAF/0015/150000191", 
+  "Control Name": "2.16.5 Application logs are correlated across components.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are application logs correlated across components to ensure end-to-end system flows and component dependencies are monitored?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.5 Application logs are correlated across components.", 
+    "Description": "Are application logs correlated across components to ensure end-to-end system flows and component dependencies are monitored?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

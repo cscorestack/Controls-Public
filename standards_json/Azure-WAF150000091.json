@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000091", 
+  "compliance_control_uri": "Azure-WAF/0015/150000091", 
+  "Control Name": "2.3.6 Critical system flows through the application have been defined for all key business scenarios and have distinct availability, performance and recovery targets", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Have critical system flows through the application been defined for all key business scenarios?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.6 Critical system flows through the application have been defined for all key business scenarios and have distinct availability, performance and recovery targets", 
+    "Description": "Have critical system flows through the application been defined for all key business scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

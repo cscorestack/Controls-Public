@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000380", 
+  "compliance_control_uri": "Azure-WAF/0015/150000380", 
+  "Control Name": "4.12.1 The application is tested against critical Non-Functional requirements for performance.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application tested for performance?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.12 How do you test the application to ensure it is fault tolerant?", 
+    "Control": "4.12.1 The application is tested against critical Non-Functional requirements for performance.", 
+    "Description": "Is the application tested for performance?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

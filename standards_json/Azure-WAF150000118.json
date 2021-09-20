@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000118", 
+  "compliance_control_uri": "Azure-WAF/0015/150000118", 
+  "Control Name": "2.7.4 Specific owners and processes are defined for each alert type", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are specific owners and processes defined for each alert type?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.4 Specific owners and processes are defined for each alert type", 
+    "Description": "Are specific owners and processes defined for each alert type?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

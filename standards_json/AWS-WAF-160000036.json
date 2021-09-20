@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000036",
+  "compliance_control_uri": "AWS-WAF/0016/160000036",
+  "Control Name": "OPS 5.9 Make frequent, small, reversible changes",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Frequent, small, and reversible changes reduce the scope and impact of a change. This eases troubleshooting, enables faster remediation, and provides the option to roll back a change.",
+  "control_attributes": {
+    "Control": "OPS 5.9 Make frequent, small, reversible changes",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_freq_sm_rev_chg"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

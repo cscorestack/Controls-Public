@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000046", 
+  "compliance_control_uri": "CIS-Azure/0015/150000046", 
+  "Control Name": "3.8 Ensure soft delete is enabled for Azure Storage", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "It is recommended the Azure Storage be made recoverable by enabling soft delete configuration. This is to save and recover data when blobs or blob snapshots are deleted.", 
+  "control_attributes": {
+    "Control": "3.8 Ensure soft delete is enabled for Azure Storage", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "It is recommended the Azure Storage be made recoverable by enabling soft delete configuration. This is to save and recover data when blobs or blob snapshots are deleted."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

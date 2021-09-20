@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000050", 
+  "compliance_control_uri": "CIS-Azure/0003/300000050", 
+  "Control Name": "1.13. Ensure that 'Members can invite' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Restrict invitations to administrators only", 
+  "control_attributes": {
+    "Control": "1.13. Ensure that 'Members can invite' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Restrict invitations to administrators only"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000022", 
+  "compliance_control_uri": "ISO/0001/100000099", 
+  "Control Name": "8.2.3 Handling of assets", 
+  "Control Family": "8. Asset Management", 
+  "Control Statement": "Procedures for handling assets shall be developed and implemented in accordance with the information classification scheme adopted by the organization.", 
+  "control_attributes": {
+    "Control_Objective": "8.2.3 Handling of assets", 
+    "Security_Control_Clause": "8. Asset Management", 
+    "Security_Category": "8.2 Information classification", 
+    "description": "Procedures for handling assets shall be developed and implemented in accordance with the information classification scheme adopted by the organization."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

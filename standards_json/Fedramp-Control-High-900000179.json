@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000179", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000179", 
+  "Control Name": "INFORMATION SYSTEM RECOVERY AND RECONSTITUTION | RESTORE WITHIN TIME PERIOD", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.Supplemental Guidance:  Restoration of information system components includes, for example, reimaging which restores components to known, operational states. Related control: CM-2.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization provides the capability to restore information system components within [Assignment: organization-defined restoration time-periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.Supplemental Guidance:  Restoration of information system components includes, for example, reimaging which restores components to known, operational states. Related control: CM-2.", 
+    "SelectionParam": "CP-10 (4) [time period consistent with the restoration time-periods defined in the service provider and organization  SLA]", 
+    "FedRampParam": "x", 
+    "SORTID": "CP-10 (04)", 
+    "CNTL NO": "CP-10 (4)", 
+    "AdditionalReq": " ", 
+    "Control Name": "INFORMATION SYSTEM RECOVERY AND RECONSTITUTION | RESTORE WITHIN TIME PERIOD"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000054", 
+  "compliance_control_uri": "CIS-AWS/0007/700000054", 
+  "Control Name": "5.3 Ensure the default security group of every VPC restricts all traffic", 
+  "Control Family": "Networking", 
+  "Control Statement": "It is recommended that the default security group restrict all traffic. The default VPC in every region should have its default security group updated to comply. Any newly created VPCs will automatically contain a default security group that will need remediation to comply with this recommendation.", 
+  "control_attributes": {
+    "Control": "5.3 Ensure the default security group of every VPC restricts all traffic", 
+    "Category": "Networking", 
+    "Control_description": "It is recommended that the default security group restrict all traffic. The default VPC in every region should have its default security group updated to comply. Any newly created VPCs will automatically contain a default security group that will need remediation to comply with this recommendation."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

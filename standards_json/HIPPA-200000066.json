@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000066", 
+  "compliance_control_uri": "HIPAA/0002/200000066", 
+  "Control Name": "Device and Media Controls  Accountability - 164.310(d)(2)(iii)", 
+  "Control Family": "Device and Media Controls", 
+  "Control Statement": "Maintain a record of the movements of hardware and electronic media and any person responsible therefore.", 
+  "control_attributes": {
+    "Control": "Device and Media Controls  Accountability - 164.310(d)(2)(iii)", 
+    "Security_Category": "Device and Media Controls", 
+    "Control_description": "Maintain a record of the movements of hardware and electronic media and any person responsible therefore."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

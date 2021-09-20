@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000230", 
+  "compliance_control_uri": "Azure-WAF/0015/150000230", 
+  "Control Name": "3.2.3 Targets for scale operations are defined.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Scale operations (horizontal - changing the number of identical instances, vertical - switching to more/less powerful instances) can be fast, but usually take time to complete. It's important to understand how this delay affects the application under load and if degraded performance is acceptable.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.2 Have you identified the performance targets and non-functional requirements for your workload?", 
+    "Control": "3.2.3 Targets for scale operations are defined.", 
+    "Description": "Scale operations (horizontal - changing the number of identical instances, vertical - switching to more/less powerful instances) can be fast, but usually take time to complete. It's important to understand how this delay affects the application under load and if degraded performance is acceptable."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

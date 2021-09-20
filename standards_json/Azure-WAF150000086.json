@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000086", 
+  "compliance_control_uri": "Azure-WAF/0015/150000086", 
+  "Control Name": "2.3.1 Availability targets such as SLAs, SLIs and SLOs are defined for the application and key scenarios and monitored", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are availability targets such as Service Level Agreements (SLAs), Service Level Indicators (SLIs), and Service Level Objectives (SLOs) defined for the application and/or key scenarios?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.3 Have you defined key scenarios for your workload and how they relate to operational targets and non-functional requirements?", 
+    "Control": "2.3.1 Availability targets such as SLAs, SLIs and SLOs are defined for the application and key scenarios and monitored", 
+    "Description": "Are availability targets such as Service Level Agreements (SLAs), Service Level Indicators (SLIs), and Service Level Objectives (SLOs) defined for the application and/or key scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

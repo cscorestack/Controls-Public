@@ -1,0 +1,62 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000189",
+  "compliance_control_uri": "AC3-v-01/0000/110000189",
+  "Control Name": "CA-3 (4) CONNECTIONS TO PUBLIC NETWORKS",
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+  "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined information system] to a public network.",
+  "control_attributes": {
+    "Control Name": "CA-3 (4) CONNECTIONS TO PUBLIC NETWORKS",
+    "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION",
+    "Control Statement": "The organization prohibits the direct connection of an [Assignment: organization-defined information system] to a public network."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000046",
+      "NIST-SP800-53/0006/600000271",
+      "ISO-27001/0011/1100000071",
+      "Azure-WAF/0015/150000462",
+      "CIS-GCP/0014/1400000044",
+      "SOC2/0017/1700000138"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/security_group/bmd2t",
+        "policy_name": "Azure_Network_SecurityGroup_Port_Violation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/umhpj",
+        "policy_name": "Azure_Audit_Interfaces_PublicIP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Audit_Instance_Public_IP_Address",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pubv",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

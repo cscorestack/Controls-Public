@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000188", 
+  "compliance_control_uri": "Azure-WAF/0015/150000188", 
+  "Control Name": "2.16.2 There is a policy that governs what happens when the error budget is exhausted.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "If the application error budget has been met or exceeded and the application is operating at or below the defined Service Level Agreement (SLA), a policy may stipulate that all deployments are frozen until they reduce the number of errors to a level that allows deployments to proceed.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.2 There is a policy that governs what happens when the error budget is exhausted.", 
+    "Description": "If the application error budget has been met or exceeded and the application is operating at or below the defined Service Level Agreement (SLA), a policy may stipulate that all deployments are frozen until they reduce the number of errors to a level that allows deployments to proceed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

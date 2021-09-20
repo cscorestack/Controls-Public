@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000026", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000026", 
+  "Control Name": "2.2.1 Implement only one primary function per server to prevent functions that require different security levels from co-existing on the same server. ", 
+  "Control Family": "Build and Maintain a Secure Network and Systems",
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Build and Maintain a Secure Network and Systems",
+    "Control": "2.2.1 Implement only one primary function per server to prevent functions that require different security levels from co-existing on the same server. ", 
+    "Requirement": "2. Do not use vendor-supplied defaults for system passwords and other security parameters"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

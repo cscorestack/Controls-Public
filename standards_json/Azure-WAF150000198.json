@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000198", 
+  "compliance_control_uri": "Azure-WAF/0015/150000198", 
+  "Control Name": "2.16.12 Defined a disaster recovery strategy to capture recovery steps for failover and failback. protecting all data with the same policy.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "A disaster recovery strategy should capture how the application responds to a disaster situation such as a regional outage or the loss of a critical platform service, using either a re-deployment, warm-spare active-passive, or hot-spare active-active approach. To drive cost down consider splitting application components and data into groups. For example: 1) must protect, 2) nice to protect, 3) ephemeral/can be rebuilt/lost, instead of", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.12 Defined a disaster recovery strategy to capture recovery steps for failover and failback. protecting all data with the same policy.", 
+    "Description": "A disaster recovery strategy should capture how the application responds to a disaster situation such as a regional outage or the loss of a critical platform service, using either a re-deployment, warm-spare active-passive, or hot-spare active-active approach. To drive cost down consider splitting application components and data into groups. For example: 1) must protect, 2) nice to protect, 3) ephemeral/can be rebuilt/lost, instead of"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

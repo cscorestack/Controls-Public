@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000654", 
+  "control_attributes": {
+    "Control": "SC-3 (2) ACCESS / FLOW CONTROL FUNCTIONS", 
+    "control_description": "The information system isolates security functions enforcing access and information flow control from nonsecurity functions and from other security functions.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system restricts the ability of individuals to launch [Assignment: organization-defined denial of service attacks] against other information systems."
+  }, 
+  "Control Statement": "The information system isolates security functions enforcing access and information flow control from nonsecurity functions and from other security functions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-3 (2) ACCESS / FLOW CONTROL FUNCTIONS", 
+  "compliance_control_number": "600000654"
+}

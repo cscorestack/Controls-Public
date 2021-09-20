@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000063", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000063", 
+  "Control Name": "5.1.1 Ensure that anti-virus programs are capable of detecting, removing, and protecting against all known types of malicious software.", 
+  "Control Family": "Maintain a Vulnerability Management Program", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain a Vulnerability Management Program", 
+    "Control": "5.1.1 Ensure that anti-virus programs are capable of detecting, removing, and protecting against all known types of malicious software.", 
+    "Requirement": "Requirement 5. Protect all systems against malware and regularly update anti-virus software or programs"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

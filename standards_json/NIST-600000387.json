@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000387", 
+  "control_attributes": {
+    "Control": "IA-5 (6) PROTECTION OF AUTHENTICATORS", 
+    "control_description": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization uses only FICAM-approved path discovery and validation products and services."
+  }, 
+  "Control Statement": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-5 (6) PROTECTION OF AUTHENTICATORS", 
+  "compliance_control_number": "600000387"
+}

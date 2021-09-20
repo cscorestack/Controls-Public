@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000760", 
+  "control_attributes": {
+    "Control": "SI-4 (4) INBOUND AND OUTBOUND COMMUNICATIONS TRAFFIC", 
+    "control_description": "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization tests intrusion-monitoring tools [Assignment: organization-defined frequency]."
+  }, 
+  "Control Statement": "The information system monitors inbound and outbound communications traffic [Assignment: organization-defined frequency] for unusual or unauthorized activities or conditions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (4) INBOUND AND OUTBOUND COMMUNICATIONS TRAFFIC", 
+  "compliance_control_number": "600000760"
+}

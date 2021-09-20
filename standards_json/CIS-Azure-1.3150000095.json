@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000095", 
+  "compliance_control_uri": "CIS-Azure/0015/150000095", 
+  "Control Name": "7.7 Ensure that VHD's are encrypted", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Storage accounts can be encrypted as a whole using PMK or CMK and this should be turned on for storage accounts containing VHD's.", 
+  "control_attributes": {
+    "Control": "7.7 Ensure that VHD's are encrypted", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Storage accounts can be encrypted as a whole using PMK or CMK and this should be turned on for storage accounts containing VHD's."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

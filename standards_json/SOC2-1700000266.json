@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000266",
+  "compliance_control_uri": "SOC2/0017/1700000266",
+  "Control Name": "Provides Understandable Personal Information Within Reasonable Time—Personal information is provided to data subjects in an understandable form, in a reasonable time frame, and at a reasonable cost, if any.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Provides Understandable Personal Information Within Reasonable Time—Personal information is provided to data subjects in an understandable form, in a reasonable time frame, and at a reasonable cost, if any.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P5.1 The entity grants identified and authenticated data subjects the ability to access their stored personal information for review and, upon request, provides physical or electronic copies of that information to data subjects to meet the entity’s objectives related to privacy. If access is denied, data subjects are informed of the denial and reason for such denial, as required, to meet the entity’s objectives related to privacy.",
+    "ControlNo": "P5.1.3",
+    "TrustID": "P5.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

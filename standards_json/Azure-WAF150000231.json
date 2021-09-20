@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000231", 
+  "compliance_control_uri": "Azure-WAF/0015/150000231", 
+  "Control Name": "3.2.4 You understand and have documented the expected maximum traffic volume before performance degradation occurs.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Scale requirements the application must be able to effectively satisfy, such as the number of concurrent users or requests per second, is a critical lens for assessing operations. From the cost perspective, it's recommended to set a budget for extreme circumstances and indicate upper limit for cost (when it's not worth serving more traffic due to overall costs).", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.2 Have you identified the performance targets and non-functional requirements for your workload?", 
+    "Control": "3.2.4 You understand and have documented the expected maximum traffic volume before performance degradation occurs.", 
+    "Description": "Scale requirements the application must be able to effectively satisfy, such as the number of concurrent users or requests per second, is a critical lens for assessing operations. From the cost perspective, it's recommended to set a budget for extreme circumstances and indicate upper limit for cost (when it's not worth serving more traffic due to overall costs)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

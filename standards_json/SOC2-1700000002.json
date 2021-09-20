@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000002",
+  "compliance_control_uri": "SOC2/0017/1700000002",
+  "Control Name": "Establishes Standards of Conduct—The expectations of the board of directors and senior management concerning integrity and ethical values are defined in the entity’s standards of conduct and understood at all levels of the entity and by outsourced service providers and business partners.",
+  "Control Family": "Control Environment",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Establishes Standards of Conduct—The expectations of the board of directors and senior management concerning integrity and ethical values are defined in the entity’s standards of conduct and understood at all levels of the entity and by outsourced service providers and business partners.",
+    "Category": "Control Environment",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC1.1 COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.",
+    "ControlNo": "CC1.1.2",
+    "TrustID": "CC1.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

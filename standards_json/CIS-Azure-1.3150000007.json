@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000007", 
+  "compliance_control_uri": "CIS-Azure/0015/150000007", 
+  "Control Name": "1.7 Ensure that 'Notify users on password resets?' is set to 'Yes'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Ensure that users are notified on their primary and secondary emails on password resets", 
+  "control_attributes": {
+    "Control": "1.7 Ensure that 'Notify users on password resets?' is set to 'Yes'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Ensure that users are notified on their primary and secondary emails on password resets"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

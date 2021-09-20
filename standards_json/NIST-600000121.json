@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000121", 
+  "control_attributes": {
+    "Control": "SC-16 TRANSMISSION OF SECURITY ATTRIBUTES", 
+    "control_description": "The information system associates [Assignment: organization-defined security attributes] with information exchanged between information systems and between system components.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The information system associates [Assignment: organization-defined security attributes] with information exchanged between information systems and between system components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-16 TRANSMISSION OF SECURITY ATTRIBUTES", 
+  "compliance_control_number": "600000121"
+}

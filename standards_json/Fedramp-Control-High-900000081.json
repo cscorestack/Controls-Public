@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000081", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000081", 
+  "Control Name": "AUDIT REDUCTION AND REPORT GENERATION | AUTOMATIC PROCESSING", 
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "Control Statement": "The information system provides the capability to process audit records for events of interest based on [Assignment: organization-defined audit fields within audit records].Supplemental Guidance:  Events of interest can be identified by the content of specific audit record fields including, for example, identities of individuals, event types, event locations, event times, event dates, system resources involved, IP addresses involved, or information objects accessed. Organizations may define audit event criteria to any degree of granularity required, for example, locations selectable by general networking location (e.g., by network or subnetwork) or selectable by specific information system component. Related controls: AU-2, AU-12.", 
+  "control_attributes": {
+    "Category": "AUDIT AND ACCOUNTABILITY", 
+    "description": "The information system provides the capability to process audit records for events of interest based on [Assignment: organization-defined audit fields within audit records].Supplemental Guidance:  Events of interest can be identified by the content of specific audit record fields including, for example, identities of individuals, event types, event locations, event times, event dates, system resources involved, IP addresses involved, or information objects accessed. Organizations may define audit event criteria to any degree of granularity required, for example, locations selectable by general networking location (e.g., by network or subnetwork) or selectable by specific information system component. Related controls: AU-2, AU-12.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AU-07 (01)", 
+    "CNTL NO": "AU-7 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUDIT REDUCTION AND REPORT GENERATION | AUTOMATIC PROCESSING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

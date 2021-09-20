@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000030", 
+  "compliance_control_uri": "CIS-Azure/0015/150000030", 
+  "Control Name": "2.7 Ensure that Azure Defender is set to On for Container Registries", 
+  "Control Family": "2 Security Center", 
+  "Control Statement": "Turning on Azure Defender enables threat detection for Container Registries, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center.", 
+  "control_attributes": {
+    "Control": "2.7 Ensure that Azure Defender is set to On for Container Registries", 
+    "Control_Clause": "2 Security Center", 
+    "description": "Turning on Azure Defender enables threat detection for Container Registries, providing threat intelligence, anomaly detection, and behavior analytics in the Azure Security Center."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

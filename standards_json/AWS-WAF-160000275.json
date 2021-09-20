@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000275",
+  "compliance_control_uri": "AWS-WAF/0016/160000275",
+  "Control Name": "COST 6.2 Select resource type and size based on data",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Select resource size or type based on data about the workload and resource characteristics: for example, compute, memory, throughput, or write intensive. This selection is typically made using a previous version of the workload (such as an on-premises version), using documentation, or using other sources of information about the workload.",
+  "control_attributes": {
+    "Control": "COST 6.2 Select resource type and size based on data",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you meet cost targets when you select resource type, size and number?",
+    "question_id": "type-size-number-resources",
+    "choice_id": "cost_type_size_number_resources_data"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

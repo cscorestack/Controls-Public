@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000705", 
+  "control_attributes": {
+    "Control": "SC-23 (3) UNIQUE SESSION IDENTIFIERS WITH RANDOMIZATION", 
+    "control_description": "The information system generates a unique session identifier for each session with [Assignment: organization-defined randomness requirements] and recognizes only session identifiers that are system-generated.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system includes: [Assignment: organization-defined platform-independent applications]."
+  }, 
+  "Control Statement": "The information system generates a unique session identifier for each session with [Assignment: organization-defined randomness requirements] and recognizes only session identifiers that are system-generated.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-23 (3) UNIQUE SESSION IDENTIFIERS WITH RANDOMIZATION", 
+  "compliance_control_number": "600000705"
+}

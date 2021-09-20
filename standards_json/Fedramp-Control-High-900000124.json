@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000124", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000124", 
+  "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | REVIEW SYSTEM CHANGES", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization reviews information system changes [Assignment: organization-defined frequency] and [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred.Supplemental Guidance:  Indications that warrant review of information system changes and the specific circumstances justifying such reviews may be obtained from activities carried out by organizations during the configuration change process. Related controls: AU-6, AU-7, CM-3, CM-5, PE-6, PE-8.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization reviews information system changes [Assignment: organization-defined frequency] and [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred.Supplemental Guidance:  Indications that warrant review of information system changes and the specific circumstances justifying such reviews may be obtained from activities carried out by organizations during the configuration change process. Related controls: AU-6, AU-7, CM-3, CM-5, PE-6, PE-8.", 
+    "SelectionParam": "CM-5 (2) [at least every thirty (30) days]", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-05 (02)", 
+    "CNTL NO": "CM-5 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | REVIEW SYSTEM CHANGES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

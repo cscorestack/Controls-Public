@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000057", 
+  "compliance_control_uri": "CIS-Azure/0003/300000057", 
+  "Control Name": "1.20  Ensure that 'Users who can manage Office 365 groups' is set to None (Not scored)", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Restricting Office 365 group management to administrators prohibits users from making changes to Office 365 groups.", 
+  "control_attributes": {
+    "Control": "1.20  Ensure that 'Users who can manage Office 365 groups' is set to None (Not scored)", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Restricting Office 365 group management to administrators prohibits users from making changes to Office 365 groups."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

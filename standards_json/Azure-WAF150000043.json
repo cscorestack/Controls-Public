@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000043", 
+  "compliance_control_uri": "Azure-WAF/0015/150000043", 
+  "Control Name": "1.6.1 There is an automated process to deploy application releases to production.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "The time it takes to perform a complete environment deployment should align with recovery targets. Automation and agility also lead to cost savings due to the reduction of manual actions and errors.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.6 What considerations for DevOps practices are you making in this workload?", 
+    "Control": "1.6.1 There is an automated process to deploy application releases to production.", 
+    "Description": "The time it takes to perform a complete environment deployment should align with recovery targets. Automation and agility also lead to cost savings due to the reduction of manual actions and errors."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

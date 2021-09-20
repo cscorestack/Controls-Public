@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000021", 
+  "compliance_control_uri": "Azure-WAF/0015/150000021", 
+  "Control Name": "1.2.12 The application has a well-defined naming standard for Azure resources.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "A well-defined naming convention is important for overall operations to be able to easily determine the usage of certain resources and help understand owners and cost centers responsible for the workload. Naming conventions allow the matching of resource costs to particular workloads.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.12 The application has a well-defined naming standard for Azure resources.", 
+    "Description": "A well-defined naming convention is important for overall operations to be able to easily determine the usage of certain resources and help understand owners and cost centers responsible for the workload. Naming conventions allow the matching of resource costs to particular workloads."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

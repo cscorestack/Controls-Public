@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000392", 
+  "compliance_control_uri": "Azure-WAF/0015/150000392", 
+  "Control Name": "4.13.8 Monitor long-running workflows for failures.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Do you monitor any long running application workflows and operationalise failure scenarios?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.8 Monitor long-running workflows for failures.", 
+    "Description": "Do you monitor any long running application workflows and operationalise failure scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

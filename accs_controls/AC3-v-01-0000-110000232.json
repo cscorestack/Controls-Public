@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000232",
+  "compliance_control_uri": "AC3-v-01/0000/110000232",
+  "Control Name": "CM-6 (1) AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [Assignment: organization-defined information system components].",
+  "control_attributes": {
+    "Control Name": "CM-6 (1) AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [Assignment: organization-defined information system components]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000297",
+      "PCI-DSS/0012/1200000001",
+      "PCI-DSS/0012/1200000011",
+      "PCI-DSS/0012/1200000025",
+      "Fedramp-Control-Moderate/0010/1000000096",
+      "Fedramp-Control-High/0009/900000128",
+      "AWS-WAF/0005/500000028",
+      "AWS-WAF/0005/500000021"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000370", 
+  "control_attributes": {
+    "Control": "IA-2 (12) ACCEPTANCE OF PIV CREDENTIALS", 
+    "control_description": "The information system accepts and electronically verifies Personal Identity Verification (PIV) credentials.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system dynamically manages identifiers."
+  }, 
+  "Control Statement": "The information system accepts and electronically verifies Personal Identity Verification (PIV) credentials.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-2 (12) ACCEPTANCE OF PIV CREDENTIALS", 
+  "compliance_control_number": "600000370"
+}

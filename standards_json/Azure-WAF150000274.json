@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000274", 
+  "compliance_control_uri": "Azure-WAF/0015/150000274", 
+  "Control Name": "3.8.7 There are goals on database query efficiency.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Ensuring the data operations are optimized is a key component to any performance assessment. It is important to understand what data is being queried and when. The data life-cycle, if abused, can adversely affect the performance of any application (or microservice). Confirm that a database administrator (a data architect is preferred) is part of the assessment as they will have the necessary tools for monitoring and optimizing a database and its queries.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.7 There are goals on database query efficiency.", 
+    "Description": "Ensuring the data operations are optimized is a key component to any performance assessment. It is important to understand what data is being queried and when. The data life-cycle, if abused, can adversely affect the performance of any application (or microservice). Confirm that a database administrator (a data architect is preferred) is part of the assessment as they will have the necessary tools for monitoring and optimizing a database and its queries."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

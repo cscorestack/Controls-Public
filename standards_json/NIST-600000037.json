@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000037", 
+  "control_attributes": {
+    "Control": "CM-8 (1) UPDATES DURING INSTALLATIONS / REMOVALS", 
+    "control_description": "The organization updates the inventory of information system components as an integral part of component installations, removals, and information system updates.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization updates the inventory of information system components as an integral part of component installations, removals, and information system updates.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (1) UPDATES DURING INSTALLATIONS / REMOVALS", 
+  "compliance_control_number": "600000037"
+}

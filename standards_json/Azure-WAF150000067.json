@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000067", 
+  "compliance_control_uri": "Azure-WAF/0015/150000067", 
+  "Control Name": "1.9.2 Data is organized into access tiers.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "You can reduce cost by placing blob data into the most cost-effective access tier. Place frequently accessed data in hot tier, less frequent in cold or archive tier. Use Premium storage for workloads with high transaction volumes or ones where latency is critical.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.2 Data is organized into access tiers.", 
+    "Description": "You can reduce cost by placing blob data into the most cost-effective access tier. Place frequently accessed data in hot tier, less frequent in cold or archive tier. Use Premium storage for workloads with high transaction volumes or ones where latency is critical."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

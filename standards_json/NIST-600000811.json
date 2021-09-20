@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000811", 
+  "control_attributes": {
+    "Control": "PM-1 INFORMATION SECURITY PROGRAM PLAN", 
+    "control_description": "The organization: a. Develops and disseminates an organization-wide information security program plan that:1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;b. Reviews the organization-wide information security program plan [Assignment: organization-defined frequency];c. Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; andd. Protects the information security program plan from unauthorized disclosure and modification.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system implements [Assignment: organization-defined security safeguards] to protect its memory from unauthorized code execution."
+  }, 
+  "Control Statement": "The organization: a. Develops and disseminates an organization-wide information security program plan that:1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;b. Reviews the organization-wide information security program plan [Assignment: organization-defined frequency];c. Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; andd. Protects the information security program plan from unauthorized disclosure and modification.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-1 INFORMATION SECURITY PROGRAM PLAN", 
+  "compliance_control_number": "600000811"
+}

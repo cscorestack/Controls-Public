@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000042", 
+  "compliance_control_uri": "CIS-Azure/0003/300000042", 
+  "Control Name": "1.5. Ensure that 'Number of methods required to reset' is set to '2'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Ensure that two alternate forms of identification are provided before allowing a password reset", 
+  "control_attributes": {
+    "Control": "1.5. Ensure that 'Number of methods required to reset' is set to '2'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Ensure that two alternate forms of identification are provided before allowing a password reset"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

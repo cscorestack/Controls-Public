@@ -1,0 +1,39 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000411",
+  "compliance_control_uri": "AC3-v-01/0000/110000411",
+  "Control Name": "MA-5 (5) NONSYSTEM-RELATED MAINTENANCE",
+  "Control Family": "MAINTENANCE",
+  "Control Statement": "The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations.",
+  "control_attributes": {
+    "Control Name": "MA-5 (5) NONSYSTEM-RELATED MAINTENANCE",
+    "Control Family": "MAINTENANCE",
+    "Control Statement": "The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000458",
+      "ISO/0001/100000113"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

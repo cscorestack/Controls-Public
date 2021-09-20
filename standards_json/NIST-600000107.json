@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000107", 
+  "control_attributes": {
+    "Control": "SI-13 PREDICTABLE FAILURE PREVENTION", 
+    "control_description": "The organization:a. Determines mean time to failure (MTTF) for [Assignment: organization-defined information system components] in specific environments of operation; andb. Provides substitute information system components and a means to exchange active and standby components at [Assignment: organization-defined MTTF substitution criteria].", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system protects the [Selection (one or more): confidentiality; integrity] of transmitted information."
+  }, 
+  "Control Statement": "The organization:a. Determines mean time to failure (MTTF) for [Assignment: organization-defined information system components] in specific environments of operation; andb. Provides substitute information system components and a means to exchange active and standby components at [Assignment: organization-defined MTTF substitution criteria].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-13 PREDICTABLE FAILURE PREVENTION", 
+  "compliance_control_number": "600000107"
+}

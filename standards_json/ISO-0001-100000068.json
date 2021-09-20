@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000068", 
+  "compliance_control_uri": "ISO/0001/100000044", 
+  "Control Name": "12.6.1 Management of technical vulnerabilities", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Timely information about technical vulnerabilities of information systems being used shall be obtained, the organization's exposure to such vulnerabilities evaluated, and appropriate measures taken to address the associated risk", 
+  "control_attributes": {
+    "Control_Objective": "12.6.1 Management of technical vulnerabilities", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.6 Technical vulnerability management", 
+    "description": "Timely information about technical vulnerabilities of information systems being used shall be obtained, the organization's exposure to such vulnerabilities evaluated, and appropriate measures taken to address the associated risk"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

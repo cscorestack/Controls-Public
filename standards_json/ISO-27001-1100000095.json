@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000095", 
+  "compliance_control_uri": "ISO-27001/0011/1100000095", 
+  "Control Name": "15.2.2 Managing changes to supplier services", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "Changes to the provision of services, including maintaining and improving existing information security policies, procedures and controls, shall be managed, taking account of the criticality of business systems and processes involved and re-assessment of risks", 
+  "control_attributes": {
+    "Clause_Category": "15.2 Supplier service delivery management", 
+    "description": "Changes to the provision of services, including maintaining and improving existing information security policies, procedures and controls, shall be managed, taking account of the criticality of business systems and processes involved and re-assessment of risks", 
+    "Control_Title": "15.2.2 Managing changes to supplier services", 
+    "Control_Clause": "15. Supplier relationships"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

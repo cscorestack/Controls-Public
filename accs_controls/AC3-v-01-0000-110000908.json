@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000908",
+  "compliance_control_uri": "AC3-v-01/0000/110000908",
+  "Control Name": "Ensure Virtual Machines are utilizing Managed Disks",
+  "Control Family": "Virtual Machines",
+  "Control Statement": "Migrate BLOB based VHD's to Managed Disks on Virtual Machines to exploit the default features of this configuration.",
+  "control_attributes": {
+    "Control Name": "Ensure Virtual Machines are utilizing Managed Disks",
+    "Control Family": "Virtual Machines",
+    "Control Statement": "Migrate BLOB based VHD's to Managed Disks on Virtual Machines to exploit the default features of this configuration."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-Azure/0015/150000089",
+      "CIS-AWS/0007/700000050"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "Audit_VMs_Not_Using_Managed_Disks",
+        "policy_uri": "policy/azure_policy/global/azure/consumption/vm/ahnmr",
+        "is_deleted": false,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

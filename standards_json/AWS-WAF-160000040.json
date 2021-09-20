@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000040",
+  "compliance_control_uri": "AWS-WAF/0016/160000040",
+  "Control Name": "OPS 6.3 Use deployment management systems",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use deployment management systems to track and implement change. This reduces errors cause by manual processes and reduces the eﬀort to deploy changes.",
+  "control_attributes": {
+    "Control": "OPS 6.3 Use deployment management systems",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_deploy_mgmt_sys"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

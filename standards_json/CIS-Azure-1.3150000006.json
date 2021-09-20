@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000006", 
+  "compliance_control_uri": "CIS-Azure/0015/150000006", 
+  "Control Name": "1.6 Ensure that 'Number of days before users are asked to re-confirm their authentication information' is not set to \"0\"", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Ensure that the number of days before users are asked to re-confirm their authentication information is not set to 0.", 
+  "control_attributes": {
+    "Control": "1.6 Ensure that 'Number of days before users are asked to re-confirm their authentication information' is not set to \"0\"", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Ensure that the number of days before users are asked to re-confirm their authentication information is not set to 0."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

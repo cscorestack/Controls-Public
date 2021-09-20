@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000514",
+  "compliance_control_uri": "AC3-v-01/0000/110000514",
+  "Control Name": "PM-9 RISK MANAGEMENT STRATEGY",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization: a. Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;b. Implements the risk management strategy consistently across the organization; andc. Reviews and updates the risk management strategy [Assignment: organization-defined frequency] or as required, to address organizational changes",
+  "control_attributes": {
+    "Control Name": "PM-9 RISK MANAGEMENT STRATEGY",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization: a. Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;b. Implements the risk management strategy consistently across the organization; andc. Reviews and updates the risk management strategy [Assignment: organization-defined frequency] or as required, to address organizational changes"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000819"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

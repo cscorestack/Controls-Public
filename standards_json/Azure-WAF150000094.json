@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000094", 
+  "compliance_control_uri": "Azure-WAF/0015/150000094", 
+  "Control Name": "2.4.1 An Application Performance Management (APM) tool like Azure Application Insights is used to collect application level logs", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is an Application Performance Management (APM) tool used collect application level logs?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.1 An Application Performance Management (APM) tool like Azure Application Insights is used to collect application level logs", 
+    "Description": "Is an Application Performance Management (APM) tool used collect application level logs?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

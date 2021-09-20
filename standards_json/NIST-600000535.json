@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000535", 
+  "control_attributes": {
+    "Control": "PL-2 (3) PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES", 
+    "control_description": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities.", 
+    "Family": "PLANNING", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization centrally manages [Assignment: organization-defined security controls and related processes]."
+  }, 
+  "Control Statement": "The organization plans and coordinates security-related activities affecting the information system with [Assignment: organization-defined individuals or groups] before conducting such activities in order to reduce the impact on other organizational entities.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-2 (3) PLAN / COORDINATE WITH OTHER ORGANIZATIONAL ENTITIES", 
+  "compliance_control_number": "600000535"
+}

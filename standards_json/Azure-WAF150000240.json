@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000240", 
+  "compliance_control_uri": "Azure-WAF/0015/150000240", 
+  "Control Name": "3.4.3 A process for provisioning and de-provisioning capacity has been established.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Codifying and automating the process helps to avoid human error, varying results and to speed up the overall process.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.3 A process for provisioning and de-provisioning capacity has been established.", 
+    "Description": "Codifying and automating the process helps to avoid human error, varying results and to speed up the overall process."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

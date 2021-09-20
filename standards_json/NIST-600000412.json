@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000412", 
+  "control_attributes": {
+    "Control": "IR-2 (1) SIMULATED EVENTS", 
+    "control_description": "The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization implements a configurable capability to automatically disable the information system if [Assignment: organization-defined security violations] are detected."
+  }, 
+  "Control Statement": "The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-2 (1) SIMULATED EVENTS", 
+  "compliance_control_number": "600000412"
+}

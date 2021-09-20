@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000098", 
+  "control_attributes": {
+    "Control": "AC-4 INFORMATION FLOW ENFORCEMENT", 
+    "control_description": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system requests and performs data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources."
+  }, 
+  "Control Statement": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 INFORMATION FLOW ENFORCEMENT", 
+  "compliance_control_number": "600000098"
+}

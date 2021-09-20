@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000480", 
+  "compliance_control_uri": "Azure-WAF/0015/150000480", 
+  "Control Name": "5.11.3 Access model for keys and secrets is defined for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Permissions to keys and secrets have to be controlled with a access model.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.11 Are keys, secrets and certificates managed in a secure way?", 
+    "Control": "5.11.3 Access model for keys and secrets is defined for this workload.", 
+    "Description": "Permissions to keys and secrets have to be controlled with a access model."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

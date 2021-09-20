@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000096", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000096", 
+  "Control Name": "CONFIGURATION SETTINGS | AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [Assignment: organization-defined information system components].Supplemental Guidance:  Related controls: CA-7, CM-4.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [Assignment: organization-defined information system components].Supplemental Guidance:  Related controls: CA-7, CM-4.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-06 (01)", 
+    "CNTL NO": "CM-6 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONFIGURATION SETTINGS | AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

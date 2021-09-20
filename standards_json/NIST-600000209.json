@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000209", 
+  "control_attributes": {
+    "Control": "AC-19 ACCESS CONTROL FOR MOBILE DEVICES", 
+    "control_description": "The organization: a. Establishes usage restrictions, configuration requirements, connection requirements, and implementation guidance for organization-controlled mobile devices; andb. Authorizes the connection of mobile devices to organizational information systems.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Establishes usage restrictions, configuration requirements, connection requirements, and implementation guidance for organization-controlled mobile devices; andb. Authorizes the connection of mobile devices to organizational information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-19 ACCESS CONTROL FOR MOBILE DEVICES", 
+  "compliance_control_number": "600000209"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000053", 
+  "compliance_control_uri": "CIS-Azure/0003/300000053", 
+  "Control Name": "1.16. Ensure that 'Self-service group management enabled' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Self-service group management enables users to create and manage security groups or Officce365 groups. Unless a business requires this day-to-day delegation for some users, self-service group management should be disabled", 
+  "control_attributes": {
+    "Control": "1.16. Ensure that 'Self-service group management enabled' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Self-service group management enables users to create and manage security groups or Officce365 groups. Unless a business requires this day-to-day delegation for some users, self-service group management should be disabled"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

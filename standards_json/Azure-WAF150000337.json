@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000337", 
+  "compliance_control_uri": "Azure-WAF/0015/150000337", 
+  "Control Name": "4.6.1 Data types are categorized by data consistency requirements.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has CAP theorem been applied to the application and key data scenarios to ensure data is categorized according to consistency requirements?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.1 Data types are categorized by data consistency requirements.", 
+    "Description": "Has CAP theorem been applied to the application and key data scenarios to ensure data is categorized according to consistency requirements?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

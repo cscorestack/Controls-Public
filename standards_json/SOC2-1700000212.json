@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000212",
+  "compliance_control_uri": "SOC2/0017/1700000212",
+  "Control Name": "Makes Changes Based on Forecasts—The system change management process is initiated when forecasted usage exceeds capacity tolerances. ",
+  "Control Family": "Additional Criteria For Availability",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Makes Changes Based on Forecasts—The system change management process is initiated when forecasted usage exceeds capacity tolerances. ",
+    "Category": "Additional Criteria For Availability",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Availability",
+    "SubCategory": "A1.1 The entity maintains, monitors, and evaluates current processing capacity and use of system components (infrastructure, data, and software) to manage capacity demand and to enable the implementation of additional capacity to help meet its objectives.",
+    "ControlNo": "A1.1.3",
+    "TrustID": "A1.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

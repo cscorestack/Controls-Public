@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000025", 
+  "compliance_control_uri": "CIS-Azure/0003/300000025", 
+  "Control Name": "5.1.2 Ensure that Activity Log Retention is set 365 days or greater (Scored) ", 
+  "Control Family": "5. Logging and Monitoring", 
+  "Control Statement": "A log profile controls how the activity log is exported and retained. Since the average time to detect a breach is 210 days, the activity log should be retained for 365 days or more in order to have time to respond to any incidents", 
+  "control_attributes": {
+    "Control": "5.1.2 Ensure that Activity Log Retention is set 365 days or greater (Scored) ", 
+    "Control_Clause": "5. Logging and Monitoring", 
+    "description": "A log profile controls how the activity log is exported and retained. Since the average time to detect a breach is 210 days, the activity log should be retained for 365 days or more in order to have time to respond to any incidents"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,73 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000779",
+  "compliance_control_uri": "AC3-v-01/0000/110000779",
+  "Control Name": "SI-4 (1) SYSTEM-WIDE INTRUSION DETECTION SYSTEM",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.",
+  "control_attributes": {
+    "Control Name": "SI-4 (1) SYSTEM-WIDE INTRUSION DETECTION SYSTEM",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network, Databases",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Security_Compliance/GuardDuty",
+      "service_resource": "AWS/Security_Compliance/GuardDuty/Detector"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Security_Compliance/Azure_Security_Center",
+      "service_resource": "Azure/Security_Compliance/Azure_Security_Center/Tasks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000758",
+      "PCI-DSS/0012/1200000200",
+      "Fedramp-Control-Moderate/0010/1000000304",
+      "Fedramp-Control-High/0009/900000392",
+      "AWS-WAF/0016/160000086",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/moli2",
+        "policy_name": "Azure_Audit_Endpoint_Protection_in_Virtual_Machine_Scale_Set",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/zh4k7",
+        "policy_name": "Azure_Audit_ASC_Standard_Pricing_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

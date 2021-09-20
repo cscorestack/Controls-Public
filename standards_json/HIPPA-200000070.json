@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000070", 
+  "compliance_control_uri": "HIPAA/0002/200000070", 
+  "Control Name": "Business associate contracts - 164.314(a)(2)(i)(A)", 
+  "Control Family": "Business associate contracts", 
+  "Control Statement": "The contract must provide that the business associate will\\u0080\\u0094 (A) Comply with the applicable requirements of this subpart;", 
+  "control_attributes": {
+    "Control": "Business associate contracts - 164.314(a)(2)(i)(A)", 
+    "Security_Category": "Business associate contracts", 
+    "Control_description": "The contract must provide that the business associate will\\u0080\\u0094 (A) Comply with the applicable requirements of this subpart;"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

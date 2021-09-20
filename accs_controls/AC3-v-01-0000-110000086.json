@@ -1,0 +1,38 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000086",
+  "compliance_control_uri": "AC3-v-01/0000/110000086",
+  "Control Name": "AC-4 (4) CONTENT CHECK ENCRYPTED INFORMATION",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]].",
+  "control_attributes": {
+    "Control Name": "AC-4 (4) CONTENT CHECK ENCRYPTED INFORMATION",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system prevents encrypted information from bypassing content-checking mechanisms by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000147"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

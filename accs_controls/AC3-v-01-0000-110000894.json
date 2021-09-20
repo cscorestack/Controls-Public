@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000894", 
+  "compliance_control_uri": "AC3-v-01/0000/110000894", 
+  "Control Name": "Ensure that logging for Azure KeyVault is 'Enabled'", 
+  "Control Family": "Logging and Monitoring", 
+  "Control Statement": "Enable AuditEvent logging for key vault instances to ensure interactions with key vaults are logged and available.", 
+  "control_attributes": {
+    "Control Name": "Ensure that logging for Azure KeyVault is 'Enabled'", 
+    "Control Family": "Logging and Monitoring", 
+    "Control Statement": "Enable AuditEvent logging for key vault instances to ensure interactions with key vaults are logged and available."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Account", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "cloud account", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Subscription/Subscription",
+      "service_resource": "Azure/Subscription/Subscription/Subscription"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000072"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_DiagonisticLog_KeyValut",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/eexiW",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

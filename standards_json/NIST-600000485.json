@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000485", 
+  "control_attributes": {
+    "Control": "PE-2 (1) ACCESS BY POSITION / ROLE", 
+    "control_description": "The organization authorizes physical access to the facility where the information system resides based on position or role.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization uses lockable physical casings to protect [Assignment: organization-defined information system components] from unauthorized physical access."
+  }, 
+  "Control Statement": "The organization authorizes physical access to the facility where the information system resides based on position or role.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-2 (1) ACCESS BY POSITION / ROLE", 
+  "compliance_control_number": "600000485"
+}

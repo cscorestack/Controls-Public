@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000056", 
+  "compliance_control_uri": "Azure-WAF/0015/150000056", 
+  "Control Name": "1.7.9 Zone to Zone disaster recovery is used for virtual machines.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Replicate, failover and failback your business-critical virtual machines within the same region with zones. Ideal for those that have complicated networking infrastructure and want to avoid the cost and complexity of recreating it in a secondary region.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.9 Zone to Zone disaster recovery is used for virtual machines.", 
+    "Description": "Replicate, failover and failback your business-critical virtual machines within the same region with zones. Ideal for those that have complicated networking infrastructure and want to avoid the cost and complexity of recreating it in a secondary region."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

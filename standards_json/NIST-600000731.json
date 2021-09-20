@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000731", 
+  "control_attributes": {
+    "Control": "SC-38 OPERATIONS SECURITY", 
+    "control_description": "The organization employs [Assignment: organization-defined operations security safeguards] to protect key organizational information throughout the system development life cycle.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system protects external and internal [Assignment: organization-defined wireless links] from [Assignment: organization-defined types of signal parameter attacks or references to sources for such attacks]."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined operations security safeguards] to protect key organizational information throughout the system development life cycle.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-38 OPERATIONS SECURITY", 
+  "compliance_control_number": "600000731"
+}

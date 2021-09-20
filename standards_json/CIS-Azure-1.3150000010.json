@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000010", 
+  "compliance_control_uri": "CIS-Azure/0015/150000010", 
+  "Control Name": "1.10 Ensure that 'Users can add gallery apps to their Access Panel' is set to 'No'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Require administrators to provide consent for the apps before use.", 
+  "control_attributes": {
+    "Control": "1.10 Ensure that 'Users can add gallery apps to their Access Panel' is set to 'No'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Require administrators to provide consent for the apps before use."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

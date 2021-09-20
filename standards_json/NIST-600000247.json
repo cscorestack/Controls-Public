@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000247", 
+  "control_attributes": {
+    "Control": "AU-9 (2) AUDIT BACKUP ON SEPARATE PHYSICAL SYSTEMS / COMPONENTS", 
+    "control_description": "The information system backs up audit records [Assignment: organization-defined frequency] onto a physically different system or system component than the system or component being audited.", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization reviews the open source information sites being monitored [Assignment: organization-defined frequency]."
+  }, 
+  "Control Statement": "The information system backs up audit records [Assignment: organization-defined frequency] onto a physically different system or system component than the system or component being audited.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-9 (2) AUDIT BACKUP ON SEPARATE PHYSICAL SYSTEMS / COMPONENTS", 
+  "compliance_control_number": "600000247"
+}

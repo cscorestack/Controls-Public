@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "140000001", 
+  "compliance_control_uri": "CIS-GCP/0014/140000001", 
+  "Control Name": "1.1 Ensure that corporate login credentials are used", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Use corporate login credentials instead of personal accounts, such as Gmail accounts.", 
+  "control_attributes": {
+    "Control": "1.1 Ensure that corporate login credentials are used", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Use corporate login credentials instead of personal accounts, such as Gmail accounts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

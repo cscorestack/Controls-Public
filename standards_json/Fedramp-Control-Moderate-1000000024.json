@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000024", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000024", 
+  "Control Name": "CONCURRENT SESSION CONTROL", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": " The information system limits the number of concurrent sessions for each [Assignment: organization-defined account and/or account type] to [Assignment: organization-defined number].Supplemental Guidance:  Organizations may define the maximum number of concurrent sessions for information system accounts globally, by account type (e.g., privileged user, non-privileged user, domain, specific application), by account, or a combination. For example, organizations may limit the number of concurrent sessions for system administrators or individuals working in particularly sensitive domains or mission-critical applications. This control addresses concurrent sessions for information system accounts and does not address concurrent sessions by single users via multiple system accounts.Control Enhancements:  None.References: None.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": " The information system limits the number of concurrent sessions for each [Assignment: organization-defined account and/or account type] to [Assignment: organization-defined number].Supplemental Guidance:  Organizations may define the maximum number of concurrent sessions for information system accounts globally, by account type (e.g., privileged user, non-privileged user, domain, specific application), by account, or a combination. For example, organizations may limit the number of concurrent sessions for system administrators or individuals working in particularly sensitive domains or mission-critical applications. This control addresses concurrent sessions for information system accounts and does not address concurrent sessions by single users via multiple system accounts.Control Enhancements:  None.References: None.", 
+    "SelectionParam": "AC-10-2 [three (3) sessions for privileged access and two (2) sessions for non-privileged access]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-10", 
+    "CNTL NO": "AC-10", 
+    "AdditionalReq": " ", 
+    "Control Name": "CONCURRENT SESSION CONTROL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

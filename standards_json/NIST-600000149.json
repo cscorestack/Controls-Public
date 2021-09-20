@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000149", 
+  "control_attributes": {
+    "Control": "AC-4 (6) METADATA", 
+    "control_description": "The information system enforces information flow control based on [Assignment: organization-defined metadata].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined solutions in approved configurations] to control the flow of [Assignment: organization-defined information] across security domains."
+  }, 
+  "Control Statement": "The information system enforces information flow control based on [Assignment: organization-defined metadata].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (6) METADATA", 
+  "compliance_control_number": "600000149"
+}

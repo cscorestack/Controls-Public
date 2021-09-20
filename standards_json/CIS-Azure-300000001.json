@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000001", 
+  "compliance_control_uri": "CIS-Azure/0003/300000001", 
+  "Control Name": "1.1. Ensure that multi-factor authentication is enabled for all privileged users", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Enable multi-factor authentication for all user credentials who have write access to Azure resources", 
+  "control_attributes": {
+    "Control": "1.1. Ensure that multi-factor authentication is enabled for all privileged users", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Enable multi-factor authentication for all user credentials who have write access to Azure resources"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

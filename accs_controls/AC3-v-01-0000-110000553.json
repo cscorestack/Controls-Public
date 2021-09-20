@@ -1,0 +1,55 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000553",
+  "compliance_control_uri": "AC3-v-01/0000/110000553",
+  "Control Name": "SA-11 (3) INDEPENDENT VERIFICATION OF ASSESSMENT PLANS / EVIDENCE",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization:                                                                                                                     (a) Requires an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security assessment plan and the evidence produced during security testing/evaluation; and(b) Ensures that the independent agent is either provided with sufficient information to complete the verification process or granted the authority to obtain such information.",
+  "control_attributes": {
+    "Control Name": "SA-11 (3) INDEPENDENT VERIFICATION OF ASSESSMENT PLANS / EVIDENCE",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization:                                                                                                                     (a) Requires an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security assessment plan and the evidence produced during security testing/evaluation; and(b) Ensures that the independent agent is either provided with sufficient information to complete the verification process or granted the authority to obtain such information."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000598",
+      "ISO-27001/0011/1100000088",
+      "ISO-27001/0011/1100000087",
+      "ISO/0001/100000062",
+      "ISO/0001/100000063",
+      "Azure-WAF/0015/150000404",
+      "Azure-WAF/0015/150000405",
+      "Azure-WAF/0015/150000407",
+      "Azure-WAF/0015/150000421"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

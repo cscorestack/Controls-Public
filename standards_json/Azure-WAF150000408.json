@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000408", 
+  "compliance_control_uri": "Azure-WAF/0015/150000408", 
+  "Control Name": "5.2.9 Attacker vs. defender costs are considered when implementing defenses. ", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Easy and cheap attack methods are always prevented.Cybersecurity attacks are planned and conducted by human attackers that must manage their return on investment into attacks (return could include profit or achieving an assigned objective). If basic - cheap - vulnerabilites are covered, the effort - cost - required for the attacker gets higher.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.9 Attacker vs. defender costs are considered when implementing defenses. ", 
+    "Description": "Easy and cheap attack methods are always prevented.Cybersecurity attacks are planned and conducted by human attackers that must manage their return on investment into attacks (return could include profit or achieving an assigned objective). If basic - cheap - vulnerabilites are covered, the effort - cost - required for the attacker gets higher."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

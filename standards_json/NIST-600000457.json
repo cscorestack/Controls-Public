@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000457", 
+  "control_attributes": {
+    "Control": "MA-5 (4) FOREIGN NATIONALS", 
+    "control_description": "The organization ensures that:", 
+    "Family": "MAINTENANCE", 
+    "Priority": "P1", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization ensures that:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-5 (4) FOREIGN NATIONALS", 
+  "compliance_control_number": "600000457"
+}

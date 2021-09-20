@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000070",
+  "compliance_control_uri": "AWS-WAF/0016/160000070",
+  "Control Name": "OPS 10.4 Deﬁne escalation paths",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Deﬁne escalation paths in your runbooks and playbooks, including what triggers escalation, and procedures for escalation. Speciﬁcally identify owners for each action to ensure eﬀective and prompt responses to operations events.",
+  "control_attributes": {
+    "Control": "OPS 10.4 Deﬁne escalation paths",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_define_escalation_paths"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000169", 
+  "compliance_control_uri": "Azure-WAF/0015/150000169", 
+  "Control Name": "2.14.4 Fault injection tests are being utilized", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is the application tested with injected faults?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.4 Fault injection tests are being utilized", 
+    "Description": "Is the application tested with injected faults?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

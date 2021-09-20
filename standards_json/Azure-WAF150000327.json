@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000327", 
+  "compliance_control_uri": "Azure-WAF/0015/150000327", 
+  "Control Name": "4.5.3 Application configuration is treated as code and deployed with the application.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is application configuration treated as code and deployed with the application? i.e. is configuration information captrued for operational transparency.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.3 Application configuration is treated as code and deployed with the application.", 
+    "Description": "Is application configuration treated as code and deployed with the application? i.e. is configuration information captrued for operational transparency."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

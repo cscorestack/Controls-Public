@@ -1,0 +1,84 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000693",
+  "compliance_control_uri": "AC3-v-01/0000/110000693",
+  "Control Name": "SC-36 DISTRIBUTED PROCESSING AND STORAGE",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations.",
+  "control_attributes": {
+    "Control Name": "SC-36 DISTRIBUTED PROCESSING AND STORAGE",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Storage, Application, Database",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Subnet_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Volumes"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000091"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/fVlBP",
+        "policy_name": "Azure_Audit_SQLDB_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/KbXaF",
+        "policy_name": "Azure_Audit_MySQL_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/pcsYV",
+        "policy_name": "Azure_Audit_PostgreSQLDB_Configured_GeoReduntant_Backup",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/DzcON",
+        "policy_name": "Azure_Audit_Storage_Accounts_Geo_Redundant_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

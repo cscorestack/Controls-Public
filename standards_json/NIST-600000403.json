@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000403", 
+  "control_attributes": {
+    "Control": "IA-8 (4) USE OF FICAM-ISSUED PROFILES", 
+    "control_description": "The information system conforms to FICAM-issued profiles.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations."
+  }, 
+  "Control Statement": "The information system conforms to FICAM-issued profiles.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-8 (4) USE OF FICAM-ISSUED PROFILES", 
+  "compliance_control_number": "600000403"
+}

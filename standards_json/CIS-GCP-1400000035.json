@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000035", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000035", 
+  "Control Name": "3.9 Ensure no HTTPS or SSL proxy load balancers permit SSL policies with weak cipher suites", 
+  "Control Family": "Networking", 
+  "Control Statement": "Secure Sockets Layer (SSL) policies determine what port Transport Layer Security (TLS) features clients are permitted to use when connecting to load balancers.", 
+  "control_attributes": {
+    "Control": "3.9 Ensure no HTTPS or SSL proxy load balancers permit SSL policies with weak cipher suites", 
+    "Security_Category": "Networking", 
+    "Control_description": "Secure Sockets Layer (SSL) policies determine what port Transport Layer Security (TLS) features clients are permitted to use when connecting to load balancers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

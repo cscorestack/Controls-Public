@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000132", 
+  "compliance_control_uri": "Azure-WAF/0015/150000132", 
+  "Control Name": "2.9.2 Auto-scaling is enabled for supporting PaaS and IaaS services", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Is auto-scaling enabled for supporting PaaS and IaaS services?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.9 How are scale operations performed?", 
+    "Control": "2.9.2 Auto-scaling is enabled for supporting PaaS and IaaS services", 
+    "Description": "Is auto-scaling enabled for supporting PaaS and IaaS services?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000046", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000046", 
+  "Control Name": "5.1 Ensure that Cloud Storage bucket is not anonymously or publicly accessible", 
+  "Control Family": "Storage", 
+  "Control Statement": "It is recommended that IAM policy on Cloud Storage bucket does not allows anonymous or public access.", 
+  "control_attributes": {
+    "Control": "5.1 Ensure that Cloud Storage bucket is not anonymously or publicly accessible", 
+    "Security_Category": "Storage", 
+    "Control_description": "It is recommended that IAM policy on Cloud Storage bucket does not allows anonymous or public access."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

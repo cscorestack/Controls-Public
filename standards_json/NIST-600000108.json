@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000108", 
+  "control_attributes": {
+    "Control": "AC-22 PUBLICLY ACCESSIBLE CONTENT", 
+    "control_description": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system;b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information;c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; andd. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system associates [Assignment: organization-defined security attributes] with information exchanged between information systems and between system components."
+  }, 
+  "Control Statement": "The organization: a. Designates individuals authorized to post information onto a publicly accessible information system;b. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information;c. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; andd. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-22 PUBLICLY ACCESSIBLE CONTENT", 
+  "compliance_control_number": "600000108"
+}

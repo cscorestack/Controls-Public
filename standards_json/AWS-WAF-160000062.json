@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000062",
+  "compliance_control_uri": "AWS-WAF/0016/160000062",
+  "Control Name": "OPS 9.4 Establish operations metrics baselines",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Establish baselines for metrics to provide expected values as the basis for comparison and identiﬁcation of under and over performing operations activities.",
+  "control_attributes": {
+    "Control": "OPS 9.4 Establish operations metrics baselines",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_ops_metric_baselines"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

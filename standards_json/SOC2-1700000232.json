@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000232",
+  "compliance_control_uri": "SOC2/0017/1700000232",
+  "Control Name": "Creates and Maintains Records of System Inputs—Records of system input activities are created and maintained completely and accurately in a timely manner.",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Creates and Maintains Records of System Inputs—Records of system input activities are created and maintained completely and accurately in a timely manner.",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.2 The entity implements policies and procedures over system inputs, including controls over completeness and accuracy, to result in products, services, and reporting to meet the\nentity’s objectives.",
+    "ControlNo": "PI1.2.3",
+    "TrustID": "PI1.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

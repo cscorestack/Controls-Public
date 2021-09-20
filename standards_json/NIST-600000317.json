@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000317", 
+  "control_attributes": {
+    "Control": "CP-2 (2) CAPACITY PLANNING", 
+    "control_description": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to provide a more thorough and realistic contingency training environment."
+  }, 
+  "Control Statement": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-2 (2) CAPACITY PLANNING", 
+  "compliance_control_number": "600000317"
+}

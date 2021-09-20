@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000097", 
+  "compliance_control_uri": "ISO/0001/100000072", 
+  "Control Name": "16.1.2 Reporting information security events", 
+  "Control Family": "16. Information security incident management", 
+  "Control Statement": "Information security events shall be reported through appropriate management channels as quickly as possible", 
+  "control_attributes": {
+    "Control_Objective": "16.1.2 Reporting information security events", 
+    "Security_Control_Clause": "16. Information security incident management", 
+    "Security_Category": "16.1 Management of information security incidents and improvements", 
+    "description": "Information security events shall be reported through appropriate management channels as quickly as possible"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

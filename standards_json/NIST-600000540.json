@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000540", 
+  "control_attributes": {
+    "Control": "PL-8 (1) DEFENSE-IN-DEPTH", 
+    "control_description": "The organization designs its security architecture using a defense-in-depth approach that:", 
+    "Family": "PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization ensures that individuals accessing an information system processing, storing, or transmitting types of classified information which require formal indoctrination, are formally indoctrinated for all of the relevant types of information to which they have access on the system."
+  }, 
+  "Control Statement": "The organization designs its security architecture using a defense-in-depth approach that:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-8 (1) DEFENSE-IN-DEPTH", 
+  "compliance_control_number": "600000540"
+}

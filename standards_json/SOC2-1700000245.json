@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000245",
+  "compliance_control_uri": "SOC2/0017/1700000245",
+  "Control Name": "Creates and Maintains Records of System Storage Activities—Records of system storage activities are created and maintained completely and accurately in a timely manner.",
+  "Control Family": "Additional Criteria For Processing Integrity",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Creates and Maintains Records of System Storage Activities—Records of system storage activities are created and maintained completely and accurately in a timely manner.",
+    "Category": "Additional Criteria For Processing Integrity",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Processing Integrity",
+    "SubCategory": "PI1.5 The entity implements policies and procedures to store inputs, items in processing, and outputs completely, accurately, and timely in accordance with system specifications to meet the entity’s objectives.",
+    "ControlNo": "PI1.5.4",
+    "TrustID": "PI1.5"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

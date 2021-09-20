@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000232",
+  "compliance_control_uri": "AWS-WAF/0016/160000232",
+  "Control Name": "PERF 6.2 Deﬁne a process to improve workload performance",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Deﬁne a process to evaluate new services, design patterns, resource types, and conﬁgurations as they become available. For example, run existing performance tests on new instance oﬀerings to determine their potential to improve your workload.",
+  "control_attributes": {
+    "Control": "PERF 6.2 Deﬁne a process to improve workload performance",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you evolve your workload to take advantage of new releases?",
+    "question_id": "continue-having-appropriate-resource-type",
+    "choice_id": "perf_continue_having_appropriate_resource_type_define_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

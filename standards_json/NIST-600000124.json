@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000124", 
+  "control_attributes": {
+    "Control": "AC-1 ACCESS CONTROL POLICY AND PROCEDURES", 
+    "control_description": "The Organization a Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]: 1. An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the access control policy and associated access controls; andb. Reviews and updates the current:1. Access control policy [Assignment: organization-defined frequency]; and2. Access control procedures [Assignment: organization-defined frequency].", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system enforces [Assignment: organization-defined mandatory access control policy] over all subjects and objects where the policy:"
+  }, 
+  "Control Statement": "The Organization a Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]: 1. An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the access control policy and associated access controls; andb. Reviews and updates the current:1. Access control policy [Assignment: organization-defined frequency]; and2. Access control procedures [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-1 ACCESS CONTROL POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000124"
+}

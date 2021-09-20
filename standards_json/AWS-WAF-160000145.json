@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000145",
+  "compliance_control_uri": "AWS-WAF/0016/160000145",
+  "Control Name": "REL 2.1 Use highly available network connectivity for your workload public endpoints",
+  "Control Family": "Reliability",
+  "Control Statement": "These endpoints and the routing to them must be highly available. To achieve this, use highly available DNS, content delivery networks (CDNs), API Gateway, load balancing, or reverse proxies.",
+  "control_attributes": {
+    "Control": "REL 2.1 Use highly available network connectivity for your workload public endpoints",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan your network topology?",
+    "question_id": "planning-network-topology",
+    "choice_id": "rel_planning_network_topology_ha_conn_users"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

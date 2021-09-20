@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000550", 
+  "control_attributes": {
+    "Control": "PS-5 PERSONNEL TRANSFER", 
+    "control_description": "The organization: a. Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;b. Initiates [Assignment: organization-defined transfer or reassignment actions] within [Assignment: organization-defined time period following the formal transfer action];c. Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; andd. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;b. Initiates [Assignment: organization-defined transfer or reassignment actions] within [Assignment: organization-defined time period following the formal transfer action];c. Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; andd. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-5 PERSONNEL TRANSFER", 
+  "compliance_control_number": "600000550"
+}

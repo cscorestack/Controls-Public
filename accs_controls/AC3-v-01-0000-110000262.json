@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000262",
+  "compliance_control_uri": "AC3-v-01/0000/110000262",
+  "Control Name": "CP-2 (2) CAPACITY PLANNING",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.",
+  "control_attributes": {
+    "Control Name": "CP-2 (2) CAPACITY PLANNING",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization conducts capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000082",
+      "ISO/0001/100000033",
+      "ISO/0001/100000078",
+      "ISO/0001/100000003",
+      "NIST-SP800-53/0006/600000317",
+      "ISO-27001/0011/1100000003",
+      "ISO-27001/0011/1100000106",
+      "ISO-27001/0011/1100000103",
+      "ISO-27001/0011/1100000059",
+      "Fedramp-Control-Moderate/0010/1000000112",
+      "Fedramp-Control-High/0009/900000147"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

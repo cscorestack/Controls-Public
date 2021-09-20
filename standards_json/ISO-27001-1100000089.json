@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000089", 
+  "compliance_control_uri": "ISO-27001/0011/1100000089", 
+  "Control Name": "14.2.9 Systems acceptance testing", 
+  "Control Family": "14. System acquisition, development and maintenance", 
+  "Control Statement": "Acceptance criteria for new information systems, upgrades, and new versions shall be established and suitable tests of the system(s) carried out during development and prior to acceptance", 
+  "control_attributes": {
+    "Clause_Category": "14.2 Security in development and support processes", 
+    "description": "Acceptance criteria for new information systems, upgrades, and new versions shall be established and suitable tests of the system(s) carried out during development and prior to acceptance", 
+    "Control_Title": "14.2.9 Systems acceptance testing", 
+    "Control_Clause": "14. System acquisition, development and maintenance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

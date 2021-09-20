@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000074", 
+  "control_attributes": {
+    "Control": "MP-5 (4) CRYPTOGRAPHIC PROTECTION", 
+    "control_description": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs a detonation chamber capability within [Assignment: organization-defined information system, system component, or location]."
+  }, 
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-5 (4) CRYPTOGRAPHIC PROTECTION", 
+  "compliance_control_number": "600000074"
+}

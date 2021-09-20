@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000326", 
+  "compliance_control_uri": "Azure-WAF/0015/150000326", 
+  "Control Name": "4.5.2 Session state is non-sticky and externalised to a data store.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is session state (if any) non-sticky and externalized to a data store?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.5 What decisions have been taken to ensure the application platform meets your reliability requirements?", 
+    "Control": "4.5.2 Session state is non-sticky and externalised to a data store.", 
+    "Description": "Is session state (if any) non-sticky and externalized to a data store?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,40 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000495",
+  "compliance_control_uri": "AC3-v-01/0000/110000495",
+  "Control Name": "PL-8 (1) DEFENSE-IN-DEPTH",
+  "Control Family": "PLANNING",
+  "Control Statement": "The organization designs its security architecture using a defense-in-depth approach that:",
+  "control_attributes": {
+    "Control Name": "PL-8 (1) DEFENSE-IN-DEPTH",
+    "Control Family": "PLANNING",
+    "Control Statement": "The organization designs its security architecture using a defense-in-depth approach that:"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000540",
+      "ISO-27001/0011/1100000078",
+      "ISO/0001/100000053"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

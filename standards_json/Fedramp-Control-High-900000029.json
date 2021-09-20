@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000029", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000029", 
+  "Control Name": "UNSUCCESSFUL LOGON ATTEMPTS | PURGE / WIPE MOBILE DEVICE", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system purges/wipes information from [Assignment: organization-defined mobile devices] based on [Assignment: organization-defined purging/wiping requirements/techniques] after [Assignment: organization-defined number] consecutive, unsuccessful device logon attempts.Supplemental Guidance: This control enhancement applies only to mobile devices for which a logon occurs (e.g., personal digital assistants, smart phones, tablets). The logon is to the mobile device, not to any one account on the device. Therefore, successful logons to any accounts on mobile devices reset the unsuccessful logon count to zero. Organizations define information to be purged/wiped carefully in order to avoid over purging/wiping which may result in devices becoming unusable. Purging/wiping may be unnecessary if the information on the device is protected with sufficiently strong encryption mechanisms. Related controls: AC-19, MP-5, MP-6, SC-13.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system purges/wipes information from [Assignment: organization-defined mobile devices] based on [Assignment: organization-defined purging/wiping requirements/techniques] after [Assignment: organization-defined number] consecutive, unsuccessful device logon attempts.Supplemental Guidance: This control enhancement applies only to mobile devices for which a logon occurs (e.g., personal digital assistants, smart phones, tablets). The logon is to the mobile device, not to any one account on the device. Therefore, successful logons to any accounts on mobile devices reset the unsuccessful logon count to zero. Organizations define information to be purged/wiped carefully in order to avoid over purging/wiping which may result in devices becoming unusable. Purging/wiping may be unnecessary if the information on the device is protected with sufficiently strong encryption mechanisms. Related controls: AC-19, MP-5, MP-6, SC-13.", 
+    "SelectionParam": "AC-7 (2)-1 [mobile devices as defined by organization policy]AC-7 (2)-3 [three (3)]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-07 (02)", 
+    "CNTL NO": "AC-7 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "UNSUCCESSFUL LOGON ATTEMPTS | PURGE / WIPE MOBILE DEVICE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

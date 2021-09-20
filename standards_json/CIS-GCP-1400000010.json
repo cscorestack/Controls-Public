@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000010", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000010", 
+  "Control Name": "1.10 Ensure KMS encryption keys are rotated within a period of 90 days", 
+  "Control Family": "Identity and Access management", 
+  "Control Statement": "Google Cloud Key Management Service stores cryptographic keys in a hierarchical.", 
+  "control_attributes": {
+    "Control": "1.10 Ensure KMS encryption keys are rotated within a period of 90 days", 
+    "Security_Category": "Identity and Access management", 
+    "Control_description": "Google Cloud Key Management Service stores cryptographic keys in a hierarchical."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

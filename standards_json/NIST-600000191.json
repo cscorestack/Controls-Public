@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000191", 
+  "control_attributes": {
+    "Control": "AC-16 (4) ASSOCIATION OF ATTRIBUTES BY AUTHORIZED INDIVIDUALS", 
+    "control_description": "The information system supports the association of [Assignment: organization-defined security attributes] with [Assignment: organization-defined subjects and objects] by authorized individuals (or processes acting on behalf of individuals).", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides the capability to expeditiously disconnect or disable remote access to the information system within [Assignment: organization-defined time period]."
+  }, 
+  "Control Statement": "The information system supports the association of [Assignment: organization-defined security attributes] with [Assignment: organization-defined subjects and objects] by authorized individuals (or processes acting on behalf of individuals).", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-16 (4) ASSOCIATION OF ATTRIBUTES BY AUTHORIZED INDIVIDUALS", 
+  "compliance_control_number": "600000191"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000043",
+  "compliance_control_uri": "AWS-WAF/0016/160000043",
+  "Control Name": "OPS 6.6 Deploy frequent, small, reversible changes",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use frequent, small, and reversible changes to reduce the scope of a change. This results in easier troubleshooting and faster remediation with the option to roll back a change.",
+  "control_attributes": {
+    "Control": "OPS 6.6 Deploy frequent, small, reversible changes",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_freq_sm_rev_chg"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

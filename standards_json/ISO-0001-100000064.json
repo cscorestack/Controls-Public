@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000064", 
+  "compliance_control_uri": "ISO/0001/100000040", 
+  "Control Name": "12.4.2 Protection of log information", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Logging facilities and log information shall be protected against tampering and unauthorized access", 
+  "control_attributes": {
+    "Control_Objective": "12.4.2 Protection of log information", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.4 Logging and monitoring", 
+    "description": "Logging facilities and log information shall be protected against tampering and unauthorized access"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

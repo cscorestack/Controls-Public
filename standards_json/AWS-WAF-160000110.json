@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000110",
+  "compliance_control_uri": "AWS-WAF/0016/160000110",
+  "Control Name": "SEC 5.2 Control traﬃc at all layers",
+  "Control Family": "Security",
+  "Control Statement": "Apply controls with a defense in depth approach for both inbound and outbound traﬃc. For example, for Amazon Virtual Private Cloud (VPC) this includes security groups, Network ACLs, and subnets. For AWS Lambda, consider running in your private VPC with VPC-based controls.",
+  "control_attributes": {
+    "Control": "SEC 5.2 Control traﬃc at all layers",
+    "Category": "Security",
+    "Subcategory": "How do you protect your network resources?",
+    "question_id": "network-protection",
+    "choice_id": "sec_network_protection_layered"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

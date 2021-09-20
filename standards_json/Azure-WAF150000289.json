@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000289", 
+  "compliance_control_uri": "Azure-WAF/0015/150000289", 
+  "Control Name": "3.10.7 You have determined an acceptable operational margin between your peak utilization and the application's maximum load, and monitor for this.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "What is the maximum taxation you wish to place on resources? Factors such as memory, CPU, and disk IOPS should all be considered. Once a stress test has been performed resulting in the maximum supported load and an operational margin has been chosen, it is best to determine an operational threshold. Then, environment scaling (automatic or manual) can be performed once the threshold has been reached.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.7 You have determined an acceptable operational margin between your peak utilization and the application's maximum load, and monitor for this.", 
+    "Description": "What is the maximum taxation you wish to place on resources? Factors such as memory, CPU, and disk IOPS should all be considered. Once a stress test has been performed resulting in the maximum supported load and an operational margin has been chosen, it is best to determine an operational threshold. Then, environment scaling (automatic or manual) can be performed once the threshold has been reached."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

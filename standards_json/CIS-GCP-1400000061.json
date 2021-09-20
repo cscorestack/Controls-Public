@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000061", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000061", 
+  "Control Name": "6.14 Ensure that Cloud SQL database instances do not have public IPs", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to configure Second Generation Sql instance to use private IPs instead of public IPs.", 
+  "control_attributes": {
+    "Control": "6.14 Ensure that Cloud SQL database instances do not have public IPs", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to configure Second Generation Sql instance to use private IPs instead of public IPs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

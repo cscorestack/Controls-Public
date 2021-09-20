@@ -1,0 +1,18 @@
+{
+  "Control Family": "PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000070", 
+  "control_attributes": {
+    "Control": "PL-9 CENTRAL MANAGEMENT", 
+    "control_description": "The organization centrally manages [Assignment: organization-defined security controls and related processes].", 
+    "Family": "PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization manages information system authenticators by:"
+  }, 
+  "Control Statement": "The organization centrally manages [Assignment: organization-defined security controls and related processes].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PL-9 CENTRAL MANAGEMENT", 
+  "compliance_control_number": "600000070"
+}

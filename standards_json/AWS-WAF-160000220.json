@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000220",
+  "compliance_control_uri": "AWS-WAF/0016/160000220",
+  "Control Name": "PERF 4.2 Evaluate the available options",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Evaluate the services and storage options that are available as part of the selection process for your workload's storage mechanisms. Understand how, and when, to use a\ngiven service or system for data storage. Learn about available conﬁguration options that can optimize database performance or eﬃciency, such as provisioned IOPs, memory and compute resources, and caching.",
+  "control_attributes": {
+    "Control": "PERF 4.2 Evaluate the available options",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select your database solution?",
+    "question_id": "right-database-solution",
+    "choice_id": "perf_right_database_solution_evaluate_options"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

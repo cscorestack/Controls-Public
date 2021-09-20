@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000008", 
+  "compliance_control_uri": "ISO/0001/100000008", 
+  "Control Name": "6.2.1 Mobile device policy", 
+  "Control Family": "6. Organization of information security", 
+  "Control Statement": "A formal policy shall be in place, and appropriate security measures shall be adopted to protect against the risks of using mobile computing and communication facilities", 
+  "control_attributes": {
+    "Control_Objective": "6.2.1 Mobile device policy", 
+    "Security_Control_Clause": "6. Organization of information security", 
+    "Security_Category": "6.2 Mobile devices and teleworking", 
+    "description": "A formal policy shall be in place, and appropriate security measures shall be adopted to protect against the risks of using mobile computing and communication facilities"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000016", 
+  "compliance_control_uri": "CIS-Azure/0015/150000016", 
+  "Control Name": "1.16 Ensure that 'Restrict user ability to access groups features in the Access Pane' is set to 'No'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Restrict group creation to administrators only.", 
+  "control_attributes": {
+    "Control": "1.16 Ensure that 'Restrict user ability to access groups features in the Access Pane' is set to 'No'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Restrict group creation to administrators only."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

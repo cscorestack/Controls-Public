@@ -1,0 +1,128 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000036",
+  "compliance_control_uri": "AC3-v-01/0000/110000036",
+  "Control Name": "AC-2 (11) USAGE CONDITIONS",
+  "Control Family": "ACCESS CONTROL",
+  "Control Statement": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts].",
+  "control_attributes": {
+    "Control Name": "AC-2 (11) USAGE CONDITIONS",
+    "Control Family": "ACCESS CONTROL",
+    "Control Statement": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Identity",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Identity/IAM",
+      "service_resource": "AWS/Identity/IAM/IAM_Users"
+    },
+    {
+      "service_resource_type": "Azure/Identity/AzureActiveDirectory",
+      "service_resource": "Azure/Identity/AzureActiveDirectory/Groups"
+    },
+    {
+      "service_resource_type": "Azure/Identity/AzureActiveDirectory",
+      "service_resource": "Azure/Identity/AzureActiveDirectory/Objects"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Firewall_Rules"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000133",
+      "ISO-27001/0011/1100000027",
+      "Fedramp-Control-High/0009/900000011",
+      "ISO/0001/100000020",
+      "AWS-WAF/0016/160000126",
+      "Azure-WAF/0015/150000485",
+      "SOC2/0017/1700000115"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/dhnaw",
+        "policy_name": "AWS_IAM_Root_Access_Key_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/lefsR",
+        "policy_name": "AWS_Root_Account_Restriction",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/294e3",
+        "policy_name": "AWS_Audit_IAM_Users_Unauthorized_to_Edit_Access_Policies",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/77539",
+        "policy_name": "AWS_Audit_Attach_Policy_IAM_Roles_App_Tier_EC2_Instances",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/96809",
+        "policy_name": "AWS_Audit_Attach_Policy_IAM_Roles_Web_Tier_EC2_Instances",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/f2fd6",
+        "policy_name": "AWS_Audit_Canary_Access_Token",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/skcp",
+        "policy_name": "GCP_Audit_Cloud_SQL_Root_Account_With_No_Password",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pvua",
+        "policy_name": "GCP_Monitor_Cloud_SQL_Database_Connections",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ladp",
+        "policy_name": "GCP_Monitor_SQL_Root_Access_Limitation",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

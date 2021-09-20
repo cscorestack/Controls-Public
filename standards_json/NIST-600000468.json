@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000468", 
+  "control_attributes": {
+    "Control": "MP-5 (3) CUSTODIANS", 
+    "control_description": "The organization employs an identified custodian during transport of information system media outside of controlled areas.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization [Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards]."
+  }, 
+  "Control Statement": "The organization employs an identified custodian during transport of information system media outside of controlled areas.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-5 (3) CUSTODIANS", 
+  "compliance_control_number": "600000468"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000172", 
+  "control_attributes": {
+    "Control": "AC-6 (8) PRIVILEGE LEVELS FOR CODE EXECUTION", 
+    "control_description": "The information system prevents [Assignment: organization-defined software] from executing at higher privilege levels than users executing the software.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "P2", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system automatically terminates a user session after [Assignment: organization-defined conditions or trigger events requiring session disconnect]."
+  }, 
+  "Control Statement": "The information system prevents [Assignment: organization-defined software] from executing at higher privilege levels than users executing the software.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-6 (8) PRIVILEGE LEVELS FOR CODE EXECUTION", 
+  "compliance_control_number": "600000172"
+}

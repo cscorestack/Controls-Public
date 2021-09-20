@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000338", 
+  "control_attributes": {
+    "Control": "CP-7 (3) PRIORITY OF SERVICE", 
+    "control_description": "The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization tests backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity."
+  }, 
+  "Control Statement": "The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-7 (3) PRIORITY OF SERVICE", 
+  "compliance_control_number": "600000338"
+}

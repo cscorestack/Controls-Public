@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000004", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000004", 
+  "Control Name": "ACCOUNT MANAGEMENT | REMOVAL OF TEMPORARY / EMERGENCY ACCOUNTS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system automatically [Selection: removes; disables] temporary and emergency accounts after [Assignment: organization-defined time period for each type of account].Supplemental Guidance: This control enhancement requires the removal of both temporary and emergency accounts automatically after a predefined period of time has elapsed, rather than at the convenience of the systems administrator.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system automatically [Selection: removes; disables] temporary and emergency accounts after [Assignment: organization-defined time period for each type of account].Supplemental Guidance: This control enhancement requires the removal of both temporary and emergency accounts automatically after a predefined period of time has elapsed, rather than at the convenience of the systems administrator.", 
+    "SelectionParam": "AC-2 (2) [no more than 30 days for temporary and emergency account types]", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-02 (02)", 
+    "CNTL NO": "AC-2 (2)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ACCOUNT MANAGEMENT | REMOVAL OF TEMPORARY / EMERGENCY ACCOUNTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000187", 
+  "compliance_control_uri": "Azure-WAF/0015/150000187", 
+  "Control Name": "2.16.1 Error budgets used to track service reliability.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "An error budget describes the maximum amount of time that the application can fail without consequence, and is typically calculated as 1-Service Level Agreement (SLA). For example, if the SLA specifies that the application will function 99.99% of the time before the business has to compensate customers, the error budget is 52 minutes and 35 seconds per year.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.16 What operational excellence allowances for reliability have you made?", 
+    "Control": "2.16.1 Error budgets used to track service reliability.", 
+    "Description": "An error budget describes the maximum amount of time that the application can fail without consequence, and is typically calculated as 1-Service Level Agreement (SLA). For example, if the SLA specifies that the application will function 99.99% of the time before the business has to compensate customers, the error budget is 52 minutes and 35 seconds per year."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000752",
+  "compliance_control_uri": "AC3-v-01/0000/110000752",
+  "Control Name": "SI-11 ERROR HANDLING",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The information system: a. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; andb. Reveals error messages only to [Assignment: organization-defined personnel or roles].",
+  "control_attributes": {
+    "Control Name": "SI-11 ERROR HANDLING",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The information system: a. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; andb. Reveals error messages only to [Assignment: organization-defined personnel or roles]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000803",
+      "PCI-DSS/0012/1200000088",
+      "Fedramp-Control-Moderate/0010/1000000320",
+      "Fedramp-Control-High/0009/900000418",
+      "Azure-WAF/0015/150000428"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

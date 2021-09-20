@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000015",
+  "compliance_control_uri": "AWS-WAF/0016/160000015",
+  "Control Name": "OPS 3.1 Executive Sponsorship",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Senior leadership clearly sets expectations for the organization and evaluates success. Senior leadership is the sponsor, advocate, and driver for the adoption of best practices and evolution of the organization",
+  "control_attributes": {
+    "Control": "OPS 3.1 Executive Sponsorship",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_executive_sponsor"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

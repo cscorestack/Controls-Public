@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000373", 
+  "compliance_control_uri": "Azure-WAF/0015/150000373", 
+  "Control Name": "4.10.4 Keys and secrets are backed-up to geo-redundant storage.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are Keys and secrets backed-up to geo-redundant storage?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.10 What reliability allowances for security have you made?", 
+    "Control": "4.10.4 Keys and secrets are backed-up to geo-redundant storage.", 
+    "Description": "Are Keys and secrets backed-up to geo-redundant storage?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000077",
+  "compliance_control_uri": "AWS-WAF/0016/160000077",
+  "Control Name": "OPS 11.4 Perform Knowledge Management",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Mechanisms exist for your team members to discover the information that they are looking for in a timely manner, access it, and identify that its current and complete. Mechanisms are present to identify needed content, content in need of refresh, and content that should be archived so that it’s no longer referenced.",
+  "control_attributes": {
+    "Control": "OPS 11.4 Perform Knowledge Management",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you evolve operations?",
+    "question_id": "evolve-ops",
+    "choice_id": "ops_evolve_ops_knowledge_management"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

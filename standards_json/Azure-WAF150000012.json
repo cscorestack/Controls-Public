@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000012", 
+  "compliance_control_uri": "Azure-WAF/0015/150000012", 
+  "Control Name": "1.2.3 Cost forecasting is done to ensure it aligns with the budget", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "In order to predict costs and trends it's recommended to use forecasting to be proactive for any spending that might be going up due to higher demand than anticipated.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.3 Cost forecasting is done to ensure it aligns with the budget", 
+    "Description": "In order to predict costs and trends it's recommended to use forecasting to be proactive for any spending that might be going up due to higher demand than anticipated."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

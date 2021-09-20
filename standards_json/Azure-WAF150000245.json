@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000245", 
+  "compliance_control_uri": "Azure-WAF/0015/150000245", 
+  "Control Name": "3.5.1 You are using a Content Delivery Network.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "CDNs store static files in locations that are typically geographically closer to the user than the data center. This increases overall application performance as latency for delivery and downloading these artifacts is reduced.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.1 You are using a Content Delivery Network.", 
+    "Description": "CDNs store static files in locations that are typically geographically closer to the user than the data center. This increases overall application performance as latency for delivery and downloading these artifacts is reduced."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

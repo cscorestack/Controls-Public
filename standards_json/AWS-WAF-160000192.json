@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000192",
+  "compliance_control_uri": "AWS-WAF/0016/160000192",
+  "Control Name": "REL 12.1 Use playbooks to investigate failures",
+  "Control Family": "Reliability",
+  "Control Statement": "Enable consistent and prompt responses to failure scenarios that are not well understood, by documenting the investigation process in playbooks. Playbooks are the predeﬁned steps performed to identify the factors contributing to a failure scenario. The results from any process step are used to determine the next steps to take until the issue is identiﬁed or escalated.",
+  "control_attributes": {
+    "Control": "REL 12.1 Use playbooks to investigate failures",
+    "Category": "Reliability",
+    "Subcategory": "How do you test reliability?",
+    "question_id": "testing-resiliency",
+    "choice_id": "rel_testing_resiliency_playbook_resiliency"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

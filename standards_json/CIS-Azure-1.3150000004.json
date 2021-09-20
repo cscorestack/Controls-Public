@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000004", 
+  "compliance_control_uri": "CIS-Azure/0015/150000004", 
+  "Control Name": "1.4 Ensure that 'Allow users to remember multi-factor authentication on devices they trust' is 'Disabled'", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Do not allow users to remember multi-factor authentication on devices", 
+  "control_attributes": {
+    "Control": "1.4 Ensure that 'Allow users to remember multi-factor authentication on devices they trust' is 'Disabled'", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Do not allow users to remember multi-factor authentication on devices"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

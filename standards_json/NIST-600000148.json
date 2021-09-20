@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000148", 
+  "control_attributes": {
+    "Control": "AC-4 (5) EMBEDDED DATA TYPES", 
+    "control_description": "The information system enforces [Assignment: organization-defined limitations] on embedding data types within other data types.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system, when transferring information between different security domains, applies the same security policy filtering to metadata as it applies to data payloads."
+  }, 
+  "Control Statement": "The information system enforces [Assignment: organization-defined limitations] on embedding data types within other data types.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (5) EMBEDDED DATA TYPES", 
+  "compliance_control_number": "600000148"
+}

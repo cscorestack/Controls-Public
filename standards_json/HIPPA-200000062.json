@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000062", 
+  "compliance_control_uri": "HIPAA/0002/200000062", 
+  "Control Name": "Workstation Security - 164.310(c)", 
+  "Control Family": "Workstation Security", 
+  "Control Statement": "Implement physical safeguards for all workstations that access electronic protected health information, to restrict access to authorized users.", 
+  "control_attributes": {
+    "Control": "Workstation Security - 164.310(c)", 
+    "Security_Category": "Workstation Security", 
+    "Control_description": "Implement physical safeguards for all workstations that access electronic protected health information, to restrict access to authorized users."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

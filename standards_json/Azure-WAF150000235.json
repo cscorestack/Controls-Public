@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000235", 
+  "compliance_control_uri": "Azure-WAF/0015/150000235", 
+  "Control Name": "3.3.4 Automatically schedule autoscaling to add resources based on time of day trends.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Preemptively scaling based on historical data can ensure your application is performant before your metrics indicate additional resources are required.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.3 How are you ensuring that your workload is elastic and responsive to changes?", 
+    "Control": "3.3.4 Automatically schedule autoscaling to add resources based on time of day trends.", 
+    "Description": "Preemptively scaling based on historical data can ensure your application is performant before your metrics indicate additional resources are required."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

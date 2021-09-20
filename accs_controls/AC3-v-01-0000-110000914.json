@@ -1,0 +1,62 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000914", 
+  "compliance_control_uri": "AC3-v-01/0000/110000914", 
+  "Control Name": "Ensure App Service Authentication is set on Azure App Service", 
+  "Control Family": "AppService", 
+  "Control Statement": "Azure App Service Authentication is a feature that can prevent anonymous HTTP requests from reaching the API app, or authenticate those that have tokens before they reach the API app.", 
+  "control_attributes": {
+    "Control Name": "Ensure App Service Authentication is set on Azure App Service", 
+    "Control Family": "AppService", 
+    "Control Statement": "Azure App Service Authentication is a feature that can prevent anonymous HTTP requests from reaching the API app, or authenticate those that have tokens before they reach the API app."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Application", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Web/App_Services",
+      "service_resource": "Azure/Web/App_Services/Appservice_Environments"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000101"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Azure_Audit_FunctionApp_Authentication_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/jPnKB",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_WebApp_Authentication_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/lKMjK",
+      "is_deleted": false,
+      "is_parameterized": true
+    },
+    {
+      "policy_name": "Azure_Audit_APIApp_Authentication_Enabled",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/LjgiO",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

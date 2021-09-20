@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000120", 
+  "control_attributes": {
+    "Control": "SA-18 TAMPER RESISTANCE AND DETECTION", 
+    "control_description": "The organization implements a tamper protection program for the information system, system component, or information system service.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The information system enforces [Assignment: organization-defined circumstances and/or usage conditions] for [Assignment: organization-defined information system accounts]."
+  }, 
+  "Control Statement": "The organization implements a tamper protection program for the information system, system component, or information system service.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-18 TAMPER RESISTANCE AND DETECTION", 
+  "compliance_control_number": "600000120"
+}

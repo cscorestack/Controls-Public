@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000045", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000045", 
+  "Control Name": "3.5.2 Restrict access to cryptographic keys to the fewest number of custodians necessary.", 
+  "Control Family": "Protect Cardholder Data", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Protect Cardholder Data", 
+    "Control": "3.5.2 Restrict access to cryptographic keys to the fewest number of custodians necessary.", 
+    "Requirement": "Requirement 3: Protect stored cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000347", 
+  "control_attributes": {
+    "Control": "CP-9 (1) TESTING FOR RELIABILITY / INTEGRITY", 
+    "control_description": "The organization tests backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization protects backup and restoration hardware, firmware, and software."
+  }, 
+  "Control Statement": "The organization tests backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 (1) TESTING FOR RELIABILITY / INTEGRITY", 
+  "compliance_control_number": "600000347"
+}

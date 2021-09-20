@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000725", 
+  "control_attributes": {
+    "Control": "SC-34 (2) INTEGRITY PROTECTION / READ-ONLY MEDIA", 
+    "control_description": "The organization protects the integrity of information prior to storage on read-only media and controls the media after such information has been recorded onto the media.", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs [Assignment: organization-defined out-of-band channels] for the physical delivery or electronic transmission of [Assignment: organization-defined information, information system components, or devices] to [Assignment: organization-defined individuals or information systems]."
+  }, 
+  "Control Statement": "The organization protects the integrity of information prior to storage on read-only media and controls the media after such information has been recorded onto the media.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-34 (2) INTEGRITY PROTECTION / READ-ONLY MEDIA", 
+  "compliance_control_number": "600000725"
+}

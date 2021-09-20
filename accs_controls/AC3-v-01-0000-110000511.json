@@ -1,0 +1,51 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000511",
+  "compliance_control_uri": "AC3-v-01/0000/110000511",
+  "Control Name": "PM-6 INFORMATION SECURITY MEASURES OF PERFORMANCE",
+  "Control Family": "PROGRAM MANAGEMENT",
+  "Control Statement": "The organization develops, monitors, and reports on the results of information security measures of performance.",
+  "control_attributes": {
+    "Control Name": "PM-6 INFORMATION SECURITY MEASURES OF PERFORMANCE",
+    "Control Family": "PROGRAM MANAGEMENT",
+    "Control Statement": "The organization develops, monitors, and reports on the results of information security measures of performance."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Systems_Manager",
+      "service_resource": "AWS/Governance/Systems_Manager/ManagedInstanceInventory"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000816"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

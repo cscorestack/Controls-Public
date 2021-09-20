@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000147", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000147", 
+  "Control Name": "Destroy media when it is no longer needed for business or legal reasons as follows:", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Destroy media when it is no longer needed for business or legal reasons as follows:", 
+    "Requirement": "9.8. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

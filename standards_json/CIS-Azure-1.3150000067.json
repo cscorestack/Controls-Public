@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000067", 
+  "compliance_control_uri": "CIS-Azure/0015/150000067", 
+  "Control Name": "4.5 Ensure SQL server's TDE protector is encrypted with Customer-managed key", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "TDE with Customer-managed key support provides increased transparency and control over the TDE Protector, increased security with an HSM-backed external service, and promotion of separation of duties.", 
+  "control_attributes": {
+    "Control": "4.5 Ensure SQL server's TDE protector is encrypted with Customer-managed key", 
+    "Control_Clause": "4 Database Services", 
+    "description": "TDE with Customer-managed key support provides increased transparency and control over the TDE Protector, increased security with an HSM-backed external service, and promotion of separation of duties."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

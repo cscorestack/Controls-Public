@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000270", 
+  "compliance_control_uri": "Azure-WAF/0015/150000270", 
+  "Control Name": "3.8.3 There is a goal defined for complete page load times.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "What are your goals for a completed page load? When formulating this metric, it is important to note the varying thresholds that can be deemed acceptable. Some companies, whose primary audience is internal and are salary-based, may base their thresholds on the user's mental capacity to sit at the application screen. Other customers that have service-related users (i.e. users who are paid for performance) may base their thresholds on the ability to keep the user working as fast as possible (mental state is not the primary motivator) because increased productivity typically increases revenue.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.3 There is a goal defined for complete page load times.", 
+    "Description": "What are your goals for a completed page load? When formulating this metric, it is important to note the varying thresholds that can be deemed acceptable. Some companies, whose primary audience is internal and are salary-based, may base their thresholds on the user's mental capacity to sit at the application screen. Other customers that have service-related users (i.e. users who are paid for performance) may base their thresholds on the ability to keep the user working as fast as possible (mental state is not the primary motivator) because increased productivity typically increases revenue."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

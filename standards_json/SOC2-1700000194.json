@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000194",
+  "compliance_control_uri": "SOC2/0017/1700000194",
+  "Control Name": "Protects Confidential Information—The entity protects confidential information during system design, development, testing, implementation, and change processes to meet the entity’s objectives related to confidentiality.  ",
+  "Control Family": "Change Management",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Protects Confidential Information—The entity protects confidential information during system design, development, testing, implementation, and change processes to meet the entity’s objectives related to confidentiality.  ",
+    "Category": "Change Management",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC8.1 The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "ControlNo": "CC8.1.14",
+    "TrustID": "CC8.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

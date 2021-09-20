@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000072",
+  "compliance_control_uri": "AWS-WAF/0016/160000072",
+  "Control Name": "OPS 10.6 Communicate status through dashboards",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Provide dashboards tailored to their target audiences (for example, internal technical teams, leadership, and customers) to communicate the current operating status of the business and provide metrics of interest.",
+  "control_attributes": {
+    "Control": "OPS 10.6 Communicate status through dashboards",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_dashboards"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000045", 
+  "compliance_control_uri": "ISO/0001/100000106", 
+  "Control Name": "11.1.4 Protecting against external and environmental threats", 
+  "Control Family": "11. Physical and environmental security", 
+  "Control Statement": "Physical protection against natural disasters, malicious attack or accidents shall be designed and applied.", 
+  "control_attributes": {
+    "Control_Objective": "11.1.4 Protecting against external and environmental threats", 
+    "Security_Control_Clause": "11. Physical and environmental security", 
+    "Security_Category": "11.1 - Secure areas", 
+    "description": "Physical protection against natural disasters, malicious attack or accidents shall be designed and applied."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

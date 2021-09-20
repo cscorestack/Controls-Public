@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000109", 
+  "compliance_control_uri": "CIS-Azure/0003/300000109", 
+  "Control Name": "9.3. Ensure web app is using the latest version of TLS encryption", 
+  "Control Family": "9. App Service", 
+  "Control Statement": "App service currently allows the web app to set TLS versions 1.0, 1.1 and 1.2. It is highly recommended to use the latest TLS 1.2 version for web app secure connections.", 
+  "control_attributes": {
+    "Control": "9.3. Ensure web app is using the latest version of TLS encryption", 
+    "Control_Clause": "9. App Service", 
+    "description": "App service currently allows the web app to set TLS versions 1.0, 1.1 and 1.2. It is highly recommended to use the latest TLS 1.2 version for web app secure connections."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

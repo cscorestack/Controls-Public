@@ -1,0 +1,18 @@
+{
+  "Control Family": "AWARENESS AND TRAINING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000229", 
+  "control_attributes": {
+    "Control": "AT-3 (4) SUSPICIOUS COMMUNICATIONS AND ANOMALOUS SYSTEM BEHAVIOR", 
+    "control_description": "The organization provides training to its personnel on [Assignment: organization-defined indicators of malicious code] to recognize suspicious communications and anomalous behavior in organizational information systems.", 
+    "Family": "AWARENESS AND TRAINING", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization correlates information from nontechnical sources with audit information to enhance organization-wide situational awareness."
+  }, 
+  "Control Statement": "The organization provides training to its personnel on [Assignment: organization-defined indicators of malicious code] to recognize suspicious communications and anomalous behavior in organizational information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AT-3 (4) SUSPICIOUS COMMUNICATIONS AND ANOMALOUS SYSTEM BEHAVIOR", 
+  "compliance_control_number": "600000229"
+}

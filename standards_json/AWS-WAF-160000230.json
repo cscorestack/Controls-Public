@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000230",
+  "compliance_control_uri": "AWS-WAF/0016/160000230",
+  "Control Name": "PERF 5.7 Optimize network conﬁguration based on metrics",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use collected and analyzed data to make informed decisions about optimizing your network conﬁguration. Measure the impact of those changes and use the impact measurements to make future decisions.",
+  "control_attributes": {
+    "Control": "PERF 5.7 Optimize network conﬁguration based on metrics",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you conﬁgure your networking solution?",
+    "question_id": "select-network",
+    "choice_id": "perf_select_network_optimize"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

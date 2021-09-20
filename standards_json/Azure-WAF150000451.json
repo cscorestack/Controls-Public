@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000451", 
+  "compliance_control_uri": "Azure-WAF/0015/150000451", 
+  "Control Name": "5.7.7 A security training program is developed and maintained to ensure security staff of this workload are well-informed and equipped with the appropriate skills.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Cybersecurity threats are always evolving and therefore those responsible for organizational information security require specialized, continual, and relevant training to ensure staff maintains the level of competency required to protect, detect, and respond.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.7 A security training program is developed and maintained to ensure security staff of this workload are well-informed and equipped with the appropriate skills.", 
+    "Description": "Cybersecurity threats are always evolving and therefore those responsible for organizational information security require specialized, continual, and relevant training to ensure staff maintains the level of competency required to protect, detect, and respond."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

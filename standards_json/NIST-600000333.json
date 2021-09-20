@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000333", 
+  "control_attributes": {
+    "Control": "CP-6 (2) RECOVERY TIME / POINT OBJECTIVES", 
+    "control_description": "The organization configures the alternate storage site to facilitate recovery operations in accordance with recovery time and recovery point objectives.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization configures the alternate storage site to facilitate recovery operations in accordance with recovery time and recovery point objectives.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-6 (2) RECOVERY TIME / POINT OBJECTIVES", 
+  "compliance_control_number": "600000333"
+}

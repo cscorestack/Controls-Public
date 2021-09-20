@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000361",
+  "compliance_control_uri": "AC3-v-01/0000/110000361",
+  "Control Name": "IR-2 INCIDENT RESPONSE TRAINING",
+  "Control Family": "INCIDENT RESPONSE",
+  "Control Statement": "The organization provides incident response training to information system users consistent with assigned roles and responsibilities:",
+  "control_attributes": {
+    "Control Name": "IR-2 INCIDENT RESPONSE TRAINING",
+    "Control Family": "INCIDENT RESPONSE",
+    "Control Statement": "The organization provides incident response training to information system users consistent with assigned roles and responsibilities:"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000411",
+      "PCI-DSS/0012/1200000238",
+      "Fedramp-Control-Moderate/0010/1000000159",
+      "Fedramp-Control-High/0009/900000212",
+      "HIPAA/0002/200000017",
+      "AWS-WAF/0005/500000132",
+      "Azure-WAF/0015/150000449"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

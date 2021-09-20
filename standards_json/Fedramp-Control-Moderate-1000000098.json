@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000098", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000098", 
+  "Control Name": "LEAST FUNCTIONALITY | PERIODIC REVIEW", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization: (a)   Reviews the information system [Assignment: organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and (b)   Disables [Assignment: organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].Supplemental Guidance:  The organization can either make a determination of the relative security of the function, port, protocol, and/or service or base the security decision on the assessment of other entities. Bluetooth, FTP, and peer-to-peer networking are examples of less than secure protocols. Related controls: AC-18, CM-7, IA-2.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization: (a)   Reviews the information system [Assignment: organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and (b)   Disables [Assignment: organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].Supplemental Guidance:  The organization can either make a determination of the relative security of the function, port, protocol, and/or service or base the security decision on the assessment of other entities. Bluetooth, FTP, and peer-to-peer networking are examples of less than secure protocols. Related controls: AC-18, CM-7, IA-2.", 
+    "SelectionParam": "CM-7 (1) (a) [at least monthly] ", 
+    "FedRampParam": "x", 
+    "SORTID": "CM-07 (01)", 
+    "CNTL NO": "CM-7 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "LEAST FUNCTIONALITY | PERIODIC REVIEW"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

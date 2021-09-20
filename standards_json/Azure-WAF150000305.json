@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000305", 
+  "compliance_control_uri": "Azure-WAF/0015/150000305", 
+  "Control Name": "4.2.3 Deployed the application across Availability Zones within a region.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is the application designed to use Availability Zones within a region?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.2 How have you ensured that your application architecture is resilient to failures?", 
+    "Control": "4.2.3 Deployed the application across Availability Zones within a region.", 
+    "Description": "Is the application designed to use Availability Zones within a region?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

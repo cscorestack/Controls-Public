@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000023", 
+  "compliance_control_uri": "Azure-WAF/0015/150000023", 
+  "Control Name": "1.3.1 Alerts are set for cost thresholds and limits.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "This is to ensure that if any budget is close to threshold, the cost owner gets notified to take appropriate actions on the change.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.3 How are you monitoring costs of this workload?", 
+    "Control": "1.3.1 Alerts are set for cost thresholds and limits.", 
+    "Description": "This is to ensure that if any budget is close to threshold, the cost owner gets notified to take appropriate actions on the change."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

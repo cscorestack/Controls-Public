@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000411", 
+  "compliance_control_uri": "Azure-WAF/0015/150000411", 
+  "Control Name": "5.3.2 Framework and library updates are included into the workload lifecycle.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Application frameworks are frequently provided with updates (e.g. security), released by the vendor or communities. Critical and important security patches need to be prioritized.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.2 Framework and library updates are included into the workload lifecycle.", 
+    "Description": "Application frameworks are frequently provided with updates (e.g. security), released by the vendor or communities. Critical and important security patches need to be prioritized."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

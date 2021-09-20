@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000227", 
+  "compliance_control_uri": "Azure-WAF/0015/150000227", 
+  "Control Name": "3.1.11 You understand where state will be stored for the workload.Stateless services and processes can easily be hosted across multiple compute instances to meet scale demands, as well as helping to reduce complexity and ensure high cacheability.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "How do you enable your long running workflows?", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.1 What design considerations have you made for performance efficiency in your workload?", 
+    "Control": "3.1.11 You understand where state will be stored for the workload.Stateless services and processes can easily be hosted across multiple compute instances to meet scale demands, as well as helping to reduce complexity and ensure high cacheability.", 
+    "Description": "How do you enable your long running workflows?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

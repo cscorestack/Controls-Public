@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000043", 
+  "compliance_control_uri": "CIS-Azure/0015/150000043", 
+  "Control Name": "3.5 Ensure that 'Public access level' is set to Private for blob containers", 
+  "Control Family": "3 Storage Accounts", 
+  "Control Statement": "Disable anonymous access to blob containers and disallow blob public access on storage account.", 
+  "control_attributes": {
+    "Control": "3.5 Ensure that 'Public access level' is set to Private for blob containers", 
+    "Control_Clause": "3 Storage Accounts", 
+    "description": "Disable anonymous access to blob containers and disallow blob public access on storage account."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

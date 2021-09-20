@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000049",
+  "compliance_control_uri": "AWS-WAF/0016/160000049",
+  "Control Name": "OPS 7.4 Use playbooks to investigate issues",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Enable consistent and prompt responses to issues that are not well understood, by documenting the investigation process in playbooks. Playbooks are the predeﬁned steps performed to identify the factors contributing to a failure scenario. The results from any process step are used to determine the next steps to take until the issue is identiﬁed or escalated.",
+  "control_attributes": {
+    "Control": "OPS 7.4 Use playbooks to investigate issues",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you know that you are ready to support a workload?",
+    "question_id": "ready-to-support",
+    "choice_id": "ops_ready_to_support_use_playbooks"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

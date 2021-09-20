@@ -1,0 +1,18 @@
+{
+  "Control Family": "MAINTENANCE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000458", 
+  "control_attributes": {
+    "Control": "MA-5 (5) NONSYSTEM-RELATED MAINTENANCE", 
+    "control_description": "The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations.", 
+    "Family": "MAINTENANCE", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automated mechanisms to restrict access to media storage areas and to audit access attempts and access granted."
+  }, 
+  "Control Statement": "The organization ensures that non-escorted personnel performing maintenance activities not directly associated with the information system but in the physical proximity of the system, have required access authorizations.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MA-5 (5) NONSYSTEM-RELATED MAINTENANCE", 
+  "compliance_control_number": "600000458"
+}

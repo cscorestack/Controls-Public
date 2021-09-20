@@ -1,0 +1,55 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000221",
+  "compliance_control_uri": "AC3-v-01/0000/110000221",
+  "Control Name": "CM-3 CONFIGURATION CHANGE CONTROL",
+  "Control Family": "CONFIGURATION MANAGEMENT",
+  "Control Statement": "The organization: a. Determines the types of changes to the information system that are configuration-controlled;b. Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;c. Documents configuration change decisions associated with the information system;d. Implements approved configuration-controlled changes to the information system;e. Retains records of configuration-controlled changes to the information system for [Assignment: organization-defined time period];f. Audits and reviews activities associated with configuration-controlled changes to the information system; andg. Coordinates and provides oversight for configuration change control activities through [Assignment: organization-defined configuration change control element (e.g., committee, board)] that convenes [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined configuration change conditions]].",
+  "control_attributes": {
+    "Control Name": "CM-3 CONFIGURATION CHANGE CONTROL",
+    "Control Family": "CONFIGURATION MANAGEMENT",
+    "Control Statement": "The organization: a. Determines the types of changes to the information system that are configuration-controlled;b. Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;c. Documents configuration change decisions associated with the information system;d. Implements approved configuration-controlled changes to the information system;e. Retains records of configuration-controlled changes to the information system for [Assignment: organization-defined time period];f. Audits and reviews activities associated with configuration-controlled changes to the information system; andg. Coordinates and provides oversight for configuration change control activities through [Assignment: organization-defined configuration change control element (e.g., committee, board)] that convenes [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined configuration change conditions]]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000032",
+      "ISO/0001/100000057",
+      "ISO/0001/100000058",
+      "ISO/0001/100000059",
+      "NIST-SP800-53/0006/600000086",
+      "ISO-27001/0011/1100000058",
+      "ISO-27001/0011/1100000082",
+      "ISO-27001/0011/1100000083",
+      "PCI-DSS/0012/1200000002",
+      "PCI-DSS/0012/1200000072",
+      "PCI-DSS/0012/1200000073",
+      "PCI-DSS/0012/1200000074",
+      "PCI-DSS/0012/1200000075",
+      "PCI-DSS/0012/1200000076",
+      "PCI-DSS/0012/1200000077",
+      "ISO-27001/0011/1100000084",
+      "Fedramp-Control-Moderate/0010/1000000089",
+      "Fedramp-Control-High/0009/900000115"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

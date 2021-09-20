@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000064",
+  "compliance_control_uri": "AWS-WAF/0016/160000064",
+  "Control Name": "OPS 9.6 Alert when operations outcomes are at risk",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Raise an alert when operations outcomes are at risk so that you can respond appropriately if necessary.",
+  "control_attributes": {
+    "Control": "OPS 9.6 Alert when operations outcomes are at risk",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you understand the health of your operations?",
+    "question_id": "operations-health",
+    "choice_id": "ops_operations_health_ops_outcome_alerts"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

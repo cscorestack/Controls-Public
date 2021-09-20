@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000035", 
+  "control_attributes": {
+    "Control": "CM-7 (5) AUTHORIZED SOFTWARE / WHITELISTING", 
+    "control_description": "The organization:(a) Identifies [Assignment: organization-defined software programs authorized to execute on the information system];(b) Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and(c) Reviews and updates the list of authorized software programs [Assignment: organization-defined frequency].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The organization updates the inventory of information system components as an integral part of component installations, removals, and information system updates."
+  }, 
+  "Control Statement": "The organization:(a) Identifies [Assignment: organization-defined software programs authorized to execute on the information system];(b) Employs a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the information system; and(c) Reviews and updates the list of authorized software programs [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-7 (5) AUTHORIZED SOFTWARE / WHITELISTING", 
+  "compliance_control_number": "600000035"
+}

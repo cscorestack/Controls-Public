@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000625", 
+  "control_attributes": {
+    "Control": "SA-15 (7) AUTOMATED VULNERABILITY ANALYSIS", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to:", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P1", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to produce a design specification and security architecture that:"
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-15 (7) AUTOMATED VULNERABILITY ANALYSIS", 
+  "compliance_control_number": "600000625"
+}

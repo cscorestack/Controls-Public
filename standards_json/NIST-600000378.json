@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000378", 
+  "control_attributes": {
+    "Control": "IA-4 (4) IDENTIFY USER STATUS", 
+    "control_description": "The organization manages individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristic identifying individual status].", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access."
+  }, 
+  "Control Statement": "The organization manages individual identifiers by uniquely identifying each individual as [Assignment: organization-defined characteristic identifying individual status].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-4 (4) IDENTIFY USER STATUS", 
+  "compliance_control_number": "600000378"
+}

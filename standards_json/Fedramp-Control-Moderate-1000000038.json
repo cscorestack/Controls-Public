@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000038", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000038", 
+  "Control Name": "ACCESS CONTROL FOR MOBILE DEVICES | FULL DEVICE / CONTAINER-BASED ENCRYPTION", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices].Supplemental Guidance:  Container-based encryption provides a more fine-grained approach to the encryption of data/information on mobile devices, including for example, encrypting selected data structures such as files, records, or fields. Related controls: MP-5, SC-13, SC-28.References:  OMB Memorandum 06-16; NIST Special Publications 800-114, 800-124, 800-164.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization employs [Selection: full-device encryption; container encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices].Supplemental Guidance:  Container-based encryption provides a more fine-grained approach to the encryption of data/information on mobile devices, including for example, encrypting selected data structures such as files, records, or fields. Related controls: MP-5, SC-13, SC-28.References:  OMB Memorandum 06-16; NIST Special Publications 800-114, 800-124, 800-164.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-19 (05)", 
+    "CNTL NO": "AC-19 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "ACCESS CONTROL FOR MOBILE DEVICES | FULL DEVICE / CONTAINER-BASED ENCRYPTION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

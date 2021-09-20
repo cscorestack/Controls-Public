@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000208",
+  "compliance_control_uri": "AWS-WAF/0016/160000208",
+  "Control Name": "PERF 1.6 Benchmark existing workloads",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Benchmark the performance of an existing workload to understand how it performs on the cloud. Use the data collected from benchmarks to drive architectural decisions.",
+  "control_attributes": {
+    "Control": "PERF 1.6 Benchmark existing workloads",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_benchmark"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

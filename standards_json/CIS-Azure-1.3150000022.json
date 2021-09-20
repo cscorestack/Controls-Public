@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000022", 
+  "compliance_control_uri": "CIS-Azure/0015/150000022", 
+  "Control Name": "1.22 Ensure Security Defaults is enabled on Azure Active Directory", 
+  "Control Family": "1 Identity and Access Management", 
+  "Control Statement": "Security defaults in Azure Active Directory (Azure AD) make it easier to be secure and help protect your organization. Security defaults contain preconfigured security settings for common attacks.", 
+  "control_attributes": {
+    "Control": "1.22 Ensure Security Defaults is enabled on Azure Active Directory", 
+    "Control_Clause": "1 Identity and Access Management", 
+    "description": "Security defaults in Azure Active Directory (Azure AD) make it easier to be secure and help protect your organization. Security defaults contain preconfigured security settings for common attacks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

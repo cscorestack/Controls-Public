@@ -1,0 +1,42 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000812",
+  "compliance_control_uri": "AC3-v-01/0000/110000812",
+  "Control Name": "SI-7 (14) BINARY OR MACHINE EXECUTABLE CODE",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization: (a) Prohibits the use of binary or machine-executable code from sources with limited or no warranty and without the provision of source code; and(b) Provides exceptions to the source code requirement only for compelling mission/operational requirements and with the approval of the authorizing official.",
+  "control_attributes": {
+    "Control Name": "SI-7 (14) BINARY OR MACHINE EXECUTABLE CODE",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization: (a) Prohibits the use of binary or machine-executable code from sources with limited or no warranty and without the provision of source code; and(b) Provides exceptions to the source code requirement only for compelling mission/operational requirements and with the approval of the authorizing official."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000792",
+      "PCI-DSS/0012/1200000178",
+      "PCI-DSS/0012/1200000201",
+      "PCI-DSS/0012/1200000202",
+      "Fedramp-Control-High/0009/900000413"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

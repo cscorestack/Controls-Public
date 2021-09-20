@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000031", 
+  "compliance_control_uri": "CIS-AWS/0007/700000031", 
+  "Control Name": "3.6 Ensure S3 bucket access logging is enabled on the CloudTrail S3 bucket", 
+  "Control Family": "Logging", 
+  "Control Statement": "It is recommended that bucket access logging be enabled on the CloudTrail S3 bucket. By enabling S3 bucket logging on target S3 buckets, it is possible to capture all events which may affect objects within an target buckets. Configuring logs to be placed in a separate bucket allows access to log information which can be useful in security and incident response workflows.", 
+  "control_attributes": {
+    "Control": "3.6 Ensure S3 bucket access logging is enabled on the CloudTrail S3 bucket", 
+    "Category": "Logging", 
+    "Control_description": "It is recommended that bucket access logging be enabled on the CloudTrail S3 bucket. By enabling S3 bucket logging on target S3 buckets, it is possible to capture all events which may affect objects within an target buckets. Configuring logs to be placed in a separate bucket allows access to log information which can be useful in security and incident response workflows."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

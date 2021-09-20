@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000027", 
+  "control_attributes": {
+    "Control": "CM-2 (1) REVIEWS AND UPDATES", 
+    "control_description": "The organization reviews and updates the baseline configuration of the information system:", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system."
+  }, 
+  "Control Statement": "The organization reviews and updates the baseline configuration of the information system:", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-2 (1) REVIEWS AND UPDATES", 
+  "compliance_control_number": "600000027"
+}

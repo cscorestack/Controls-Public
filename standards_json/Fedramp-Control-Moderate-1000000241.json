@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000241", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000241", 
+  "Control Name": "VULNERABILITY SCANNING | PRIVILEGED ACCESS", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The information system implements privileged access authorization to [Assignment: organization- identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities].Supplemental Guidance:  In certain situations, the nature of the vulnerability scanning may be more intrusive or the information system component that is the subject of the scanning may contain highly sensitive information. Privileged access authorization to selected system components facilitates more thorough vulnerability scanning and also protects the sensitive nature of such scanning.", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The information system implements privileged access authorization to [Assignment: organization- identified information system components] for selected [Assignment: organization-defined vulnerability scanning activities].Supplemental Guidance:  In certain situations, the nature of the vulnerability scanning may be more intrusive or the information system component that is the subject of the scanning may contain highly sensitive information. Privileged access authorization to selected system components facilitates more thorough vulnerability scanning and also protects the sensitive nature of such scanning.", 
+    "SelectionParam": "RA-5 (5)-1 [operating systems / web applications / databases] RA-5 (5)-2 [all scans]", 
+    "FedRampParam": "x", 
+    "SORTID": "RA-05 (05)", 
+    "CNTL NO": "RA-5 (5)", 
+    "AdditionalReq": "", 
+    "Control Name": "VULNERABILITY SCANNING | PRIVILEGED ACCESS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

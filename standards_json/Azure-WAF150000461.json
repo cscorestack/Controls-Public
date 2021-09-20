@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000461", 
+  "compliance_control_uri": "Azure-WAF/0015/150000461", 
+  "Control Name": "5.8.10 Code is published to this workload using CI/CD process instead of manually.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Developers shouldn't publish their code directly to app servers - automated and gated CI/CD process should manage this.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.10 Code is published to this workload using CI/CD process instead of manually.", 
+    "Description": "Developers shouldn't publish their code directly to app servers - automated and gated CI/CD process should manage this."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

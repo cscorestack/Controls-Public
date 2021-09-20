@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000422", 
+  "compliance_control_uri": "Azure-WAF/0015/150000422", 
+  "Control Name": "5.4.5 Deployments are automated and it's possible to deploy N+1 and N-1 version (where N is the current production).", 
+  "Control Family": "5. Security", 
+  "Control Statement": "N-1 and N+1 refer to roll-back and roll-forward. Automated deployment pipelines should allow for quick roll-forward and roll-back deployments to address critical bugs and code updates outside of the normal deployment lifecycle.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.4 Have you adopted a formal secure DevOps approach to building and maintaining software?", 
+    "Control": "5.4.5 Deployments are automated and it's possible to deploy N+1 and N-1 version (where N is the current production).", 
+    "Description": "N-1 and N+1 refer to roll-back and roll-forward. Automated deployment pipelines should allow for quick roll-forward and roll-back deployments to address critical bugs and code updates outside of the normal deployment lifecycle."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

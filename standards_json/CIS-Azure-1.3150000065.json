@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000065", 
+  "compliance_control_uri": "CIS-Azure/0015/150000065", 
+  "Control Name": "4.3.8 Ensure 'Allow access to Azure services' for PostgreSQL Database Server is disabled", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Disable access from Azure services to PostgreSQL Database Server", 
+  "control_attributes": {
+    "Control": "4.3.8 Ensure 'Allow access to Azure services' for PostgreSQL Database Server is disabled", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Disable access from Azure services to PostgreSQL Database Server"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

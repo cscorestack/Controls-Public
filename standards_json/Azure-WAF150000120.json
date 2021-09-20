@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000120", 
+  "compliance_control_uri": "Azure-WAF/0015/150000120", 
+  "Control Name": "2.7.6 Push notifications are used to inform responsible parties of alerts in real time", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are push notifications enabled to inform responsible parties of alerts in real time?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.7 How are you using Azure platform notifications and updates?", 
+    "Control": "2.7.6 Push notifications are used to inform responsible parties of alerts in real time", 
+    "Description": "Are push notifications enabled to inform responsible parties of alerts in real time?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

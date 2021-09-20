@@ -1,0 +1,18 @@
+{
+  "Control Family": "RISK ASSESSMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000046", 
+  "control_attributes": {
+    "Control": "RA-5 (1) UPDATE TOOL CAPABILITY", 
+    "control_description": "The organization employs vulnerability scanning tools that include the capability to readily update the information system vulnerabilities to be scanned.", 
+    "Family": "RISK ASSESSMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information system:"
+  }, 
+  "Control Statement": "The organization employs vulnerability scanning tools that include the capability to readily update the information system vulnerabilities to be scanned.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "RA-5 (1) UPDATE TOOL CAPABILITY", 
+  "compliance_control_number": "600000046"
+}

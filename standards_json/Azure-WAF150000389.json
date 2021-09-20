@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000389", 
+  "compliance_control_uri": "Azure-WAF/0015/150000389", 
+  "Control Name": "4.13.5 A health model has been defined based on performance, availability, and recovery targets and is represented through monitoring dashboard and alerts.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Has a health model been defined to qualify what 'healthy' and 'unhealthy' states represent across all application components, in a measurable and observable format? and is this health model fully represented through monitoring dashboards and alerts?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.5 A health model has been defined based on performance, availability, and recovery targets and is represented through monitoring dashboard and alerts.", 
+    "Description": "Has a health model been defined to qualify what 'healthy' and 'unhealthy' states represent across all application components, in a measurable and observable format? and is this health model fully represented through monitoring dashboards and alerts?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000243",
+  "compliance_control_uri": "AWS-WAF/0016/160000243",
+  "Control Name": "PERF 8.4 Measure the impact of performance improvements",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "As changes are made to improve performance, evaluate the collected metrics and data. Use this information to determine impact that the performance improvement had on the workload, the workload’s components, and your customers. This measurement helps you understand the improvements that result from the tradeoﬀ, and helps you determine if any negative side-eﬀects were introduced.",
+  "control_attributes": {
+    "Control": "PERF 8.4 Measure the impact of performance improvements",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you use tradeoﬀs to improve performance?",
+    "question_id": "tradeoffs-performance",
+    "choice_id": "perf_tradeoffs_performance_measure"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000016",
+  "compliance_control_uri": "AWS-WAF/0016/160000016",
+  "Control Name": "OPS 3.2 Team members are empowered to take action when outcomes are at risk",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "The workload owner has deﬁned guidance and scope empowering team members to respond when outcomes are at risk. Escalation mechanisms are used to get direction when events are outside of the deﬁned scope.",
+  "control_attributes": {
+    "Control": "OPS 3.2 Team members are empowered to take action when outcomes are at risk",
+    "Category": "Operational Excellence",
+    "Subcategory": "How does your organizational culture support your business outcomes?",
+    "question_id": "org-culture",
+    "choice_id": "ops_org_culture_team_emp_take_action"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

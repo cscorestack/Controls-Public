@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000367", 
+  "compliance_control_uri": "Azure-WAF/0015/150000367", 
+  "Control Name": "4.9.9 Operational procedures are defined in case data sizes exceed limits.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are there any mitigation plans defined in case data size exceeds limits? i.e. purging or archiving", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.9 What reliability allowances for scalability and performance have you made?", 
+    "Control": "4.9.9 Operational procedures are defined in case data sizes exceed limits.", 
+    "Description": "Are there any mitigation plans defined in case data size exceeds limits? i.e. purging or archiving"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

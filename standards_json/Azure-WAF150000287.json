@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000287", 
+  "compliance_control_uri": "Azure-WAF/0015/150000287", 
+  "Control Name": "3.10.5 You monitor how much of an application is involved in serving a single request.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "When understanding load and demands on the application, it is necessary to understand how the application is architected - whether monolithic, n-Tier, or microservice-based - and then understand how load is distributed across the application. This is crucial for focusing on the testing of individual components and identifying bottlenecks.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.5 You monitor how much of an application is involved in serving a single request.", 
+    "Description": "When understanding load and demands on the application, it is necessary to understand how the application is architected - whether monolithic, n-Tier, or microservice-based - and then understand how load is distributed across the application. This is crucial for focusing on the testing of individual components and identifying bottlenecks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

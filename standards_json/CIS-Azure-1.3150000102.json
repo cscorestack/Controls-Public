@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000102", 
+  "compliance_control_uri": "CIS-Azure/0015/150000102", 
+  "Control Name": "9.2 Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service", 
+  "Control Family": "9 AppService", 
+  "Control Statement": "Non-secure HTTP requests can be restricted and all HTTP requests redirected to the secure HTTPS port. It is recommended to enforce HTTPS-only traffic.", 
+  "control_attributes": {
+    "Control": "9.2 Ensure web app redirects all HTTP traffic to HTTPS in Azure App Service", 
+    "Control_Clause": "9 AppService", 
+    "description": "Non-secure HTTP requests can be restricted and all HTTP requests redirected to the secure HTTPS port. It is recommended to enforce HTTPS-only traffic."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

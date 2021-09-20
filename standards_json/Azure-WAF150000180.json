@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000180", 
+  "compliance_control_uri": "Azure-WAF/0015/150000180", 
+  "Control Name": "2.15.2 Collaboration between development and operations team to resolve production issue is clearly defined and well understood", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "How do development and operations teams collaborate to resolve production issues?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.2 Collaboration between development and operations team to resolve production issue is clearly defined and well understood", 
+    "Description": "How do development and operations teams collaborate to resolve production issues?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

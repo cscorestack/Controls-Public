@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000240",
+  "compliance_control_uri": "AWS-WAF/0016/160000240",
+  "Control Name": "PERF 8.1 Understand the areas where performance is most critical",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Understand and identify areas where increasing the performance of your workload will have a positive impact on eﬃciency or customer experience. For example, a website that has a large amount of customer interaction can beneﬁt from using edge services to move content delivery closer to customers.",
+  "control_attributes": {
+    "Control": "PERF 8.1 Understand the areas where performance is most critical",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you use tradeoﬀs to improve performance?",
+    "question_id": "tradeoffs-performance",
+    "choice_id": "perf_tradeoffs_performance_critical_areas"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

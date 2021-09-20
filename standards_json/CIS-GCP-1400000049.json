@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000049", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000049", 
+  "Control Name": "6.2 Ensure that the 'local_infile' database flag for a Cloud SQL Mysql instance is set to 'off'", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to set the local_infile database flag for a Cloud SQL MySQL instance to off.", 
+  "control_attributes": {
+    "Control": "6.2 Ensure that the 'local_infile' database flag for a Cloud SQL Mysql instance is set to 'off'", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to set the local_infile database flag for a Cloud SQL MySQL instance to off."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

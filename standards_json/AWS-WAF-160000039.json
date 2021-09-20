@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000039",
+  "compliance_control_uri": "AWS-WAF/0016/160000039",
+  "Control Name": "OPS 6.2 Test and validate changes",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Test changes and validate the results at all lifecycle stages to conﬁrm new features and minimize the risk and impact of failed deployments.",
+  "control_attributes": {
+    "Control": "OPS 6.2 Test and validate changes",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you mitigate deployment risks?",
+    "question_id": "mit-deploy-risks",
+    "choice_id": "ops_mit_deploy_risks_test_val_chg"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

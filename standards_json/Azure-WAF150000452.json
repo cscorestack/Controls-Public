@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000452", 
+  "compliance_control_uri": "Azure-WAF/0015/150000452", 
+  "Control Name": "5.8.1 Services used by this workload, which should not be accessible from public IP addresses, are protected with network restrictions / IP firewall rules.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Azure provides networking solutions to restrict access to individual application services. Multiple levels (such as IP filtering or firewall rules) should be explored to prevent application services from being accessed by unauthorized actors.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.1 Services used by this workload, which should not be accessible from public IP addresses, are protected with network restrictions / IP firewall rules.", 
+    "Description": "Azure provides networking solutions to restrict access to individual application services. Multiple levels (such as IP filtering or firewall rules) should be explored to prevent application services from being accessed by unauthorized actors."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000094",
+  "compliance_control_uri": "AWS-WAF/0016/160000094",
+  "Control Name": "SEC 2.4 Rely on a centralized identity provider",
+  "Control Family": "Security",
+  "Control Statement": "For workforce identities, rely on an identity provider that enables you to manage identities in a centralized place. This enables you to create, manage, and revoke access from a single location making it easier to manage access. This reduces the requirement for multiple credentials and provides an opportunity to integrate with HR processes.",
+  "control_attributes": {
+    "Control": "SEC 2.4 Rely on a centralized identity provider",
+    "Category": "Security",
+    "Subcategory": "How do you manage authentication for people and machines?",
+    "question_id": "identities",
+    "choice_id": "sec_identities_identity_provider"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

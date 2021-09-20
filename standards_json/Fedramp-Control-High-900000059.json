@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000059", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000059", 
+  "Control Name": "SECURITY TRAINING | PRACTICAL EXERCISES", 
+  "Control Family": "AWARENESS AND TRAINING", 
+  "Control Statement": "The organization includes practical exercises in security training that reinforce training objectives.Supplemental Guidance:  Practical exercises may include, for example, security training for software developers that includes simulated cyber attacks exploiting common software vulnerabilities (e.g., buffer overflows), or spear/whale phishing attacks targeted at senior leaders/executives. These types of practical exercises help developers better understand the effects of such vulnerabilities and appreciate the need for security coding standards and processes.", 
+  "control_attributes": {
+    "Category": "AWARENESS AND TRAINING", 
+    "description": "The organization includes practical exercises in security training that reinforce training objectives.Supplemental Guidance:  Practical exercises may include, for example, security training for software developers that includes simulated cyber attacks exploiting common software vulnerabilities (e.g., buffer overflows), or spear/whale phishing attacks targeted at senior leaders/executives. These types of practical exercises help developers better understand the effects of such vulnerabilities and appreciate the need for security coding standards and processes.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AT-03 (03)", 
+    "CNTL NO": "AT-3 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY TRAINING | PRACTICAL EXERCISES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

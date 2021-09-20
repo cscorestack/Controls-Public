@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000061", 
+  "compliance_control_uri": "HIPAA/0002/200000061", 
+  "Control Name": "Workstation Use - 164.310(b)", 
+  "Control Family": "Workstation Use", 
+  "Control Statement": "Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access electronic protected health information.", 
+  "control_attributes": {
+    "Control": "Workstation Use - 164.310(b)", 
+    "Security_Category": "Workstation Use", 
+    "Control_description": "Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access electronic protected health information."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

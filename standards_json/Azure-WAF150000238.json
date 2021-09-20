@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000238", 
+  "compliance_control_uri": "Azure-WAF/0015/150000238", 
+  "Control Name": "3.4.1 You have a capacity model for the workload.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "A capacity model should describe the relationships between the utilization of various components as a ratio, to capture when and how application components should scale-out.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.1 You have a capacity model for the workload.", 
+    "Description": "A capacity model should describe the relationships between the utilization of various components as a ratio, to capture when and how application components should scale-out."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

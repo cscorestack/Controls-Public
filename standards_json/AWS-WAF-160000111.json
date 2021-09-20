@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000111",
+  "compliance_control_uri": "AWS-WAF/0016/160000111",
+  "Control Name": "SEC 5.3 Automate network protection",
+  "Control Family": "Security",
+  "Control Statement": "Automate protection mechanisms to provide a self-defending network based on threat intelligence and anomaly detection. For example, intrusion detection and prevention tools that can pro-actively adapt to current threats and reduce their impact.",
+  "control_attributes": {
+    "Control": "SEC 5.3 Automate network protection",
+    "Category": "Security",
+    "Subcategory": "How do you protect your network resources?",
+    "question_id": "network-protection",
+    "choice_id": "sec_network_protection_auto_protect"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

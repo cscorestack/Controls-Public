@@ -1,0 +1,18 @@
+{
+  "Control Family": "MEDIA PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000479", 
+  "control_attributes": {
+    "Control": "MP-8 (1) DOCUMENTATION OF PROCESS", 
+    "control_description": "The organization documents information system media downgrading actions.", 
+    "Family": "MEDIA PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires two forms of identification from [Assignment: organization-defined list of acceptable forms of identification] for visitor access to the facility where the information system resides."
+  }, 
+  "Control Statement": "The organization documents information system media downgrading actions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "MP-8 (1) DOCUMENTATION OF PROCESS", 
+  "compliance_control_number": "600000479"
+}

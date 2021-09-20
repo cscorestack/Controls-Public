@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000047", 
+  "compliance_control_uri": "Azure-WAF/0015/150000047", 
+  "Control Name": "1.6.5 There is awareness regarding the ratio of cost of production and non-production environments for this workload.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "If you are spending more money on testing than production, it usually means you have too many non-production environments. Consider the ratio of non-production to production environments and if it is substantially higher you should consider merging testing environments or re-visit why the cost is so much higher.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.6 What considerations for DevOps practices are you making in this workload?", 
+    "Control": "1.6.5 There is awareness regarding the ratio of cost of production and non-production environments for this workload.", 
+    "Description": "If you are spending more money on testing than production, it usually means you have too many non-production environments. Consider the ratio of non-production to production environments and if it is substantially higher you should consider merging testing environments or re-visit why the cost is so much higher."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

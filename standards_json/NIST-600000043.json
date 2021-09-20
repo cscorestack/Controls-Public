@@ -1,0 +1,18 @@
+{
+  "Control Family": "INCIDENT RESPONSE", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000043", 
+  "control_attributes": {
+    "Control": "IR-5 (1) AUTOMATED TRACKING / DATA COLLECTION / ANALYSIS", 
+    "control_description": "The organization employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.", 
+    "Family": "INCIDENT RESPONSE", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to assist in the tracking of security incidents and in the collection and analysis of incident information.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IR-5 (1) AUTOMATED TRACKING / DATA COLLECTION / ANALYSIS", 
+  "compliance_control_number": "600000043"
+}

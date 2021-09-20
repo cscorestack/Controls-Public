@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000116", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000116", 
+  "Control Name": "CONTINGENCY PLAN TESTING", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization: a. Tests the contingency plan for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the effectiveness of the plan and the organizational readiness to execute the plan; b. Reviews the contingency plan test results; and c. Initiates corrective actions, if needed.Supplemental Guidance:  Methods for testing contingency plans to determine the effectiveness of the plans and to identify potential weaknesses in the plans include, for example, walk-through and tabletop exercises, checklists, simulations (parallel, full interrupt), and comprehensive exercises. Organizations conduct testing based on the continuity requirements in contingency plans and include a determination of the effects on organizational operations, assets, and individuals arising due to contingency operations. Organizations have flexibility and discretion in the breadth, depth, and timelines of corrective actions. Related controls: CP-2, CP-3, IR-3.References: Federal Continuity Directive 1; FIPS Publication 199; NIST Special Publications 800-34, 800-84.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization: a. Tests the contingency plan for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the effectiveness of the plan and the organizational readiness to execute the plan; b. Reviews the contingency plan test results; and c. Initiates corrective actions, if needed.Supplemental Guidance:  Methods for testing contingency plans to determine the effectiveness of the plans and to identify potential weaknesses in the plans include, for example, walk-through and tabletop exercises, checklists, simulations (parallel, full interrupt), and comprehensive exercises. Organizations conduct testing based on the continuity requirements in contingency plans and include a determination of the effects on organizational operations, assets, and individuals arising due to contingency operations. Organizations have flexibility and discretion in the breadth, depth, and timelines of corrective actions. Related controls: CP-2, CP-3, IR-3.References: Federal Continuity Directive 1; FIPS Publication 199; NIST Special Publications 800-34, 800-84.", 
+    "SelectionParam": "CP-4 (a)-1 [at least annually for moderate impact systems; at least every three years for low impact systems] CP-4 (a)-2 [functional exercises for moderate impact systems; classroom exercises/table top written tests for low impact systems]", 
+    "FedRampParam": "x", 
+    "SORTID": "CP-04", 
+    "CNTL NO": "CP-4", 
+    "AdditionalReq": "CP-4 (a) Requirement: The service provider develops test plans in accordance with NIST Special Publication 800-34 (as amended); plans are approved by the JAB/AO prior to initiating testing.", 
+    "Control Name": "CONTINGENCY PLAN TESTING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

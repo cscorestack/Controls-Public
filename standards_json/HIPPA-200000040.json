@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000040", 
+  "compliance_control_uri": "HIPAA/0002/200000040", 
+  "Control Name": "Workforce security  Authorization and/or Supervision164.308(a)(3)(ii)(A)", 
+  "Control Family": "Workforce Security", 
+  "Control Statement": "Implement procedures for the authorization and/or supervision of workforce members who work with electronic protected health information or in locations where it might be accessed.", 
+  "control_attributes": {
+    "Control": "Workforce security  Authorization and/or Supervision164.308(a)(3)(ii)(A)", 
+    "Security_Category": "Workforce Security", 
+    "Control_description": "Implement procedures for the authorization and/or supervision of workforce members who work with electronic protected health information or in locations where it might be accessed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

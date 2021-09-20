@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000181", 
+  "compliance_control_uri": "Azure-WAF/0015/150000181", 
+  "Control Name": "2.15.3 Operational shortcomings and failures are analyzed and used to improve and refine operational procedures", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "How are operational shortcomings and failures analyzed?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.3 Operational shortcomings and failures are analyzed and used to improve and refine operational procedures", 
+    "Description": "How are operational shortcomings and failures analyzed?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

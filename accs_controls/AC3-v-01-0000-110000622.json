@@ -1,0 +1,45 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000622",
+  "compliance_control_uri": "AC3-v-01/0000/110000622",
+  "Control Name": "SA-8 SECURITY ENGINEERING PRINCIPLES",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.",
+  "control_attributes": {
+    "Control Name": "SA-8 SECURITY ENGINEERING PRINCIPLES",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000581",
+      "ISO-27001/0011/1100000085",
+      "PCI-DSS/0012/1200000070",
+      "Fedramp-Control-Moderate/0010/1000000251",
+      "Fedramp-Control-High/0009/900000327",
+      "ISO/0001/100000060",
+      "Azure-WAF/0015/150000396",
+      "Azure-WAF/0015/150000419"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

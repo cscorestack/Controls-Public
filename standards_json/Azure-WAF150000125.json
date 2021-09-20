@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000125", 
+  "compliance_control_uri": "Azure-WAF/0015/150000125", 
+  "Control Name": "2.8.2 The failover and failback approach has been tested/validated at least once", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Has the failover and failback approach been tested/validated at least once?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.8 What is your approach to recovery and failover?", 
+    "Control": "2.8.2 The failover and failback approach has been tested/validated at least once", 
+    "Description": "Has the failover and failback approach been tested/validated at least once?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

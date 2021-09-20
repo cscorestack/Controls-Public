@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000103", 
+  "compliance_control_uri": "ISO-27001/0011/1100000103", 
+  "Control Name": "17.1.1 Planning information security continuity", 
+  "Control Family": "17. Information security aspects of business continuity management", 
+  "Control Statement": "A single framework of business continuity plans shall be maintained to ensure all plans are consistent, to consistently address information security requirements, and to identify priorities for testing and maintenance", 
+  "control_attributes": {
+    "Clause_Category": "17.1 Information Security Continuity", 
+    "description": "A single framework of business continuity plans shall be maintained to ensure all plans are consistent, to consistently address information security requirements, and to identify priorities for testing and maintenance", 
+    "Control_Title": "17.1.1 Planning information security continuity", 
+    "Control_Clause": "17. Information security aspects of business continuity management"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

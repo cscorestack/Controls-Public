@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000214", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000214", 
+  "Control Name": "INCIDENT RESPONSE TRAINING | AUTOMATED TRAINING ENVIRONMENTS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization employs automated mechanisms to provide a more thorough and realistic incident response training environment.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization employs automated mechanisms to provide a more thorough and realistic incident response training environment.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IR-02 (02)", 
+    "CNTL NO": "IR-2 (2)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT RESPONSE TRAINING | AUTOMATED TRAINING ENVIRONMENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

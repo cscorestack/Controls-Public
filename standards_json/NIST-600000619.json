@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000619", 
+  "control_attributes": {
+    "Control": "SA-15 (1) QUALITY METRICS", 
+    "control_description": "The organization requires the developer of the information system, system component, or information system service to:(a) Define quality metrics at the beginning of the development process; and(b) Provide evidence of meeting the quality metrics [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined program review milestones]; upon delivery].", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to:"
+  }, 
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:(a) Define quality metrics at the beginning of the development process; and(b) Provide evidence of meeting the quality metrics [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined program review milestones]; upon delivery].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-15 (1) QUALITY METRICS", 
+  "compliance_control_number": "600000619"
+}

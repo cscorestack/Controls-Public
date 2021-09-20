@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000122",
+  "compliance_control_uri": "AWS-WAF/0016/160000122",
+  "Control Name": "SEC 7.4 Deﬁne data lifecycle management",
+  "Control Family": "Security",
+  "Control Statement": "Your deﬁned lifecycle strategy should be based on sensitivity level, as well as legal and organization requirements. Aspects including the duration you retain data for, data destruction, data access management, data transformation, and data sharing should be considered.",
+  "control_attributes": {
+    "Control": "SEC 7.4 Deﬁne data lifecycle management",
+    "Category": "Security",
+    "Subcategory": "How do you classify your data?",
+    "question_id": "data-classification",
+    "choice_id": "sec_data_classification_lifecycle_management"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

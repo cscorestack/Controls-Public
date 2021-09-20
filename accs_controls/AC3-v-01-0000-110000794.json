@@ -1,0 +1,81 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000794",
+  "compliance_control_uri": "AC3-v-01/0000/110000794",
+  "Control Name": "SI-4 (23) HOST-BASED DEVICES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization implements [Assignment: organization-defined host-based monitoring mechanisms] at [Assignment: organization-defined information system components].",
+  "control_attributes": {
+    "Control Name": "SI-4 (23) HOST-BASED DEVICES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization implements [Assignment: organization-defined host-based monitoring mechanisms] at [Assignment: organization-defined information system components]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Compute",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Cloud account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000776",
+      "Fedramp-Control-Moderate/0010/1000000310",
+      "Fedramp-Control-High/0009/900000403",
+      "SOC2/0017/1700000154"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dZuBi",
+        "policy_name": "Azure_Audit_Network_Data_Collection_Agent_Installed_Windows",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ScUND",
+        "policy_name": "Azure_Audit_Log_Analytics_Agent_Deployed_VM_Image_OS_Unlisted",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/4c4b3",
+        "policy_name": "AWS_AuditApp_Tier_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/instances/56b6e",
+        "policy_name": "AWS_Audit_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/775dd",
+        "policy_name": "AWS_Audit_Web_Tier_EC2_Instance_Using_IAM_Roles",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000057", 
+  "compliance_control_uri": "HIPAA/0002/200000057", 
+  "Control Name": "Facility Access Controls  Contingency Operations - 164.310(a)(2)(i)", 
+  "Control Family": "Facility Access Controls", 
+  "Control Statement": "Establish (and implement as needed) procedures that allow facility access in support of restoration of lost data under the disaster recovery plan and emergency mode operations plan in the event of an emergency.", 
+  "control_attributes": {
+    "Control": "Facility Access Controls  Contingency Operations - 164.310(a)(2)(i)", 
+    "Security_Category": "Facility Access Controls", 
+    "Control_description": "Establish (and implement as needed) procedures that allow facility access in support of restoration of lost data under the disaster recovery plan and emergency mode operations plan in the event of an emergency."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

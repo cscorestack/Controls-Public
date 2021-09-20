@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000030", 
+  "compliance_control_uri": "ISO-27001/0011/1100000030", 
+  "Control Name": "9.2.3 Management of privileged access rights", 
+  "Control Family": "9. Access control", 
+  "Control Statement": "The allocation and use of privileges shall be restricted and controlled", 
+  "control_attributes": {
+    "Clause_Category": "9.2 User access management", 
+    "description": "The allocation and use of privileges shall be restricted and controlled", 
+    "Control_Title": "9.2.3 Management of privileged access rights", 
+    "Control_Clause": "9. Access control"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

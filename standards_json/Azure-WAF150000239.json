@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000239", 
+  "compliance_control_uri": "Azure-WAF/0015/150000239", 
+  "Control Name": "3.4.2 Capacity utilization is monitored and used to forecast future growth.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Predicting future growth and capacity demands can prevent outages due to insufficient provisioned capacity over time.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.4 How have you accounted for capacity and scaling requirements of your workload?", 
+    "Control": "3.4.2 Capacity utilization is monitored and used to forecast future growth.", 
+    "Description": "Predicting future growth and capacity demands can prevent outages due to insufficient provisioned capacity over time."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000196",
+  "compliance_control_uri": "AWS-WAF/0016/160000196",
+  "Control Name": "REL 12.5 Test resiliency using chaos engineering",
+  "Control Family": "Reliability",
+  "Control Statement": "Run tests that inject failures regularly into pre-production and production environments. Hypothesize how your workload will react to the failure, then compare your hypothesis to the testing results and iterate if they do not match. Ensure that production testing does not impact users.",
+  "control_attributes": {
+    "Control": "REL 12.5 Test resiliency using chaos engineering",
+    "Category": "Reliability",
+    "Subcategory": "How do you test reliability?",
+    "question_id": "testing-resiliency",
+    "choice_id": "rel_testing_resiliency_failure_injection_resiliency"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

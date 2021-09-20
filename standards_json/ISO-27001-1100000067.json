@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000067", 
+  "compliance_control_uri": "ISO-27001/0011/1100000067", 
+  "Control Name": "12.5.1. Installation on software on operational systems", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "There shall be procedures in place to control the installation of software on operational systems", 
+  "control_attributes": {
+    "Clause_Category": "12.5 Control of operational software", 
+    "description": "There shall be procedures in place to control the installation of software on operational systems", 
+    "Control_Title": "12.5.1. Installation on software on operational systems", 
+    "Control_Clause": "12. Operations security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

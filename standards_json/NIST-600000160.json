@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000160", 
+  "control_attributes": {
+    "Control": "AC-4 (18) SECURITY ATTRIBUTE BINDING", 
+    "control_description": "The information system binds security attributes to information using [Assignment: organization-defined binding techniques] to facilitate information flow policy enforcement.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system audits the execution of privileged functions."
+  }, 
+  "Control Statement": "The information system binds security attributes to information using [Assignment: organization-defined binding techniques] to facilitate information flow policy enforcement.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-4 (18) SECURITY ATTRIBUTE BINDING", 
+  "compliance_control_number": "600000160"
+}

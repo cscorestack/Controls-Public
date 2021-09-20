@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000549", 
+  "control_attributes": {
+    "Control": "PS-4 (2) AUTOMATED NOTIFICATION", 
+    "control_description": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual.", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "P3", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to notify [Assignment: organization-defined personnel or roles] upon termination of an individual.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-4 (2) AUTOMATED NOTIFICATION", 
+  "compliance_control_number": "600000549"
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000237",
+  "compliance_control_uri": "AWS-WAF/0016/160000237",
+  "Control Name": "PERF 7.4 Use monitoring to generate alarm-based notiﬁcations",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Using the performance-related key performance indicators (KPIs) that you deﬁned, use a monitoring system that generates alarms automatically when these measurements are outside expected boundaries.",
+  "control_attributes": {
+    "Control": "PERF 7.4 Use monitoring to generate alarm-based notiﬁcations",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_generate_alarms"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

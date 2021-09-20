@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000033", 
+  "compliance_control_uri": "CIS-AWS/0007/700000033", 
+  "Control Name": "3.8 Ensure rotation for customer created CMKs is enabled", 
+  "Control Family": "Logging", 
+  "Control Statement": "Rotating encryption keys helps reduce the potential impact of a compromised key as dataencrypted with a new key cannot be accessed with a previous key that may have been exposed", 
+  "control_attributes": {
+    "Control": "3.8 Ensure rotation for customer created CMKs is enabled", 
+    "Category": "Logging", 
+    "Control_description": "Rotating encryption keys helps reduce the potential impact of a compromised key as dataencrypted with a new key cannot be accessed with a previous key that may have been exposed"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

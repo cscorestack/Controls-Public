@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000207",
+  "compliance_control_uri": "AWS-WAF/0016/160000207",
+  "Control Name": "PERF 1.5 Use guidance from your cloud provider or an appropriate partner",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use cloud company resources, such as solutions architects, professional services, or an appropriate partner to guide your decisions. These resources can help review and improve your architecture for optimal performance.",
+  "control_attributes": {
+    "Control": "PERF 1.5 Use guidance from your cloud provider or an appropriate partner",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you select the best performing architecture?",
+    "question_id": "performing-architecture",
+    "choice_id": "perf_performing_architecture_external_guidance"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

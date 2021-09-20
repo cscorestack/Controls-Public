@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000355", 
+  "compliance_control_uri": "Azure-WAF/0015/150000355", 
+  "Control Name": "4.8.4 Redundant connections from different locations are used for cross-premises connectivity (ExpressRoute or VPN).", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Are there redundant connections from different locations for cross-premises connectivity (ExpressRoute or VPN)? i.e. at least two connections from two different locations.", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.8 What decisions have been taken to ensure networking and connectivity meets your reliability requirements?", 
+    "Control": "4.8.4 Redundant connections from different locations are used for cross-premises connectivity (ExpressRoute or VPN).", 
+    "Description": "Are there redundant connections from different locations for cross-premises connectivity (ExpressRoute or VPN)? i.e. at least two connections from two different locations."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

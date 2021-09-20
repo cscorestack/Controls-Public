@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000467", 
+  "compliance_control_uri": "Azure-WAF/0015/150000467", 
+  "Control Name": "5.9.4 Cloud virtual networks are designed for growth based on an intentional subnet security strategy.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Most organizations end up adding more resources to networks than initially planned. When this happens, IP addressing and subnetting schemes need to be refactored to accommodate the extra resources. This is a labor-intensive process. There is limited security value in creating a very large number of small subnets and then trying to map network access controls (such as security groups) to each of them.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.4 Cloud virtual networks are designed for growth based on an intentional subnet security strategy.", 
+    "Description": "Most organizations end up adding more resources to networks than initially planned. When this happens, IP addressing and subnetting schemes need to be refactored to accommodate the extra resources. This is a labor-intensive process. There is limited security value in creating a very large number of small subnets and then trying to map network access controls (such as security groups) to each of them."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

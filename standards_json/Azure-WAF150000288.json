@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000288", 
+  "compliance_control_uri": "Azure-WAF/0015/150000288", 
+  "Control Name": "3.10.6 Application events are correlated across all application components.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Distributed tracing provides the ability to build and visualize end-to-end transaction flows for the application.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.10 How are you monitoring to ensure the workload is scaling appropriately?", 
+    "Control": "3.10.6 Application events are correlated across all application components.", 
+    "Description": "Distributed tracing provides the ability to build and visualize end-to-end transaction flows for the application."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

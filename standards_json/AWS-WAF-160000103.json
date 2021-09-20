@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000103",
+  "compliance_control_uri": "AWS-WAF/0016/160000103",
+  "Control Name": "SEC 3.7 Analyze public and cross account access",
+  "Control Family": "Security",
+  "Control Statement": "Continuously monitor ﬁndings that highlight public and cross account access. Reduce public access and cross account access to only resources that require this type of access.",
+  "control_attributes": {
+    "Control": "SEC 3.7 Analyze public and cross account access",
+    "Category": "Security",
+    "Subcategory": "How do you manage permissions for people and machines?",
+    "question_id": "permissions",
+    "choice_id": "sec_permissions_analyze_cross_account"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

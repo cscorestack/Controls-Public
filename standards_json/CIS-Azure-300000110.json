@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000110", 
+  "compliance_control_uri": "CIS-Azure/0003/300000110", 
+  "Control Name": "9.4. Ensure the web app has 'Client Certificates (Incoming client certificates)' set to 'On'", 
+  "Control Family": "9. App Service", 
+  "Control Statement": "Client certificates allow for the app to request a certificate for incoming requests. Only clients that have a valid certificate will be able to reach the app.", 
+  "control_attributes": {
+    "Control": "9.4. Ensure the web app has 'Client Certificates (Incoming client certificates)' set to 'On'", 
+    "Control_Clause": "9. App Service", 
+    "description": "Client certificates allow for the app to request a certificate for incoming requests. Only clients that have a valid certificate will be able to reach the app."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

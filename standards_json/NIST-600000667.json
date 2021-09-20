@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000667", 
+  "control_attributes": {
+    "Control": "SC-7 (9) RESTRICT THREATENING OUTGOING COMMUNICATIONS TRAFFIC", 
+    "control_description": "The information system: (a) Detects and denies outgoing communications traffic posing a threat to external information systems; and(b) Audits the identity of internal users associated with denied communications", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system routes all networked, privileged accesses through a dedicated, managed interface for purposes of access control and auditing."
+  }, 
+  "Control Statement": "The information system: (a) Detects and denies outgoing communications traffic posing a threat to external information systems; and(b) Audits the identity of internal users associated with denied communications", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-7 (9) RESTRICT THREATENING OUTGOING COMMUNICATIONS TRAFFIC", 
+  "compliance_control_number": "600000667"
+}

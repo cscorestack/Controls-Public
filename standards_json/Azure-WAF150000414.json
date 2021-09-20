@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000414", 
+  "compliance_control_uri": "Azure-WAF/0015/150000414", 
+  "Control Name": "5.3.5 All cloud services used by this workload are identified and it is understood how to configure them securely.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "It is important to understand what Azure services, such as App Services and Event Hubs, are used by the workload to host both application code and data. Selection should be made with security in mind.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.3 What practices and tools have you implemented as part of the development cycle?", 
+    "Control": "5.3.5 All cloud services used by this workload are identified and it is understood how to configure them securely.", 
+    "Description": "It is important to understand what Azure services, such as App Services and Event Hubs, are used by the workload to host both application code and data. Selection should be made with security in mind."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

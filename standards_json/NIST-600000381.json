@@ -1,0 +1,18 @@
+{
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000381", 
+  "control_attributes": {
+    "Control": "IA-4 (7) IN-PERSON REGISTRATION", 
+    "control_description": "The organization requires that the registration process to receive an individual identifier be conducted in person before a designated registration authority.", 
+    "Family": "IDENTIFICATION AND AUTHENTICATION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization coordinates with [Assignment: organization-defined external organizations] for cross-organization management of credentials."
+  }, 
+  "Control Statement": "The organization requires that the registration process to receive an individual identifier be conducted in person before a designated registration authority.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "IA-4 (7) IN-PERSON REGISTRATION", 
+  "compliance_control_number": "600000381"
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000249", 
+  "control_attributes": {
+    "Control": "AU-9 (5) DUAL AUTHORIZATION", 
+    "control_description": "The organization enforces dual authorization for [Selection (one or more): movement; deletion] of [Assignment: organization-defined audit information].", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability for authorized users to capture/record and log content related to a user session."
+  }, 
+  "Control Statement": "The organization enforces dual authorization for [Selection (one or more): movement; deletion] of [Assignment: organization-defined audit information].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-9 (5) DUAL AUTHORIZATION", 
+  "compliance_control_number": "600000249"
+}

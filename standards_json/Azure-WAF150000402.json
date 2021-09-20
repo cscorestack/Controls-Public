@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000402", 
+  "compliance_control_uri": "Azure-WAF/0015/150000402", 
+  "Control Name": "5.2.3 Azure Policies are used to enforce and control security and organizational standards.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Azure Policy should be used to enforce and report a compliant configuration of Azure services. Azure policies can be use on multiple levels. It is recommended to apply organizational wide security controls on Azure platform level. These policies build the guardrails of a landing zone.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.2 What considerations for compliance and governance did you make in this workload?", 
+    "Control": "5.2.3 Azure Policies are used to enforce and control security and organizational standards.", 
+    "Description": "Azure Policy should be used to enforce and report a compliant configuration of Azure services. Azure policies can be use on multiple levels. It is recommended to apply organizational wide security controls on Azure platform level. These policies build the guardrails of a landing zone."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

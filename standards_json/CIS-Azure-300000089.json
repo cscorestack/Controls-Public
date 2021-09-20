@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000089", 
+  "compliance_control_uri": "CIS-Azure/0003/300000089", 
+  "Control Name": "5.1.4 Ensure the log profile captures activity logs for all regions including global (Scored)", 
+  "Control Family": "5. Logging and Monitoring", 
+  "Control Statement": "Including global region/location in the log profile locations ensures all events from the control/management plane will be exported, as many events in the activity log are global events.", 
+  "control_attributes": {
+    "Control": "5.1.4 Ensure the log profile captures activity logs for all regions including global (Scored)", 
+    "Control_Clause": "5. Logging and Monitoring", 
+    "description": "Including global region/location in the log profile locations ensures all events from the control/management plane will be exported, as many events in the activity log are global events."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

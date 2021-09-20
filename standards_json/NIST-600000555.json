@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000555", 
+  "control_attributes": {
+    "Control": "PS-8 PERSONNEL SANCTIONS", 
+    "control_description": "The organization:  a. Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; andb. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions]."
+  }, 
+  "Control Statement": "The organization:  a. Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; andb. Notifies [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-8 PERSONNEL SANCTIONS", 
+  "compliance_control_number": "600000555"
+}

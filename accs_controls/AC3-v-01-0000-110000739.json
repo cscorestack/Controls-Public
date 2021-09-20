@@ -1,0 +1,413 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000739",
+  "compliance_control_uri": "AC3-v-01/0000/110000739",
+  "Control Name": "SC-7 BOUNDARY PROTECTION",
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+  "Control Statement": "The information system:a. Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;b. Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] separated from internal organizational networks; andc. Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture.",
+  "control_attributes": {
+    "Control Name": "SC-7 BOUNDARY PROTECTION",
+    "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION",
+    "Control Statement": "The information system:a. Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;b. Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] separated from internal organizational networks; andc. Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Workload",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Analytics/EMR",
+      "service_resource": "AWS/Analytics/EMR/SecurityConfiguration"
+    },
+    {
+      "service_resource_type": "AWS/Analytics/ElasticsearchService",
+      "service_resource": "AWS/Analytics/ElasticsearchService/Domain"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/ElasticIPs"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Load_Balancers"
+    },
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Security_Groups"
+    },
+    {
+      "service_resource_type": "AWS/Compute/Lambda",
+      "service_resource": "AWS/Compute/Lambda/Functions"
+    },
+    {
+      "service_resource_type": "AWS/Databases/RDS",
+      "service_resource": "AWS/Databases/RDS/Databases"
+    },
+    {
+      "service_resource_type": "AWS/Databases/Redshift",
+      "service_resource": "AWS/Databases/Redshift/Cluster_SecurityGroups"
+    },
+    {
+      "service_resource_type": "AWS/Machine_Learning/Amazon_SageMaker",
+      "service_resource": "AWS/Machine_Learning/Amazon_SageMaker/EndpointConfig"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Internet_Gateways"
+    },
+    {
+      "service_resource_type": "AWS/Network/VPC",
+      "service_resource": "AWS/Network/VPC/Subnets"
+    },
+    {
+      "service_resource_type": "AWS/Storage/EBS",
+      "service_resource": "AWS/Storage/EBS/Snapshots"
+    },
+    {
+      "service_resource_type": "AWS/Storage/S3",
+      "service_resource": "AWS/Storage/S3/Buckets"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_Cache_Redis",
+      "service_resource": "Azure/Databases/Azure_Cache_Redis/Redis"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Azure_CosmosDB",
+      "service_resource": "Azure/Databases/Azure_CosmosDB/Databases"
+    },
+    {
+      "service_resource_type": "Azure/Databases/Databases",
+      "service_resource": "Azure/Databases/Databases/MySQL"
+    },
+    {
+      "service_resource_type": "Azure/Network/Load_Balancers",
+      "service_resource": "Azure/Network/Load_Balancers/Load_Balancer"
+    },
+    {
+      "service_resource_type": "Azure/Network/Virtual_WAN",
+      "service_resource": "Azure/Network/Virtual_WAN/VPN_Sites"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Accounts",
+      "service_resource": "Azure/Storage/Accounts/Disks"
+    },
+    {
+      "service_resource_type": "Azure/Storage/Storage_Disks",
+      "service_resource": "Azure/Storage/Storage_Disks/Disks"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Services"
+    },
+    {
+      "service_resource_type": "GCP/Networking/VPC",
+      "service_resource": "GCP/Networking/VPC/Firewall"
+    },
+    {
+      "service_resource_type": "GCP/Networking/VPC",
+      "service_resource": "GCP/Networking/VPC/Network"
+    },
+    {
+      "service_resource_type": "GCP/Databases/Spanner",
+      "service_resource": "GCP/Databases/Spanner/Spanner_Instances"
+    },
+    {
+      "service_resource_type": "GCP/Databases/SQL",
+      "service_resource": "GCP/Databases/SQL/SQL_Instances"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000048",
+      "ISO-27001/0011/1100000071",
+      "ISO-27001/0011/1100000073",
+      "ISO-27001/0011/1100000074",
+      "ISO-27001/0011/1100000080",
+      "PCI-DSS/0012/1200000005",
+      "PCI-DSS/0012/1200000009",
+      "PCI-DSS/0012/1200000010",
+      "PCI-DSS/0012/1200000013",
+      "PCI-DSS/0012/1200000014",
+      "PCI-DSS/0012/1200000015",
+      "PCI-DSS/0012/1200000016",
+      "PCI-DSS/0012/1200000017",
+      "PCI-DSS/0012/1200000018",
+      "PCI-DSS/0012/1200000019",
+      "PCI-DSS/0012/1200000020",
+      "Fedramp-Control-Moderate/0010/1000000268",
+      "Fedramp-Control-High/0009/900000349",
+      "ISO/0001/100000046",
+      "ISO/0001/100000048",
+      "ISO/0001/100000049",
+      "ISO/0001/100000055",
+      "AWS-WAF/0016/160000112",
+      "CIS-AWS/0007/700000052",
+      "CIS-AWS/0007/700000053",
+      "CIS-Azure/0003/300000006",
+      "CIS-Azure/0003/300000010",
+      "CIS-Azure/0003/300000027",
+      "CIS-Azure/0003/300000028",
+      "CIS-Azure/0003/300000029",
+      "CIS-Azure/0003/300000017",
+      "Azure-WAF/0015/150000452",
+      "Azure-WAF/0015/150000454",
+      "Azure-WAF/0015/150000465",
+      "CIS-Azure/0015/150000044",
+      "SOC2/0017/1700000138"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/reql5",
+        "policy_name": "AWS_Restricted_SSH",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/6bffd",
+        "policy_name": "Azure_Audit_VM_NSGRules_Inbound",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n2nad",
+        "policy_name": "Azure_Audit_Monitor_JIT_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/lmnop",
+        "policy_name": "Azure_Audit_Monitor_IP_Forwarding_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/umhpj",
+        "policy_name": "Azure_Audit_Interfaces_PublicIP",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/tgn2q",
+        "policy_name": "Azure_Monitor_Permissive_Network_Access",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/taom7",
+        "policy_name": "Azure_Audit_Unrestricted_Network_Access_Storage_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4ezeo",
+        "policy_name": "Azure_Monitor_Unprotected_Network_pts",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/denq8",
+        "policy_name": "AWS_Restricted_Common_Ports",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/54nrl",
+        "policy_name": "Azure_Audit_NSG_Subnet_VM",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/WIFiA",
+        "policy_name": "Azure_Audit_VM_Connected_Approved_Virtual_Network",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/g2v2x",
+        "policy_name": "Azure_Audit_NSG_Subnet",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/mrrte",
+        "policy_name": "Chef_Audit_Clamav_Service",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/fdgsb",
+        "policy_name": "Chef_Check_Clamav_Installation",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/chef_inspec/global/guest/compliance/server/uyity",
+        "policy_name": "Chef_Check_Clamav_Database_Updated",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/n7ty4",
+        "policy_name": "Azure_Audit_NetworkWatcher",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/DNSV",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_DNS_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/cassv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Cassandra_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ciscv",
+        "policy_name": "GCP_Monitor_Firewall_Open_Ciscosecure_Websm_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/dirrv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Directory_Services_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/elasv",
+        "policy_name": "GCP_Monitor_Firewall_Configured_Open_Elasticsearch_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ftpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_FTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/gcddv",
+        "policy_name": "GCP_Audit_Firewall_Rule_Logging_Disabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/httpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_HTTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/ldav",
+        "policy_name": "GCP_Audit_Firewall_Configured_With_Open_LDAP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/memev",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Memcached_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/monv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Mongodb_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/netv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Netbios_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/opcv",
+        "policy_name": "GCP_Audit_Configured_Open_Firewall",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/orcv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Oracledb_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/poiu",
+        "policy_name": "GCP_Audit_Firewall_Configuration_For_TELNET_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/popv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Pop3_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/pstv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Postgresql_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/rdpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_RDP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/redibv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Redis_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/rulv",
+        "policy_name": "GCP_Audit_Egress_Deny_Rule_Not_Set_On_Firewall",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/smtpv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_SMTP_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/sqlv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_Mysql_Port",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/sshvv",
+        "policy_name": "GCP_Audit_Firewall_Configured_Open_SSH_Port",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

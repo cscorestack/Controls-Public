@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000815", 
+  "control_attributes": {
+    "Control": "PM-5 INFORMATION SYSTEM INVENTORY", 
+    "control_description": "The organization develops and maintains an inventory of its information systems.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization develops and maintains an inventory of its information systems.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-5 INFORMATION SYSTEM INVENTORY", 
+  "compliance_control_number": "600000815"
+}

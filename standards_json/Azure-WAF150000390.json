@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000390", 
+  "compliance_control_uri": "Azure-WAF/0015/150000390", 
+  "Control Name": "4.13.6 Azure Service Health events are used to alert on applicable Service level events.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have Azure Service Health events been integrated to alert on applicable Service level events?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.13 How do you monitor and measure application health?", 
+    "Control": "4.13.6 Azure Service Health events are used to alert on applicable Service level events.", 
+    "Description": "Have Azure Service Health events been integrated to alert on applicable Service level events?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

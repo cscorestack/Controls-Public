@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000213", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000213", 
+  "Control Name": "INCIDENT RESPONSE TRAINING | SIMULATED EVENTS", 
+  "Control Family": "INCIDENT RESPONSE", 
+  "Control Statement": "The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.", 
+  "control_attributes": {
+    "Category": "INCIDENT RESPONSE", 
+    "description": "The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "IR-02 (01)", 
+    "CNTL NO": "IR-2 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "INCIDENT RESPONSE TRAINING | SIMULATED EVENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

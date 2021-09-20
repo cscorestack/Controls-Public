@@ -1,0 +1,85 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000168",
+  "compliance_control_uri": "AC3-v-01/0000/110000168",
+  "Control Name": "AU-7 (1) AUTOMATIC PROCESSING",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system provides the capability to process audit records for events of interest based on [Assignment: organization-defined audit fields within audit records].",
+  "control_attributes": {
+    "Control Name": "AU-7 (1) AUTOMATIC PROCESSING",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system provides the capability to process audit records for events of interest based on [Assignment: organization-defined audit fields within audit records]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Governance/Cloudwatch",
+      "service_resource": "AWS/Governance/Cloudwatch/Alarm"
+    },
+    {
+      "service_resource_type": "AWS/Governance/Cloudwatch",
+      "service_resource": "AWS/Governance/Cloudwatch/LogGroup"
+    },
+    {
+      "service_resource_type": "Azure/Security_Compliance/Azure_Security_Center",
+      "service_resource": "Azure/Security_Compliance/Azure_Security_Center/Tasks"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000015",
+      "Fedramp-Control-Moderate/0010/1000000060",
+      "Fedramp-Control-High/0009/900000081",
+      "PCI-DSS/0012/1200000162"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mere1",
+        "policy_name": "AWS_Cloudtrail_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/kfod*",
+        "policy_name": "Azure_Audit_Metric_Alerts_Batch_Account",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/hYRfU",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Security_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lPSNi",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Policy_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/vSghS",
+        "policy_name": "Azure_Audit_Activitylog_Alert_Exists_Admin_Ops",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

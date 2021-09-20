@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000718", 
+  "control_attributes": {
+    "Control": "SC-30 (5) CONCEALMENT OF SYSTEM COMPONENTS", 
+    "control_description": "The organization employs [Assignment: organization-defined techniques] to hide or conceal [Assignment: organization-defined information system components].", 
+    "Family": "SYSTEM AND COMMUNICATIONS PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization measures the bandwidth of [Assignment: organization-defined subset of identified covert channels] in the operational environment of the information system."
+  }, 
+  "Control Statement": "The organization employs [Assignment: organization-defined techniques] to hide or conceal [Assignment: organization-defined information system components].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SC-30 (5) CONCEALMENT OF SYSTEM COMPONENTS", 
+  "compliance_control_number": "600000718"
+}

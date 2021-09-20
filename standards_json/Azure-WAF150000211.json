@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000211", 
+  "compliance_control_uri": "Azure-WAF/0015/150000211", 
+  "Control Name": "2.17.11 The application has a well-defined naming standard for Azure resources.", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "A well-defined naming convention is important for overall operations to be able to easily determine the usage of certain resources and help understand owners and cost centers responsible for the workload. Naming conventions allow the matching of resource costs to particular workloads.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.11 The application has a well-defined naming standard for Azure resources.", 
+    "Description": "A well-defined naming convention is important for overall operations to be able to easily determine the usage of certain resources and help understand owners and cost centers responsible for the workload. Naming conventions allow the matching of resource costs to particular workloads."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

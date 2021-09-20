@@ -1,0 +1,152 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000802",
+  "compliance_control_uri": "AC3-v-01/0000/110000802",
+  "Control Name": "SI-5 (1) AUTOMATED ALERTS AND ADVISORIES",
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+  "Control Statement": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization.",
+  "control_attributes": {
+    "Control Name": "SI-5 (1) AUTOMATED ALERTS AND ADVISORIES",
+    "Control Family": "SYSTEM AND INFORMATION INTEGRITY",
+    "Control Statement": "The organization employs automated mechanisms to make security alert and advisory information available throughout the organization."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network, Application, Databases",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000063",
+      "Fedramp-Control-High/0009/900000406",
+      "CIS-Azure/0003/300000066",
+      "CIS-Azure/0003/300000067",
+      "CIS-Azure/0015/150000038",
+      "SOC2/0017/1700000159"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/Gk3db",
+        "policy_name": "AWS_GUARDDUTY_Enabled_Centralized",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/afc57",
+        "policy_name": "AWS_Audit_Config_Global_Resources",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/0994a",
+        "policy_name": "AWS_Audit_Config_Referencing_Missing_S3_Bucket",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/gdfgd",
+        "policy_name": "AWS_Alert_Configuration_For_Config_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/hfsdr",
+        "policy_name": "AWS_Alert_Configuration_For_Unauthorized_API_Call",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/dfjgh",
+        "policy_name": "AWS_Alert_Configuration_For_Security_Group_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/bfgds",
+        "policy_name": "AWS_Alert_For_Management_Authentication_Failures",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/sdfgf",
+        "policy_name": "AWS_Alert_Configuration_For_IAM_Policy_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/tyjgr",
+        "policy_name": "AWS_Alert_For_Management_Console_SignIn_Without_MFA",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/bvxcd",
+        "policy_name": "AWS_Alert_Configuration_For_Root_Account_Usage",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/sdfds",
+        "policy_name": "AWS_Alert_Configuration_For_Customer_CMKs_State_Change",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/9V6QV",
+        "policy_name": "AWS_REDSHIFT_Cluster_Configuration_Check",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fhjsg",
+        "policy_name": "AWS_Alert_Configuration_For_S3_Bucket_Policy_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/jhgds",
+        "policy_name": "AWS_Alert_Configuration_For_Route_Table_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/adfdf",
+        "policy_name": "AWS_Alert_Configuration_For_Network_Gateways_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/sdfar",
+        "policy_name": "AWS_Alert_Configuration_For_VPC_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/mhgjy",
+        "policy_name": "AWS_Alert_For_Network_Access_Control_Lists_Changes",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/yhetg",
+        "policy_name": "Azure_Audit_SecurityAlert_SubsOwner",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

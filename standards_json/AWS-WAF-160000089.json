@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000089",
+  "compliance_control_uri": "AWS-WAF/0016/160000089",
+  "Control Name": "SEC 1.7 Identify and prioritize risks using a threat model",
+  "Control Family": "Security",
+  "Control Statement": "Use a threat model to identify and maintain an up- to-date register of potential threats. Prioritize your threats and adapt your security controls to prevent, detect, and respond. Revisit and maintain this in the context of the evolving security landscape.",
+  "control_attributes": {
+    "Control": "SEC 1.7 Identify and prioritize risks using a threat model",
+    "Category": "Security",
+    "Subcategory": "How do you securely operate your workload?",
+    "question_id": "securely-operate",
+    "choice_id": "sec_securely_operate_threat_model"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

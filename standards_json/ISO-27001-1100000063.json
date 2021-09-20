@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000063", 
+  "compliance_control_uri": "ISO-27001/0011/1100000063", 
+  "Control Name": "12.4.1 Event logging", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Audit logs recording user activities, exceptions, and information security events shall be produced and kept for an agreed period to assist in future investigations and access control monitoring", 
+  "control_attributes": {
+    "Clause_Category": "12.4 Logging and monitoring", 
+    "description": "Audit logs recording user activities, exceptions, and information security events shall be produced and kept for an agreed period to assist in future investigations and access control monitoring", 
+    "Control_Title": "12.4.1 Event logging", 
+    "Control_Clause": "12. Operations security"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000044",
+  "compliance_control_uri": "SOC2/0017/1700000044",
+  "Control Name": "Communicates With the Board of Directors—Relevant information resulting from assessments conducted by external parties is communicated to the board of directors.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Communicates With the Board of Directors—Relevant information resulting from assessments conducted by external parties is communicated to the board of directors.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.3 COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "ControlNo": "CC2.3.3",
+    "TrustID": "CC2.3"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

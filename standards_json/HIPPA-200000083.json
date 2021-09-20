@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000083", 
+  "compliance_control_uri": "HIPAA/0002/200000083", 
+  "Control Name": "Documentation- Availability - 164.316(b)(2)(ii)", 
+  "Control Family": "Documentation", 
+  "Control Statement": "Make documentation available to those persons responsible for implementing the procedures to which the documentation pertains.", 
+  "control_attributes": {
+    "Control": "Documentation- Availability - 164.316(b)(2)(ii)", 
+    "Security_Category": "Documentation", 
+    "Control_description": "Make documentation available to those persons responsible for implementing the procedures to which the documentation pertains."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

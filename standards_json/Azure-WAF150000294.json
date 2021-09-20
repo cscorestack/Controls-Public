@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000294", 
+  "compliance_control_uri": "Azure-WAF/0015/150000294", 
+  "Control Name": "3.11.3 You know what to do when the application response times increase while not using all the CPU or memory allocated to the system.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "When the system response times increase without any increase in the CPU or memory, this is an indicator that there is a resource that is time-blocked. This can mean many things such as thread sleep, connection wait, message queueing, etc. The list can go on. The bottom line is there is something that is consuming time but not compute resources.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.11 What common problems do you have steps to troubleshoot in your operations playbook?", 
+    "Control": "3.11.3 You know what to do when the application response times increase while not using all the CPU or memory allocated to the system.", 
+    "Description": "When the system response times increase without any increase in the CPU or memory, this is an indicator that there is a resource that is time-blocked. This can mean many things such as thread sleep, connection wait, message queueing, etc. The list can go on. The bottom line is there is something that is consuming time but not compute resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

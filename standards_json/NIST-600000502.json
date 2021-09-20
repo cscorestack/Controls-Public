@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000502", 
+  "control_attributes": {
+    "Control": "PE-6 (2) AUTOMATED INTRUSION RECOGNITION / RESPONSES", 
+    "control_description": "The organization employs automated mechanisms to recognize [Assignment: organization-defined classes/types of intrusions] and initiate [Assignment: organization-defined response actions].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs automatic voltage controls for [Assignment: organization-defined critical information system components]."
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to recognize [Assignment: organization-defined classes/types of intrusions] and initiate [Assignment: organization-defined response actions].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-6 (2) AUTOMATED INTRUSION RECOGNITION / RESPONSES", 
+  "compliance_control_number": "600000502"
+}

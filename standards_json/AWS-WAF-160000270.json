@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000270",
+  "compliance_control_uri": "AWS-WAF/0016/160000270",
+  "Control Name": "COST 5.3 Perform a thorough analysis of each component",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Look at overall cost to the organization of each component. Look at total cost of ownership by factoring in cost of operations and management, especially when using managed services. Review eﬀort should reﬂect potential beneﬁt: for example, time spent analyzing is proportional to component cost.",
+  "control_attributes": {
+    "Control": "COST 5.3 Perform a thorough analysis of each component",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you evaluate cost when you select services?",
+    "question_id": "select-service",
+    "choice_id": "cost_select_service_thorough_analysis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

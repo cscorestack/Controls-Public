@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000276", 
+  "compliance_control_uri": "Azure-WAF/0015/150000276", 
+  "Control Name": "3.9.1 Application and resource level logs are aggregated in a single data sink or able to be cross-queried.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "To build a robust application health model it is vital that application and resource level data be correlated and evaluated together to optimize the detection of issues and troubleshooting of detected issues.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.1 Application and resource level logs are aggregated in a single data sink or able to be cross-queried.", 
+    "Description": "To build a robust application health model it is vital that application and resource level data be correlated and evaluated together to optimize the detection of issues and troubleshooting of detected issues."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000088", 
+  "compliance_control_uri": "ISO/0001/100000063", 
+  "Control Name": "14.2.8 Systems security testing", 
+  "Control Family": "14. System acquistion, development and maintenance", 
+  "Control Statement": "Check for a thorough testing and verification procedure for all new and updated systems which include a detailed schedule of activities, test inputs and outputs under a range of conditions.  Check licensing arrangements, code ownership and intellectual property rights related to the outsourced content", 
+  "control_attributes": {
+    "Control_Objective": "14.2.8 Systems security testing", 
+    "Security_Control_Clause": "14. System acquistion, development and maintenance", 
+    "Security_Category": "14.2 Security in development and support processes", 
+    "description": "Check for a thorough testing and verification procedure for all new and updated systems which include a detailed schedule of activities, test inputs and outputs under a range of conditions.  Check licensing arrangements, code ownership and intellectual property rights related to the outsourced content"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

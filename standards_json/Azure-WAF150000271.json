@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000271", 
+  "compliance_control_uri": "Azure-WAF/0015/150000271", 
+  "Control Name": "3.8.4 You have defined goals for an API (service) endpoint complete response.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Data-centric applications are comprised of pulling data from various API endpoints. For a single page, this could mean many server requests. The page is only as fast as the slowest endpoint. It is important for you to test the performance of your APIs to quickly identify bottlenecks in the application that impede user experience.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.8 How are you benchmarking your workload?", 
+    "Control": "3.8.4 You have defined goals for an API (service) endpoint complete response.", 
+    "Description": "Data-centric applications are comprised of pulling data from various API endpoints. For a single page, this could mean many server requests. The page is only as fast as the slowest endpoint. It is important for you to test the performance of your APIs to quickly identify bottlenecks in the application that impede user experience."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

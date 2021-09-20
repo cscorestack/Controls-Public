@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "HIPAA/0002", 
+  "compliance_control_number": "200000047", 
+  "compliance_control_uri": "HIPAA/0002/200000047", 
+  "Control Name": "Security Awareness and Training - 164.308(a)(5)(i)", 
+  "Control Family": "Security Awareness and Training", 
+  "Control Statement": "Implement a security awareness and training program for all members of its workforce (including management).", 
+  "control_attributes": {
+    "Control": "Security Awareness and Training - 164.308(a)(5)(i)", 
+    "Security_Category": "Security Awareness and Training", 
+    "Control_description": "Implement a security awareness and training program for all members of its workforce (including management)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

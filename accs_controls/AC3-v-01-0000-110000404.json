@@ -1,0 +1,98 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000404",
+  "compliance_control_uri": "AC3-v-01/0000/110000404",
+  "Control Name": "MA-4 (6) CRYPTOGRAPHIC PROTECTION",
+  "Control Family": "MAINTENANCE",
+  "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications.",
+  "control_attributes": {
+    "Control Name": "MA-4 (6) CRYPTOGRAPHIC PROTECTION",
+    "Control Family": "MAINTENANCE",
+    "Control Statement": "The information system implements cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Databases, Network",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "AWS/Compute/EC2",
+      "service_resource": "AWS/Compute/EC2/Instances"
+    },
+    {
+      "service_resource_type": "Azure/Compute/Virtual_Machines",
+      "service_resource": "Azure/Compute/Virtual_Machines/Virtual_Machines"
+    },
+    {
+      "service_resource_type": "GCP/Compute/App_Engine",
+      "service_resource": "GCP/Compute/App_Engine/Security_Scans"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000073",
+      "Fedramp-Control-High/0009/900000247",
+      "CIS-AWS/0007/700000023",
+      "CIS-GCP/0014/1400000042",
+      "SOC2/0017/1700000194"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/2oolq",
+        "policy_name": "Azure_Monitor_Unencrypted_SQLdb",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/XpSzr",
+        "policy_name": "Azure_Audit_SQLserver_TDE_Encrypted_with_your_Own_Key",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ikuz4",
+        "policy_name": "Azure_Monitor_Unencrypted_VM_Disks",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/congress/global/azure/compliance/others/ew5gj",
+        "policy_name": "Azure_Audit_SQLServer_Transparent_Data_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/4vnyd",
+        "policy_name": "Azure_Audit_OS_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/ln2dx",
+        "policy_name": "Azure_Audit_Unattached_Disk_Encryption",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "AWS_S3_Bucket_Serverside_Encryption_Enabled",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/l2rt5",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

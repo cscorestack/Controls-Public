@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000117", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000117", 
+  "Control Name": "Change user passwords/passphrases at least once every 90 days.", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Change user passwords/passphrases at least once every 90 days.", 
+    "Requirement": "8.2.4.Identify and authenticate access to system components"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

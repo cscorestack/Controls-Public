@@ -1,0 +1,48 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000586",
+  "compliance_control_uri": "AC3-v-01/0000/110000586",
+  "Control Name": "SA-15 DEVELOPMENT PROCESS, STANDARDS, AND TOOLS",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization: a. Requires the developer of the information system, system component, or information system service to follow a documented development process that:1. Explicitly addresses security requirements;2. Identifies the standards and tools used in the development process;3. Documents the specific tool options and tool configurations used in the development process; and4. Documents, manages, and ensures the integrity of changes to the process and/or tools used in development; andb. Reviews the development process, standards, tools, and tool options/configurations [Assignment: organization-defined frequency] to determine if the process, standards, tools, and tool options/configurations selected and employed can satisfy [Assignment: organization-defined security requirements].",
+  "control_attributes": {
+    "Control Name": "SA-15 DEVELOPMENT PROCESS, STANDARDS, AND TOOLS",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization: a. Requires the developer of the information system, system component, or information system service to follow a documented development process that:1. Explicitly addresses security requirements;2. Identifies the standards and tools used in the development process;3. Documents the specific tool options and tool configurations used in the development process; and4. Documents, manages, and ensures the integrity of changes to the process and/or tools used in development; andb. Reviews the development process, standards, tools, and tool options/configurations [Assignment: organization-defined frequency] to determine if the process, standards, tools, and tool options/configurations selected and employed can satisfy [Assignment: organization-defined security requirements]."
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000618",
+      "ISO-27001/0011/1100000007",
+      "ISO-27001/0011/1100000081",
+      "Fedramp-Control-High/0009/900000340",
+      "ISO/0001/100000007",
+      "ISO/0001/100000056",
+      "Azure-WAF/0015/150000418",
+      "Azure-WAF/0015/150000422",
+      "Azure-WAF/0015/150000424",
+      "Azure-WAF/0015/150000426",
+      "Azure-WAF/0015/150000427"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

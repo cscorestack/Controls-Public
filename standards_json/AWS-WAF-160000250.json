@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000250",
+  "compliance_control_uri": "AWS-WAF/0016/160000250",
+  "Control Name": "COST 1.6 Monitor cost proactively",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Implement tooling and dashboards to monitor cost proactively for the workload. Do not just look at costs and categories when you receive notiﬁcations. This helps to identify positive trends and promote them throughout your organization.",
+  "control_attributes": {
+    "Control": "COST 1.6 Monitor cost proactively",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you implement cloud ﬁnancial management?",
+    "question_id": "cloud-financial-management",
+    "choice_id": "cost_cloud_financial_management_proactive_process"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

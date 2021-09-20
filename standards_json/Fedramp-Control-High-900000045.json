@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000045", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000045", 
+  "Control Name": "WIRELESS ACCESS | DISABLE WIRELESS NETWORKING", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment.Supplemental Guidance:  Related control: AC-19.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization disables, when not intended for use, wireless networking capabilities internally embedded within information system components prior to issuance and deployment.Supplemental Guidance:  Related control: AC-19.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-18 (03)", 
+    "CNTL NO": "AC-18 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "WIRELESS ACCESS | DISABLE WIRELESS NETWORKING"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

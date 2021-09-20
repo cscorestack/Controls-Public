@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000495", 
+  "compliance_control_uri": "Azure-WAF/0015/150000495", 
+  "Control Name": "5.13.1 When communicating with Azure platform services managed identities are preferred over API keys and connection strings.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Try to avoid authentication with keys (connection strings, API keys etc.) and always prefer Managed Identities (formerly also known as Managed Service Identity, MSI). Managed identities enable Azure Services to authenticate to each other without presenting explicit credentials via code. Typical use case is a Web App accessing Key Vault credentials or a Virtual Machine accessing SQL Database.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.13 How are you managing identity for this workload?", 
+    "Control": "5.13.1 When communicating with Azure platform services managed identities are preferred over API keys and connection strings.", 
+    "Description": "Try to avoid authentication with keys (connection strings, API keys etc.) and always prefer Managed Identities (formerly also known as Managed Service Identity, MSI). Managed identities enable Azure Services to authenticate to each other without presenting explicit credentials via code. Typical use case is a Web App accessing Key Vault credentials or a Virtual Machine accessing SQL Database."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000446", 
+  "compliance_control_uri": "Azure-WAF/0015/150000446", 
+  "Control Name": "5.7.2 Penetration testing is performed in-house or a third-party entity performs penetration testing of this workload to validate the current security defenses.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Real world validation of security defenses is critical to validate a defense strategy and implementation. Penetration tests or red team programs can be used to simulate either one time, or persistent threats against an organization to validate defenses that have been put in place to protect organizational resources.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.2 Penetration testing is performed in-house or a third-party entity performs penetration testing of this workload to validate the current security defenses.", 
+    "Description": "Real world validation of security defenses is critical to validate a defense strategy and implementation. Penetration tests or red team programs can be used to simulate either one time, or persistent threats against an organization to validate defenses that have been put in place to protect organizational resources."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

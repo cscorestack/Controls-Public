@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000286", 
+  "control_attributes": {
+    "Control": "CM-3 (4) SECURITY REPRESENTATIVE", 
+    "control_description": "The organization requires an information security representative to be a member of the [Assignment: organization-defined configuration change control element].", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization requires an information security representative to be a member of the [Assignment: organization-defined configuration change control element].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-3 (4) SECURITY REPRESENTATIVE", 
+  "compliance_control_number": "600000286"
+}

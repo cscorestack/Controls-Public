@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000030", 
+  "compliance_control_uri": "Azure-WAF/0015/150000030", 
+  "Control Name": "1.4.4 Data is being transferred between regions.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Moving data between regions can add additional cost - both on the storage layer and networking layer. It's worth reviewing if this cost is justified or can be replaced via re-architecture or justified due to e.g. disaster recovery (DR). If applications or services are exchanging data between regions, extra cost is typically accrued.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.4 Data is being transferred between regions.", 
+    "Description": "Moving data between regions can add additional cost - both on the storage layer and networking layer. It's worth reviewing if this cost is justified or can be replaced via re-architecture or justified due to e.g. disaster recovery (DR). If applications or services are exchanging data between regions, extra cost is typically accrued."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

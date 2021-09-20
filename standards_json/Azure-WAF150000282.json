@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000282", 
+  "compliance_control_uri": "Azure-WAF/0015/150000282", 
+  "Control Name": "3.9.7 Long-term trends are analyzed to predict performance issues before they occur.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Analytics can and should be performed across long-term operational data to help inform on the history of application performance and detect if there have been any regressions. For instance, if the average response times have been slowly increasing over time and getting closer to maximum target consider scaling up your infrastructure.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.9 How have you modeled the health of your workload?", 
+    "Control": "3.9.7 Long-term trends are analyzed to predict performance issues before they occur.", 
+    "Description": "Analytics can and should be performed across long-term operational data to help inform on the history of application performance and detect if there have been any regressions. For instance, if the average response times have been slowly increasing over time and getting closer to maximum target consider scaling up your infrastructure."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

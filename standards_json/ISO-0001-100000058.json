@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000058", 
+  "compliance_control_uri": "ISO/0001/100000032", 
+  "Control Name": "12.1.2 Change management", 
+  "Control Family": "12. Operations security", 
+  "Control Statement": "Changes to information processing facilities and systems shall be controlled", 
+  "control_attributes": {
+    "Control_Objective": "12.1.2 Change management", 
+    "Security_Control_Clause": "12. Operations security", 
+    "Security_Category": "12.1 Operational procedures and responsibiities", 
+    "description": "Changes to information processing facilities and systems shall be controlled"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

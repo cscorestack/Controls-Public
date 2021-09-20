@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO-27001/0011", 
+  "compliance_control_number": "1100000108", 
+  "compliance_control_uri": "ISO-27001/0011/1100000108", 
+  "Control Name": "18.1.2 Intellectual property rights", 
+  "Control Family": "18. Compliance", 
+  "Control Statement": "Confirm that policies and procedures are in place concerning compliance with the associated requirements/obligations both by the organization and by second parties.  Check the permitted methods of acquisition and use of copyrighted materials, such as software licenses.", 
+  "control_attributes": {
+    "Clause_Category": "18.1 Compliance with legal and contractual requirements", 
+    "description": "Confirm that policies and procedures are in place concerning compliance with the associated requirements/obligations both by the organization and by second parties.  Check the permitted methods of acquisition and use of copyrighted materials, such as software licenses.", 
+    "Control_Title": "18.1.2 Intellectual property rights", 
+    "Control_Clause": "18. Compliance"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

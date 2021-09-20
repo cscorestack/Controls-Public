@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000585", 
+  "control_attributes": {
+    "Control": "SA-9 (3) ESTABLISH / MAINTAIN TRUST RELATIONSHIP WITH PROVIDERS", 
+    "control_description": "The organization establishes, documents, and maintains trust relationships with external service providers based on [Assignment: organization-defined security requirements, properties, factors, or conditions defining acceptable trust relationships].", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization requires the developer of the information system, system component, or information system service to enable integrity verification of hardware components."
+  }, 
+  "Control Statement": "The organization establishes, documents, and maintains trust relationships with external service providers based on [Assignment: organization-defined security requirements, properties, factors, or conditions defining acceptable trust relationships].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-9 (3) ESTABLISH / MAINTAIN TRUST RELATIONSHIP WITH PROVIDERS", 
+  "compliance_control_number": "600000585"
+}

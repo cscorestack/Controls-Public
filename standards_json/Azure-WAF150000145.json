@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000145", 
+  "compliance_control_uri": "Azure-WAF/0015/150000145", 
+  "Control Name": "2.10.8 The expiry dates of SSL certificates are monitored and there are processes in place to renew them to renew them?", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are the expiry dates of SSL certificates monitored and are processes in place", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.10 How are you managing the configuration of your workload?", 
+    "Control": "2.10.8 The expiry dates of SSL certificates are monitored and there are processes in place to renew them to renew them?", 
+    "Description": "Are the expiry dates of SSL certificates monitored and are processes in place"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

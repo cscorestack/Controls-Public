@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000095", 
+  "compliance_control_uri": "Azure-WAF/0015/150000095", 
+  "Control Name": "2.4.2 Application logs are collected from different application environments", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are application logs collected from different application environments?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.2 Application logs are collected from different application environments", 
+    "Description": "Are application logs collected from different application environments?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

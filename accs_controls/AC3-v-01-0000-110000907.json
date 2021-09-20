@@ -1,0 +1,44 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000907",
+  "compliance_control_uri": "AC3-v-01/0000/110000907",
+  "Control Name": "Ensure that UDP Services are restricted from the Internet",
+  "Control Family": "Networking",
+  "Control Statement": "Disable Internet exposed UDP ports on network security groups.",
+  "control_attributes": {
+    "Control Name": "Ensure that UDP Services are restricted from the Internet",
+    "Control Family": "Networking",
+    "Control Statement": "Disable Internet exposed UDP ports on network security groups."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Resource",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Network/Virtual_Networks",
+      "service_resource": "Azure/Network/Virtual_Networks/Network_Security_Group"
+    }
+  ],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "CIS-Azure/0015/150000088",
+      "CIS-AWS/0007/700000049"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

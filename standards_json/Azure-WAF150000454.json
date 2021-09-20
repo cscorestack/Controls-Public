@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000454", 
+  "compliance_control_uri": "Azure-WAF/0015/150000454", 
+  "Control Name": "5.8.3 Azure Firewall or any 3rd party next generation firewall is used for this workload to control outgoing traffic of Azure PaaS services (data exfiltration protection) where Private Link is not available.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "NVA solutions and Azure Firewall (for supported protocols) can be leveraged as a reverse proxy to restrict access to only authorized PaaS services for services where Private Link is not yet supported (Azure Firewall).", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.8 How is connectivity secured for this workload?", 
+    "Control": "5.8.3 Azure Firewall or any 3rd party next generation firewall is used for this workload to control outgoing traffic of Azure PaaS services (data exfiltration protection) where Private Link is not available.", 
+    "Description": "NVA solutions and Azure Firewall (for supported protocols) can be leveraged as a reverse proxy to restrict access to only authorized PaaS services for services where Private Link is not yet supported (Azure Firewall)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

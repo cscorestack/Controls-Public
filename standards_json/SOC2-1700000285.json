@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000285",
+  "compliance_control_uri": "SOC2/0017/1700000285",
+  "Control Name": "Ensures Accuracy and Completeness of Personal Information—Personal information is accurate and complete for the purposes for which it is to be used.",
+  "Control Family": "Additional Criteria For Privacy",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Ensures Accuracy and Completeness of Personal Information—Personal information is accurate and complete for the purposes for which it is to be used.",
+    "Category": "Additional Criteria For Privacy",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Privacy",
+    "SubCategory": "P7.1 The entity collects and maintains accurate, up-to-date, complete, and relevant personal information to meet the entity’s objectives related to privacy",
+    "ControlNo": "P7.1.1",
+    "TrustID": "P7.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

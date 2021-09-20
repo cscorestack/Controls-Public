@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000184", 
+  "compliance_control_uri": "Azure-WAF/0015/150000184", 
+  "Control Name": "2.15.6 Azure Resource Tags are used to enrich resources with operational meta-data", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Azure Tags provide the ability to associate critical meta-data as a name-value pair, such as billing information (e.g. cost center code), environment information (e.g. environment type), with Azure resources, resource groups, and subscriptions", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.15 What processes and procedures have you adopted to optimize workload operability?", 
+    "Control": "2.15.6 Azure Resource Tags are used to enrich resources with operational meta-data", 
+    "Description": "Azure Tags provide the ability to associate critical meta-data as a name-value pair, such as billing information (e.g. cost center code), environment information (e.g. environment type), with Azure resources, resource groups, and subscriptions"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

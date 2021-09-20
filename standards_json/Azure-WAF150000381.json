@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000381", 
+  "compliance_control_uri": "Azure-WAF/0015/150000381", 
+  "Control Name": "4.12.2 Load Testing is conducted with expected peak volumes to test scalability and performance under load.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is Load testing performed using expected peak volumes? i.e. do you test application scalability and performance under load?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.12 How do you test the application to ensure it is fault tolerant?", 
+    "Control": "4.12.2 Load Testing is conducted with expected peak volumes to test scalability and performance under load.", 
+    "Description": "Is Load testing performed using expected peak volumes? i.e. do you test application scalability and performance under load?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

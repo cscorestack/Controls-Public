@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000057", 
+  "compliance_control_uri": "Azure-WAF/0015/150000057", 
+  "Control Name": "1.7.10 The Start/Stop feature in Azure Kubernetes Services (AKS) is used.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "The AKS Stop/Start cluster feature now in public preview allows AKS customers to completely pause an AKS cluster, saving time and money. The stop/start feature keeps cluster configurations in place and customers can pick up where they left off without reconfiguring the clusters.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.10 The Start/Stop feature in Azure Kubernetes Services (AKS) is used.", 
+    "Description": "The AKS Stop/Start cluster feature now in public preview allows AKS customers to completely pause an AKS cluster, saving time and money. The stop/start feature keeps cluster configurations in place and customers can pick up where they left off without reconfiguring the clusters."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

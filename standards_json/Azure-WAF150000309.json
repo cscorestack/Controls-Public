@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000309", 
+  "compliance_control_uri": "Azure-WAF/0015/150000309", 
+  "Control Name": "4.3.1 Built a capacity model for the application", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is there a capacity model for the application identifying relationships between the utilization of various components, to capture when and how to scale-out?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.3 How have you ensured required capacity and services are available in targeted regions?", 
+    "Control": "4.3.1 Built a capacity model for the application", 
+    "Description": "Is there a capacity model for the application identifying relationships between the utilization of various components, to capture when and how to scale-out?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

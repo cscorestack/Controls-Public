@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000471", 
+  "compliance_control_uri": "Azure-WAF/0015/150000471", 
+  "Control Name": "5.10.1 The workload uses industry standard encryption algorithms instead of creating own.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Organizations should rarely develop and maintain their own encryption algorithms. Secure standards already exist on the market and should be preferred. AES should be used as symmetric block cipher, AES-128, AES-192 and AES-256 are acceptable. Crypto APIs built into operating systems should be used where possible, instead of non-platform crypto libraries. For .NET make sure you follow the .NET Cryptography Model.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.10 How are you managing encryption for this workload?", 
+    "Control": "5.10.1 The workload uses industry standard encryption algorithms instead of creating own.", 
+    "Description": "Organizations should rarely develop and maintain their own encryption algorithms. Secure standards already exist on the market and should be preferred. AES should be used as symmetric block cipher, AES-128, AES-192 and AES-256 are acceptable. Crypto APIs built into operating systems should be used where possible, instead of non-platform crypto libraries. For .NET make sure you follow the .NET Cryptography Model."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000542", 
+  "control_attributes": {
+    "Control": "PS-1 PERSONNEL SECURITY POLICY AND PROCEDURES", 
+    "control_description": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; andb. Reviews and updates the current:1. Personnel security policy [Assignment: organization-defined frequency]; and2. Personnel security procedures [Assignment: organization-defined frequency]", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; andb. Reviews and updates the current:1. Personnel security policy [Assignment: organization-defined frequency]; and2. Personnel security procedures [Assignment: organization-defined frequency]", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-1 PERSONNEL SECURITY POLICY AND PROCEDURES", 
+  "compliance_control_number": "600000542"
+}

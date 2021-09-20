@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000113", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000113", 
+  "Control Name": "CONTINGENCY PLAN | RESUME ESSENTIAL MISSIONS / BUSINESS FUNCTIONS", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization plans for the resumption of essential missions and business functions within[Assignment: organization-defined time period] of contingency plan activation.Supplemental Guidance:  Organizations may choose to carry out the contingency planning activities in this control enhancement as part of organizational business continuity planning including, for example, as part of business impact analyses. The time period for resumption of essential missions/business functions may be dependent on the severity/extent of disruptionsto the information system and its supporting infrastructure. Related control: PE-12.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization plans for the resumption of essential missions and business functions within[Assignment: organization-defined time period] of contingency plan activation.Supplemental Guidance:  Organizations may choose to carry out the contingency planning activities in this control enhancement as part of organizational business continuity planning including, for example, as part of business impact analyses. The time period for resumption of essential missions/business functions may be dependent on the severity/extent of disruptionsto the information system and its supporting infrastructure. Related control: PE-12.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-02 (03)", 
+    "CNTL NO": "CP-2 (3)", 
+    "AdditionalReq": "", 
+    "Control Name": "CONTINGENCY PLAN | RESUME ESSENTIAL MISSIONS / BUSINESS FUNCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

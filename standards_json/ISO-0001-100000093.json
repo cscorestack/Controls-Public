@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000093", 
+  "compliance_control_uri": "ISO/0001/100000068", 
+  "Control Name": "15.1.3 Information and communication technology supply chain", 
+  "Control Family": "15. Supplier relationships", 
+  "Control Statement": "Check how information risk and security practices propagate throughout the supply chain, especially when parts are subcontracted.", 
+  "control_attributes": {
+    "Control_Objective": "15.1.3 Information and communication technology supply chain", 
+    "Security_Control_Clause": "15. Supplier relationships", 
+    "Security_Category": "15.1 Information security in supplier relationships", 
+    "description": "Check how information risk and security practices propagate throughout the supply chain, especially when parts are subcontracted."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

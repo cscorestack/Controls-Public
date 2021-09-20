@@ -1,0 +1,50 @@
+{
+  "compliance_uri": "AC3-v-01/0000", 
+  "compliance_control_number": "110000892", 
+  "compliance_control_uri": "AC3-v-01/0000/110000892", 
+  "Control Name": "Ensure that Azure Active Directory Admin is configured", 
+  "Control Family": "Database Services", 
+  "Control Statement": "Use Azure Active Directory Authentication for authentication with SQL Database.", 
+  "control_attributes": {
+    "Control Name": "Ensure that Azure Active Directory Admin is configured", 
+    "Control Family": "Database Services", 
+    "Control Statement": "Use Azure Active Directory Authentication for authentication with SQL Database."
+  }, 
+  "control_action_attributes": {
+    "nature": "Automated", 
+    "category": "Storage", 
+    "action_method": "Policy", 
+    "purpose": "Preventive", 
+    "level": "Resource", 
+    "Control Baseline": "Basic", 
+    "classification": "Technical"
+  }, 
+  "service_resource_mapping": [
+    {
+      "service_resource_type": "Azure/Databases/Servers",
+      "service_resource": "Azure/Databases/Servers/MSSQL"
+    }
+],
+"control_control_mapping": {
+  "compliance_control_mapped_uri": [
+    "CIS-Azure/0015/150000066"
+  ],
+  "system_default": true,
+  "is_deleted": false
+},
+"control_policy_mapping": {
+  "is_deleted": false,
+  "is_parameterized": false,
+  "policy": [
+    {
+      "policy_name": "Audit_Provisioning_Azure_AD_Admin_for_SQLserver",
+      "policy_uri": "policy/azure_policy/global/azure/compliance/others/nktwp",
+      "is_deleted": false,
+      "is_parameterized": true
+    }
+  ]
+},
+"system_default": true,
+"is_deleted": false,
+"mode": "New"
+}

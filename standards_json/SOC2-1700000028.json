@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000028",
+  "compliance_control_uri": "SOC2/0017/1700000028",
+  "Control Name": "Captures Internal and External Sources of Data—Information systems capture internal and external sources of data.",
+  "Control Family": "Communication and Information",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Captures Internal and External Sources of Data—Information systems capture internal and external sources of data.",
+    "Category": "Communication and Information",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC2.1 COSO Principle 13: The entity obtains or generates and uses relevant, quality information to support the functioning of internal control.",
+    "ControlNo": "CC2.1.2",
+    "TrustID": "CC2.1"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

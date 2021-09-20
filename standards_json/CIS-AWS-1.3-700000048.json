@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000048", 
+  "compliance_control_uri": "CIS-AWS/0007/700000048", 
+  "Control Name": "4.12 Ensure a log metric filter and alarm exist for changes to network gateways", 
+  "Control Family": "Monitoring", 
+  "Control Statement": "It is recommended that a metric filter and alarm be established for changes to network gateways.", 
+  "control_attributes": {
+    "Control": "4.12 Ensure a log metric filter and alarm exist for changes to network gateways", 
+    "Category": "Monitoring", 
+    "Control_description": "It is recommended that a metric filter and alarm be established for changes to network gateways."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

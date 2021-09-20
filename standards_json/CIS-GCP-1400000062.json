@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000062", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000062", 
+  "Control Name": "6.15 Ensure that Cloud SQL database instances are configured with automated backups", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to have all SQL database instances set to enable automated backups.", 
+  "control_attributes": {
+    "Control": "6.15 Ensure that Cloud SQL database instances are configured with automated backups", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to have all SQL database instances set to enable automated backups."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

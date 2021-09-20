@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000313", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000313", 
+  "Control Name": "VULNERABILITY SCANNING | DISCOVERABLE INFORMATION", 
+  "Control Family": "RISK ASSESSMENT", 
+  "Control Statement": "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions].Supplemental Guidance:  Discoverable information includes information that adversaries could obtain without directly compromising or breaching the information system, for example, by collecting information the system is exposing or by conducting extensive searches of the web. Corrective actions can include, for example, notifying appropriate organizational personnel, removing designated information, or changing the information system to make designated information less relevant or attractive to adversaries. Related control: AU-13.", 
+  "control_attributes": {
+    "Category": "RISK ASSESSMENT", 
+    "description": "The organization determines what information about the information system is discoverable by adversaries and subsequently takes [Assignment: organization-defined corrective actions].Supplemental Guidance:  Discoverable information includes information that adversaries could obtain without directly compromising or breaching the information system, for example, by collecting information the system is exposing or by conducting extensive searches of the web. Corrective actions can include, for example, notifying appropriate organizational personnel, removing designated information, or changing the information system to make designated information less relevant or attractive to adversaries. Related control: AU-13.", 
+    "SelectionParam": "RA-5 (4) [notify appropriate service provider personnel and follow procedures for organization  and service provider-defined corrective actions]", 
+    "FedRampParam": "x", 
+    "SORTID": "RA-05 (04)", 
+    "CNTL NO": "RA-5 (4)", 
+    "AdditionalReq": " ", 
+    "Control Name": "VULNERABILITY SCANNING | DISCOVERABLE INFORMATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

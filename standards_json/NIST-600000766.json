@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND INFORMATION INTEGRITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000766", 
+  "control_attributes": {
+    "Control": "SI-4 (13) ANALYZE TRAFFIC / EVENT PATTERNS", 
+    "control_description": "The organization: (a) Analyzes communications traffic/event patterns for the information system;(b) Develops profiles representing common traffic patterns and/or events; and(c) Uses the traffic/event profiles in tuning system-monitoring devices to reduce the number of false positives and the number of false negatives.", 
+    "Family": "SYSTEM AND INFORMATION INTEGRITY", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization employs an intrusion detection system to monitor wireless communications traffic as the traffic passes from wireless to wireline networks."
+  }, 
+  "Control Statement": "The organization: (a) Analyzes communications traffic/event patterns for the information system;(b) Develops profiles representing common traffic patterns and/or events; and(c) Uses the traffic/event profiles in tuning system-monitoring devices to reduce the number of false positives and the number of false negatives.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SI-4 (13) ANALYZE TRAFFIC / EVENT PATTERNS", 
+  "compliance_control_number": "600000766"
+}

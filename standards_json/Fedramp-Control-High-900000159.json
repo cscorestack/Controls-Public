@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000159", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000159", 
+  "Control Name": "ALTERNATE STORAGE SITE | SEPARATION FROM PRIMARY SITE", 
+  "Control Family": "CONTINGENCY PLANNING", 
+  "Control Statement": "The organization identifies an alternate storage site that is separated from the primary storage site to reduce susceptibility to the same threats.Supplemental Guidance:  Threats that affect alternate storage sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate storage sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant. Related control: RA-3.", 
+  "control_attributes": {
+    "Category": "CONTINGENCY PLANNING", 
+    "description": "The organization identifies an alternate storage site that is separated from the primary storage site to reduce susceptibility to the same threats.Supplemental Guidance:  Threats that affect alternate storage sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate storage sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant. Related control: RA-3.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CP-06 (01)", 
+    "CNTL NO": "CP-6 (1)", 
+    "AdditionalReq": " ", 
+    "Control Name": "ALTERNATE STORAGE SITE | SEPARATION FROM PRIMARY SITE"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

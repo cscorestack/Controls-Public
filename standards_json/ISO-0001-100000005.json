@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "ISO/0001", 
+  "compliance_control_number": "100000005", 
+  "compliance_control_uri": "ISO/0001/100000005", 
+  "Control Name": "6.1.3 Contact with Authorities", 
+  "Control Family": "6. Organization of information security", 
+  "Control Statement": "Appropriate contacts with relevant authorities shall be maintained", 
+  "control_attributes": {
+    "Control_Objective": "6.1.3 Contact with Authorities", 
+    "Security_Control_Clause": "6. Organization of information security", 
+    "Security_Category": "6.1 internal organization", 
+    "description": "Appropriate contacts with relevant authorities shall be maintained"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

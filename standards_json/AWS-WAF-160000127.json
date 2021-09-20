@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000127",
+  "compliance_control_uri": "AWS-WAF/0016/160000127",
+  "Control Name": "SEC 8.5 Use mechanisms to keep people away from data",
+  "Control Family": "Security",
+  "Control Statement": "Keep all users away from directly accessing sensitive data and systems under normal operational circumstances. For example, provide a dashboard instead of direct access to a data store to run queries. Where CI/CD pipelines are not used, determine which controls and processes are required to adequately provide a normally disabled break-glass access mechanism.",
+  "control_attributes": {
+    "Control": "SEC 8.5 Use mechanisms to keep people away from data",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data at rest?",
+    "question_id": "protect-data-rest",
+    "choice_id": "sec_protect_data_rest_use_people_away"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000242",
+  "compliance_control_uri": "AWS-WAF/0016/160000242",
+  "Control Name": "PERF 8.3 Identify how tradeoﬀs impact customers and eﬃciency",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "When evaluating performance-related improvements, determine which choices will impact your customers and workload eﬃciency. For example, if using a key-value data store increases system performance, it is important to evaluate how the eventually consistent nature of it will impact customers.",
+  "control_attributes": {
+    "Control": "PERF 8.3 Identify how tradeoﬀs impact customers and eﬃciency",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you use tradeoﬀs to improve performance?",
+    "question_id": "tradeoffs-performance",
+    "choice_id": "perf_tradeoffs_performance_understand_impact"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

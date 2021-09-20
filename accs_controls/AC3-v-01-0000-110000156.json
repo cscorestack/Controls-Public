@@ -1,0 +1,56 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000156",
+  "compliance_control_uri": "AC3-v-01/0000/110000156",
+  "Control Name": "AU-5 RESPONSE TO AUDIT PROCESSING FAILURES",
+  "Control Family": "AUDIT AND ACCOUNTABILITY",
+  "Control Statement": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; andb. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)].",
+  "control_attributes": {
+    "Control Name": "AU-5 RESPONSE TO AUDIT PROCESSING FAILURES",
+    "Control Family": "AUDIT AND ACCOUNTABILITY",
+    "Control Statement": "The information system: a. Alerts [Assignment: organization-defined personnel or roles] in the event of an audit processing failure; andb. Takes the following additional actions: [Assignment: organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records)]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application, Network",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000111",
+      "Fedramp-Control-Moderate/0010/1000000055",
+      "Fedramp-Control-High/0009/900000069",
+      "CIS-AWS/0007/700000041",
+      "CIS-GCP/0014/1400000020",
+      "SOC2/0017/1700000153"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_name": "AWS_Alert_Configuration_For_CloudTrail_Changes",
+        "policy_uri": "policy/aws_config/global/aws/compliance/others/fgdds",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_name": "GCP_Monitor_Log_Metrics_And_Alerts_For_Audit_Configuration_Changes",
+        "policy_uri": "policy/gcp_policy/global/gcp/compliance/vm/zxcv",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

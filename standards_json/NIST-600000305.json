@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000305", 
+  "control_attributes": {
+    "Control": "CM-8 (7) CENTRALIZED REPOSITORY", 
+    "control_description": "The organization provides a centralized repository for the inventory of information system components.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization provides a centralized repository for the inventory of information system components.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-8 (7) CENTRALIZED REPOSITORY", 
+  "compliance_control_number": "600000305"
+}

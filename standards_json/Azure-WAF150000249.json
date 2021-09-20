@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000249", 
+  "compliance_control_uri": "Azure-WAF/0015/150000249", 
+  "Control Name": "3.5.5 You have defined, tested, and validated throughput targets for key scenarios.", 
+  "Control Family": "3. Performance Efficiency", 
+  "Control Statement": "Throughput targets, which are commonly defined in terms of IOPS, MB/s and Block Size, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health. Available throughput typically varies based on SKU, so defined targets should be used to inform the use of appropriate SKUs.", 
+  "control_attributes": {
+    "Category": "3. Performance Efficiency", 
+    "Control_Clause": "3.5 What considerations for performance efficiency have you made in your networking stack?", 
+    "Control": "3.5.5 You have defined, tested, and validated throughput targets for key scenarios.", 
+    "Description": "Throughput targets, which are commonly defined in terms of IOPS, MB/s and Block Size, should be defined and measured for key application scenarios, as well as each individual component, to validate overall application performance and health. Available throughput typically varies based on SKU, so defined targets should be used to inform the use of appropriate SKUs."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

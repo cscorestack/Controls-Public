@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000093", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000093", 
+  "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | SIGNED COMPONENTS", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The information system prevents the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.Supplemental Guidance:  Software and firmware components prevented from installation unless signed with recognized and approved certificates include, for example, software and firmware version updates, patches, service packs, device drivers, and basic input output system (BIOS) updates. Organizations can identify applicable software and firmware components by type, by specific items, or a combination of both. Digital signatures and organizational verification of such signatures, is a method of code authentication. Related controls: CM-7, SC-13, SI-7.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The information system prevents the installation of [Assignment: organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.Supplemental Guidance:  Software and firmware components prevented from installation unless signed with recognized and approved certificates include, for example, software and firmware version updates, patches, service packs, device drivers, and basic input output system (BIOS) updates. Organizations can identify applicable software and firmware components by type, by specific items, or a combination of both. Digital signatures and organizational verification of such signatures, is a method of code authentication. Related controls: CM-7, SC-13, SI-7.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-05 (03)", 
+    "CNTL NO": "CM-5 (3)", 
+    "AdditionalReq": "CM-5 (3) Guidance: If digital signatures/certificates are unavailable, alternative cryptographic integrity checks (hashes, self-signed certs, etc.) can be utilized.", 
+    "Control Name": "ACCESS RESTRICTIONS FOR CHANGE | SIGNED COMPONENTS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

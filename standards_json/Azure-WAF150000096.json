@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000096", 
+  "compliance_control_uri": "Azure-WAF/0015/150000096", 
+  "Control Name": "2.4.3 Log messages are captured in a structured format and can be indexed and searched", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Are log messages captured in a structured format?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.4 How are you monitoring your resources?", 
+    "Control": "2.4.3 Log messages are captured in a structured format and can be indexed and searched", 
+    "Description": "Are log messages captured in a structured format?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

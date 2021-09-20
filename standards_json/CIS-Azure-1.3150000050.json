@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000050", 
+  "compliance_control_uri": "CIS-Azure/0015/150000050", 
+  "Control Name": "4.1.1 Ensure that 'Auditing' is set to 'On'", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable auditing on SQL Servers.", 
+  "control_attributes": {
+    "Control": "4.1.1 Ensure that 'Auditing' is set to 'On'", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable auditing on SQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

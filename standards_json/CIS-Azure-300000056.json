@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000056", 
+  "compliance_control_uri": "CIS-Azure/0003/300000056", 
+  "Control Name": "1.19. Ensure that 'Users can create Office 365 groups' is set to 'No'", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Restricting Office 365 group creation to administrators only ensures that creation of Office365 groups is controlled by the administrator.", 
+  "control_attributes": {
+    "Control": "1.19. Ensure that 'Users can create Office 365 groups' is set to 'No'", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Restricting Office 365 group creation to administrators only ensures that creation of Office365 groups is controlled by the administrator."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

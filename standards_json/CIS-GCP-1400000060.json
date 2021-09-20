@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000060", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000060", 
+  "Control Name": "6.13 Ensure that Cloud SQL database instances are not open to the world ", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "Database Server should accept connections only from trusted Network(s)/IP(s) and restrict access from the world.", 
+  "control_attributes": {
+    "Control": "6.13 Ensure that Cloud SQL database instances are not open to the world ", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "Database Server should accept connections only from trusted Network(s)/IP(s) and restrict access from the world."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

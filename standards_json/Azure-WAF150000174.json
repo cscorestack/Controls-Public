@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000174", 
+  "compliance_control_uri": "Azure-WAF/0015/150000174", 
+  "Control Name": "2.14.9 Business Continuity 'fire drills' are performed to test regional failover scenarios", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Do you perform Business Continuity 'fire drills' to test regional failover scenarios?", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.14 How are you testing and validating your workload?", 
+    "Control": "2.14.9 Business Continuity 'fire drills' are performed to test regional failover scenarios", 
+    "Description": "Do you perform Business Continuity 'fire drills' to test regional failover scenarios?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

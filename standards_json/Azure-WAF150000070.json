@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000070", 
+  "compliance_control_uri": "Azure-WAF/0015/150000070", 
+  "Control Name": "1.9.5 Reserved premium disks (P30 & above) are used.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Premium Disks (P30 & above) can be reserved (1 or 3 years) at discounted price.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.9 How do you manage storage and data costs for this workload?", 
+    "Control": "1.9.5 Reserved premium disks (P30 & above) are used.", 
+    "Description": "Premium Disks (P30 & above) can be reserved (1 or 3 years) at discounted price."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

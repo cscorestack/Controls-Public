@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000350", 
+  "compliance_control_uri": "Azure-WAF/0015/150000350", 
+  "Control Name": "4.7.3 Retry logic is implemented to handle transient failures, with appropriate back-off strategies to avoid cascading failures.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Have you implemented retry logic to handle transient application failures as well as transient failures with internal or external dependencies?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.7 How does your application logic handle exceptions and errors?", 
+    "Control": "4.7.3 Retry logic is implemented to handle transient failures, with appropriate back-off strategies to avoid cascading failures.", 
+    "Description": "Have you implemented retry logic to handle transient application failures as well as transient failures with internal or external dependencies?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

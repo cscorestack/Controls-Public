@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000026", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000026", 
+  "Control Name": "LEAST PRIVILEGE | AUDITING USE OF PRIVILEGED FUNCTIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system audits the execution of privileged functions.Supplemental Guidance:  Misuse of privileged functions, either intentionally or unintentionally by authorized users, or by unauthorized external entities that have compromised information system accounts, is a serious and ongoing concern and can have significant adverse impacts on organizations. Auditing the use of privileged functions is one way to detect such misuse, and in doing so, help mitigate the risk from insider threats and the advanced persistent threat (APT). Related control: AU-2.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system audits the execution of privileged functions.Supplemental Guidance:  Misuse of privileged functions, either intentionally or unintentionally by authorized users, or by unauthorized external entities that have compromised information system accounts, is a serious and ongoing concern and can have significant adverse impacts on organizations. Auditing the use of privileged functions is one way to detect such misuse, and in doing so, help mitigate the risk from insider threats and the advanced persistent threat (APT). Related control: AU-2.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AC-06 (09)", 
+    "CNTL NO": "AC-6 (9)", 
+    "AdditionalReq": " ", 
+    "Control Name": "LEAST PRIVILEGE | AUDITING USE OF PRIVILEGED FUNCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

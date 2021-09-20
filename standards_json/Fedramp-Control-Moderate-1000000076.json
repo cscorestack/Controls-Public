@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000076", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000076", 
+  "Control Name": "PLAN OF ACTION AND MILESTONES", 
+  "Control Family": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+  "Control Statement": "The organization: a. Develops a plan of action and milestones for the information system to document the organization\u00e2\u20ac\u2122s planned remedial actions to correct weaknesses or deficiencies noted duringthe assessment of the security controls and to reduce or eliminate known vulnerabilities in the system; and b. Updates existing plan of action and milestones [Assignment: organization-defined frequency] based on the findings from security controls assessments, security impact analyses, and continuous monitoring activities.Supplemental Guidance:  Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB. Related controls: CA-2, CA-7, CM-4, PM-4.References:  OMB Memorandum 02-01; NIST Special Publication 800-37.", 
+  "control_attributes": {
+    "Category": "SECURITY ASSESSMENT AND AUTHORIZATION", 
+    "description": "The organization: a. Develops a plan of action and milestones for the information system to document the organization\u00e2\u20ac\u2122s planned remedial actions to correct weaknesses or deficiencies noted duringthe assessment of the security controls and to reduce or eliminate known vulnerabilities in the system; and b. Updates existing plan of action and milestones [Assignment: organization-defined frequency] based on the findings from security controls assessments, security impact analyses, and continuous monitoring activities.Supplemental Guidance:  Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB. Related controls: CA-2, CA-7, CM-4, PM-4.References:  OMB Memorandum 02-01; NIST Special Publication 800-37.", 
+    "SelectionParam": "CA-5 (b) [at least monthly]", 
+    "FedRampParam": "x", 
+    "SORTID": "CA-05", 
+    "CNTL NO": "CA-5", 
+    "AdditionalReq": "CA-5 Requirement: POA&Ms must be provided at least monthly.CA-5 Guidance: See the FedRAMP Documents page under Key Cloud Service Provider (CSP) Documents> Plan of Action and Milestones (POA&M) Template Completion Guidehttps://www.FedRAMP.gov/documents/", 
+    "Control Name": "PLAN OF ACTION AND MILESTONES"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000030", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000030", 
+  "Control Name": "REMOTE ACCESS | AUTOMATED MONITORING / CONTROL", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system monitors and controls remote access methods.Supplemental Guidance:  Automated monitoring and control of remote access sessions allows organizations to detect cyber attacks and also ensure ongoing compliance with remote access policies by auditing connection activities of remote users on a variety of information system components (e.g., servers, workstations, notebook computers, smart phones, and tablets). Related controls: AU-2, AU-12.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system monitors and controls remote access methods.Supplemental Guidance:  Automated monitoring and control of remote access sessions allows organizations to detect cyber attacks and also ensure ongoing compliance with remote access policies by auditing connection activities of remote users on a variety of information system components (e.g., servers, workstations, notebook computers, smart phones, and tablets). Related controls: AU-2, AU-12.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "AC-17 (01)", 
+    "CNTL NO": "AC-17 (1)", 
+    "AdditionalReq": "", 
+    "Control Name": "REMOTE ACCESS | AUTOMATED MONITORING / CONTROL"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

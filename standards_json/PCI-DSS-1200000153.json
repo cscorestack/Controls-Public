@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000153", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000153", 
+  "Control Name": "Provide training for personnel to be aware of attempted tampering or replacement of devices. Training should include the following:\\n- Verify the identity of any third-party persons claiming to be repair or maintenance personnel, prior to granting them access to modify or troubleshoot devices.\\n- Do not install, replace, or return devices without verification.\\n- Be aware of suspicious behavior around devices (for example, attempts by unknown persons to unplug or open devices).\\n- Report suspicious behavior and indications of device tampering or substitution to appropriate personnel (for example, to a manager or security officer).", 
+  "Control Family": "Implement Strong Access Control Measures", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Implement Strong Access Control Measures", 
+    "Control": "Provide training for personnel to be aware of attempted tampering or replacement of devices. Training should include the following:\\n- Verify the identity of any third-party persons claiming to be repair or maintenance personnel, prior to granting them access to modify or troubleshoot devices.\\n- Do not install, replace, or return devices without verification.\\n- Be aware of suspicious behavior around devices (for example, attempts by unknown persons to unplug or open devices).\\n- Report suspicious behavior and indications of device tampering or substitution to appropriate personnel (for example, to a manager or security officer).", 
+    "Requirement": "9.9.3. Restrict physical access to cardholder data"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000017", 
+  "compliance_control_uri": "Azure-WAF/0015/150000017", 
+  "Control Name": "1.2.8 Budget is factored into the building phase.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "When building new applications it's a good practice to have a discussion with the business regarding expectations and build a budget as early as possible and document assumptions of how the IT budget for the service was calculated.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.2 How do you govern budgets and application lifespan for this workload?", 
+    "Control": "1.2.8 Budget is factored into the building phase.", 
+    "Description": "When building new applications it's a good practice to have a discussion with the business regarding expectations and build a budget as early as possible and document assumptions of how the IT budget for the service was calculated."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000066", 
+  "compliance_control_uri": "CIS-Azure/0015/150000066", 
+  "Control Name": "4.4 Ensure that Azure Active Directory Admin is configured", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Use Azure Active Directory Authentication for authentication with SQL Database.", 
+  "control_attributes": {
+    "Control": "4.4 Ensure that Azure Active Directory Admin is configured", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Use Azure Active Directory Authentication for authentication with SQL Database."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

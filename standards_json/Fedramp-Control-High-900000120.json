@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000120", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000120", 
+  "Control Name": "SECURITY IMPACT ANALYSIS", 
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "Control Statement": "The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.Supplemental Guidance:  Organizational personnel with information security responsibilities (e.g., Information System Administrators, Information System Security Officers, Information System Security Managers, and Information System Security Engineers) conduct security impact analyses. Individuals conducting security impact analyses possess the necessary skills/technical expertise to analyze the changes to information systems and the associated security ramifications. Security impact analysis may include, for example, reviewing security plans to understand security control requirements and reviewing system design documentation to understand control implementation and how specific changes might affect the controls. Security impact analyses may also include assessments of risk to better understand the impact of the changes and to determine if additional security controls are required. Security impact analyses are scaled in accordance with the security categories of the information systems. Related controls: CA-2, CA-7, CM-3, CM-9, SA-4, SA-5, SA-10, SI-2.References: NIST Special Publication 800-128.", 
+  "control_attributes": {
+    "Category": "CONFIGURATION MANAGEMENT", 
+    "description": "The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.Supplemental Guidance:  Organizational personnel with information security responsibilities (e.g., Information System Administrators, Information System Security Officers, Information System Security Managers, and Information System Security Engineers) conduct security impact analyses. Individuals conducting security impact analyses possess the necessary skills/technical expertise to analyze the changes to information systems and the associated security ramifications. Security impact analysis may include, for example, reviewing security plans to understand security control requirements and reviewing system design documentation to understand control implementation and how specific changes might affect the controls. Security impact analyses may also include assessments of risk to better understand the impact of the changes and to determine if additional security controls are required. Security impact analyses are scaled in accordance with the security categories of the information systems. Related controls: CA-2, CA-7, CM-3, CM-9, SA-4, SA-5, SA-10, SI-2.References: NIST Special Publication 800-128.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "CM-04", 
+    "CNTL NO": "CM-4", 
+    "AdditionalReq": " ", 
+    "Control Name": "SECURITY IMPACT ANALYSIS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

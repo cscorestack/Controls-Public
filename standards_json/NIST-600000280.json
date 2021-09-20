@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONFIGURATION MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000280", 
+  "control_attributes": {
+    "Control": "CM-2 (3) RETENTION OF PREVIOUS CONFIGURATIONS", 
+    "control_description": "The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.", 
+    "Family": "CONFIGURATION MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization analyzes changes to the information system in a separate test environment before implementation in an operational environment, looking for security impacts due to flaws, weaknesses, incompatibility, or intentional malice."
+  }, 
+  "Control Statement": "The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CM-2 (3) RETENTION OF PREVIOUS CONFIGURATIONS", 
+  "compliance_control_number": "600000280"
+}

@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000199", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000199", 
+  "Control Name": "AUTHENTICATOR MANAGEMENT | PROTECTION OF AUTHENTICATORS", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.Supplemental Guidance:  For information systems containing multiple security categories of information without reliable physical or logical separation between categories, authenticators used to grant access to the systems are protected commensurate with the highest security category of information on the systems.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The organization protects authenticators commensurate with the security category of the information to which use of the authenticator permits access.Supplemental Guidance:  For information systems containing multiple security categories of information without reliable physical or logical separation between categories, authenticators used to grant access to the systems are protected commensurate with the highest security category of information on the systems.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-05 (06)", 
+    "CNTL NO": "IA-5 (6)", 
+    "AdditionalReq": " ", 
+    "Control Name": "AUTHENTICATOR MANAGEMENT | PROTECTION OF AUTHENTICATORS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,80 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000302",
+  "compliance_control_uri": "AC3-v-01/0000/110000302",
+  "Control Name": "IA-10 ADAPTIVE IDENTIFICATION AND AUTHENTICATION",
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+  "Control Statement": "The organization requires that individuals accessing the information system employ [Assignment: organization-defined supplemental authentication techniques or mechanisms] under specific [Assignment: organization-defined circumstances or situations].",
+  "control_attributes": {
+    "Control Name": "IA-10 ADAPTIVE IDENTIFICATION AND AUTHENTICATION",
+    "Control Family": "IDENTIFICATION AND AUTHENTICATION",
+    "Control Statement": "The organization requires that individuals accessing the information system employ [Assignment: organization-defined supplemental authentication techniques or mechanisms] under specific [Assignment: organization-defined circumstances or situations]."
+  },
+  "control_action_attributes": {
+    "nature": "Automated",
+    "category": "Application",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Account",
+    "Control Baseline": "Basic",
+    "classification": "Technical"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000408",
+      "CIS-GCP/0014/140000001",
+      "Azure-WAF/0015/150000495",
+      "Azure-WAF/0015/150000499",
+      "Azure-WAF/0015/150000496",
+      "SOC2/0017/1700000120"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": [
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/dCqwP",
+        "policy_name": "Azure_Audit_FunctionApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/NPtzo",
+        "policy_name": "Azure_Audit_WebApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/lKMjK",
+        "policy_name": "Azure_Audit_WebApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/LjgiO",
+        "policy_name": "Azure_Audit_APIApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/jPnKB",
+        "policy_name": "Azure_Audit_FunctionApp_Authentication_Enabled",
+        "system_default": true,
+        "is_parameterized": true
+      },
+      {
+        "policy_uri": "policy/azure_policy/global/azure/compliance/others/iReKX",
+        "policy_name": "Azure_Audit_APIApp_using_ManagedIdentity",
+        "system_default": true,
+        "is_parameterized": true
+      }
+    ]
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "add_control_uri_policy"
+}

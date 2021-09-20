@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000089", 
+  "compliance_control_uri": "CIS-Azure/0015/150000089", 
+  "Control Name": "7.1 Ensure Virtual Machines are utilizing Managed Disks", 
+  "Control Family": "7 Virtual Machines", 
+  "Control Statement": "Migrate BLOB based VHD's to Managed Disks on Virtual Machines to exploit the default features of this configuration.", 
+  "control_attributes": {
+    "Control": "7.1 Ensure Virtual Machines are utilizing Managed Disks", 
+    "Control_Clause": "7 Virtual Machines", 
+    "description": "Migrate BLOB based VHD's to Managed Disks on Virtual Machines to exploit the default features of this configuration."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

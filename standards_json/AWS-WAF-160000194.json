@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000194",
+  "compliance_control_uri": "AWS-WAF/0016/160000194",
+  "Control Name": "REL 12.3 Test functional requirements",
+  "Control Family": "Reliability",
+  "Control Statement": "These include unit tests and integration tests that validate required functionality.",
+  "control_attributes": {
+    "Control": "REL 12.3 Test functional requirements",
+    "Category": "Reliability",
+    "Subcategory": "How do you test reliability?",
+    "question_id": "testing-resiliency",
+    "choice_id": "rel_testing_resiliency_test_functional"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

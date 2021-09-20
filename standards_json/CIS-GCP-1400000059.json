@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000059", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000059", 
+  "Control Name": "6.12 Ensure that the Cloud SQL database instance requires all incoming connections to use SSL", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to enforce all incoming connections to SQL database instance to use SSL.", 
+  "control_attributes": {
+    "Control": "6.12 Ensure that the Cloud SQL database instance requires all incoming connections to use SSL", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to enforce all incoming connections to SQL database instance to use SSL."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

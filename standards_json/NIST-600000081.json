@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000081", 
+  "control_attributes": {
+    "Control": "CP-6 ALTERNATE STORAGE SITE", 
+    "control_description": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; andb. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization: a. Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; andb. Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-6 ALTERNATE STORAGE SITE", 
+  "compliance_control_number": "600000081"
+}

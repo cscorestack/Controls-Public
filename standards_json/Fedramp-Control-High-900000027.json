@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000027", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000027", 
+  "Control Name": "LEAST PRIVILEGE | PROHIBIT NON-PRIVILEGED USERS FROM EXECUTING PRIVILEGED FUNCTIONS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The information system prevents non-privileged users from executing privileged functions to include disabling, circumventing, or altering implemented security safeguards/countermeasures.Supplemental Guidance:  Privileged functions include, for example, establishing information system accounts, performing system integrity checks, or administering cryptographic key management activities. Non-privileged users are individuals that do not possess appropriate authorizations. Circumventing intrusion detection and prevention mechanisms or malicious code protection mechanisms are examples of privileged functions that require protection from non-privileged users.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The information system prevents non-privileged users from executing privileged functions to include disabling, circumventing, or altering implemented security safeguards/countermeasures.Supplemental Guidance:  Privileged functions include, for example, establishing information system accounts, performing system integrity checks, or administering cryptographic key management activities. Non-privileged users are individuals that do not possess appropriate authorizations. Circumventing intrusion detection and prevention mechanisms or malicious code protection mechanisms are examples of privileged functions that require protection from non-privileged users.", 
+    "SelectionParam": " ", 
+    "FedRampParam": "", 
+    "SORTID": "AC-06 (10)", 
+    "CNTL NO": "AC-6 (10)", 
+    "AdditionalReq": " ", 
+    "Control Name": "LEAST PRIVILEGE | PROHIBIT NON-PRIVILEGED USERS FROM EXECUTING PRIVILEGED FUNCTIONS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

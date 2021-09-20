@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000058", 
+  "compliance_control_uri": "CIS-Azure/0003/300000058", 
+  "Control Name": "1.21. Ensure that 'Enable All Users group' is set to 'Yes' (Not Scored)", 
+  "Control Family": "1. Identity and Access Management", 
+  "Control Statement": "Enable All Users group for centralized administration of all users. This ensures that there is a common policy created for all users and there is no need to restrict individual permissions.", 
+  "control_attributes": {
+    "Control": "1.21. Ensure that 'Enable All Users group' is set to 'Yes' (Not Scored)", 
+    "Control_Clause": "1. Identity and Access Management", 
+    "description": "Enable All Users group for centralized administration of all users. This ensures that there is a common policy created for all users and there is no need to restrict individual permissions."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

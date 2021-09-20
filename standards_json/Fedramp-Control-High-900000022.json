@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-High/0009", 
+  "compliance_control_number": "900000022", 
+  "compliance_control_uri": "Fedramp-Control-High/0009/900000022", 
+  "Control Name": "LEAST PRIVILEGE | NETWORK ACCESS TO PRIVILEGED COMMANDS", 
+  "Control Family": "ACCESS CONTROL", 
+  "Control Statement": "The organization authorizes network access to [Assignment: organization-defined privileged commands] only for [Assignment: organization-defined compelling operational needs] and documents the rationale for such access in the security plan for the information system.Supplemental Guidance:  Network access is any access across a network connection in lieu of local access (i.e., user being physically present at the device). Related control: AC-17.", 
+  "control_attributes": {
+    "Category": "ACCESS CONTROL", 
+    "description": "The organization authorizes network access to [Assignment: organization-defined privileged commands] only for [Assignment: organization-defined compelling operational needs] and documents the rationale for such access in the security plan for the information system.Supplemental Guidance:  Network access is any access across a network connection in lieu of local access (i.e., user being physically present at the device). Related control: AC-17.", 
+    "SelectionParam": "AC-6 (3)-1 [all privileged commands] ", 
+    "FedRampParam": "x", 
+    "SORTID": "AC-06 (03)", 
+    "CNTL NO": "AC-6 (3)", 
+    "AdditionalReq": " ", 
+    "Control Name": "LEAST PRIVILEGE | NETWORK ACCESS TO PRIVILEGED COMMANDS"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

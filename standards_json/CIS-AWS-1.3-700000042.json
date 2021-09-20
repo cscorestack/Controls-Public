@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000042", 
+  "compliance_control_uri": "CIS-AWS/0007/700000042", 
+  "Control Name": "4.6 Ensure a log metric filter and alarm exist for AWS Management Console authentication failures", 
+  "Control Family": "Monitoring", 
+  "Control Statement": "It is recommended that a metric filter and alarm be established for failed console authentication attempts.", 
+  "control_attributes": {
+    "Control": "4.6 Ensure a log metric filter and alarm exist for AWS Management Console authentication failures", 
+    "Category": "Monitoring", 
+    "Control_description": "It is recommended that a metric filter and alarm be established for failed console authentication attempts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

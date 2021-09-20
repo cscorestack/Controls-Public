@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000051", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000051", 
+  "Control Name": "6.4 Ensure that the 'log_connections' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "Enabling the log_connections setting causes each attempted connection to the server to be logged, along with successful completion of client authentication. This parameter cannot be changed after the session starts.", 
+  "control_attributes": {
+    "Control": "6.4 Ensure that the 'log_connections' database flag for Cloud SQL PostgreSQL instance is set to 'on'", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "Enabling the log_connections setting causes each attempted connection to the server to be logged, along with successful completion of client authentication. This parameter cannot be changed after the session starts."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

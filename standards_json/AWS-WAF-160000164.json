@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000164",
+  "compliance_control_uri": "AWS-WAF/0016/160000164",
+  "Control Name": "REL 6.1 Monitor all components for the workload (Generation)",
+  "Control Family": "Reliability",
+  "Control Statement": "Monitor the components of the workload with Amazon CloudWatch or third-party tools. Monitor AWS services with Personal Health Dashboard",
+  "control_attributes": {
+    "Control": "REL 6.1 Monitor all components for the workload (Generation)",
+    "Category": "Reliability",
+    "Subcategory": "How do you monitor workload resources?",
+    "question_id": "monitor-aws-resources",
+    "choice_id": "rel_monitor_aws_resources_monitor_resources"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

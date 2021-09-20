@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000521", 
+  "control_attributes": {
+    "Control": "PE-14 TEMPERATURE AND HUMIDITY CONTROLS", 
+    "control_description": "The organization a. Maintains temperature and humidity levels within the facility where the information system resides at [Assignment: organization-defined acceptable levels]; andb. Monitors temperature and humidity levels [Assignment: organization-defined frequency].", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "P3", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization positions information system components within the facility to minimize potential damage from [Assignment: organization-defined physical and environmental hazards] and to minimize the opportunity for unauthorized access."
+  }, 
+  "Control Statement": "The organization a. Maintains temperature and humidity levels within the facility where the information system resides at [Assignment: organization-defined acceptable levels]; andb. Monitors temperature and humidity levels [Assignment: organization-defined frequency].", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-14 TEMPERATURE AND HUMIDITY CONTROLS", 
+  "compliance_control_number": "600000521"
+}

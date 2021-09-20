@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000340", 
+  "compliance_control_uri": "Azure-WAF/0015/150000340", 
+  "Control Name": "4.6.4 Data is replicated across Availability Zones.", 
+  "Control Family": "4. Reliability", 
+  "Control Statement": "Is data replicated across Availability Zones within a region?", 
+  "control_attributes": {
+    "Category": "4. Reliability", 
+    "Control_Clause": "4.6 What decisions have been taken to ensure the data platform meets your reliability requirements?", 
+    "Control": "4.6.4 Data is replicated across Availability Zones.", 
+    "Description": "Is data replicated across Availability Zones within a region?"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

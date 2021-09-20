@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000117",
+  "compliance_control_uri": "AWS-WAF/0016/160000117",
+  "Control Name": "SEC 6.5 Enable people to perform actions at a distance",
+  "Control Family": "Security",
+  "Control Statement": "Removing the ability for interactive access reduces the risk of human error, and the potential for manual conﬁguration or management. For example, use a change management workﬂow to deploy EC2 instances using infrastructure as code, then manage EC2 instances using tools instead of allowing direct access or a bastion host.",
+  "control_attributes": {
+    "Control": "SEC 6.5 Enable people to perform actions at a distance",
+    "Category": "Security",
+    "Subcategory": "How do you protect your compute resources?",
+    "question_id": "protect-compute",
+    "choice_id": "sec_protect_compute_actions_distance"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

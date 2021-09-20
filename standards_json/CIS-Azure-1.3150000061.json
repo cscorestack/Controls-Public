@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0015", 
+  "compliance_control_number": "150000061", 
+  "compliance_control_uri": "CIS-Azure/0015/150000061", 
+  "Control Name": "4.3.4 Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server", 
+  "Control Family": "4 Database Services", 
+  "Control Statement": "Enable log_connections on PostgreSQL Servers.", 
+  "control_attributes": {
+    "Control": "4.3.4 Ensure server parameter 'log_connections' is set to 'ON' for PostgreSQL Database Server", 
+    "Control_Clause": "4 Database Services", 
+    "description": "Enable log_connections on PostgreSQL Servers."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

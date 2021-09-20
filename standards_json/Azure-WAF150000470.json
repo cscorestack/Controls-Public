@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000470", 
+  "compliance_control_uri": "Azure-WAF/0015/150000470", 
+  "Control Name": "5.9.7 Traffic between subnets, Azure components and tiers of the workload is managed and protected.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Data filtering between subnets and other Azure resources should be protected. Network Security Groups, PrivateLink, and Private Endpoints can be used for traffic filtering.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.9 How have you secured the network of your workload?", 
+    "Control": "5.9.7 Traffic between subnets, Azure components and tiers of the workload is managed and protected.", 
+    "Description": "Data filtering between subnets and other Azure resources should be protected. Network Security Groups, PrivateLink, and Private Endpoints can be used for traffic filtering."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,18 @@
+{
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000612", 
+  "control_attributes": {
+    "Control": "SA-12 (12) INTER-ORGANIZATIONAL AGREEMENTS", 
+    "control_description": "The organization establishes inter-organizational agreements and procedures with entities involved in the supply chain for the information system, system component, or information system service.", 
+    "Family": "SYSTEM AND SERVICES ACQUISITION", 
+    "Priority": "P2", 
+    "Baseline_Impact": "HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization establishes inter-organizational agreements and procedures with entities involved in the supply chain for the information system, system component, or information system service.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "SA-12 (12) INTER-ORGANIZATIONAL AGREEMENTS", 
+  "compliance_control_number": "600000612"
+}

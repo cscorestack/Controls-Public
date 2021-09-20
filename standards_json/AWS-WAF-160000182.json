@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000182",
+  "compliance_control_uri": "AWS-WAF/0016/160000182",
+  "Control Name": "REL 9.3 Perform data backup automatically",
+  "Control Family": "Reliability",
+  "Control Statement": "Conﬁgure backups to be taken automatically based on a periodic schedule, or by changes in the dataset. RDS instances, EBS volumes, DynamoDB tables, and S3 objects can all be conﬁgured for automatic backup. AWS Marketplace solutions or third-party solutions can also be used.",
+  "control_attributes": {
+    "Control": "REL 9.3 Perform data backup automatically",
+    "Category": "Reliability",
+    "Subcategory": "How do you back up data?",
+    "question_id": "backing-up-data",
+    "choice_id": "rel_backing_up_data_automated_backups_data"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000206", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000206", 
+  "Control Name": "Implement a risk-assessment process that: Is performed at least annually and upon significant changes to the environment (for example, acquisition, merger, relocation, etc.),Identifies critical assets, threats, and vulnerabilities, and\\n- Results in a formal, documented analysis of risk. Examples of risk-assessment methodologies include but are not limited to OCTAVE, ISO 27005 and NIST SP 800-30.",
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Implement a risk-assessment process that: Is performed at least annually and upon significant changes to the environment (for example, acquisition, merger, relocation, etc.),Identifies critical assets, threats, and vulnerabilities, and\\n- Results in a formal, documented analysis of risk. Examples of risk-assessment methodologies include but are not limited to OCTAVE, ISO 27005 and NIST SP 800-30.",
+    "Requirement": "12.2.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

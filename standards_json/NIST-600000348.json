@@ -1,0 +1,18 @@
+{
+  "Control Family": "CONTINGENCY PLANNING", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000348", 
+  "control_attributes": {
+    "Control": "CP-9 (2) TEST RESTORATION USING SAMPLING", 
+    "control_description": "The organization uses a sample of backup information in the restoration of selected information system functions as part of contingency plan testing.", 
+    "Family": "CONTINGENCY PLANNING", 
+    "Priority": "P0", 
+    "Baseline_Impact": "", 
+    "Control_description": "The information system provides the capability to employ [Assignment: organization-defined alternative communications protocols] in support of maintaining continuity of operations."
+  }, 
+  "Control Statement": "The organization uses a sample of backup information in the restoration of selected information system functions as part of contingency plan testing.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "CP-9 (2) TEST RESTORATION USING SAMPLING", 
+  "compliance_control_number": "600000348"
+}

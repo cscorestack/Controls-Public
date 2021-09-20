@@ -1,0 +1,43 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000287",
+  "compliance_control_uri": "AC3-v-01/0000/110000287",
+  "Control Name": "CP-7 ALTERNATE PROCESSING SITE",
+  "Control Family": "CONTINGENCY PLANNING",
+  "Control Statement": "The organization: a. Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of [Assignment: organization-defined information system operations] for essential missions/business functions within [Assignment: organization-defined time period consistent with recovery time and recovery point objectives] when the primary processing capabilities are unavailable;b. Ensures that equipment and supplies required to transfer and resume operations are available at the alternate processing site or contracts are in place to support delivery to the site within the organization-defined time period for transfer/resumption; andc. Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site",
+  "control_attributes": {
+    "Control Name": "CP-7 ALTERNATE PROCESSING SITE",
+    "Control Family": "CONTINGENCY PLANNING",
+    "Control Statement": "The organization: a. Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of [Assignment: organization-defined information system operations] for essential missions/business functions within [Assignment: organization-defined time period consistent with recovery time and recovery point objectives] when the primary processing capabilities are unavailable;b. Ensures that equipment and supplies required to transfer and resume operations are available at the alternate processing site or contracts are in place to support delivery to the site within the organization-defined time period for transfer/resumption; andc. Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Policy",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "ISO/0001/100000078",
+      "ISO/0001/100000082",
+      "NIST-SP800-53/0006/600000335",
+      "ISO-27001/0011/1100000106",
+      "Fedramp-Control-Moderate/0010/1000000120",
+      "Fedramp-Control-High/0009/900000162"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

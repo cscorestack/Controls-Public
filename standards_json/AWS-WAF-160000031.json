@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000031",
+  "compliance_control_uri": "AWS-WAF/0016/160000031",
+  "Control Name": "OPS 5.4 Use build and deployment management systems",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Use build and deployment management systems. These systems reduce errors caused by manual processes and reduce the level of eﬀort to deploy changes.",
+  "control_attributes": {
+    "Control": "OPS 5.4 Use build and deployment management systems",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_build_mgmt_sys"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

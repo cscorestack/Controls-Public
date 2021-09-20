@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-GCP/0014", 
+  "compliance_control_number": "1400000057", 
+  "compliance_control_uri": "CIS-GCP/0014/1400000057", 
+  "Control Name": "6.10 Ensure that the 'cross db ownership chaining' database flag for Cloud SQL SQL Server instance is set to 'off'", 
+  "Control Family": "Cloud SQL Database Services", 
+  "Control Statement": "It is recommended to set cross db ownership chaining database flag for Cloud SQL SQL Server instance to off.", 
+  "control_attributes": {
+    "Control": "6.10 Ensure that the 'cross db ownership chaining' database flag for Cloud SQL SQL Server instance is set to 'off'", 
+    "Security_Category": "Cloud SQL Database Services", 
+    "Control_description": "It is recommended to set cross db ownership chaining database flag for Cloud SQL SQL Server instance to off."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

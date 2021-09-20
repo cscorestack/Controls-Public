@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000029", 
+  "compliance_control_uri": "CIS-AWS/0007/700000029", 
+  "Control Name": "3.4 Ensure CloudTrail trails are integrated with CloudWatch Logs", 
+  "Control Family": "Logging", 
+  "Control Statement": "It is recommended that CloudTrail logs be sent to CloudWatch Logs.The intent of this recommendation is to ensure AWS account activity is beingcaptured, monitored, and appropriately alarmed on. CloudWatch Logs is a native way to accomplish this using AWS services but does not preclude the use of an alternate solution.", 
+  "control_attributes": {
+    "Control": "3.4 Ensure CloudTrail trails are integrated with CloudWatch Logs", 
+    "Category": "Logging", 
+    "Control_description": "It is recommended that CloudTrail logs be sent to CloudWatch Logs.The intent of this recommendation is to ensure AWS account activity is beingcaptured, monitored, and appropriately alarmed on. CloudWatch Logs is a native way to accomplish this using AWS services but does not preclude the use of an alternate solution."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

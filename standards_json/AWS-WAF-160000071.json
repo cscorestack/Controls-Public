@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000071",
+  "compliance_control_uri": "AWS-WAF/0016/160000071",
+  "Control Name": "OPS 10.5 Enable push notiﬁcations",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Communicate directly with your users (for example, with email or SMS) when the services they use are impacted, and again when the services return to normal operating conditions, to enable users to take appropriate action.",
+  "control_attributes": {
+    "Control": "OPS 10.5 Enable push notiﬁcations",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you manage workload and operations events?",
+    "question_id": "event-response",
+    "choice_id": "ops_event_response_push_notify"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

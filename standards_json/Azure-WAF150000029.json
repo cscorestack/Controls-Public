@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000029", 
+  "compliance_control_uri": "Azure-WAF/0015/150000029", 
+  "Control Name": "1.4.3 This workload benefits from higher density.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "When running multiple applications (typically in multi-tenant or microservices scenarios) density can be increased by deploying them on shared infrastructure and utilizing it more. For example: Containerization and moving to Kubernetes (Azure Kubernetes Services) enables pod-based deployment which can utilize underlying nodes efficiently. Similar approach can be taken with App Service Plans. To prevent the 'noisy neighbor' situation, proper monitoring must be in place and performance analysis must be done (if possible).", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.4 How do you optimize the design of this workload?", 
+    "Control": "1.4.3 This workload benefits from higher density.", 
+    "Description": "When running multiple applications (typically in multi-tenant or microservices scenarios) density can be increased by deploying them on shared infrastructure and utilizing it more. For example: Containerization and moving to Kubernetes (Azure Kubernetes Services) enables pod-based deployment which can utilize underlying nodes efficiently. Similar approach can be taken with App Service Plans. To prevent the 'noisy neighbor' situation, proper monitoring must be in place and performance analysis must be done (if possible)."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

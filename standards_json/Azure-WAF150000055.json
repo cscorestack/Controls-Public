@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000055", 
+  "compliance_control_uri": "Azure-WAF/0015/150000055", 
+  "Control Name": "1.7.8 Costs are optimized by using the App Service Premium (v3) plan over the Premium (Pv2) plan.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "The App Service Premium (v3) Plan has a 20% discount versus comparable Pv2 configurations. Reserved Instance commitment (1Y, 3Y, Dev/Test) discounts are available for App Services running in the Premium v3 plan. The Premium v3 pricing tier provides faster processors, SSD storage, and quadruple the memory-to-core ratio of the existing pricing tiers (double the Premium v2 tier). With the performance advantage, you can save money by running your apps on fewer instances.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.7 How do you manage compute costs for this workload?", 
+    "Control": "1.7.8 Costs are optimized by using the App Service Premium (v3) plan over the Premium (Pv2) plan.", 
+    "Description": "The App Service Premium (v3) Plan has a 20% discount versus comparable Pv2 configurations. Reserved Instance commitment (1Y, 3Y, Dev/Test) discounts are available for App Services running in the Premium v3 plan. The Premium v3 pricing tier provides faster processors, SSD storage, and quadruple the memory-to-core ratio of the existing pricing tiers (double the Premium v2 tier). With the performance advantage, you can save money by running your apps on fewer instances."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

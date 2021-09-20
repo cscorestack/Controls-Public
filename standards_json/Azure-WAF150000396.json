@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000396", 
+  "compliance_control_uri": "Azure-WAF/0015/150000396", 
+  "Control Name": "5.1.4 Security requirements are defined for this workload.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Azure resources should be blocked that do not meet the proper security requirements defined during service enablement.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.1 Have you done a threat analysis of your workload?", 
+    "Control": "5.1.4 Security requirements are defined for this workload.", 
+    "Description": "Azure resources should be blocked that do not meet the proper security requirements defined during service enablement."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

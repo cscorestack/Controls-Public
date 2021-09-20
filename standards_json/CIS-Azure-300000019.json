@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-Azure/0003", 
+  "compliance_control_number": "300000019", 
+  "compliance_control_uri": "CIS-Azure/0003/300000019", 
+  "Control Name": "4.2. Ensure that 'AuditActionGroups' in 'auditing' policy for a SQL server is set properly", 
+  "Control Family": "4. Database Services", 
+  "Control Statement": "Configure the 'AuditActionGroups' property to appropriate groups to capture all the critical activities on the SQL Server and all the SQL databases hosted on the SQL server", 
+  "control_attributes": {
+    "Control": "4.2. Ensure that 'AuditActionGroups' in 'auditing' policy for a SQL server is set properly", 
+    "Control_Clause": "4. Database Services", 
+    "description": "Configure the 'AuditActionGroups' property to appropriate groups to capture all the critical activities on the SQL Server and all the SQL databases hosted on the SQL server"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000046",
+  "compliance_control_uri": "AWS-WAF/0016/160000046",
+  "Control Name": "OPS 7.1 Ensure personnel capability",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Have a mechanism to validate that you have the appropriate number of trained personnel to provide support for operational needs. Train personnel and adjust personnel capacity as necessary to maintain eﬀective support.",
+  "control_attributes": {
+    "Control": "OPS 7.1 Ensure personnel capability",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you know that you are ready to support a workload?",
+    "question_id": "ready-to-support",
+    "choice_id": "ops_ready_to_support_personnel_capability"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

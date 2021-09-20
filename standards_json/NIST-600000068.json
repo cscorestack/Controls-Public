@@ -1,0 +1,18 @@
+{
+  "Control Family": "AUDIT AND ACCOUNTABILITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000068", 
+  "control_attributes": {
+    "Control": "AU-6 AUDIT REVIEW, ANALYSIS, AND REPORTING", 
+    "control_description": "The organization: a. Reviews and analyzes information system audit records [Assignment: organization-defined frequency] for indications of [Assignment: organization-defined inappropriate or unusual activity]; andb. Reports findings to [Assignment: organization-defined personnel or roles]", 
+    "Family": "AUDIT AND ACCOUNTABILITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The information systems that collectively provide name/address resolution service for an organization are fault-tolerant and implement internal/external role separation."
+  }, 
+  "Control Statement": "The organization: a. Reviews and analyzes information system audit records [Assignment: organization-defined frequency] for indications of [Assignment: organization-defined inappropriate or unusual activity]; andb. Reports findings to [Assignment: organization-defined personnel or roles]", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AU-6 AUDIT REVIEW, ANALYSIS, AND REPORTING", 
+  "compliance_control_number": "600000068"
+}

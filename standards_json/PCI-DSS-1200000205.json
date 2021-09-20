@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "PCI-DSS/0012", 
+  "compliance_control_number": "1200000205", 
+  "compliance_control_uri": "PCI-DSS/0012/1200000205", 
+  "Control Name": "Review the security policy at least annually and update the policy when the environment changes.", 
+  "Control Family": "Maintain an Information Security Policy", 
+  "Control Statement": "", 
+  "control_attributes": {
+    "Goals": "Maintain an Information Security Policy", 
+    "Control": "Review the security policy at least annually and update the policy when the environment changes.", 
+    "Requirement": "12.1.1.Maintain a policy that addresses information security for all personnel"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

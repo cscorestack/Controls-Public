@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000063", 
+  "compliance_control_uri": "Azure-WAF/0015/150000063", 
+  "Control Name": "1.8.6 The workload is connected between regions (using network peering or gateways).", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Data exchange between regions has cost implications. Peering within the same region is cheaper than peering between regions. Inbound and outbound traffic is charged at both ends of the peered networks.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.8 How do you manage networking costs for this workload?", 
+    "Control": "1.8.6 The workload is connected between regions (using network peering or gateways).", 
+    "Description": "Data exchange between regions has cost implications. Peering within the same region is cheaper than peering between regions. Inbound and outbound traffic is charged at both ends of the peered networks."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

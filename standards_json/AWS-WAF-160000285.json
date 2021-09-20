@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000285",
+  "compliance_control_uri": "AWS-WAF/0016/160000285",
+  "Control Name": "COST 9.1 Perform an analysis on the workload demand",
+  "Control Family": "Cost Optimization",
+  "Control Statement": "Analyze the demand of the workload over time. Ensure the analysis covers seasonal trends and accurately represents operating conditions over the full workload lifetime. Analysis eﬀort should reﬂect potential beneﬁt: for example, time spent is proportional to the workload cost.",
+  "control_attributes": {
+    "Control": "COST 9.1 Perform an analysis on the workload demand",
+    "Category": "Cost Optimization",
+    "Subcategory": "How do you manage demand, and supply resources?",
+    "question_id": "manage-demand-resources",
+    "choice_id": "cost_manage_demand_resources_cost_analysis"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

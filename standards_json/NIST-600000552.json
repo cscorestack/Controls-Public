@@ -1,0 +1,18 @@
+{
+  "Control Family": "PERSONNEL SECURITY", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000552", 
+  "control_attributes": {
+    "Control": "PS-6 (2) CLASSIFIED INFORMATION REQUIRING SPECIAL PROTECTION", 
+    "control_description": "The organization ensures that access to classified information requiring special protection is granted only to individuals who                                                                                            : (a) Have a valid access authorization that is demonstrated by assigned official government duties;(b) Satisfy associated personnel security criteria; and(c) Have read, understood, and signed a nondisclosure agreement.", 
+    "Family": "PERSONNEL SECURITY", 
+    "Priority": "P1", 
+    "Baseline_Impact": "LOW,MODERATE,HIGH", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization ensures that access to classified information requiring special protection is granted only to individuals who                                                                                            : (a) Have a valid access authorization that is demonstrated by assigned official government duties;(b) Satisfy associated personnel security criteria; and(c) Have read, understood, and signed a nondisclosure agreement.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PS-6 (2) CLASSIFIED INFORMATION REQUIRING SPECIAL PROTECTION", 
+  "compliance_control_number": "600000552"
+}

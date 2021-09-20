@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000148",
+  "compliance_control_uri": "AWS-WAF/0016/160000148",
+  "Control Name": "REL 2.4 Prefer hub-and-spoke topologies over many-to-many mesh",
+  "Control Family": "Reliability",
+  "Control Statement": "If more than two network address spaces (for example, VPCs and on-premises networks) are connected via VPC peering, AWS Direct Connect, or VPN, then use a hub-and-spoke model, like that provided by AWS Transit Gateway.",
+  "control_attributes": {
+    "Control": "REL 2.4 Prefer hub-and-spoke topologies over many-to-many mesh",
+    "Category": "Reliability",
+    "Subcategory": "How do you plan your network topology?",
+    "question_id": "planning-network-topology",
+    "choice_id": "rel_planning_network_topology_prefer_hub_and_spoke"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

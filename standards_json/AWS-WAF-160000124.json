@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000124",
+  "compliance_control_uri": "AWS-WAF/0016/160000124",
+  "Control Name": "SEC 8.2 Enforce encryption at rest",
+  "Control Family": "Security",
+  "Control Statement": "Enforce your encryption requirements based on the latest standards and recommendations to help protect your data at rest.",
+  "control_attributes": {
+    "Control": "SEC 8.2 Enforce encryption at rest",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data at rest?",
+    "question_id": "protect-data-rest",
+    "choice_id": "sec_protect_data_rest_encrypt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

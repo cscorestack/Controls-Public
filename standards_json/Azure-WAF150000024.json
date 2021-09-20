@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000024", 
+  "compliance_control_uri": "Azure-WAF/0015/150000024", 
+  "Control Name": "1.3.2 Specific owners and processes are defined for each alert type.", 
+  "Control Family": "1. Cost Optimization", 
+  "Control Statement": "Having well-defined owners and response playbooks per alert is vital to optimizing operational effectiveness. Alerts don't have to be only technical, for example the budget owner should be made aware of capacity issues so that budgets can be adjusted and discussed.", 
+  "control_attributes": {
+    "Category": "1. Cost Optimization", 
+    "Control_Clause": "1.3 How are you monitoring costs of this workload?", 
+    "Control": "1.3.2 Specific owners and processes are defined for each alert type.", 
+    "Description": "Having well-defined owners and response playbooks per alert is vital to optimizing operational effectiveness. Alerts don't have to be only technical, for example the budget owner should be made aware of capacity issues so that budgets can be adjusted and discussed."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

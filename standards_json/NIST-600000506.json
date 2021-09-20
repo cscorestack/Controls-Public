@@ -1,0 +1,18 @@
+{
+  "Control Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000506", 
+  "control_attributes": {
+    "Control": "PE-8 (1) AUTOMATED RECORDS MAINTENANCE / REVIEW", 
+    "control_description": "The organization employs automated mechanisms to facilitate the maintenance and review of visitor access records.", 
+    "Family": "PHYSICAL AND ENVIRONMENTAL PROTECTION", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization provides a long-term alternate power supply for the information system that is:"
+  }, 
+  "Control Statement": "The organization employs automated mechanisms to facilitate the maintenance and review of visitor access records.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PE-8 (1) AUTOMATED RECORDS MAINTENANCE / REVIEW", 
+  "compliance_control_number": "600000506"
+}

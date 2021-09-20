@@ -1,0 +1,15 @@
+{
+  "compliance_uri": "CIS-AWS/0007", 
+  "compliance_control_number": "700000008", 
+  "compliance_control_uri": "CIS-AWS/0007/700000008", 
+  "Control Name": "1.8 Ensure IAM password policy requires minimum length of 14 or greater", 
+  "Control Family": "Identity and Access Management", 
+  "Control Statement": "Password policies are, in part, used to enforce password complexity requirements. IAM password policies can be used to ensure password are comprised of different character sets. It is recommended that the password policy require a minimum password length 14", 
+  "control_attributes": {
+    "Control": "1.8 Ensure IAM password policy requires minimum length of 14 or greater", 
+    "Category": "Identity and Access Management", 
+    "Control_description": "Password policies are, in part, used to enforce password complexity requirements. IAM password policies can be used to ensure password are comprised of different character sets. It is recommended that the password policy require a minimum password length 14"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

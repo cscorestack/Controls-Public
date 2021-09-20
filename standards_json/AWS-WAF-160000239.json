@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000239",
+  "compliance_control_uri": "AWS-WAF/0016/160000239",
+  "Control Name": "PERF 7.6 Monitor and alarm proactively",
+  "Control Family": "Performance Efficiency",
+  "Control Statement": "Use key performance indicators (KPIs), combined with monitoring and alerting systems, to proactively address performance-related issues. Use alarms to trigger automated actions to remediate issues where possible. Escalate the alarm to those able to respond if automated response is not possible. For example, you may have a system that can predict expected key performance indicators (KPI) values and alarm when they breach certain thresholds, or a tool that can automatically halt or roll back deployments if KPIs are outside of expected values.",
+  "control_attributes": {
+    "Control": "PERF 7.6 Monitor and alarm proactively",
+    "Category": "Performance Efficiency",
+    "Subcategory": "How do you monitor your resources to ensure they are performing?",
+    "question_id": "monitor-instances-post-launch",
+    "choice_id": "perf_monitor_instances_post_launch_proactive"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

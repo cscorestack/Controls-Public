@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000128",
+  "compliance_control_uri": "AWS-WAF/0016/160000128",
+  "Control Name": "SEC 9.1 Implement secure key and certiﬁcate management",
+  "Control Family": "Security",
+  "Control Statement": "Store encryption keys and certiﬁcates securely and rotate them at appropriate time intervals while applying strict access control; for example, by using a certiﬁcate management service, such as AWS Certiﬁcate Manager (ACM).",
+  "control_attributes": {
+    "Control": "SEC 9.1 Implement secure key and certiﬁcate management",
+    "Category": "Security",
+    "Subcategory": "How do you protect your data in transit?",
+    "question_id": "protect-data-transit",
+    "choice_id": "sec_protect_data_transit_key_cert_mgmt"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

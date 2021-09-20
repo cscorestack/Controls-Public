@@ -1,0 +1,20 @@
+{
+  "compliance_uri": "Fedramp-Control-Moderate/0010", 
+  "compliance_control_number": "1000000154", 
+  "compliance_control_uri": "Fedramp-Control-Moderate/0010/1000000154", 
+  "Control Name": "CRYPTOGRAPHIC MODULE AUTHENTICATION", 
+  "Control Family": "IDENTIFICATION AND AUTHENTICATION", 
+  "Control Statement": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.Supplemental Guidance:  Authentication mechanisms may be required within a cryptographic module to authenticate an operator accessing the module and to verify that the operator is authorized to assume the requested role and perform services within that role. Related controls: SC-12, SC-13.Control Enhancements:  None.References:  FIPS Publication 140; Web: csrc.nist.gov/groups/STM/cmvp/index.html.", 
+  "control_attributes": {
+    "Category": "IDENTIFICATION AND AUTHENTICATION", 
+    "description": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.Supplemental Guidance:  Authentication mechanisms may be required within a cryptographic module to authenticate an operator accessing the module and to verify that the operator is authorized to assume the requested role and perform services within that role. Related controls: SC-12, SC-13.Control Enhancements:  None.References:  FIPS Publication 140; Web: csrc.nist.gov/groups/STM/cmvp/index.html.", 
+    "SelectionParam": "", 
+    "FedRampParam": "", 
+    "SORTID": "IA-07", 
+    "CNTL NO": "IA-7", 
+    "AdditionalReq": "", 
+    "Control Name": "CRYPTOGRAPHIC MODULE AUTHENTICATION"
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

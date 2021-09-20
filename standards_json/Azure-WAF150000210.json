@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000210", 
+  "compliance_control_uri": "Azure-WAF/0015/150000210", 
+  "Control Name": "2.17.10 There is awareness around how the application has been built and is being maintained (in house or via an external partner).", 
+  "Control Family": "2. Operational Excellence", 
+  "Control Statement": "Exploring where technical delivery capabilities reside helps to qualify operational model boundaries and estimate the cost of operating the application as well as defining a budget and cost model.", 
+  "control_attributes": {
+    "Category": "2. Operational Excellence", 
+    "Control_Clause": "2.17 What operational excellence allowances for cost have you made?", 
+    "Control": "2.17.10 There is awareness around how the application has been built and is being maintained (in house or via an external partner).", 
+    "Description": "Exploring where technical delivery capabilities reside helps to qualify operational model boundaries and estimate the cost of operating the application as well as defining a budget and cost model."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

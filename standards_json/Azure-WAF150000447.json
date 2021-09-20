@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000447", 
+  "compliance_control_uri": "Azure-WAF/0015/150000447", 
+  "Control Name": "5.7.3 Simulated attacks on users of this workload, such as phishing campaigns, are carried out regularly.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "People are a critical part of your defense, especially those with elevated permissions, so ensuring they have the knowledge and skills to avoid and resist attacks will reduce your overall organizational risk. Simulating attacks for educational purposes helps to enforce understanding of the various means that an attacker may use to compromise accounts. Tools such as Office 365 Attack Simulation or similar may be used.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.7 How is security validated and how do you handle incident response when breach happens?", 
+    "Control": "5.7.3 Simulated attacks on users of this workload, such as phishing campaigns, are carried out regularly.", 
+    "Description": "People are a critical part of your defense, especially those with elevated permissions, so ensuring they have the knowledge and skills to avoid and resist attacks will reduce your overall organizational risk. Simulating attacks for educational purposes helps to enforce understanding of the various means that an attacker may use to compromise accounts. Tools such as Office 365 Attack Simulation or similar may be used."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

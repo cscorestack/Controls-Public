@@ -1,0 +1,16 @@
+{
+  "compliance_uri": "Azure-WAF/0015", 
+  "compliance_control_number": "150000492", 
+  "compliance_control_uri": "Azure-WAF/0015/150000492", 
+  "Control Name": "5.12.9 Permissions to Azure workloads are rarely based on individual resources and custom permissions are rarely used.", 
+  "Control Family": "5. Security", 
+  "Control Statement": "Custom resource-based permissions are often not needed and can result in increased complexity and confusion as they do not carry the intention to new similar resources. This then accumulates into a complex legacy configuration that is difficult to maintain or change without fear of \"breaking something\" - negatively impacting both security and solution agility. Higher level permissions sets - based on resource groups or management groups - are usually more efficient.", 
+  "control_attributes": {
+    "Category": "5. Security", 
+    "Control_Clause": "5.12 What security controls do you have in place for access to Azure infrastructure?", 
+    "Control": "5.12.9 Permissions to Azure workloads are rarely based on individual resources and custom permissions are rarely used.", 
+    "Description": "Custom resource-based permissions are often not needed and can result in increased complexity and confusion as they do not carry the intention to new similar resources. This then accumulates into a complex legacy configuration that is difficult to maintain or change without fear of \"breaking something\" - negatively impacting both security and solution agility. Higher level permissions sets - based on resource groups or management groups - are usually more efficient."
+  }, 
+  "is_deleted": false, 
+  "system_default": true
+}

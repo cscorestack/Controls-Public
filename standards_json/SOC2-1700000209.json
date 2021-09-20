@@ -1,0 +1,19 @@
+{
+  "compliance_uri": "SOC2/0017",
+  "compliance_control_number": "1700000209",
+  "compliance_control_uri": "SOC2/0017/1700000209",
+  "Control Name": "Assesses Compliance with Privacy Commitments of Vendors and Business Partners— On a periodic and as-needed basis, the entity assesses compliance by vendors and business partners with the entity’s privacy commitments and requirements and takes corrective action as necessary.",
+  "Control Family": "Risk Mitigation",
+  "Control Statement": "",
+  "control_attributes": {
+    "Control": "Assesses Compliance with Privacy Commitments of Vendors and Business Partners— On a periodic and as-needed basis, the entity assesses compliance by vendors and business partners with the entity’s privacy commitments and requirements and takes corrective action as necessary.",
+    "Category": "Risk Mitigation",
+    "Control_Clause": "",
+    "TrustServicesPrinciple": "Security",
+    "SubCategory": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "ControlNo": "CC9.2.12",
+    "TrustID": "CC9.2"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

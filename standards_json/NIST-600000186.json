@@ -1,0 +1,18 @@
+{
+  "Control Family": "ACCESS CONTROL", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000186", 
+  "control_attributes": {
+    "Control": "AC-12 (1) USER-INITIATED LOGOUTS / MESSAGE DISPLAYS", 
+    "control_description": "The information system: (a) Provides a logout capability for user-initiated communications sessions whenever authentication is used to gain access to [Assignment: organization-defined information resources]; and(b) Displays an explicit logout message to users indicating the reliable termination of authenticated communications sessions.", 
+    "Family": "ACCESS CONTROL", 
+    "Priority": "", 
+    "Baseline_Impact": "MODERATE,HIGH", 
+    "Control_description": "The information system monitors and controls remote access methods."
+  }, 
+  "Control Statement": "The information system: (a) Provides a logout capability for user-initiated communications sessions whenever authentication is used to gain access to [Assignment: organization-defined information resources]; and(b) Displays an explicit logout message to users indicating the reliable termination of authenticated communications sessions.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "AC-12 (1) USER-INITIATED LOGOUTS / MESSAGE DISPLAYS", 
+  "compliance_control_number": "600000186"
+}

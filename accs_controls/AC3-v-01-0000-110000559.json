@@ -1,0 +1,46 @@
+{
+  "compliance_uri": "AC3-v-01/0000",
+  "compliance_control_number": "110000559",
+  "compliance_control_uri": "AC3-v-01/0000/110000559",
+  "Control Name": "SA-11 DEVELOPER SECURITY TESTING AND EVALUATION",
+  "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+  "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:",
+  "control_attributes": {
+    "Control Name": "SA-11 DEVELOPER SECURITY TESTING AND EVALUATION",
+    "Control Family": "SYSTEM AND SERVICES ACQUISITION",
+    "Control Statement": "The organization requires the developer of the information system, system component, or information system service to:"
+  },
+  "control_action_attributes": {
+    "nature": "Manual",
+    "category": "",
+    "action_method": "Document",
+    "purpose": "Preventive",
+    "level": "Organization",
+    "Control Baseline": "Basic",
+    "classification": "Process"
+  },
+  "service_resource_mapping": [],
+  "control_control_mapping": {
+    "compliance_control_mapped_uri": [
+      "NIST-SP800-53/0006/600000595",
+      "ISO-27001/0011/1100000088",
+      "ISO-27001/0011/1100000087",
+      "PCI-DSS/0012/1200000084",
+      "Fedramp-Control-Moderate/0010/1000000259",
+      "Fedramp-Control-High/0009/900000335",
+      "ISO/0001/100000062",
+      "ISO/0001/100000063",
+      "Azure-WAF/0015/150000451"
+    ],
+    "system_default": true,
+    "is_deleted": false
+  },
+  "control_policy_mapping": {
+    "is_deleted": false,
+    "is_parameterized": false,
+    "policy": []
+  },
+  "system_default": true,
+  "is_deleted": false,
+  "mode": "New"
+}

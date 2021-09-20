@@ -1,0 +1,17 @@
+{
+  "compliance_uri": "AWS-WAF/0016",
+  "compliance_control_number": "160000037",
+  "compliance_control_uri": "AWS-WAF/0016/160000037",
+  "Control Name": "OPS 5.10 Fully automate integration and deployment",
+  "Control Family": "Operational Excellence",
+  "Control Statement": "Automate build, deployment, and testing of the workload. This reduces errors caused by manual processes and reduces the eﬀort to deploy changes.",
+  "control_attributes": {
+    "Control": "OPS 5.10 Fully automate integration and deployment",
+    "Category": "Operational Excellence",
+    "Subcategory": "How do you reduce defects, ease remediation, and improve ﬂow into production?",
+    "question_id": "dev-integ",
+    "choice_id": "ops_dev_integ_auto_integ_deploy"
+  },
+  "is_deleted": false,
+  "system_default": true
+}

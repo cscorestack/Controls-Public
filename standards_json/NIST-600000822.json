@@ -1,0 +1,18 @@
+{
+  "Control Family": "PROGRAM MANAGEMENT", 
+  "is_deleted": false, 
+  "compliance_control_uri": "NIST-SP800-53/0006/600000822", 
+  "control_attributes": {
+    "Control": "PM-12 INSIDER THREAT PROGRAM", 
+    "control_description": "The organization implements an insider threat program that includes a cross-discipline insider threat incident handling team.", 
+    "Family": "PROGRAM MANAGEMENT", 
+    "Priority": "", 
+    "Baseline_Impact": "", 
+    "Control_description": "The organization:"
+  }, 
+  "Control Statement": "The organization implements an insider threat program that includes a cross-discipline insider threat incident handling team.", 
+  "system_default": true, 
+  "compliance_uri": "NIST-SP800-53/0006", 
+  "Control Name": "PM-12 INSIDER THREAT PROGRAM", 
+  "compliance_control_number": "600000822"
+}
